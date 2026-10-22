@@ -1,0 +1,349 @@
+{
+ "tour": "rome-vatican-museums",
+ "title": "Los Museos Vaticanos",
+ "stops": [
+  {
+   "n": 1,
+   "name": "Introducción",
+   "file": "01 - Introducción.mp3",
+   "es_min": 2.0,
+   "en_min": 2.9,
+   "dur_ratio": 0.71,
+   "word_ratio": 0.75,
+   "audio_match": 0.959,
+   "ppm": 157,
+   "tts_attempts": 1,
+   "missing_numbers": [],
+   "diffs": [
+    "introduccion -> entroduccion",
+    "vaticanos -> baticanos",
+    "audioguia -> audiovia",
+    "vaticanos -> baticanos",
+    "sixtina -> sistina",
+    "sixtina -> sistina",
+    "sixtina -> sistina",
+    "audioguia -> audiovia",
+    "audioguia -> audiovia",
+    "sixtina -> sistina",
+    "audioguia -> audiovia",
+    "sixtina -> sistina",
+    "vaticanos -> baticanos"
+   ]
+  },
+  {
+   "n": 2,
+   "name": "El Patio de la Piña",
+   "file": "02 - El Patio de la Piña.mp3",
+   "es_min": 2.4,
+   "en_min": 2.8,
+   "dur_ratio": 0.85,
+   "word_ratio": 1.04,
+   "audio_match": 0.983,
+   "ppm": 153,
+   "tts_attempts": 1,
+   "missing_numbers": [],
+   "diffs": [
+    "cortile della pigna -> cortil de yapigna",
+    "parense -> pareense",
+    "las -> la",
+    "simboliza -> symboliza"
+   ]
+  },
+  {
+   "n": 3,
+   "name": "Hacia el Patio Octogonal",
+   "file": "03 - Hacia el Patio Octogonal.mp3",
+   "es_min": 2.1,
+   "en_min": 2.3,
+   "dur_ratio": 0.92,
+   "word_ratio": 0.97,
+   "audio_match": 0.971,
+   "ppm": 155,
+   "tts_attempts": 1,
+   "missing_numbers": [],
+   "diffs": [
+    "2000 -> dos mil",
+    "sixtina -> sistina",
+    "sixtina -> sistina",
+    "todo -> no",
+    "que dan -> quedan",
+    "sixtina -> sistina",
+    "empiecen -> estan",
+    "enfrente -> en frente"
+   ]
+  },
+  {
+   "n": 4,
+   "name": "El Apolo de Belvedere",
+   "file": "04 - El Apolo de Belvedere.mp3",
+   "es_min": 3.8,
+   "en_min": 4.1,
+   "dur_ratio": 0.94,
+   "word_ratio": 1.04,
+   "audio_match": 0.989,
+   "ppm": 153,
+   "tts_attempts": 1,
+   "missing_numbers": [],
+   "diffs": [
+    "devotos -> de votos",
+    "sixtina -> sistina",
+    "sixtina uso -> sistina",
+    "epitafio -> epitacio",
+    "enfrente -> en frente"
+   ]
+  },
+  {
+   "n": 5,
+   "name": "El Laocoonte",
+   "file": "05 - El Laocoonte.mp3",
+   "es_min": 4.0,
+   "en_min": 4.2,
+   "dur_ratio": 0.95,
+   "word_ratio": 1.07,
+   "audio_match": 0.983,
+   "ppm": 155,
+   "tts_attempts": 1,
+   "missing_numbers": [],
+   "diffs": [
+    "vena hinchada -> ven enchada",
+    "el -> en",
+    "helenismo -> el enismo",
+    "el -> en",
+    "el -> en",
+    "veinte -> xx",
+    "sixtina -> sistina",
+    "sarcofagos -> arcofagos",
+    "antiguedades -> antiguidades"
+   ]
+  },
+  {
+   "n": 6,
+   "name": "El Torso del Belvedere",
+   "file": "06 - El Torso del Belvedere.mp3",
+   "es_min": 2.2,
+   "en_min": 2.5,
+   "dur_ratio": 0.89,
+   "word_ratio": 1.08,
+   "audio_match": 0.987,
+   "ppm": 158,
+   "tts_attempts": 1,
+   "missing_numbers": [],
+   "diffs": [
+    "primero antes de cristo -> i a c",
+    "sixtina -> sistina"
+   ]
+  },
+  {
+   "n": 7,
+   "name": "La Sala Redonda",
+   "file": "07 - La Sala Redonda.mp3",
+   "es_min": 2.4,
+   "en_min": 2.4,
+   "dur_ratio": 0.99,
+   "word_ratio": 1.08,
+   "audio_match": 0.984,
+   "ppm": 157,
+   "tts_attempts": 1,
+   "missing_numbers": [],
+   "diffs": [
+    "despacio -> de espacio",
+    "1700 -> 1 700",
+    "dieciocho -> xviii",
+    "lo -> los",
+    "extrajeron -> extranjeron"
+   ]
+  },
+  {
+   "n": 8,
+   "name": "Los sarcófagos de pórfido",
+   "file": "08 - Los sarcófagos de pórfido.mp3",
+   "es_min": 3.7,
+   "en_min": 4.0,
+   "dur_ratio": 0.94,
+   "word_ratio": 1.04,
+   "audio_match": 0.99,
+   "ppm": 148,
+   "tts_attempts": 1,
+   "missing_numbers": [],
+   "diffs": [
+    "cuarto -> iv",
+    "bacanal -> vacanal",
+    "egizio -> egicio",
+    "dieciseis -> xvi",
+    "unir los -> unirlos"
+   ]
+  },
+  {
+   "n": 9,
+   "name": "La Galería de los Candelabros",
+   "file": "09 - La Galería de los Candelabros.mp3",
+   "es_min": 2.5,
+   "en_min": 2.8,
+   "dur_ratio": 0.89,
+   "word_ratio": 0.91,
+   "audio_match": 0.988,
+   "ppm": 147,
+   "tts_attempts": 1,
+   "missing_numbers": [],
+   "diffs": [
+    "mostrarla como dadora -> mostrar la acomodadora",
+    "adan -> a dan"
+   ]
+  },
+  {
+   "n": 10,
+   "name": "La Galería de los Tapices",
+   "file": "10 - La Galería de los Tapices.mp3",
+   "es_min": 2.6,
+   "en_min": 2.9,
+   "dur_ratio": 0.9,
+   "word_ratio": 1.01,
+   "audio_match": 0.982,
+   "ppm": 148,
+   "tts_attempts": 1,
+   "missing_numbers": [],
+   "diffs": [
+    "rey herodes manda -> reyero desmanda",
+    "los -> lo",
+    "emaus -> maus",
+    "adonde -> a donde",
+    "camafeos -> camaceos"
+   ]
+  },
+  {
+   "n": 11,
+   "name": "La Galería de los Mapas",
+   "file": "11 - La Galería de los Mapas.mp3",
+   "es_min": 5.2,
+   "en_min": 5.1,
+   "dur_ratio": 1.03,
+   "word_ratio": 1.08,
+   "audio_match": 0.981,
+   "ppm": 160,
+   "tts_attempts": 1,
+   "missing_numbers": [],
+   "diffs": [
+    "dieciseis -> xvi",
+    "diecinueve -> xix",
+    "ex papa -> expapa",
+    "dieciseis -> xvi",
+    "o yeso -> hoyeso",
+    "aladas -> saladas",
+    "vaticanos -> baticanos",
+    "vaticano -> baticano",
+    "dieciseis -> xvi",
+    " -> a",
+    "vaticanos -> baticanos",
+    "stanze -> estance",
+    "raffaello -> rafaello",
+    "sixtina -> sistina",
+    "cappella -> que pele"
+   ]
+  },
+  {
+   "n": 12,
+   "name": "Pinturas monumentales camino a las Salas de Rafael",
+   "file": "12 - Pinturas monumentales camino a las Salas de Rafael.mp3",
+   "es_min": 3.1,
+   "en_min": 3.3,
+   "dur_ratio": 0.96,
+   "word_ratio": 1.04,
+   "audio_match": 0.991,
+   "ppm": 156,
+   "tts_attempts": 1,
+   "missing_numbers": [],
+   "diffs": [
+    "4000 -> 4 000",
+    "segundo -> ii",
+    "sixtina -> sistina",
+    "sanzio -> sancio"
+   ]
+  },
+  {
+   "n": 13,
+   "name": "La Sala de Constantino",
+   "file": "13 - La Sala de Constantino.mp3",
+   "es_min": 3.0,
+   "en_min": 2.9,
+   "dur_ratio": 1.03,
+   "word_ratio": 1.02,
+   "audio_match": 0.988,
+   "ppm": 151,
+   "tts_attempts": 1,
+   "missing_numbers": [],
+   "diffs": [
+    "parada 13 -> para la trece",
+    "arrolladora -> rolladora",
+    "salvadorus dalio -> salvador ushdallio"
+   ]
+  },
+  {
+   "n": 14,
+   "name": "La Sala de Heliodoro",
+   "file": "14 - La Sala de Heliodoro.mp3",
+   "es_min": 3.3,
+   "en_min": 3.8,
+   "dur_ratio": 0.87,
+   "word_ratio": 1.07,
+   "audio_match": 0.984,
+   "ppm": 158,
+   "tts_attempts": 1,
+   "missing_numbers": [],
+   "diffs": [
+    "heliodoro -> eliodoro",
+    "gris arrodillado -> grisa rodillado",
+    "indiscutida -> en discutida",
+    "audioguia -> audiobia",
+    "sixtina -> sistina",
+    "audioguia -> audiobia",
+    "sixtina -> sistina"
+   ]
+  },
+  {
+   "n": 15,
+   "name": "La Sala de la Signatura: La escuela de Atenas",
+   "file": "15 - La Sala de la Signatura La escuela de Atenas.mp3",
+   "es_min": 4.6,
+   "en_min": 4.7,
+   "dur_ratio": 0.98,
+   "word_ratio": 1.01,
+   "audio_match": 0.989,
+   "ppm": 158,
+   "tts_attempts": 1,
+   "missing_numbers": [],
+   "diffs": [
+    "majencio -> magencio",
+    "a si mismo -> asimismo",
+    "una regla -> unas reglas",
+    "aureola -> oreola",
+    "sixtina -> sistina",
+    "es -> ese"
+   ]
+  },
+  {
+   "n": 16,
+   "name": "La disputa del Sacramento",
+   "file": "16 - La disputa del Sacramento.mp3",
+   "es_min": 2.9,
+   "en_min": 3.7,
+   "dur_ratio": 0.77,
+   "word_ratio": 0.8,
+   "audio_match": 0.976,
+   "ppm": 156,
+   "tts_attempts": 1,
+   "missing_numbers": [],
+   "diffs": [
+    "aureola -> ureola",
+    "a -> ",
+    "reinan -> reina en",
+    "vaticanos -> baticanos",
+    "sixtina -> sistina",
+    "sixtina -> sistina",
+    "sixtina -> sistina",
+    "cappella -> que pele",
+    "openshaw -> opensab",
+    "grazie -> gracias"
+   ]
+  }
+ ]
+}

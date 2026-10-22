@@ -1,0 +1,259 @@
+{
+ "tour": "florence-bargello",
+ "title": "El Museo del Bargello",
+ "stops": [
+  {
+   "n": 1,
+   "name": "Introducción",
+   "file": "01 - Introducción.mp3",
+   "es_min": 1.4,
+   "en_min": 2.2,
+   "dur_ratio": 0.64,
+   "word_ratio": 0.68,
+   "audio_match": 0.988,
+   "missing_numbers": [],
+   "diffs": [
+    "audioguia -> audiovia",
+    "benvenuti bienvenidos -> bienvenido"
+   ]
+  },
+  {
+   "n": 2,
+   "name": "El patio",
+   "file": "02 - El patio.mp3",
+   "es_min": 2.8,
+   "en_min": 2.8,
+   "dur_ratio": 1.01,
+   "word_ratio": 1.09,
+   "audio_match": 0.99,
+   "missing_numbers": [],
+   "diffs": [
+    "trece -> xiii",
+    "vecchio -> vexio",
+    "3 -> tres",
+    "lascas -> las cascas"
+   ]
+  },
+  {
+   "n": 3,
+   "name": "El Baco de Miguel Ángel",
+   "file": "03 - El Baco de Miguel Ángel.mp3",
+   "es_min": 3.7,
+   "en_min": 3.8,
+   "dur_ratio": 0.99,
+   "word_ratio": 1.02,
+   "audio_match": 0.978,
+   "missing_numbers": [],
+   "diffs": [
+    "contrapposto -> contraposto",
+    " -> a",
+    "esta -> estar",
+    "esta -> estar",
+    "scimmia -> simmia",
+    "a cuestas -> acuestas",
+    "sbronza -> esbronza",
+    "savonarola savonarola -> sabonarola sabonarola",
+    "savonarola -> sabonarola",
+    "savonarola -> sabonarola",
+    "savonarola -> sabonarola"
+   ]
+  },
+  {
+   "n": 4,
+   "name": "El Tondo Pitti de Miguel Ángel",
+   "file": "04 - El Tondo Pitti de Miguel Ángel.mp3",
+   "es_min": 4.0,
+   "en_min": 3.7,
+   "dur_ratio": 1.07,
+   "word_ratio": 1.13,
+   "audio_match": 0.987,
+   "missing_numbers": [],
+   "diffs": [
+    "intentando -> intentandole",
+    "adinerada -> dinerada",
+    "baco savonarola -> vaco sabonarola",
+    "dieciseis -> xvi",
+    "envueltos -> envuelto",
+    " -> a",
+    "camafeo -> camaceo",
+    "rayado -> rallado"
+   ]
+  },
+  {
+   "n": 5,
+   "name": "El busto de Bruto de Miguel Ángel",
+   "file": "05 - El busto de Bruto de Miguel Ángel.mp3",
+   "es_min": 2.2,
+   "en_min": 2.3,
+   "dur_ratio": 0.97,
+   "word_ratio": 1.11,
+   "audio_match": 1.0,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 6,
+   "name": "El David, o Apolo, de Miguel Ángel",
+   "file": "06 - El David, o Apolo, de Miguel Ángel.mp3",
+   "es_min": 2.0,
+   "en_min": 1.9,
+   "dur_ratio": 1.04,
+   "word_ratio": 1.11,
+   "audio_match": 0.98,
+   "missing_numbers": [],
+   "diffs": [
+    "honda -> onda",
+    "davides -> david s",
+    "daniele da volterra -> daniel edavol terra",
+    "sixtina -> sistina"
+   ]
+  },
+  {
+   "n": 7,
+   "name": "Estatuas de Cellini y Giambologna",
+   "file": "07 - Estatuas de Cellini y Giambologna.mp3",
+   "es_min": 3.1,
+   "en_min": 3.0,
+   "dur_ratio": 1.03,
+   "word_ratio": 1.11,
+   "audio_match": 0.974,
+   "missing_numbers": [],
+   "diffs": [
+    "cellini -> ceghini",
+    "cellini -> ceghini",
+    "cellini -> ceghini",
+    "vecchio -> beccio",
+    "cellini -> ceghini",
+    "cellini -> ceghini",
+    "ajetreo -> agetreo",
+    "inclina -> incrina",
+    "retrocedan -> retroceden",
+    "cien -> 100",
+    "davides -> david s",
+    "davides -> david s"
+   ]
+  },
+  {
+   "n": 8,
+   "name": "Un primer David de Donatello",
+   "file": "08 - Un primer David de Donatello.mp3",
+   "es_min": 2.0,
+   "en_min": 1.9,
+   "dur_ratio": 1.06,
+   "word_ratio": 1.08,
+   "audio_match": 0.987,
+   "missing_numbers": [],
+   "diffs": [
+    "goliat -> goliath",
+    "goliat -> goliath",
+    "goliat -> goliath",
+    "contrapposto -> contraposto"
+   ]
+  },
+  {
+   "n": 9,
+   "name": "El David de Andrea del Verrocchio",
+   "file": "09 - El David de Andrea del Verrocchio.mp3",
+   "es_min": 1.2,
+   "en_min": 1.4,
+   "dur_ratio": 0.89,
+   "word_ratio": 1.09,
+   "audio_match": 0.951,
+   "missing_numbers": [],
+   "diffs": [
+    "parada -> para la",
+    "verrocchio -> berroxo",
+    "bronce -> bronze",
+    "verrocchio -> berroxo",
+    "contrapposto -> contraposto",
+    "verrocchio -> berroxo",
+    "verrocchio -> berroxo",
+    "goliat -> goliath",
+    "goliat -> goliath"
+   ]
+  },
+  {
+   "n": 10,
+   "name": "El David de Donatello",
+   "file": "10 - El David de Donatello.mp3",
+   "es_min": 2.7,
+   "en_min": 2.6,
+   "dur_ratio": 1.03,
+   "word_ratio": 1.11,
+   "audio_match": 0.98,
+   "missing_numbers": [],
+   "diffs": [
+    "goliat -> goliad",
+    "1440 -> 1 440",
+    "contrapposto -> contraposto",
+    "vientre -> bien tres",
+    "a la -> al ha",
+    "de -> ",
+    "goliat -> goliath"
+   ]
+  },
+  {
+   "n": 11,
+   "name": "Niccolò da Uzzano, de Donatello",
+   "file": "11 - Niccolò da Uzzano, de Donatello.mp3",
+   "es_min": 2.1,
+   "en_min": 2.1,
+   "dur_ratio": 1.0,
+   "word_ratio": 1.12,
+   "audio_match": 0.989,
+   "missing_numbers": [],
+   "diffs": [
+    "desiderio -> de siderio",
+    "settignano -> setignano",
+    "quince -> xv"
+   ]
+  },
+  {
+   "n": 12,
+   "name": "El San Jorge de Donatello",
+   "file": "12 - El San Jorge de Donatello.mp3",
+   "es_min": 2.7,
+   "en_min": 2.7,
+   "dur_ratio": 1.01,
+   "word_ratio": 1.1,
+   "audio_match": 0.993,
+   "missing_numbers": [],
+   "diffs": [
+    "david -> debit",
+    "ghiberti -> giverti",
+    "ghiberti -> giverti"
+   ]
+  },
+  {
+   "n": 13,
+   "name": "Los paneles del concurso de las puertas del Baptisterio",
+   "file": "13 - Los paneles del concurso de las puertas del Baptisterio.mp3",
+   "es_min": 4.7,
+   "en_min": 5.6,
+   "dur_ratio": 0.83,
+   "word_ratio": 0.88,
+   "audio_match": 0.972,
+   "missing_numbers": [],
+   "diffs": [
+    "parada -> para la",
+    "ghiberti -> giverti",
+    "ghiberti -> giverti",
+    "ghiberti -> giverti",
+    "cual es -> cuales",
+    "ghiberti -> giverti",
+    "1401 -> 1400 uno",
+    "fe -> c",
+    "uf -> off",
+    "ghiberti -> guiverti",
+    "ghiberti -> guiverti",
+    "ghiberti -> guiverti",
+    "ghiberti -> guiverti",
+    "ghiberti -> guiverti",
+    "ghiberti -> guiverti",
+    "ghiberti -> guiverti",
+    "baco a -> bacoa",
+    "openshaw -> opensab"
+   ]
+  }
+ ]
+}

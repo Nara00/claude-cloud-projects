@@ -1,0 +1,7 @@
+#!/bin/bash
+cd /tmp/claude-0/-home-user-claude-cloud-projects/fe2a2dea-07e6-5a6d-b5f6-0accbd6a6eda/scratchpad/originales
+R=$(for t in $(sed 's/.mp3//' /tmp/claude-0/-home-user-claude-cloud-projects/fe2a2dea-07e6-5a6d-b5f6-0accbd6a6eda/scratchpad/orden.txt); do [ -f /tmp/claude-0/-home-user-claude-cloud-projects/fe2a2dea-07e6-5a6d-b5f6-0accbd6a6eda/scratchpad/transcripciones/$t.txt ] || echo $t.mp3; done)
+Q1=$(echo "$R" | awk 'NR%2==1'); Q2=$(echo "$R" | awk 'NR%2==0')
+echo "cola1: "$Q1; echo "cola2: "$Q2
+HF_HUB_DISABLE_XET=1 setsid nohup /tmp/claude-0/-home-user-claude-cloud-projects/fe2a2dea-07e6-5a6d-b5f6-0accbd6a6eda/scratchpad/venv/bin/python -I /tmp/claude-0/-home-user-claude-cloud-projects/fe2a2dea-07e6-5a6d-b5f6-0accbd6a6eda/scratchpad/scripts/transcribir.py /tmp/claude-0/-home-user-claude-cloud-projects/fe2a2dea-07e6-5a6d-b5f6-0accbd6a6eda/scratchpad/transcripciones $Q1 >> /tmp/claude-0/-home-user-claude-cloud-projects/fe2a2dea-07e6-5a6d-b5f6-0accbd6a6eda/scratchpad/log1.txt 2>&1 < /dev/null &
+HF_HUB_DISABLE_XET=1 setsid nohup /tmp/claude-0/-home-user-claude-cloud-projects/fe2a2dea-07e6-5a6d-b5f6-0accbd6a6eda/scratchpad/venv/bin/python -I /tmp/claude-0/-home-user-claude-cloud-projects/fe2a2dea-07e6-5a6d-b5f6-0accbd6a6eda/scratchpad/scripts/transcribir.py /tmp/claude-0/-home-user-claude-cloud-projects/fe2a2dea-07e6-5a6d-b5f6-0accbd6a6eda/scratchpad/transcripciones $Q2 >> /tmp/claude-0/-home-user-claude-cloud-projects/fe2a2dea-07e6-5a6d-b5f6-0accbd6a6eda/scratchpad/log2.txt 2>&1 < /dev/null &

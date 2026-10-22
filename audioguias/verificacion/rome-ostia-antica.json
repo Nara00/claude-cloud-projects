@@ -1,0 +1,309 @@
+{
+ "tour": "rome-ostia-antica",
+ "title": "Ostia Antica",
+ "stops": [
+  {
+   "n": 1,
+   "name": "Introducción",
+   "file": "01 - Introducción.mp3",
+   "es_min": 1.3,
+   "en_min": 1.9,
+   "dur_ratio": 0.7,
+   "word_ratio": 0.69,
+   "audio_match": 0.969,
+   "missing_numbers": [],
+   "diffs": [
+    "turistas y -> turistase",
+    "hola -> ol",
+    "audioguia -> audiovia",
+    "60000 -> 60 000",
+    "mar que -> marke"
+   ]
+  },
+  {
+   "n": 2,
+   "name": "La entrada a Ostia",
+   "file": "02 - La entrada a Ostia.mp3",
+   "es_min": 3.2,
+   "en_min": 3.4,
+   "dur_ratio": 0.95,
+   "word_ratio": 1.14,
+   "audio_match": 0.954,
+   "missing_numbers": [],
+   "diffs": [
+    "a ostia -> hostia",
+    "ostia -> hostia",
+    "ostia -> hostia",
+    "ostia -> hostia",
+    "latin ostium -> la tin mostium",
+    "ostia -> hostia",
+    "ostia -> hostia",
+    "cuarto -> iv",
+    "ostia -> hostia",
+    "salinas -> alinas",
+    "ostia -> hostia",
+    "antes de cristo -> a c",
+    "ostia -> hostia",
+    "ostia -> hostia",
+    "ostia -> hostia",
+    "ostia -> hostia",
+    "sepulto -> se pulto",
+    "ostia -> hostia",
+    "decumano -> de cumano",
+    "audioguia -> audiovia"
+   ]
+  },
+  {
+   "n": 3,
+   "name": "La necrópolis",
+   "file": "03 - La necrópolis.mp3",
+   "es_min": 1.5,
+   "en_min": 1.3,
+   "dur_ratio": 1.13,
+   "word_ratio": 1.13,
+   "audio_match": 0.953,
+   "missing_numbers": [],
+   "diffs": [
+    "ostia -> hostia",
+    "encontrar sepulcros -> encontrarse pulcros",
+    "primero despues de cristo -> i d c",
+    "siglos segundo -> seguros ii",
+    "tercero -> iii",
+    "ostia -> hostia"
+   ]
+  },
+  {
+   "n": 4,
+   "name": "La Porta Romana",
+   "file": "04 - La Porta Romana.mp3",
+   "es_min": 1.8,
+   "en_min": 1.8,
+   "dur_ratio": 1.01,
+   "word_ratio": 1.16,
+   "audio_match": 0.978,
+   "missing_numbers": [],
+   "diffs": [
+    "fritta -> frita",
+    "decumano -> de cumano",
+    "adonde -> a donde",
+    "pasen a la siguiente parada -> "
+   ]
+  },
+  {
+   "n": 5,
+   "name": "Los almacenes de la República",
+   "file": "05 - Los almacenes de la República.mp3",
+   "es_min": 1.3,
+   "en_min": 2.9,
+   "dur_ratio": 0.44,
+   "word_ratio": 1.07,
+   "audio_match": 0.972,
+   "missing_numbers": [],
+   "diffs": [
+    "primero antes de cristo ostia -> i a c hostia",
+    "ostia -> hostia"
+   ]
+  },
+  {
+   "n": 6,
+   "name": "El pozo medieval",
+   "file": "06 - El pozo medieval.mp3",
+   "es_min": 0.7,
+   "en_min": 0.5,
+   "dur_ratio": 1.39,
+   "word_ratio": 1.24,
+   "audio_match": 0.991,
+   "missing_numbers": [],
+   "diffs": [
+    "neptuno -> mebtuno"
+   ]
+  },
+  {
+   "n": 7,
+   "name": "Las Termas de Neptuno",
+   "file": "07 - Las Termas de Neptuno.mp3",
+   "es_min": 1.2,
+   "en_min": 2.6,
+   "dur_ratio": 0.46,
+   "word_ratio": 1.07,
+   "audio_match": 0.975,
+   "missing_numbers": [],
+   "diffs": [
+    "parada -> para la",
+    "cuadrada -> quadrada",
+    "haber -> ver",
+    "pinoneros -> pioneros"
+   ]
+  },
+  {
+   "n": 8,
+   "name": "El teatro",
+   "file": "08 - El teatro.mp3",
+   "es_min": 1.9,
+   "en_min": 1.8,
+   "dur_ratio": 1.08,
+   "word_ratio": 1.12,
+   "audio_match": 0.982,
+   "missing_numbers": [],
+   "diffs": [
+    "2000 -> dos mil",
+    "aqui -> ",
+    "4000 -> 4 000",
+    "de -> del",
+    "pueden -> con"
+   ]
+  },
+  {
+   "n": 9,
+   "name": "La Plaza de las Corporaciones",
+   "file": "09 - La Plaza de las Corporaciones.mp3",
+   "es_min": 4.4,
+   "en_min": 4.5,
+   "dur_ratio": 0.98,
+   "word_ratio": 1.11,
+   "audio_match": 0.971,
+   "missing_numbers": [],
+   "diffs": [
+    "parada -> para la",
+    "naviera -> navillera",
+    "segundo -> ii",
+    "ostia -> hostia",
+    "ostia -> hostia",
+    "ostia -> hostia",
+    "decumano -> de cumano",
+    "decumano -> de cumano",
+    "dei molini -> de imolini",
+    "decumano -> de cumano",
+    "dei molini -> de imolini",
+    "repubblicano -> republicano",
+    "dei molini -> de imolini",
+    "dei molini -> de imolini",
+    "di diana -> didiana"
+   ]
+  },
+  {
+   "n": 10,
+   "name": "El molino",
+   "file": "10 - El molino.mp3",
+   "es_min": 0.9,
+   "en_min": 1.1,
+   "dur_ratio": 0.83,
+   "word_ratio": 1.1,
+   "audio_match": 0.958,
+   "missing_numbers": [],
+   "diffs": [
+    "despues de cristo -> d c",
+    "dei molini -> de himolini",
+    "di diana -> didiana"
+   ]
+  },
+  {
+   "n": 11,
+   "name": "La Via di Diana y el termopolio",
+   "file": "11 - La Via di Diana y el termopolio.mp3",
+   "es_min": 1.1,
+   "en_min": 1.6,
+   "dur_ratio": 0.73,
+   "word_ratio": 0.78,
+   "audio_match": 0.989,
+   "missing_numbers": [],
+   "diffs": [
+    "di diana -> didiana",
+    "y -> "
+   ]
+  },
+  {
+   "n": 12,
+   "name": "La Insula de las Pinturas",
+   "file": "12 - La Insula de las Pinturas.mp3",
+   "es_min": 2.6,
+   "en_min": 2.5,
+   "dur_ratio": 1.05,
+   "word_ratio": 1.08,
+   "audio_match": 0.983,
+   "missing_numbers": [],
+   "diffs": [
+    "tantos -> tanto",
+    "siguio -> sillo",
+    "ostium -> los tium",
+    "ostia -> hostia",
+    "di diana -> didiana",
+    "de -> del"
+   ]
+  },
+  {
+   "n": 13,
+   "name": "El Foro",
+   "file": "13 - El Foro.mp3",
+   "es_min": 2.9,
+   "en_min": 2.9,
+   "dur_ratio": 1.02,
+   "word_ratio": 1.09,
+   "audio_match": 0.967,
+   "missing_numbers": [],
+   "diffs": [
+    "parada -> para la",
+    "antes de cristo -> a c",
+    "o castrum -> ocastrum",
+    "despues de cristo -> d c",
+    "de ladrillo -> del adrillo",
+    "capitolino -> capitalino",
+    "de espaldas -> despaldas",
+    "100 -> cien",
+    "de espaldas -> despaldas",
+    "ostia -> hostia"
+   ]
+  },
+  {
+   "n": 14,
+   "name": "La letrina pública",
+   "file": "14 - La letrina pública.mp3",
+   "es_min": 1.3,
+   "en_min": 1.2,
+   "dur_ratio": 1.05,
+   "word_ratio": 1.05,
+   "audio_match": 0.974,
+   "missing_numbers": [],
+   "diffs": [
+    "estudien -> estudie en",
+    "privacy -> praibesi",
+    "erre -> r",
+    "en u -> enu"
+   ]
+  },
+  {
+   "n": 15,
+   "name": "Las Termas del Foro",
+   "file": "15 - Las Termas del Foro.mp3",
+   "es_min": 2.0,
+   "en_min": 2.0,
+   "dur_ratio": 0.96,
+   "word_ratio": 1.04,
+   "audio_match": 0.989,
+   "missing_numbers": [],
+   "diffs": [
+    "recorranlas mirando -> recorran",
+    " -> mirandolas",
+    "imaginarlo -> imaginar lo"
+   ]
+  },
+  {
+   "n": 16,
+   "name": "El Museo de Ostia",
+   "file": "16 - El Museo de Ostia.mp3",
+   "es_min": 2.3,
+   "en_min": 3.0,
+   "dur_ratio": 0.76,
+   "word_ratio": 0.79,
+   "audio_match": 0.986,
+   "missing_numbers": [],
+   "diffs": [
+    "segundo -> ii",
+    "tercero -> iii",
+    "destenidos -> destenos",
+    "ostium -> hostium",
+    "openshaw -> opensab"
+   ]
+  }
+ ]
+}

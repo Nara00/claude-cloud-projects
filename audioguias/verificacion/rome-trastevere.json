@@ -1,0 +1,265 @@
+{
+ "tour": "rome-trastevere",
+ "title": "Paseo por el Trastevere",
+ "stops": [
+  {
+   "n": 1,
+   "name": "Introducción",
+   "file": "01 - Introducción.mp3",
+   "es_min": 1.4,
+   "en_min": 2.1,
+   "dur_ratio": 0.7,
+   "word_ratio": 0.74,
+   "audio_match": 0.981,
+   "missing_numbers": [],
+   "diffs": [
+    "introduccion -> entroduccion",
+    "trasteverinos -> trasteberinos",
+    "audioguia -> audiovia",
+    "in trastevere -> entrastevere"
+   ]
+  },
+  {
+   "n": 2,
+   "name": "La Isla Tiberina y el río Tíber",
+   "file": "02 - La Isla Tiberina y el río Tíber.mp3",
+   "es_min": 3.6,
+   "en_min": 3.8,
+   "dur_ratio": 0.96,
+   "word_ratio": 1.16,
+   "audio_match": 0.968,
+   "missing_numbers": [],
+   "diffs": [
+    "parense en -> parecen",
+    "gueto -> geto",
+    "3000 -> 3 000",
+    "exvotos -> esbotos",
+    "fatebenefratelli -> fatevenefrategi",
+    "despues de cristo -> d c",
+    "caesar -> cesar",
+    "hoy aislan -> oye a isla en",
+    "quiosco -> kiosco",
+    "mirella -> mireya",
+    "grattachecca hielo -> gratachetka y el o",
+    "in piscinula -> impiscinula"
+   ]
+  },
+  {
+   "n": 3,
+   "name": "Piazza in Piscinula",
+   "file": "03 - Piazza in Piscinula.mp3",
+   "es_min": 0.9,
+   "en_min": 1.3,
+   "dur_ratio": 0.67,
+   "word_ratio": 1.21,
+   "audio_match": 0.982,
+   "missing_numbers": [],
+   "diffs": [
+    "in piscinula -> impiscinula",
+    "dell -> del"
+   ]
+  },
+  {
+   "n": 4,
+   "name": "Las callejuelas del Trastevere",
+   "file": "04 - Las callejuelas del Trastevere.mp3",
+   "es_min": 1.7,
+   "en_min": 2.0,
+   "dur_ratio": 0.86,
+   "word_ratio": 1.14,
+   "audio_match": 0.979,
+   "missing_numbers": [],
+   "diffs": [
+    "demoler -> de moler",
+    "attico -> atico",
+    "terrazzo -> terrazo",
+    "dei salumi -> de isalumi"
+   ]
+  },
+  {
+   "n": 5,
+   "name": "Via dei Salumi y Vicolo dell'Atleta",
+   "file": "05 - Via dei Salumi y Vicolo dell'Atleta.mp3",
+   "es_min": 3.6,
+   "en_min": 4.3,
+   "dur_ratio": 0.83,
+   "word_ratio": 1.02,
+   "audio_match": 0.952,
+   "missing_numbers": [],
+   "diffs": [
+    "dei salumi -> de isalumi",
+    "vicolo dell -> bicolo de la",
+    "dei salumi -> de isalumi",
+    "dei salumi -> de isalumi",
+    "salames -> alames",
+    "mens sana in -> mensana en",
+    "al duce -> alduce",
+    "vicolo dell -> bicolo de la",
+    "del -> de la",
+    "privacy -> praibesi",
+    "erre -> r",
+    "3000 -> 3 000",
+    "sinagoga -> sinagoba",
+    "dieciseis -> xvi",
+    "dei genovesi -> de igenobesi",
+    "di -> de",
+    "piazza di -> piaza de"
+   ]
+  },
+  {
+   "n": 6,
+   "name": "La iglesia de Santa Cecilia",
+   "file": "06 - La iglesia de Santa Cecilia.mp3",
+   "es_min": 1.3,
+   "en_min": 2.2,
+   "dur_ratio": 0.6,
+   "word_ratio": 1.22,
+   "audio_match": 0.98,
+   "missing_numbers": [],
+   "diffs": [
+    "segundo -> ii",
+    "tercero -> iii",
+    "dieciocho -> xviii",
+    "troppo -> tropo"
+   ]
+  },
+  {
+   "n": 7,
+   "name": "La estatua de Santa Cecilia y el ábside",
+   "file": "07 - La estatua de Santa Cecilia y el ábside.mp3",
+   "es_min": 5.4,
+   "en_min": 5.2,
+   "dur_ratio": 1.04,
+   "word_ratio": 1.06,
+   "audio_match": 0.963,
+   "missing_numbers": [],
+   "diffs": [
+    "abside -> apside",
+    "dar sepultura -> darse cultura",
+    "tercero -> iii",
+    "noveno -> ix",
+    "dieciocho -> xviii",
+    "trece -> xiii",
+    "la escultura -> las culturas",
+    "abside -> apside",
+    "noveno -> ix",
+    "pascual primero -> pasqual i",
+    "noveno -> ix",
+    "puedan -> pueden",
+    "abran -> habran",
+    "cavallini -> cavalini",
+    "giotto -> gioto",
+    "giotto -> gioto",
+    "cavallini -> cavalini",
+    "prerrenacentista -> prerenacentista",
+    "a 8 -> ocho",
+    "biscottificio -> biscotificio",
+    "stefania -> estefania",
+    "dei genovesi -> de igenobesi",
+    "dei genovesi -> de igenobesi",
+    "viale di -> vial de",
+    "della -> de ella"
+   ]
+  },
+  {
+   "n": 8,
+   "name": "Del Viale di Trastevere a la Piazza Santa Maria",
+   "file": "08 - Del Viale di Trastevere a la Piazza Santa Maria.mp3",
+   "es_min": 4.0,
+   "en_min": 4.2,
+   "dur_ratio": 0.96,
+   "word_ratio": 1.09,
+   "audio_match": 0.965,
+   "missing_numbers": [],
+   "diffs": [
+    "placita -> plasita",
+    "matha -> mata",
+    "quiosco -> kiosco",
+    "della lungaretta -> de ella lungareta",
+    "della lungaretta -> de ella lungareta a",
+    "della lungaretta -> de ella lungareta",
+    "della lungaretta -> de ella lungareta",
+    "excentricos -> escentricos",
+    "habas noquis -> havas nokis",
+    "della lungaretta -> de yalungareta",
+    "della lungaretta -> de yalungareta",
+    "in -> en",
+    "sientense -> entense"
+   ]
+  },
+  {
+   "n": 9,
+   "name": "Santa Maria in Trastevere: la plaza y la iglesia",
+   "file": "09 - Santa Maria in Trastevere la plaza y la iglesia.mp3",
+   "es_min": 1.6,
+   "en_min": 1.9,
+   "dur_ratio": 0.84,
+   "word_ratio": 1.11,
+   "audio_match": 0.984,
+   "missing_numbers": [],
+   "diffs": [
+    "in -> en",
+    "diecisiete -> xvii",
+    "in -> en",
+    "doce -> xii"
+   ]
+  },
+  {
+   "n": 10,
+   "name": "El interior de Santa Maria in Trastevere",
+   "file": "10 - El interior de Santa Maria in Trastevere.mp3",
+   "es_min": 1.6,
+   "en_min": 2.1,
+   "dur_ratio": 0.76,
+   "word_ratio": 1.1,
+   "audio_match": 0.986,
+   "missing_numbers": [],
+   "diffs": [
+    "in trastevere -> intrastevere",
+    "doce -> xii",
+    "trece -> xiii"
+   ]
+  },
+  {
+   "n": 11,
+   "name": "Los mosaicos del ábside",
+   "file": "11 - Los mosaicos del ábside.mp3",
+   "es_min": 2.2,
+   "en_min": 2.0,
+   "dur_ratio": 1.1,
+   "word_ratio": 1.12,
+   "audio_match": 0.973,
+   "missing_numbers": [
+    "3"
+   ],
+   "diffs": [
+    "del -> de la",
+    "fijense en -> digensen",
+    "aureola -> ureola",
+    "cruz adentro -> cruza dentro",
+    "12 -> doce",
+    "100 -> cien",
+    "abside -> apsi de"
+   ]
+  },
+  {
+   "n": 12,
+   "name": "La estatua de San Antonio y despedida",
+   "file": "12 - La estatua de San Antonio y despedida.mp3",
+   "es_min": 1.6,
+   "en_min": 2.4,
+   "dur_ratio": 0.66,
+   "word_ratio": 0.67,
+   "audio_match": 0.971,
+   "missing_numbers": [],
+   "diffs": [
+    "o metidos -> sometidos",
+    "in trastevere -> intrastevere",
+    "los -> lo",
+    "in trastevere -> intrastevere",
+    "openshaw -> opensab",
+    "grazie -> gracias"
+   ]
+  }
+ ]
+}

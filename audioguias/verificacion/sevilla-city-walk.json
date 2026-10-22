@@ -1,0 +1,360 @@
+{
+ "tour": "sevilla-city-walk",
+ "title": "Paseo por Sevilla",
+ "stops": [
+  {
+   "n": 1,
+   "name": "Introducción",
+   "file": "01 - Introducción.mp3",
+   "es_min": 1.8,
+   "en_min": 2.7,
+   "dur_ratio": 0.69,
+   "word_ratio": 0.75,
+   "audio_match": 0.98,
+   "ppm": 164,
+   "tts_attempts": 1,
+   "missing_numbers": [
+    "90"
+   ],
+   "diffs": [
+    "audioguia -> audiovia",
+    "alcazar -> al khazar",
+    "dieciseis -> xvi",
+    "alcazar -> al khazar",
+    " -> ya",
+    "hay -> "
+   ]
+  },
+  {
+   "n": 2,
+   "name": "Panorámica de Sevilla",
+   "file": "02 - Panorámica de Sevilla.mp3",
+   "es_min": 4.1,
+   "en_min": 4.4,
+   "dur_ratio": 0.92,
+   "word_ratio": 1.04,
+   "audio_match": 0.99,
+   "ppm": 158,
+   "tts_attempts": 1,
+   "missing_numbers": [
+    "360"
+   ],
+   "diffs": [
+    "700000 -> 700 000",
+    "en -> ",
+    "y pusieron -> que llegaron",
+    "diecinueve -> xix",
+    "por -> ",
+    "segundo -> ii"
+   ]
+  },
+  {
+   "n": 3,
+   "name": "La Catedral de Sevilla y la Giralda",
+   "file": "03 - La Catedral de Sevilla y la Giralda.mp3",
+   "es_min": 6.9,
+   "en_min": 7.2,
+   "dur_ratio": 0.97,
+   "word_ratio": 0.98,
+   "audio_match": 0.991,
+   "ppm": 158,
+   "tts_attempts": 1,
+   "missing_numbers": [],
+   "diffs": [
+    "de -> del",
+    "2000 -> 2 000",
+    "almuedano -> almueda nos",
+    "1800 -> 1 800",
+    "2000 -> 2 000",
+    "asilo bajo la -> asi lo bajola"
+   ]
+  },
+  {
+   "n": 4,
+   "name": "La Puerta del Perdón y la antigua mezquita",
+   "file": "04 - La Puerta del Perdón y la antigua mezquita.mp3",
+   "es_min": 4.4,
+   "en_min": 4.7,
+   "dur_ratio": 0.95,
+   "word_ratio": 1.02,
+   "audio_match": 0.973,
+   "ppm": 158,
+   "tts_attempts": 1,
+   "missing_numbers": [],
+   "diffs": [
+    "herradura -> erradura",
+    "caligrafia -> caligracia",
+    "coran -> koran",
+    "de ladrillo -> del adrillo",
+    "de ladrillo -> del adrillo",
+    "a -> ",
+    "alejense -> al ejense",
+    " -> parte de la ciudad de alemania mientras caminan fijense en la pequena",
+    "homenajea -> omenajea",
+    "dieciseis -> xvi",
+    "esta -> estas",
+    "dieciocho -> xviii"
+   ]
+  },
+  {
+   "n": 5,
+   "name": "La Avenida de la Constitución",
+   "file": "05 - La Avenida de la Constitución.mp3",
+   "es_min": 5.4,
+   "en_min": 5.2,
+   "dur_ratio": 1.03,
+   "word_ratio": 1.1,
+   "audio_match": 0.987,
+   "ppm": 162,
+   "tts_attempts": 1,
+   "missing_numbers": [],
+   "diffs": [
+    "observen -> observe en",
+    "bulevar peatonal -> bulevarpea tonal",
+    "dieciseis -> xvi",
+    "diecinueve -> xix",
+    "bulevar -> bulbar",
+    "la trago -> le atrago",
+    "a -> ",
+    "sube -> suve",
+    "diecinueve -> xix"
+   ]
+  },
+  {
+   "n": 6,
+   "name": "El Archivo de Indias, la Plaza del Triunfo y el Siglo de Oro",
+   "file": "06 - El Archivo de Indias, la Plaza del Triunfo y el Siglo de Oro.mp3",
+   "es_min": 5.7,
+   "en_min": 6.0,
+   "dur_ratio": 0.97,
+   "word_ratio": 1.03,
+   "audio_match": 0.99,
+   "ppm": 159,
+   "tts_attempts": 1,
+   "missing_numbers": [],
+   "diffs": [
+    "dieciseis -> xvi",
+    "diecisiete -> xvii",
+    "dieciseis -> xvi",
+    "tan bien -> tambien",
+    "fijense -> cijense",
+    "6 -> seis",
+    "los -> lo",
+    "diecisiete -> xvii",
+    "dieciocho -> xviii"
+   ]
+  },
+  {
+   "n": 7,
+   "name": "El Real Alcázar y el Patio de Banderas",
+   "file": "07 - El Real Alcázar y el Patio de Banderas.mp3",
+   "es_min": 4.0,
+   "en_min": 4.2,
+   "dur_ratio": 0.95,
+   "word_ratio": 1.05,
+   "audio_match": 0.962,
+   "ppm": 158,
+   "tts_attempts": 1,
+   "missing_numbers": [
+    "180"
+   ],
+   "diffs": [
+    "parada -> para la",
+    "alcazar -> al qaqar",
+    "alcazar -> al qaqar",
+    "diez -> x",
+    "alcazar -> al qaqar",
+    "alcazar -> al qaqar",
+    "10 -> diez",
+    "alcazares -> al qaqares",
+    "alcazar -> al qaqar",
+    "alcazar -> al qaqar",
+    "alcazar -> al qaqar",
+    "coran -> koran",
+    "sino ala -> sinoala",
+    "e -> y",
+    "alcazar -> al qaqar",
+    "alcazar -> al qaqar",
+    "quinto -> v",
+    "segundo -> ii"
+   ]
+  },
+  {
+   "n": 8,
+   "name": "La entrada al Barrio de Santa Cruz",
+   "file": "08 - La entrada al Barrio de Santa Cruz.mp3",
+   "es_min": 3.4,
+   "en_min": 3.3,
+   "dur_ratio": 1.04,
+   "word_ratio": 1.02,
+   "audio_match": 0.994,
+   "ppm": 152,
+   "tts_attempts": 1,
+   "missing_numbers": [],
+   "diffs": [
+    "3 -> tres",
+    "gueto -> geto",
+    "esta -> estas"
+   ]
+  },
+  {
+   "n": 9,
+   "name": "El Callejón del Agua",
+   "file": "09 - El Callejón del Agua.mp3",
+   "es_min": 3.8,
+   "en_min": 3.9,
+   "dur_ratio": 0.97,
+   "word_ratio": 1.03,
+   "audio_match": 0.98,
+   "ppm": 159,
+   "tts_attempts": 1,
+   "missing_numbers": [],
+   "diffs": [
+    "gueto -> veto",
+    "aleros -> saleros",
+    "homenajea -> omenajea",
+    "diecinueve -> xix",
+    "alcazar -> al khazar",
+    "den -> del",
+    "alcazar -> al khazar",
+    "diecisiete -> xvii",
+    "alcazar -> al khazar",
+    "alcazar -> al khazar"
+   ]
+  },
+  {
+   "n": 10,
+   "name": "La Plaza de Santa Cruz",
+   "file": "10 - La Plaza de Santa Cruz.mp3",
+   "es_min": 6.3,
+   "en_min": 7.5,
+   "dur_ratio": 0.84,
+   "word_ratio": 1.0,
+   "audio_match": 0.951,
+   "ppm": 157,
+   "tts_attempts": 1,
+   "missing_numbers": [],
+   "diffs": [
+    "antijudio -> anti judio",
+    "4000 -> cuatro mil",
+    "5000 -> cinco mil",
+    "fe -> c",
+    "a -> ",
+    "devotos -> de votos",
+    "sevilla -> se puede",
+    "diecinueve -> xix",
+    "horarios -> orales",
+    "las funciones -> la plaza",
+    " -> el flamenco es un concierto de la plaza y de la plaza la plaza es una plaza de la plaza donde se puede ver y ver las escuelas la plaza es una plaza de la plaza donde se puede ver y ver las escuelas la plaza es una plaza de la plaza donde se puede ver y ver las escuelas",
+    "musulman -> musulmana",
+    "pasada -> en el barrio de sevilla hay que ir a",
+    "medianoche -> casa de murillo"
+   ]
+  },
+  {
+   "n": 11,
+   "name": "La Casa de Murillo y el convento de Santa Teresa",
+   "file": "11 - La Casa de Murillo y el convento de Santa Teresa.mp3",
+   "es_min": 4.1,
+   "en_min": 4.2,
+   "dur_ratio": 0.97,
+   "word_ratio": 1.0,
+   "audio_match": 0.987,
+   "ppm": 164,
+   "tts_attempts": 1,
+   "missing_numbers": [],
+   "diffs": [
+    "e -> y",
+    "diecisiete -> xvii",
+    "virgen -> virgena",
+    "extaticas -> estaticas",
+    "su parroquia -> suparroquia",
+    "dieciseis -> xvi",
+    "extaticas -> estaticas",
+    "dondequiera -> donde quiera"
+   ]
+  },
+  {
+   "n": 12,
+   "name": "Los callejones del beso",
+   "file": "12 - Los callejones del beso.mp3",
+   "es_min": 1.5,
+   "en_min": 2.1,
+   "dur_ratio": 0.73,
+   "word_ratio": 0.98,
+   "audio_match": 0.984,
+   "ppm": 163,
+   "tts_attempts": 1,
+   "missing_numbers": [],
+   "diffs": [
+    "teresas -> terises",
+    "reinoso -> reynoso",
+    "reinoso -> reynoso",
+    "gueto -> geto"
+   ]
+  },
+  {
+   "n": 13,
+   "name": "La Plaza de los Venerables",
+   "file": "13 - La Plaza de los Venerables.mp3",
+   "es_min": 3.8,
+   "en_min": 3.7,
+   "dur_ratio": 1.02,
+   "word_ratio": 1.04,
+   "audio_match": 0.98,
+   "ppm": 155,
+   "tts_attempts": 1,
+   "missing_numbers": [],
+   "diffs": [
+    "parada -> para la",
+    "tan poco -> tampoco",
+    "del aura -> de laura",
+    "diecinueve -> xix",
+    "grand tour -> gran tur",
+    "de el -> del",
+    "figaro -> figado",
+    "200 -> doscientos"
+   ]
+  },
+  {
+   "n": 14,
+   "name": "La Plaza de Doña Elvira",
+   "file": "14 - La Plaza de Doña Elvira.mp3",
+   "es_min": 1.9,
+   "en_min": 2.0,
+   "dur_ratio": 0.93,
+   "word_ratio": 1.06,
+   "audio_match": 0.99,
+   "ppm": 158,
+   "tts_attempts": 1,
+   "missing_numbers": [],
+   "diffs": [
+    "grand tour -> gran tur",
+    "veinte -> xx"
+   ]
+  },
+  {
+   "n": 15,
+   "name": "De vuelta al comienzo, con parada en los dulces de las monjas",
+   "file": "15 - De vuelta al comienzo, con parada en los dulces de las monjas.mp3",
+   "es_min": 4.6,
+   "en_min": 5.7,
+   "dur_ratio": 0.81,
+   "word_ratio": 0.8,
+   "audio_match": 0.984,
+   "ppm": 153,
+   "tts_attempts": 1,
+   "missing_numbers": [],
+   "diffs": [
+    "con parada -> comparada",
+    "explorarlo -> explorar lo",
+    "vea -> ve",
+    "pidan -> piden",
+    "despues toquen -> despuesto que en",
+    "diganle -> digale",
+    "considerenlas -> consideren las",
+    "openshaw -> opensap"
+   ]
+  }
+ ]
+}

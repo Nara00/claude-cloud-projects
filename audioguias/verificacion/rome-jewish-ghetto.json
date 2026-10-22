@@ -1,0 +1,248 @@
+{
+ "tour": "rome-jewish-ghetto",
+ "title": "El Gueto Judío de Roma",
+ "stops": [
+  {
+   "n": 1,
+   "name": "Introducción",
+   "file": "01 - Introducción.mp3",
+   "es_min": 1.4,
+   "en_min": 2.0,
+   "dur_ratio": 0.68,
+   "word_ratio": 0.68,
+   "audio_match": 0.991,
+   "missing_numbers": [],
+   "diffs": [
+    "audioguia -> audiovia",
+    "kosher -> cocher"
+   ]
+  },
+  {
+   "n": 2,
+   "name": "El Ponte Fabricio y la historia del gueto",
+   "file": "02 - El Ponte Fabricio y la historia del gueto.mp3",
+   "es_min": 3.9,
+   "en_min": 3.6,
+   "dur_ratio": 1.08,
+   "word_ratio": 1.13,
+   "audio_match": 0.962,
+   "missing_numbers": [],
+   "diffs": [
+    "pons judaeorum -> ponsjudaeorum",
+    "distinguidos -> distingidos",
+    "segundo antes de cristo -> ii a c",
+    "30000 -> 30 000",
+    "primero despues de cristo -> i d c",
+    "mixtos -> mistos",
+    "dieciseis -> xvi",
+    "herejia -> herergia",
+    "gueto -> ghetto",
+    "diecinueve -> xix",
+    "enfrente -> en frente",
+    "quattro -> cuatro",
+    "pagano jano -> paganojano",
+    "della pieta -> de lapietta",
+    "san gregorio -> sangre gorio"
+   ]
+  },
+  {
+   "n": 3,
+   "name": "Santa Maria della Pietà",
+   "file": "03 - Santa Maria della Pietà.mp3",
+   "es_min": 2.1,
+   "en_min": 2.2,
+   "dur_ratio": 0.97,
+   "word_ratio": 1.11,
+   "audio_match": 0.973,
+   "missing_numbers": [],
+   "diffs": [
+    "della pieta -> de yapieta",
+    "cuarto -> iv",
+    "4000 -> cuatro mil",
+    "3 -> tres",
+    "della pieta -> de yapieta",
+    "diecisiete -> xvii",
+    "gettare -> getare"
+   ]
+  },
+  {
+   "n": 4,
+   "name": "La sinagoga y el Museo Judío",
+   "file": "04 - La sinagoga y el Museo Judío.mp3",
+   "es_min": 3.5,
+   "en_min": 3.6,
+   "dur_ratio": 0.97,
+   "word_ratio": 1.09,
+   "audio_match": 0.983,
+   "missing_numbers": [],
+   "diffs": [
+    "gueto -> geto",
+    "gueto -> geto",
+    "gueto -> geto",
+    "art nouveau -> arnubo",
+    "tiffany -> tifani",
+    "segundo -> ii",
+    "gueto -> geto",
+    "gueto -> geto",
+    "ottobre -> otobre"
+   ]
+  },
+  {
+   "n": 5,
+   "name": "Largo 16 Ottobre 1943",
+   "file": "05 - Largo 16 Ottobre 1943.mp3",
+   "es_min": 3.2,
+   "en_min": 3.0,
+   "dur_ratio": 1.07,
+   "word_ratio": 1.07,
+   "audio_match": 0.98,
+   "missing_numbers": [],
+   "diffs": [
+    "ottobre -> otobre",
+    "diecinueve -> xix",
+    "diecinueve -> xix",
+    "13000 -> 13 000",
+    "2000 -> 2 000",
+    "segundo -> ii",
+    "segundo -> ii",
+    "shoa -> soa",
+    "shoa -> soa"
+   ]
+  },
+  {
+   "n": 6,
+   "name": "El Pórtico de Octavia",
+   "file": "06 - El Pórtico de Octavia.mp3",
+   "es_min": 3.1,
+   "en_min": 3.1,
+   "dur_ratio": 0.98,
+   "word_ratio": 1.13,
+   "audio_match": 0.973,
+   "missing_numbers": [],
+   "diffs": [
+    "antes de cristo -> a c",
+    "pescheria -> pecheria",
+    "sant -> san",
+    "in pescheria -> y pecheria",
+    "gueto -> geto",
+    "enseguida -> en seguida",
+    "cal -> calorias",
+    "zigzag -> zigzaca",
+    "gueto -> geto",
+    "d ottavia -> de otavia"
+   ]
+  },
+  {
+   "n": 7,
+   "name": "Via del Portico d'Ottavia, la calle principal del gueto",
+   "file": "07 - Via del Portico d'Ottavia, la calle principal del gueto.mp3",
+   "es_min": 3.4,
+   "en_min": 3.5,
+   "dur_ratio": 0.97,
+   "word_ratio": 1.11,
+   "audio_match": 0.966,
+   "missing_numbers": [],
+   "diffs": [
+    "parada -> para la",
+    "d ottavia -> de otavia",
+    "gueto -> geto",
+    "gueto -> geto",
+    "gueto -> geto",
+    "kosher -> couscher",
+    "gueto -> geto",
+    "sushi kosher -> su chico couscher",
+    "kipa y -> kippay",
+    "di sant -> de san",
+    "35000 -> 35 000",
+    "judeorromano -> judio romano",
+    "asquenazies -> asquenacies ni"
+   ]
+  },
+  {
+   "n": 8,
+   "name": "Via della Reginella",
+   "file": "08 - Via della Reginella.mp3",
+   "es_min": 1.7,
+   "en_min": 1.5,
+   "dur_ratio": 1.17,
+   "word_ratio": 1.17,
+   "audio_match": 0.956,
+   "missing_numbers": [],
+   "diffs": [
+    "della -> de la",
+    "enfrente -> en frente",
+    "della -> de la",
+    "fijense -> cijense",
+    " -> a",
+    "della -> de la",
+    "terminan -> terminen",
+    "gueto -> geto",
+    "piazza mattei -> piaza mactay"
+   ]
+  },
+  {
+   "n": 9,
+   "name": "Piazza Mattei y la Fuente de las Tortugas",
+   "file": "09 - Piazza Mattei y la Fuente de las Tortugas.mp3",
+   "es_min": 1.2,
+   "en_min": 1.2,
+   "dur_ratio": 1.0,
+   "word_ratio": 1.22,
+   "audio_match": 0.945,
+   "missing_numbers": [],
+   "diffs": [
+    "parada -> para la",
+    "mattei -> mattay",
+    "mattei -> mattay",
+    "dieciseis -> xvi",
+    "aprecio -> a precio",
+    "los -> lo",
+    "d ottavia -> de otavia",
+    "gueto -> ghetto",
+    "d ottavia -> de otavia"
+   ]
+  },
+  {
+   "n": 10,
+   "name": "Más lugares en la Via del Portico d'Ottavia",
+   "file": "10 - Más lugares en la Via del Portico d'Ottavia.mp3",
+   "es_min": 1.3,
+   "en_min": 1.1,
+   "dur_ratio": 1.26,
+   "word_ratio": 1.15,
+   "audio_match": 0.957,
+   "missing_numbers": [],
+   "diffs": [
+    "parada -> para la",
+    "d ottavia -> de otavia",
+    "incrustada -> encrustada",
+    "antes de cristo -> a c",
+    "costaguti -> costa uti"
+   ]
+  },
+  {
+   "n": 11,
+   "name": "Piazza Costaguti",
+   "file": "11 - Piazza Costaguti.mp3",
+   "es_min": 2.8,
+   "en_min": 3.6,
+   "dur_ratio": 0.78,
+   "word_ratio": 0.81,
+   "audio_match": 0.97,
+   "missing_numbers": [],
+   "diffs": [
+    "costaguti parense en -> costagutti parecen",
+    "horca -> orca",
+    " -> a",
+    "sol o -> solo",
+    "entren a ver -> entre naver",
+    "almendra -> almendras",
+    "metanse -> metense",
+    "3 -> tres",
+    "diecinueve -> xix",
+    "openshaw -> opensap",
+    "grazie -> gracias"
+   ]
+  }
+ ]
+}

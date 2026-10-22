@@ -1,0 +1,184 @@
+{
+ "tour": "florence-accademia-david",
+ "title": "La Galería de la Academia: el David de Miguel Ángel",
+ "stops": [
+  {
+   "n": 1,
+   "name": "Introducción",
+   "file": "01 - Introducción.mp3",
+   "es_min": 0.9,
+   "en_min": 1.6,
+   "dur_ratio": 0.57,
+   "word_ratio": 0.61,
+   "audio_match": 0.987,
+   "missing_numbers": [],
+   "diffs": [
+    "audioguia -> audiovia",
+    "audioguia -> audiovia"
+   ]
+  },
+  {
+   "n": 2,
+   "name": "El David de Miguel Ángel",
+   "file": "02 - El David de Miguel Ángel.mp3",
+   "es_min": 5.1,
+   "en_min": 4.9,
+   "dur_ratio": 1.03,
+   "word_ratio": 1.13,
+   "audio_match": 0.987,
+   "missing_numbers": [],
+   "diffs": [
+    "aureola -> ureola",
+    "4 -> cuatro",
+    "4 -> cuatro",
+    "goliat -> goliath",
+    "honda -> onda",
+    "honda -> onda",
+    "goliat -> goliath",
+    "contrapposto -> contraposto",
+    " -> la",
+    " -> a",
+    "vecchio -> vexio",
+    "vecchio -> vexio"
+   ]
+  },
+  {
+   "n": 3,
+   "name": "El David desde todos los ángulos",
+   "file": "03 - El David desde todos los ángulos.mp3",
+   "es_min": 2.8,
+   "en_min": 2.8,
+   "dur_ratio": 0.98,
+   "word_ratio": 1.07,
+   "audio_match": 0.961,
+   "missing_numbers": [],
+   "diffs": [
+    "parada 3 el david desde todos los angulos -> ",
+    "vuelvanse -> volvense",
+    "honda -> onda",
+    " -> de las cosas que me ha hecho el david pero no me convence mucho es una",
+    "adelante -> delante",
+    "completen -> complete en",
+    "estado -> estados"
+   ]
+  },
+  {
+   "n": 4,
+   "name": "El busto de Miguel Ángel",
+   "file": "04 - El busto de Miguel Ángel.mp3",
+   "es_min": 2.6,
+   "en_min": 2.6,
+   "dur_ratio": 0.99,
+   "word_ratio": 1.16,
+   "audio_match": 0.968,
+   "missing_numbers": [],
+   "diffs": [
+    "daniele da volterra -> daniela de avolterra",
+    "lleno -> llenos",
+    "arrugas -> rugas",
+    "mostro -> no",
+    "haciendolo -> haciendo lo",
+    "de -> el",
+    "durante -> en",
+    "sixtina -> sistina",
+    "uffizi -> sufisi",
+    "vecchio -> vexio",
+    "baco y -> bacoi"
+   ]
+  },
+  {
+   "n": 5,
+   "name": "Los Prisioneros",
+   "file": "05 - Los Prisioneros.mp3",
+   "es_min": 2.3,
+   "en_min": 2.2,
+   "dur_ratio": 1.02,
+   "word_ratio": 1.12,
+   "audio_match": 0.992,
+   "missing_numbers": [],
+   "diffs": [
+    "a -> ",
+    "aspera -> a espera",
+    "e -> y"
+   ]
+  },
+  {
+   "n": 6,
+   "name": "San Mateo y los otros Prisioneros",
+   "file": "06 - San Mateo y los otros Prisioneros.mp3",
+   "es_min": 2.6,
+   "en_min": 2.3,
+   "dur_ratio": 1.12,
+   "word_ratio": 1.19,
+   "audio_match": 0.985,
+   "missing_numbers": [],
+   "diffs": [
+    "a -> ",
+    "vasari -> basari",
+    "segundo -> ii",
+    "sixtina -> sistina",
+    "en pulirlas -> impulirlas",
+    "dense -> de ens"
+   ]
+  },
+  {
+   "n": 7,
+   "name": "La Piedad y otras salas cerca del David",
+   "file": "07 - La Piedad y otras salas cerca del David.mp3",
+   "es_min": 2.5,
+   "en_min": 2.7,
+   "dur_ratio": 0.93,
+   "word_ratio": 1.01,
+   "audio_match": 0.988,
+   "missing_numbers": [],
+   "diffs": [
+    "parada -> ",
+    "mediria -> me diria",
+    "2 -> dos",
+    "dell ottocento -> del otocento"
+   ]
+  },
+  {
+   "n": 8,
+   "name": "El rapto de las sabinas de Giambologna",
+   "file": "08 - El rapto de las sabinas de Giambologna.mp3",
+   "es_min": 1.9,
+   "en_min": 2.2,
+   "dur_ratio": 0.87,
+   "word_ratio": 1.16,
+   "audio_match": 0.964,
+   "missing_numbers": [],
+   "diffs": [
+    "parada 8 -> ",
+    "yeso -> jeso",
+    "logia -> loja",
+    "vecchio -> vexio",
+    "piazza della signoria -> piaza de yasi gnoria",
+    "guio -> vio",
+    "crecer la -> crecerla",
+    "vecchio -> vexio"
+   ]
+  },
+  {
+   "n": 9,
+   "name": "El Museo de Instrumentos Musicales",
+   "file": "09 - El Museo de Instrumentos Musicales.mp3",
+   "es_min": 2.5,
+   "en_min": 3.1,
+   "dur_ratio": 0.81,
+   "word_ratio": 0.87,
+   "audio_match": 0.977,
+   "missing_numbers": [],
+   "diffs": [
+    "diecisiete -> xvii",
+    "scarlatti -> scarlet",
+    "handel -> andela",
+    "pellizcaba -> pellizcava",
+    "forte -> fuerte",
+    "pianoforte -> piano forte",
+    "openshaw -> opensab",
+    "grazie -> gracias"
+   ]
+  }
+ ]
+}

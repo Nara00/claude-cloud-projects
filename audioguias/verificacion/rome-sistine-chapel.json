@@ -1,0 +1,228 @@
+{
+ "tour": "rome-sistine-chapel",
+ "title": "La Capilla Sixtina",
+ "stops": [
+  {
+   "n": 1,
+   "name": "Introducción",
+   "file": "01 - Introducción.mp3",
+   "es_min": 1.3,
+   "en_min": 1.8,
+   "dur_ratio": 0.69,
+   "word_ratio": 0.67,
+   "audio_match": 0.98,
+   "ppm": 161,
+   "tts_attempts": 1,
+   "missing_numbers": [],
+   "diffs": [
+    "sixtina -> sistina",
+    "audioguia -> audiovia",
+    "sixtina -> sistina",
+    "sixtina -> sistina"
+   ]
+  },
+  {
+   "n": 2,
+   "name": "Camino a la Capilla Sixtina",
+   "file": "02 - Camino a la Capilla Sixtina.mp3",
+   "es_min": 0.9,
+   "en_min": 1.0,
+   "dur_ratio": 0.94,
+   "word_ratio": 0.92,
+   "audio_match": 0.953,
+   "ppm": 164,
+   "tts_attempts": 1,
+   "missing_numbers": [],
+   "diffs": [
+    "sixtina -> sistina",
+    "sixtina -> sistina",
+    "sixtina -> sistina",
+    "sixtina -> sistina",
+    "guie -> guias",
+    "sixtina -> sistina",
+    "sixtina -> sistina"
+   ]
+  },
+  {
+   "n": 3,
+   "name": "Al entrar en la capilla",
+   "file": "03 - Al entrar en la capilla.mp3",
+   "es_min": 1.0,
+   "en_min": 1.0,
+   "dur_ratio": 0.96,
+   "word_ratio": 1.03,
+   "audio_match": 0.988,
+   "ppm": 162,
+   "tts_attempts": 1,
+   "missing_numbers": [],
+   "diffs": [
+    "sixtina -> sistina",
+    "audioguia -> audiovia"
+   ]
+  },
+  {
+   "n": 4,
+   "name": "El techo de Miguel Ángel",
+   "file": "04 - El techo de Miguel Ángel.mp3",
+   "es_min": 3.1,
+   "en_min": 3.1,
+   "dur_ratio": 1.0,
+   "word_ratio": 1.01,
+   "audio_match": 0.983,
+   "ppm": 157,
+   "tts_attempts": 1,
+   "missing_numbers": [],
+   "diffs": [
+    "segundo -> ii",
+    "sixtina -> asistina",
+    "12 -> doce",
+    "4 -> cuatro",
+    "1512 -> 15012",
+    "9 -> nueve",
+    "donde el -> del",
+    "9 -> nueve"
+   ]
+  },
+  {
+   "n": 5,
+   "name": "La creación de Adán",
+   "file": "05 - La creación de Adán.mp3",
+   "es_min": 1.8,
+   "en_min": 1.9,
+   "dur_ratio": 0.96,
+   "word_ratio": 1.3,
+   "audio_match": 0.983,
+   "ppm": 160,
+   "tts_attempts": 1,
+   "missing_numbers": [],
+   "diffs": [
+    "adan -> adam",
+    "adan -> adam",
+    "adan -> adam",
+    "adan -> adam",
+    "9 -> nueve"
+   ]
+  },
+  {
+   "n": 6,
+   "name": "Las nueve escenas del Génesis",
+   "file": "06 - Las nueve escenas del Génesis.mp3",
+   "es_min": 3.8,
+   "en_min": 3.8,
+   "dur_ratio": 1.02,
+   "word_ratio": 1.05,
+   "audio_match": 0.984,
+   "ppm": 162,
+   "tts_attempts": 1,
+   "missing_numbers": [],
+   "diffs": [
+    "nueve -> 9",
+    "lo seco tierra -> los secotierra",
+    "zambullendose -> zambuyendose",
+    "del eden -> de le den",
+    "comen -> come en",
+    " -> a",
+    "un -> una"
+   ]
+  },
+  {
+   "n": 7,
+   "name": "Miguel Ángel y la técnica del fresco",
+   "file": "07 - Miguel Ángel y la técnica del fresco.mp3",
+   "es_min": 3.0,
+   "en_min": 2.9,
+   "dur_ratio": 1.02,
+   "word_ratio": 1.05,
+   "audio_match": 0.986,
+   "ppm": 160,
+   "tts_attempts": 1,
+   "missing_numbers": [],
+   "diffs": [
+    "hazana -> zana",
+    "habia -> sabia",
+    "habia -> sabia",
+    "acostado -> ha costado",
+    "hollin -> ollin",
+    "sixtina -> cistina"
+   ]
+  },
+  {
+   "n": 8,
+   "name": "Profetas, antepasados y desnudos",
+   "file": "08 - Profetas, antepasados y desnudos.mp3",
+   "es_min": 2.4,
+   "en_min": 2.4,
+   "dur_ratio": 1.0,
+   "word_ratio": 1.11,
+   "audio_match": 0.985,
+   "ppm": 157,
+   "tts_attempts": 1,
+   "missing_numbers": [],
+   "diffs": [
+    "esaias -> ebesaias",
+    "sibila -> civila",
+    "sibila -> civila",
+    "sixtina -> sistina",
+    "a un -> aun"
+   ]
+  },
+  {
+   "n": 9,
+   "name": "El triunfo de Miguel Ángel",
+   "file": "09 - El triunfo de Miguel Ángel.mp3",
+   "es_min": 2.9,
+   "en_min": 2.8,
+   "dur_ratio": 1.03,
+   "word_ratio": 1.13,
+   "audio_match": 0.988,
+   "ppm": 163,
+   "tts_attempts": 1,
+   "missing_numbers": [],
+   "diffs": [
+    "comparen -> compare",
+    "hieremias -> de jeremias",
+    "sixtina -> asistina",
+    "sixtina -> asistina",
+    "sixtina -> asistina"
+   ]
+  },
+  {
+   "n": 10,
+   "name": "El Juicio Final",
+   "file": "10 - El Juicio Final.mp3",
+   "es_min": 4.2,
+   "en_min": 3.8,
+   "dur_ratio": 1.1,
+   "word_ratio": 1.06,
+   "audio_match": 0.993,
+   "ppm": 154,
+   "tts_attempts": 1,
+   "missing_numbers": [],
+   "diffs": [
+    "sixtina -> asistina",
+    "errantes -> serrantes",
+    "sesenta -> 60",
+    " -> o",
+    "ama -> gama"
+   ]
+  },
+  {
+   "n": 11,
+   "name": "Los detalles del Juicio Final",
+   "file": "11 - Los detalles del Juicio Final.mp3",
+   "es_min": 2.4,
+   "en_min": 3.1,
+   "dur_ratio": 0.79,
+   "word_ratio": 0.88,
+   "audio_match": 0.994,
+   "ppm": 162,
+   "tts_attempts": 1,
+   "missing_numbers": [],
+   "diffs": [
+    "lo -> los",
+    " -> a",
+    "openshaw -> opensap"
+   ]
+  }
+ ]
+}

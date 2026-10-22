@@ -1,0 +1,378 @@
+{
+ "tour": "rome-st-peters-basilica",
+ "title": "La Basílica de San Pedro",
+ "stops": [
+  {
+   "n": 1,
+   "name": "Introducción",
+   "file": "01 - Introducción.mp3",
+   "es_min": 1.3,
+   "en_min": 2.0,
+   "dur_ratio": 0.64,
+   "word_ratio": 0.69,
+   "audio_match": 0.971,
+   "ppm": 162,
+   "tts_attempts": 1,
+   "missing_numbers": [],
+   "diffs": [
+    "cristiandad -> cristianidad",
+    "audioguia -> audiovia",
+    "vamos a -> para",
+    "a -> ",
+    "largas -> ",
+    "preparemonos -> vamos",
+    "e -> "
+   ]
+  },
+  {
+   "n": 2,
+   "name": "Los orígenes del antiguo y del nuevo San Pedro",
+   "file": "02 - Los orígenes del antiguo y del nuevo San Pedro.mp3",
+   "es_min": 4.6,
+   "en_min": 4.4,
+   "dur_ratio": 1.06,
+   "word_ratio": 1.09,
+   "audio_match": 0.964,
+   "ppm": 164,
+   "tts_attempts": 1,
+   "missing_numbers": [],
+   "diffs": [
+    "sientense -> si entense",
+    "2000 -> dos mil",
+    "ben hur -> venur",
+    "despues de cristo -> d c",
+    "segundo -> ii",
+    "sixtina -> sistina",
+    "ellos miguel angel que empezo la magnifica cupula -> otros entre otros entre otros",
+    "y asi por fin la gente -> donde se",
+    "ver bien la cupula -> desbloquear",
+    "grazie -> gracias",
+    " -> una gran parte de",
+    "mejor vista -> iglesia",
+    "secuoyas -> secuellas"
+   ]
+  },
+  {
+   "n": 3,
+   "name": "La Plaza de San Pedro",
+   "file": "03 - La Plaza de San Pedro.mp3",
+   "es_min": 2.5,
+   "en_min": 2.4,
+   "dur_ratio": 1.05,
+   "word_ratio": 1.13,
+   "audio_match": 0.983,
+   "ppm": 158,
+   "tts_attempts": 1,
+   "missing_numbers": [],
+   "diffs": [
+    "diecisiete -> xvii",
+    "3 -> tres",
+    "cuanta -> cuanto a",
+    "2000 -> 2 000",
+    "piazza -> piaza",
+    "atrevanse -> atrevance"
+   ]
+  },
+  {
+   "n": 4,
+   "name": "El mundo del papa",
+   "file": "04 - El mundo del papa.mp3",
+   "es_min": 6.2,
+   "en_min": 5.9,
+   "dur_ratio": 1.05,
+   "word_ratio": 1.09,
+   "audio_match": 0.982,
+   "ppm": 164,
+   "tts_attempts": 1,
+   "missing_numbers": [],
+   "diffs": [
+    "2 -> dos",
+    "bernini -> bermini",
+    "papamovil -> papa movil",
+    "sixtina -> sistina",
+    "della conciliazione -> de ella conciliacion",
+    "dignatarios -> dignitarios",
+    "segundo -> ii",
+    "veintitres -> xxiii",
+    "sixtina -> sistina",
+    "sixtina -> sistina",
+    "cum clave -> cumclave",
+    "a la plaza -> ",
+    "il -> y",
+    "habemus papam -> abemos papa"
+   ]
+  },
+  {
+   "n": 5,
+   "name": "La Ciudad del Vaticano",
+   "file": "05 - La Ciudad del Vaticano.mp3",
+   "es_min": 3.0,
+   "en_min": 2.8,
+   "dur_ratio": 1.09,
+   "word_ratio": 1.07,
+   "audio_match": 0.996,
+   "ppm": 161,
+   "tts_attempts": 1,
+   "missing_numbers": [],
+   "diffs": [
+    "veinte -> xx",
+    "dieciseis -> xvi"
+   ]
+  },
+  {
+   "n": 6,
+   "name": "El atrio",
+   "file": "06 - El atrio.mp3",
+   "es_min": 2.2,
+   "en_min": 2.5,
+   "dur_ratio": 0.89,
+   "word_ratio": 1.14,
+   "audio_match": 0.977,
+   "ppm": 160,
+   "tts_attempts": 1,
+   "missing_numbers": [
+    "1"
+   ],
+   "diffs": [
+    "segundo -> ii",
+    "y -> ",
+    "segundo -> ii",
+    "ioannes paulus segundo -> joans paul ii",
+    "eme -> m",
+    "hagan lo -> haganlo"
+   ]
+  },
+  {
+   "n": 7,
+   "name": "La nave",
+   "file": "07 - La nave.mp3",
+   "es_min": 5.5,
+   "en_min": 5.0,
+   "dur_ratio": 1.1,
+   "word_ratio": 1.13,
+   "audio_match": 0.99,
+   "ppm": 163,
+   "tts_attempts": 1,
+   "missing_numbers": [],
+   "diffs": [
+    "contemplen -> contemple en",
+    "el -> en",
+    "7 -> siete",
+    "2 -> dos",
+    "1200 -> 1 200",
+    "2 -> dos",
+    "lutero -> luthero",
+    "rebelarse -> revelarse"
+   ]
+  },
+  {
+   "n": 8,
+   "name": "La iglesia de Miguel Ángel",
+   "file": "08 - La iglesia de Miguel Ángel.mp3",
+   "es_min": 2.5,
+   "en_min": 2.5,
+   "dur_ratio": 0.99,
+   "word_ratio": 1.1,
+   "audio_match": 0.985,
+   "ppm": 162,
+   "tts_attempts": 1,
+   "missing_numbers": [],
+   "diffs": [
+    "sixtina -> sistina",
+    "al aporte -> a la porte",
+    "equis -> x",
+    "esten -> este en"
+   ]
+  },
+  {
+   "n": 9,
+   "name": "La cúpula de Miguel Ángel",
+   "file": "09 - La cúpula de Miguel Ángel.mp3",
+   "es_min": 1.6,
+   "en_min": 2.1,
+   "dur_ratio": 0.77,
+   "word_ratio": 1.09,
+   "audio_match": 0.985,
+   "ppm": 164,
+   "tts_attempts": 1,
+   "missing_numbers": [],
+   "diffs": [
+    "parada -> para la",
+    "gran ola -> granola",
+    "pasen -> pasenle"
+   ]
+  },
+  {
+   "n": 10,
+   "name": "La tumba de Pedro",
+   "file": "10 - La tumba de Pedro.mp3",
+   "es_min": 3.6,
+   "en_min": 3.6,
+   "dur_ratio": 0.99,
+   "word_ratio": 1.1,
+   "audio_match": 0.989,
+   "ppm": 165,
+   "tts_attempts": 1,
+   "missing_numbers": [],
+   "diffs": [
+    "2 -> dos",
+    "verlo -> ver lo",
+    "7 -> siete",
+    "primero -> i",
+    "segundo -> ii",
+    "tercero -> iii"
+   ]
+  },
+  {
+   "n": 11,
+   "name": "La estatua de Pedro",
+   "file": "11 - La estatua de Pedro.mp3",
+   "es_min": 2.2,
+   "en_min": 2.1,
+   "dur_ratio": 1.04,
+   "word_ratio": 1.1,
+   "audio_match": 0.98,
+   "ppm": 171,
+   "tts_attempts": 1,
+   "missing_numbers": [],
+   "diffs": [
+    "contextura -> contestura",
+    "pescara -> pescar a",
+    "quo vadis -> cuo badis",
+    "devotos -> de votos",
+    "rodeen -> rode en"
+   ]
+  },
+  {
+   "n": 12,
+   "name": "El papa Juan veintitrés",
+   "file": "12 - El papa Juan veintitrés.mp3",
+   "es_min": 2.6,
+   "en_min": 2.7,
+   "dur_ratio": 0.95,
+   "word_ratio": 1.18,
+   "audio_match": 0.978,
+   "ppm": 160,
+   "tts_attempts": 1,
+   "missing_numbers": [],
+   "diffs": [
+    "veintitres -> 23",
+    "segundo -> ii",
+    "segundo -> ii",
+    "veintitres -> xxiii",
+    "veintitres -> xxiii",
+    "segundo -> ii",
+    "dieciseis -> xvi",
+    "veintiuno -> xxi",
+    "veintitres -> xxiii"
+   ]
+  },
+  {
+   "n": 13,
+   "name": "El altar mayor y el baldaquino de Bernini",
+   "file": "13 - El altar mayor y el baldaquino de Bernini.mp3",
+   "es_min": 3.6,
+   "en_min": 3.9,
+   "dur_ratio": 0.93,
+   "word_ratio": 1.04,
+   "audio_match": 0.984,
+   "ppm": 170,
+   "tts_attempts": 1,
+   "missing_numbers": [],
+   "diffs": [
+    "parada 13 -> para la trece",
+    "7 -> siete",
+    "diecisiete -> xvii",
+    "rehizo -> re hizo",
+    "asombrosa -> sombrosa",
+    "llamen -> llaman",
+    "abside -> apside",
+    "abside -> apside"
+   ]
+  },
+  {
+   "n": 14,
+   "name": "El ábside",
+   "file": "14 - El ábside.mp3",
+   "es_min": 2.6,
+   "en_min": 2.4,
+   "dur_ratio": 1.08,
+   "word_ratio": 1.28,
+   "audio_match": 0.98,
+   "ppm": 173,
+   "tts_attempts": 1,
+   "missing_numbers": [],
+   "diffs": [
+    "abside -> apside",
+    "2 -> dos",
+    "agreguenle -> agregue enle",
+    "bronce -> bronze",
+    "obispos -> sobispos",
+    "abside -> apside",
+    "5 -> cinco",
+    "fe -> se",
+    "a -> "
+   ]
+  },
+  {
+   "n": 15,
+   "name": "El lugar de la crucifixión de Pedro",
+   "file": "15 - El lugar de la crucifixión de Pedro.mp3",
+   "es_min": 2.2,
+   "en_min": 2.7,
+   "dur_ratio": 0.82,
+   "word_ratio": 1.08,
+   "audio_match": 0.985,
+   "ppm": 166,
+   "tts_attempts": 1,
+   "missing_numbers": [],
+   "diffs": [
+    "2000 -> dos mil",
+    "20 -> veinte",
+    "a un -> aun",
+    "jerusalen a -> jerusalena"
+   ]
+  },
+  {
+   "n": 16,
+   "name": "La cúpula y otros lugares para visitar",
+   "file": "16 - La cúpula y otros lugares para visitar.mp3",
+   "es_min": 3.5,
+   "en_min": 3.4,
+   "dur_ratio": 1.01,
+   "word_ratio": 1.04,
+   "audio_match": 0.995,
+   "ppm": 168,
+   "tts_attempts": 1,
+   "missing_numbers": [],
+   "diffs": [
+    "los -> lo",
+    "segundo -> ii",
+    "veintiuno -> xxi"
+   ]
+  },
+  {
+   "n": 17,
+   "name": "La Piedad de Miguel Ángel",
+   "file": "17 - La Piedad de Miguel Ángel.mp3",
+   "es_min": 3.8,
+   "en_min": 4.6,
+   "dur_ratio": 0.83,
+   "word_ratio": 0.91,
+   "audio_match": 0.991,
+   "ppm": 164,
+   "tts_attempts": 1,
+   "missing_numbers": [
+    "2024"
+   ],
+   "diffs": [
+    "a -> ",
+    "una -> un",
+    "cincel -> cincelita",
+    "tallo -> o",
+    "openshaw -> opensab",
+    "grazie -> gracias"
+   ]
+  }
+ ]
+}

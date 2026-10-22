@@ -1,0 +1,175 @@
+{
+ "tour": "rome-pantheon",
+ "title": "El Panteón de Roma",
+ "stops": [
+  {
+   "n": 1,
+   "name": "Introducción",
+   "file": "01 - Introducción.mp3",
+   "es_min": 1.1,
+   "en_min": 1.8,
+   "dur_ratio": 0.65,
+   "word_ratio": 0.62,
+   "audio_match": 0.994,
+   "missing_numbers": [],
+   "diffs": [
+    "audioguia -> audiovia"
+   ]
+  },
+  {
+   "n": 2,
+   "name": "El exterior del Panteón",
+   "file": "02 - El exterior del Panteón.mp3",
+   "es_min": 3.9,
+   "en_min": 3.7,
+   "dur_ratio": 1.07,
+   "word_ratio": 1.02,
+   "audio_match": 0.969,
+   "missing_numbers": [
+    "20"
+   ],
+   "diffs": [
+    "parense en -> parecen",
+    "y theos -> idzius",
+    "antes de cristo -> a c",
+    "agripa -> agrippa",
+    "yerno -> hierno",
+    "lucii filius consul tertium -> lucei y philius consulte un",
+    "agripa -> agrippa",
+    "consul -> consult",
+    "despues de cristo -> a c",
+    "ladrillo -> ladrillos",
+    "6 -> seis",
+    "construida -> incluida"
+   ]
+  },
+  {
+   "n": 3,
+   "name": "El pórtico",
+   "file": "03 - El pórtico.mp3",
+   "es_min": 1.9,
+   "en_min": 2.1,
+   "dur_ratio": 0.91,
+   "word_ratio": 1.12,
+   "audio_match": 0.994,
+   "missing_numbers": [],
+   "diffs": [
+    "granito -> granitos",
+    "agripa -> agrippa"
+   ]
+  },
+  {
+   "n": 4,
+   "name": "Bajo la cúpula",
+   "file": "04 - Bajo la cúpula.mp3",
+   "es_min": 4.3,
+   "en_min": 3.9,
+   "dur_ratio": 1.1,
+   "word_ratio": 1.12,
+   "audio_match": 0.988,
+   "missing_numbers": [],
+   "diffs": [
+    "basquetbol -> basketball",
+    "papeles -> papel es",
+    "pi por -> pipo",
+    " -> a",
+    "1800 -> 1 800",
+    "a -> ",
+    "esten frente -> este enfrente"
+   ]
+  },
+  {
+   "n": 5,
+   "name": "El altar mayor: de Júpiter a María",
+   "file": "05 - El altar mayor de Júpiter a María.mp3",
+   "es_min": 2.2,
+   "en_min": 2.1,
+   "dur_ratio": 1.05,
+   "word_ratio": 1.07,
+   "audio_match": 0.985,
+   "missing_numbers": [],
+   "diffs": [
+    "parada 5 el altar mayor de jupiter a maria -> ",
+    "11 -> once"
+   ]
+  },
+  {
+   "n": 6,
+   "name": "La tumba de Rafael",
+   "file": "06 - La tumba de Rafael.mp3",
+   "es_min": 2.2,
+   "en_min": 2.1,
+   "dur_ratio": 1.06,
+   "word_ratio": 1.07,
+   "audio_match": 0.974,
+   "missing_numbers": [],
+   "diffs": [
+    "ille hic est raphael -> ije y kest rafael",
+    "yace -> ya hace",
+    "vaticano -> baticano",
+    "sixtina -> sistina",
+    "vaticano -> baticano",
+    "segundo -> ii"
+   ]
+  },
+  {
+   "n": 7,
+   "name": "La tumba de Víctor Manuel segundo",
+   "file": "07 - La tumba de Víctor Manuel segundo.mp3",
+   "es_min": 1.5,
+   "en_min": 1.5,
+   "dur_ratio": 1.03,
+   "word_ratio": 1.05,
+   "audio_match": 0.946,
+   "missing_numbers": [],
+   "diffs": [
+    "parada 7 la tumba de victor manuel segundo -> ",
+    "della -> de la",
+    "segundo -> ii",
+    "diecinueve -> xix",
+    "diez -> x",
+    " -> el pais si ya estuvieron en",
+    "primero -> i"
+   ]
+  },
+  {
+   "n": 8,
+   "name": "La tumba de Humberto primero y la reina Margarita",
+   "file": "08 - La tumba de Humberto primero y la reina Margarita.mp3",
+   "es_min": 2.5,
+   "en_min": 2.4,
+   "dur_ratio": 1.04,
+   "word_ratio": 1.08,
+   "audio_match": 0.984,
+   "missing_numbers": [],
+   "diffs": [
+    "parada 8 -> ",
+    "tercero -> iii",
+    "saboya -> savoia",
+    "saboya -> savoia",
+    "saboya -> savoia",
+    "de vuelta -> devuelta"
+   ]
+  },
+  {
+   "n": 9,
+   "name": "El legado del Panteón",
+   "file": "09 - El legado del Panteón.mp3",
+   "es_min": 2.9,
+   "en_min": 3.9,
+   "dur_ratio": 0.76,
+   "word_ratio": 0.82,
+   "audio_match": 0.981,
+   "missing_numbers": [],
+   "diffs": [
+    "9 -> nueve",
+    "2000 -> dos mil",
+    "cuarto -> iv",
+    "despues de cristo -> d c",
+    "paso -> eso",
+    "openshaw -> opensap",
+    "grazie -> gracias"
+   ]
+  }
+ ]
+}
