@@ -8,11 +8,11 @@ STYLE = ("Leé el siguiente texto como un guía turístico cálido y cercano que
 
 
 def synth(text, out_mp3, model, voice="Charon", style=STYLE, retries=5):
-    body = {"contents": [{"parts": [{"text": f"{style}:\n\n{text}"}]}],
+    body = {"contents": [{"role": "user", "parts": [{"text": f"{style}:\n\n{text}"}]}],
             "generationConfig": {"responseModalities": ["AUDIO"],
                                  "speechConfig": {"voiceConfig": {"prebuiltVoiceConfig": {"voiceName": voice}}}}}
-    url = (f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent"
-           f"?key={os.environ['GEMINI_API_KEY']}")
+    url = (f"https://aiplatform.googleapis.com/v1/publishers/google/models/{model}:generateContent"
+           f"?key={os.environ['GOOGLE_VERTEX_API_KEY']}")
     for attempt in range(retries):
         try:
             req = urllib.request.Request(url, data=json.dumps(body).encode(), headers={"Content-Type": "application/json"})
