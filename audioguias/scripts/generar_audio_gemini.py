@@ -115,9 +115,13 @@ def main():
         en_total = en_segs[-1]["end"]
         out_dir = os.path.join(BASE, "salida_gemini", tour)
         os.makedirs(out_dir, exist_ok=True)
+        # Resume: borrar solo auxiliares (.partes, .tmp.mp3); conservar MP3 ya listos
         for f in os.listdir(out_dir):
             p = os.path.join(out_dir, f)
-            shutil.rmtree(p) if os.path.isdir(p) else os.remove(p)
+            if os.path.isdir(p) or f.endswith(".tmp.mp3") or f.endswith(".mejor"):
+                shutil.rmtree(p) if os.path.isdir(p) else os.remove(p)
+        prev_path = os.path.join(BASE, "verificacion_gemini", tour + ".json")
+        prev = {s["file"]: s for s in json.load(open(prev_path))["stops"]} if os.path.exists(prev_path) else {}
         report = {"tour": tour, "title": title, "model": MODEL, "voice": VOICE, "stops": []}
         for i, s in enumerate(stops):
             en_end = stops[i + 1]["en_start"] if i + 1 < len(stops) else en_total
@@ -125,6 +129,11 @@ def main():
             spoken = f"Parada {s['n']}. {s['name']}.\n\n{s['text']}"
             path = os.path.join(out_dir, f"{s['n']:02d} - {safe(s['name'])}.mp3")
             ws = words(spoken)
+            fname = os.path.basename(path)
+            if os.path.exists(path) and fname in prev:
+                report["stops"].append(prev[fname])
+                print(f"{tour} {s['n']:02d} (resume) match={prev[fname]['audio_match']}", flush=True)
+                continue
             for attempt in range(3):
                 tts(spoken, path)
                 audio = load_audio(path)
@@ -154,7 +163,8 @@ def main():
             r = report["stops"][-1]
             print(f"{tour} {s['n']:02d} match={r['audio_match']} words={r['word_ratio']} "
                   f"dur={r['dur_ratio']} nums={missing_nums}", flush=True)
-        json.dump(report, open(os.path.join(BASE, "verificacion_gemini", tour + ".json"), "w"), ensure_ascii=False, indent=1)
+            # dump incremental para que un corte permita resume
+            json.dump(report, open(os.path.join(BASE, "verificacion_gemini", tour + ".json"), "w"), ensure_ascii=False, indent=1)
 
 
 main()

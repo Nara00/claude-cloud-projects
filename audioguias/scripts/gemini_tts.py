@@ -1,13 +1,13 @@
 """Sintetiza texto con Gemini TTS (API de Gemini) y lo guarda como MP3.
 Uso como módulo: synth(text, out_mp3, model, voice, style)."""
-import base64, json, os, subprocess, time, urllib.error, urllib.request
+import base64, http.client, json, os, socket, subprocess, time, urllib.error, urllib.request
 
 STYLE = ("Leé el siguiente texto como un guía turístico cálido y cercano que acompaña a una pareja mayor "
          "en un paseo. Español latinoamericano neutro, ritmo pausado y natural, con entonación expresiva "
          "pero sin exagerar. Leé solo el texto, sin agregar nada")
 
 
-def synth(text, out_mp3, model, voice="Charon", style=STYLE, retries=5):
+def synth(text, out_mp3, model, voice="Charon", style=STYLE, retries=8):
     body = {"contents": [{"role": "user", "parts": [{"text": f"{style}:\n\n{text}"}]}],
             "generationConfig": {"responseModalities": ["AUDIO"],
                                  "speechConfig": {"voiceConfig": {"prebuiltVoiceConfig": {"voiceName": voice}}}}}
@@ -31,3 +31,8 @@ def synth(text, out_mp3, model, voice="Charon", style=STYLE, retries=5):
             if attempt < retries - 1:
                 time.sleep(5); continue
             raise RuntimeError(f"respuesta sin audio: {json.dumps(r)[:300]}")
+        except (urllib.error.URLError, http.client.RemoteDisconnected,
+                http.client.IncompleteRead, ConnectionError, socket.timeout) as e:
+            if attempt < retries - 1:
+                time.sleep(5 * (attempt + 1)); continue
+            raise RuntimeError(f"red: {e!r}")
