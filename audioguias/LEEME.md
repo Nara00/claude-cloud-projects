@@ -13,7 +13,22 @@ Traducción para uso personal (viaje familiar) de 21 audioguías gratuitas de Ri
 
 Ya se entregó una primera versión completa (8 ZIP, 331 paradas, 17,4 h) con la voz de Edge. A la usuaria la entonación le resultó poco natural.
 
-## Próximo paso: regenerar el audio con Google Chirp 3 HD
+## Actualización (23 de octubre): Chirp 3 HD sigue sonando robótico, se pasa a Gemini-TTS
+
+- La usuaria escuchó muestras de Chirp 3 HD y también le sonaron robóticas. Decidió usar **Gemini-TTS** y regenerar **primero solo Roma y Florencia** (16 tours, unas 11 horas, alrededor de 1 millón de tokens de audio, a 25 tokens por segundo).
+- Pago: la cuenta de Google Cloud tiene **US$ 300 de crédito de prueba** (90 días). La API de Gemini (AI Studio, `GEMINI_API_KEY`) cobra con **saldo prepago propio**, que está en cero (error 402), así que **no se usa**. La usuaria eligió usar Vertex AI con los créditos de prueba.
+- Para eso creó la cuenta de servicio `audioguias-tts@audioguias-512412.iam.gserviceaccount.com` (rol Usuario de Vertex AI) y una clave de API vinculada a ella, restringida a Agent Platform API, en la variable **`GOOGLE_VERTEX_API_KEY`**.
+- Ya probado: `GOOGLE_TTS_API_KEY` con Gemini a través de Text-to-Speech da 403 (`aiplatform.endpoints.predict` denegado), y llamada a Vertex da 401. `GEMINI_API_KEY` contra Vertex da 403, porque está restringida.
+- Próximo paso: probar `GOOGLE_VERTEX_API_KEY` en:
+  1. `POST https://aiplatform.googleapis.com/v1/publishers/google/models/<modelo>:generateContent?key=...` (modo express),
+  2. `POST https://aiplatform.googleapis.com/v1/projects/audioguias-512412/locations/global/publishers/google/models/<modelo>:generateContent?key=...`,
+  3. Text-to-Speech con `voice.modelName`.
+  
+  Modelos a probar: `gemini-2.5-flash-tts`, `gemini-2.5-pro-tts`, `gemini-3.1-flash-tts-preview`; en la API de Gemini también existen `gemini-3.8-flash-tts` y `gemini-3.8-flash-lite-tts`. Si los permisos dan 403, puede ser demora de propagación (esperar unos minutos) o que falte el rol en IAM.
+- `scripts/gemini_tts.py` ya arma el pedido `generateContent` con `responseModalities: ["AUDIO"]` y `prebuiltVoiceConfig`, y convierte el PCM de 24 kHz a MP3. Hay que adaptarle la URL o endpoint según la ruta que funcione. El estilo va como instrucción antes del texto: "guía turístico cálido y cercano, español latinoamericano neutro, ritmo pausado".
+- Muestras pendientes: la parada 02 del Panteón (3 párrafos, unas 175 palabras) con cada modelo y la voz Charon, masculina. Mandarlas y que la usuaria elija. Después regenerar Roma y Florencia con los mismos controles de verificación (re-transcripción, cortes y palabras por minuto) y entregar los ZIP de Roma y Florencia.
+
+## (Anterior) Próximo paso: regenerar el audio con Google Chirp 3 HD
 
 - La clave de API llega como variable de entorno `GOOGLE_TTS_API_KEY`. No pedirla por el chat.
 - Primero, una muestra: la misma parada (por ejemplo Panteón, parada 02) con 3 o 4 voces Chirp 3 HD, latinoamericanas (`es-US-Chirp3-HD-*`) y de España (`es-ES-Chirp3-HD-*`), para que elija. Listar las voces con `GET https://texttospeech.googleapis.com/v1/voices?languageCode=es-US&key=...`.
