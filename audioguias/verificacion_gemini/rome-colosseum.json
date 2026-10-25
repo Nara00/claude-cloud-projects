@@ -1,0 +1,24 @@
+{
+ "tour": "rome-colosseum",
+ "title": "El Coliseo de Roma",
+ "model": "gemini-3.1-flash-tts-preview",
+ "voice": "Charon",
+ "stops": [
+  {
+   "n": 1,
+   "name": "Introducción",
+   "file": "01 - Introducción.mp3",
+   "es_min": 2.0,
+   "en_min": 2.6,
+   "dur_ratio": 0.78,
+   "word_ratio": 0.73,
+   "audio_match": 0.996,
+   "ppm": 125,
+   "tts_attempts": 1,
+   "missing_numbers": [],
+   "diffs": [
+    "cinanse -> sinanse"
+   ]
+  }
+ ]
+}

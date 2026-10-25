@@ -168,6 +168,27 @@
     "saboya -> zaboya",
     "saboya -> zaboya"
    ]
+  },
+  {
+   "n": 9,
+   "name": "El legado del Panteón",
+   "file": "09 - El legado del Panteón.mp3",
+   "es_min": 3.6,
+   "en_min": 3.9,
+   "dur_ratio": 0.92,
+   "word_ratio": 0.82,
+   "audio_match": 0.98,
+   "ppm": 131,
+   "tts_attempts": 1,
+   "missing_numbers": [],
+   "diffs": [
+    "2000 -> dos mil",
+    "cuarto -> iv",
+    "despues de cristo -> d c",
+    "1400 -> 1 400",
+    "openshaw -> openshow",
+    "grazie ciao -> gracias chao"
+   ]
   }
  ]
 }
