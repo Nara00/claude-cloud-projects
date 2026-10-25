@@ -147,6 +147,53 @@
     "a -> ",
     "pasen -> passen"
    ]
+  },
+  {
+   "n": 8,
+   "name": "Ladrillo y hormigón romanos",
+   "file": "08 - Ladrillo y hormigón romanos.mp3",
+   "es_min": 4.2,
+   "en_min": 3.2,
+   "dur_ratio": 1.31,
+   "word_ratio": 1.11,
+   "audio_match": 0.968,
+   "ppm": 135,
+   "tts_attempts": 1,
+   "missing_numbers": [],
+   "diffs": [
+    "parada -> ",
+    "de -> del",
+    "1000 -> mil",
+    "antes de cristo -> a c",
+    "despues de cristo -> d c",
+    "vestales -> bestales",
+    "plebeyos -> plebellos",
+    "madera -> madira",
+    "despues de cristo -> d c",
+    "tender -> atender",
+    "afuera -> fuera",
+    "zumban -> sumban",
+    "e imaginenlos -> imaginen los"
+   ]
+  },
+  {
+   "n": 9,
+   "name": "Los alrededores del Coliseo",
+   "file": "09 - Los alrededores del Coliseo.mp3",
+   "es_min": 2.1,
+   "en_min": 1.8,
+   "dur_ratio": 1.18,
+   "word_ratio": 1.09,
+   "audio_match": 0.985,
+   "ppm": 143,
+   "tts_attempts": 1,
+   "missing_numbers": [],
+   "diffs": [
+    "parasol -> para sol",
+    "antes -> ante",
+    "de -> del",
+    "de -> del"
+   ]
   }
  ]
 }
