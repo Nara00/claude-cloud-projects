@@ -37,6 +37,7 @@ function cityUrls(city, cityId) {
     for (const s of t.stops) {
       urls.push(AUDIO_PATH(cityId, t.id, s.n, s.name));
     }
+    if (t.map_url) urls.push(t.map_url);
   }
   return urls;
 }
@@ -61,8 +62,11 @@ async function downloadCity(cityId, onProgress) {
     try {
       const match = await cache.match(u);
       if (!match) {
-        const res = await fetch(u, { cache: "no-cache" });
-        if (res.ok) await cache.put(u, res.clone());
+        // Para links cross-origin (PDFs del cloudfront), usar no-cors para poder guardar en cache
+        const isExternal = /^https?:\/\//.test(u) && !u.startsWith(location.origin);
+        const req = isExternal ? new Request(u, { mode: "no-cors" }) : new Request(u, { cache: "no-cache" });
+        const res = await fetch(req);
+        if (res.ok || res.type === "opaque") await cache.put(u, res.clone());
         else failed++;
       }
     } catch (e) { failed++; }
@@ -86,8 +90,6 @@ function viewCities() {
   root.innerHTML = "";
   root.append(el("section", { class: "hero" },
     el("div", { class: "dot d1" }),
-    el("div", { class: "dot d2" }),
-    el("div", { class: "dot d3" }),
     el("h2", {}, "Elegí tu próxima parada"),
     el("p", {}, "Descargá una ciudad, salí a caminar y escuchá sin internet."),
   ));
@@ -195,6 +197,17 @@ function viewTour(cityId, tourId) {
   root.innerHTML = "";
   QUEUE = tour.stops.map(s => ({ ...s, cityId, tourId }));
 
+  if (tour.map_url) {
+    const header = el("div", { class: "tour-header" },
+      el("a", { class: "map-btn", href: tour.map_url, target: "_blank", rel: "noopener" },
+        el("span", { class: "map-ico" }, "🗺"),
+        el("span", {}, "Ver mapa oficial del tour"),
+        el("span", { class: "map-ext" }, "↗"),
+      ),
+    );
+    root.append(header);
+  }
+
   for (const s of tour.stops) {
     const audioUrl = AUDIO_PATH(cityId, tourId, s.n, s.name);
     const stopEl = el("div", { class: "stop", id: `stop-${s.n}` },
@@ -251,6 +264,10 @@ function updateMediaSession(city, tour, stop) {
     navigator.mediaSession.setActionHandler("nexttrack", next);
     navigator.mediaSession.setActionHandler("play", togglePlay);
     navigator.mediaSession.setActionHandler("pause", togglePlay);
+    try {
+      navigator.mediaSession.setActionHandler("seekbackward", (d) => { AUDIO.currentTime = Math.max(0, AUDIO.currentTime - (d?.seekOffset || 5)); });
+      navigator.mediaSession.setActionHandler("seekforward",  (d) => { AUDIO.currentTime = Math.min(AUDIO.duration || 0, AUDIO.currentTime + (d?.seekOffset || 5)); });
+    } catch (e) {}
   }
 }
 
@@ -272,10 +289,26 @@ function next() {
   if (idx >= 0 && idx + 1 < QUEUE.length) play(PLAYING.cityId, PLAYING.tourId, QUEUE[idx + 1].n);
 }
 
+const RATES = [1, 1.25, 1.5, 2, 0.75];
+let RATE_IDX = Number(localStorage.getItem("rate_idx") || 0);
+AUDIO.playbackRate = RATES[RATE_IDX];
+$("#np-rate").textContent = RATES[RATE_IDX] + "×";
+$("#np-rate").classList.toggle("active", RATES[RATE_IDX] !== 1);
+
+function fmt(t) {
+  if (!isFinite(t)) return "0:00";
+  const m = Math.floor(t / 60), s = Math.floor(t % 60);
+  return m + ":" + String(s).padStart(2, "0");
+}
+
 AUDIO.addEventListener("ended", next);
 AUDIO.addEventListener("timeupdate", () => {
   if (!AUDIO.duration) return;
   $("#np-seek").value = (AUDIO.currentTime / AUDIO.duration) * 100;
+  $("#np-cur").textContent = fmt(AUDIO.currentTime);
+});
+AUDIO.addEventListener("loadedmetadata", () => {
+  $("#np-dur").textContent = fmt(AUDIO.duration);
 });
 $("#np-seek").addEventListener("input", () => {
   if (AUDIO.duration) AUDIO.currentTime = (Number($("#np-seek").value) / 100) * AUDIO.duration;
@@ -283,6 +316,22 @@ $("#np-seek").addEventListener("input", () => {
 $("#np-play").addEventListener("click", togglePlay);
 $("#np-prev").addEventListener("click", prev);
 $("#np-next").addEventListener("click", next);
+$("#np-back").addEventListener("click", () => { AUDIO.currentTime = Math.max(0, AUDIO.currentTime - 5); });
+$("#np-fwd").addEventListener("click", () => { AUDIO.currentTime = Math.min(AUDIO.duration || 0, AUDIO.currentTime + 5); });
+$("#np-rate").addEventListener("click", () => {
+  RATE_IDX = (RATE_IDX + 1) % RATES.length;
+  AUDIO.playbackRate = RATES[RATE_IDX];
+  $("#np-rate").textContent = RATES[RATE_IDX] + "×";
+  $("#np-rate").classList.toggle("active", RATES[RATE_IDX] !== 1);
+  localStorage.setItem("rate_idx", RATE_IDX);
+});
+// Teclado (iPad / escritorio)
+document.addEventListener("keydown", (e) => {
+  if (e.target.matches("input,textarea")) return;
+  if (e.code === "Space") { e.preventDefault(); togglePlay(); }
+  else if (e.code === "ArrowLeft") { AUDIO.currentTime = Math.max(0, AUDIO.currentTime - 5); }
+  else if (e.code === "ArrowRight") { AUDIO.currentTime = Math.min(AUDIO.duration || 0, AUDIO.currentTime + 5); }
+});
 
 // -------- Router --------
 function route() {

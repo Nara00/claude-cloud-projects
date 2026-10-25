@@ -35,6 +35,27 @@ CITIES = {
                  "center": [37.3886, -5.9823], "zoom": 15, "tours": ["sevilla-city-walk"]},
 }
 
+# URL del PDF del mapa oficial de Rick Steves para cada tour.
+# Son los links reales del CDN; se abren directo en el navegador del teléfono.
+TOUR_MAPS = {
+    "rome-pantheon": "https://d3dqioy2sca31t.cloudfront.net/Projects/cms/production/000/004/454/original/c9bf7131f52c3012c39c5db21f945984/pantheon.pdf",
+    "rome-colosseum": "https://www.ricksteves.com/watch-read-listen/audio/audio-tours/map-audiotours-colosseum.pdf",
+    "rome-forum": "https://www.ricksteves.com/watch-read-listen/audio/audio-tours/map-audiotours-forum.pdf",
+    "rome-heart": "https://www.ricksteves.com/watch-read-listen/audio/audio-tours/heart-of-rome-walk-map-1.pdf",
+    "rome-jewish-ghetto": "https://www.ricksteves.com/watch-read-listen/audio/audio-tours/map-audiotours-rome-jewish-ghetto.pdf",
+    "rome-ostia-antica": "https://www.ricksteves.com/watch-read-listen/audio/audio-tours/map-audiotours-rome-ostia-antica.pdf",
+    "rome-sistine-chapel": "https://www.ricksteves.com/watch-read-listen/audio/audio-tours/map-audiotours-rome-sistine.pdf",
+    "rome-st-peters-basilica": "https://www.ricksteves.com/watch-read-listen/audio/audio-tours/map-audiotours-st-peters-basilica.pdf",
+    "rome-trastevere": "https://www.ricksteves.com/watch-read-listen/audio/audio-tours/map-audiotours-rome-trastevere.pdf",
+    "rome-vatican-museums": "https://www.ricksteves.com/watch-read-listen/audio/audio-tours/vatican-musems-map.pdf",
+    "rome-vatican-pinacoteca": "https://www.ricksteves.com/rome-pinacoteca-audio-tour-map.pdf",
+    "florence-accademia-david": "https://www.ricksteves.com/watch-read-listen/audio/audio-tours/map-audiotours-accademia.pdf",
+    "florence-bargello": "https://www.ricksteves.com/watch-read-listen/audio/audio-tours/map-audiotours-florence-bargello-museum.pdf",
+    "florence-renaissance-walk": "https://www.ricksteves.com/watch-read-listen/audio/audio-tours/map-audiotours-florence-renaissance-walk.pdf",
+    "florence-san-marco-museum": "https://www.ricksteves.com/watch-read-listen/audio/audio-tours/map-audiotours-florence-sanmarco-museum.pdf",
+    "florence-uffizi-gallery": "https://www.ricksteves.com/watch-read-listen/audio/audio-tours/map-audiotours-florence-uffizi.pdf",
+}
+
 # Coordenadas aproximadas del punto de inicio de cada tour (centro del lugar).
 # Las paradas internas heredan la coord del tour. Mejora futura: coord por parada.
 TOUR_COORDS = {
@@ -165,6 +186,7 @@ def main():
                 "title": TOUR_TITLES.get(tour, tour),
                 "full_title": full_title,
                 "coord": tour_coord,
+                "map_url": TOUR_MAPS.get(tour),
                 "stops": [{"n": s["n"], "name": s["name"], "text": s["text"],
                             "en_start": s["en_start"], "coord": s["coord"]} for s in stops],
             })

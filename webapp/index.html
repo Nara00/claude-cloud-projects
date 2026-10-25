@@ -33,12 +33,15 @@
     <div class="np-sub" id="np-sub"></div>
   </div>
   <div class="np-controls">
-    <button id="np-prev" aria-label="Anterior">⏮</button>
+    <button id="np-prev" aria-label="Parada anterior" title="Parada anterior">⏮</button>
+    <button id="np-back" aria-label="Retroceder 5 segundos" title="−5 s">−5s</button>
     <button id="np-play" aria-label="Reproducir">▶</button>
-    <button id="np-next" aria-label="Siguiente">⏭</button>
+    <button id="np-fwd" aria-label="Avanzar 5 segundos" title="+5 s">+5s</button>
+    <button id="np-next" aria-label="Siguiente parada" title="Siguiente parada">⏭</button>
+    <button id="np-rate" aria-label="Velocidad" title="Velocidad">1×</button>
   </div>
+  <div class="np-times"><span id="np-cur">0:00</span><input type="range" id="np-seek" min="0" max="100" value="0" step="0.1" aria-label="Posición"><span id="np-dur">0:00</span></div>
   <audio id="audio" preload="metadata"></audio>
-  <input type="range" id="np-seek" min="0" max="100" value="0" step="0.1" aria-label="Posición">
 </nav>
 
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"

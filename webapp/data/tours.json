@@ -17,6 +17,7 @@
       41.8986,
       12.4769
      ],
+     "map_url": "https://d3dqioy2sca31t.cloudfront.net/Projects/cms/production/000/004/454/original/c9bf7131f52c3012c39c5db21f945984/pantheon.pdf",
      "stops": [
       {
        "n": 1,
@@ -118,6 +119,7 @@
       41.8902,
       12.4922
      ],
+     "map_url": "https://www.ricksteves.com/watch-read-listen/audio/audio-tours/map-audiotours-colosseum.pdf",
      "stops": [
       {
        "n": 1,
@@ -249,6 +251,7 @@
       41.8925,
       12.4853
      ],
+     "map_url": "https://www.ricksteves.com/watch-read-listen/audio/audio-tours/map-audiotours-forum.pdf",
      "stops": [
       {
        "n": 1,
@@ -430,6 +433,7 @@
       41.9009,
       12.4833
      ],
+     "map_url": "https://www.ricksteves.com/watch-read-listen/audio/audio-tours/heart-of-rome-walk-map-1.pdf",
      "stops": [
       {
        "n": 1,
@@ -601,6 +605,7 @@
       41.8921,
       12.4777
      ],
+     "map_url": "https://www.ricksteves.com/watch-read-listen/audio/audio-tours/map-audiotours-rome-jewish-ghetto.pdf",
      "stops": [
       {
        "n": 1,
@@ -722,6 +727,7 @@
       41.7556,
       12.2914
      ],
+     "map_url": "https://www.ricksteves.com/watch-read-listen/audio/audio-tours/map-audiotours-rome-ostia-antica.pdf",
      "stops": [
       {
        "n": 1,
@@ -893,6 +899,7 @@
       41.9029,
       12.4545
      ],
+     "map_url": "https://www.ricksteves.com/watch-read-listen/audio/audio-tours/map-audiotours-rome-sistine.pdf",
      "stops": [
       {
        "n": 1,
@@ -1014,6 +1021,7 @@
       41.9022,
       12.4539
      ],
+     "map_url": "https://www.ricksteves.com/watch-read-listen/audio/audio-tours/map-audiotours-st-peters-basilica.pdf",
      "stops": [
       {
        "n": 1,
@@ -1195,6 +1203,7 @@
       41.8882,
       12.468
      ],
+     "map_url": "https://www.ricksteves.com/watch-read-listen/audio/audio-tours/map-audiotours-rome-trastevere.pdf",
      "stops": [
       {
        "n": 1,
@@ -1326,6 +1335,7 @@
       41.9064,
       12.4536
      ],
+     "map_url": "https://www.ricksteves.com/watch-read-listen/audio/audio-tours/vatican-musems-map.pdf",
      "stops": [
       {
        "n": 1,
@@ -1497,6 +1507,7 @@
       41.9064,
       12.4536
      ],
+     "map_url": "https://www.ricksteves.com/rome-pinacoteca-audio-tour-map.pdf",
      "stops": [
       {
        "n": 1,
@@ -1669,6 +1680,7 @@
       43.7766,
       11.2594
      ],
+     "map_url": "https://www.ricksteves.com/watch-read-listen/audio/audio-tours/map-audiotours-accademia.pdf",
      "stops": [
       {
        "n": 1,
@@ -1770,6 +1782,7 @@
       43.7703,
       11.2576
      ],
+     "map_url": "https://www.ricksteves.com/watch-read-listen/audio/audio-tours/map-audiotours-florence-bargello-museum.pdf",
      "stops": [
       {
        "n": 1,
@@ -1911,6 +1924,7 @@
       43.7731,
       11.2559
      ],
+     "map_url": "https://www.ricksteves.com/watch-read-listen/audio/audio-tours/map-audiotours-florence-renaissance-walk.pdf",
      "stops": [
       {
        "n": 1,
@@ -2112,6 +2126,7 @@
       43.7786,
       11.2585
      ],
+     "map_url": "https://www.ricksteves.com/watch-read-listen/audio/audio-tours/map-audiotours-florence-sanmarco-museum.pdf",
      "stops": [
       {
        "n": 1,
@@ -2323,6 +2338,7 @@
       43.7678,
       11.2553
      ],
+     "map_url": "https://www.ricksteves.com/watch-read-listen/audio/audio-tours/map-audiotours-florence-uffizi.pdf",
      "stops": [
       {
        "n": 1,
@@ -2545,6 +2561,7 @@
       43.3188,
       11.3307
      ],
+     "map_url": null,
      "stops": [
       {
        "n": 1,
@@ -2767,6 +2784,7 @@
       41.3851,
       2.1734
      ],
+     "map_url": null,
      "stops": [
       {
        "n": 1,
@@ -3008,6 +3026,7 @@
       41.3917,
       2.1649
      ],
+     "map_url": null,
      "stops": [
       {
        "n": 1,
@@ -3220,6 +3239,7 @@
       40.4168,
       -3.7038
      ],
+     "map_url": null,
      "stops": [
       {
        "n": 1,
@@ -3452,6 +3472,7 @@
       37.3886,
       -5.9823
      ],
+     "map_url": null,
      "stops": [
       {
        "n": 1,
@@ -3608,5 +3629,5 @@
    ]
   }
  },
- "built_at": "2026-10-25T14:05:09Z"
+ "built_at": "2026-10-25T15:20:40Z"
 }

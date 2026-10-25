@@ -40,6 +40,69 @@
     "cipreses -> ypreses",
     "ocho -> 8"
    ]
+  },
+  {
+   "n": 3,
+   "name": "Alrededor del Coliseo",
+   "file": "03 - Alrededor del Coliseo.mp3",
+   "es_min": 6.8,
+   "en_min": 5.5,
+   "dur_ratio": 1.22,
+   "word_ratio": 1.11,
+   "audio_match": 0.988,
+   "ppm": 136,
+   "tts_attempts": 1,
+   "missing_numbers": [],
+   "diffs": [
+    "jonico -> honico",
+    "arena -> harina",
+    "despues de cristo -> d c",
+    "vespasiano -> vespaciano",
+    "diez -> 10",
+    "000 -> mil",
+    "despues de cristo -> d c",
+    "ver -> haber"
+   ]
+  },
+  {
+   "n": 4,
+   "name": "La entrada",
+   "file": "04 - La entrada.mp3",
+   "es_min": 1.5,
+   "en_min": 1.2,
+   "dur_ratio": 1.18,
+   "word_ratio": 1.05,
+   "audio_match": 1.0,
+   "ppm": 137,
+   "tts_attempts": 1,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 5,
+   "name": "La vista de la arena",
+   "file": "05 - La vista de la arena.mp3",
+   "es_min": 6.9,
+   "en_min": 6.2,
+   "dur_ratio": 1.11,
+   "word_ratio": 1.06,
+   "audio_match": 0.983,
+   "ppm": 135,
+   "tts_attempts": 1,
+   "missing_numbers": [],
+   "diffs": [
+    "ser lo -> hacerlo",
+    "darles -> darle",
+    "escena -> cena",
+    "extremo este -> extremoeste",
+    "podian -> pudian",
+    "entraban -> entraman",
+    "vestales -> bestales",
+    "vestales -> bestales",
+    "ave cesar ave cesar -> avesesar avesesar",
+    "ave cesar ave cesar -> avesesar avesesar",
+    "escenico -> escemico"
+   ]
   }
  ]
 }
