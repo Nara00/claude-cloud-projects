@@ -194,6 +194,72 @@
     "de -> del",
     "de -> del"
    ]
+  },
+  {
+   "n": 10,
+   "name": "El Templo de Venus y Roma",
+   "file": "10 - El Templo de Venus y Roma.mp3",
+   "es_min": 3.6,
+   "en_min": 3.1,
+   "dur_ratio": 1.16,
+   "word_ratio": 1.07,
+   "audio_match": 0.981,
+   "ppm": 129,
+   "tts_attempts": 1,
+   "missing_numbers": [],
+   "diffs": [
+    "2 -> dos",
+    "de -> del",
+    "cella -> cela",
+    "segundo -> ii",
+    "cellas -> sellas",
+    "erre -> r",
+    "eme -> m",
+    "eme -> m",
+    "erre -> r"
+   ]
+  },
+  {
+   "n": 11,
+   "name": "El arco de Constantino",
+   "file": "11 - El arco de Constantino.mp3",
+   "es_min": 2.1,
+   "en_min": 1.6,
+   "dur_ratio": 1.34,
+   "word_ratio": 1.12,
+   "audio_match": 0.981,
+   "ppm": 123,
+   "tts_attempts": 1,
+   "missing_numbers": [],
+   "diffs": [
+    "majencio -> magensio",
+    "a uno -> aun no",
+    "cubrirlo -> quibrirlo",
+    "cuarto -> iv"
+   ]
+  },
+  {
+   "n": 12,
+   "name": "El legado de dos mil años del Coliseo",
+   "file": "12 - El legado de dos mil años del Coliseo.mp3",
+   "es_min": 3.2,
+   "en_min": 3.5,
+   "dur_ratio": 0.92,
+   "word_ratio": 0.8,
+   "audio_match": 0.971,
+   "ppm": 129,
+   "tts_attempts": 1,
+   "missing_numbers": [],
+   "diffs": [
+    "dos mil -> 2000",
+    "1000 -> mil",
+    "dieciseis -> xvi",
+    "a si -> asi",
+    "fuera -> fueras",
+    "2000 -> dos mil",
+    "gene openshaw -> game open show",
+    "grazie ciao -> gracias chao"
+   ]
   }
  ]
 }
