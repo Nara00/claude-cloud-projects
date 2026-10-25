@@ -1,0 +1,44 @@
+{
+ "tour": "rome-forum",
+ "title": "El Foro Romano",
+ "model": "gemini-3.1-flash-tts-preview",
+ "voice": "Charon",
+ "stops": [
+  {
+   "n": 1,
+   "name": "Introducción",
+   "file": "01 - Introducción.mp3",
+   "es_min": 1.1,
+   "en_min": 1.6,
+   "dur_ratio": 0.71,
+   "word_ratio": 0.53,
+   "audio_match": 0.98,
+   "ppm": 115,
+   "tts_attempts": 1,
+   "missing_numbers": [],
+   "diffs": [
+    "2 -> dos",
+    "a -> ",
+    "vestales -> bestales"
+   ]
+  },
+  {
+   "n": 2,
+   "name": "Vista del Foro",
+   "file": "02 - Vista del Foro.mp3",
+   "es_min": 3.6,
+   "en_min": 3.0,
+   "dur_ratio": 1.18,
+   "word_ratio": 1.05,
+   "audio_match": 0.994,
+   "ppm": 134,
+   "tts_attempts": 1,
+   "missing_numbers": [],
+   "diffs": [
+    "colosseo -> coloseo",
+    "de -> del",
+    "jirafas -> girafas"
+   ]
+  }
+ ]
+}
