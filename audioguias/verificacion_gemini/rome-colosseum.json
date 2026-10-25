@@ -103,6 +103,50 @@
     "ave cesar ave cesar -> avesesar avesesar",
     "escenico -> escemico"
    ]
+  },
+  {
+   "n": 6,
+   "name": "Los juegos de gladiadores",
+   "file": "06 - Los juegos de gladiadores.mp3",
+   "es_min": 5.2,
+   "en_min": 4.0,
+   "dur_ratio": 1.29,
+   "word_ratio": 1.07,
+   "audio_match": 0.987,
+   "ppm": 128,
+   "tts_attempts": 1,
+   "missing_numbers": [],
+   "diffs": [
+    "puercoespines -> por cuespines",
+    "tramoyistas -> tramollistas",
+    "cobarde -> covarde",
+    "2000 -> 2 000",
+    "9000 -> 9 000",
+    "cinco -> 5",
+    "hedor -> edor"
+   ]
+  },
+  {
+   "n": 7,
+   "name": "Pan y circo",
+   "file": "07 - Pan y circo.mp3",
+   "es_min": 3.4,
+   "en_min": 3.0,
+   "dur_ratio": 1.15,
+   "word_ratio": 1.13,
+   "audio_match": 0.984,
+   "ppm": 132,
+   "tts_attempts": 1,
+   "missing_numbers": [],
+   "diffs": [
+    "parada -> ",
+    "a gladiador -> agladiador",
+    "peleando -> aleando",
+    "el -> ",
+    "les daba -> le estaba",
+    "a -> ",
+    "pasen -> passen"
+   ]
   }
  ]
 }
