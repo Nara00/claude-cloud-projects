@@ -39,6 +39,28 @@
     "de -> del",
     "jirafas -> girafas"
    ]
+  },
+  {
+   "n": 3,
+   "name": "El Arco de Tito",
+   "file": "03 - El Arco de Tito.mp3",
+   "es_min": 3.4,
+   "en_min": 2.9,
+   "dur_ratio": 1.19,
+   "word_ratio": 1.11,
+   "audio_match": 0.977,
+   "ppm": 128,
+   "tts_attempts": 1,
+   "missing_numbers": [],
+   "diffs": [
+    "despues de cristo -> d c",
+    "benevolos -> veneevolos",
+    "a un -> aun",
+    "rebelo -> revelo",
+    "menora -> menor a",
+    "2000 -> dos mil",
+    "pasen -> passen"
+   ]
   }
  ]
 }

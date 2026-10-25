@@ -1,0 +1,27 @@
+{
+ "tour": "rome-heart",
+ "title": "Paseo por el corazón de Roma",
+ "model": "gemini-3.1-flash-tts-preview",
+ "voice": "Charon",
+ "stops": [
+  {
+   "n": 1,
+   "name": "Introducción",
+   "file": "01 - Introducción.mp3",
+   "es_min": 3.1,
+   "en_min": 3.2,
+   "dur_ratio": 0.96,
+   "word_ratio": 0.84,
+   "audio_match": 0.99,
+   "ppm": 130,
+   "tts_attempts": 1,
+   "missing_numbers": [],
+   "diffs": [
+    "plazas -> ",
+    "burbujeantes -> burbujiantes",
+    "passeggiata -> paseyata",
+    "a horcajadas -> ahorcajadas"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,24 @@
+{
+ "tour": "rome-ostia-antica",
+ "title": "Ostia Antica",
+ "model": "gemini-3.1-flash-tts-preview",
+ "voice": "Charon",
+ "stops": [
+  {
+   "n": 1,
+   "name": "Introducción",
+   "file": "01 - Introducción.mp3",
+   "es_min": 1.7,
+   "en_min": 1.9,
+   "dur_ratio": 0.86,
+   "word_ratio": 0.69,
+   "audio_match": 0.993,
+   "ppm": 126,
+   "tts_attempts": 1,
+   "missing_numbers": [],
+   "diffs": [
+    "60000 -> 60 000"
+   ]
+  }
+ ]
+}

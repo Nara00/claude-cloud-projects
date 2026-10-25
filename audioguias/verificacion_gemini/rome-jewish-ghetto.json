@@ -1,0 +1,25 @@
+{
+ "tour": "rome-jewish-ghetto",
+ "title": "El Gueto Judío de Roma",
+ "model": "gemini-3.1-flash-tts-preview",
+ "voice": "Charon",
+ "stops": [
+  {
+   "n": 1,
+   "name": "Introducción",
+   "file": "01 - Introducción.mp3",
+   "es_min": 1.7,
+   "en_min": 2.0,
+   "dur_ratio": 0.85,
+   "word_ratio": 0.68,
+   "audio_match": 0.991,
+   "ppm": 126,
+   "tts_attempts": 1,
+   "missing_numbers": [],
+   "diffs": [
+    "kosher -> cocher",
+    "judia -> jubia"
+   ]
+  }
+ ]
+}
