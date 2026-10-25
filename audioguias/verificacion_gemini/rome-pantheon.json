@@ -147,6 +147,27 @@
     "diez -> x",
     "primero -> i"
    ]
+  },
+  {
+   "n": 8,
+   "name": "La tumba de Humberto primero y la reina Margarita",
+   "file": "08 - La tumba de Humberto primero y la reina Margarita.mp3",
+   "es_min": 2.9,
+   "en_min": 2.4,
+   "dur_ratio": 1.24,
+   "word_ratio": 1.08,
+   "audio_match": 0.985,
+   "ppm": 137,
+   "tts_attempts": 1,
+   "missing_numbers": [],
+   "diffs": [
+    "primero -> i",
+    "albahaca -> albaca",
+    "tercero -> iii",
+    "saboya -> zaboya",
+    "saboya -> zaboya",
+    "saboya -> zaboya"
+   ]
   }
  ]
 }
