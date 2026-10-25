@@ -42,6 +42,111 @@
     "despues de cristo -> d c",
     "6 -> seis"
    ]
+  },
+  {
+   "n": 3,
+   "name": "El pórtico",
+   "file": "03 - El pórtico.mp3",
+   "es_min": 2.4,
+   "en_min": 2.1,
+   "dur_ratio": 1.13,
+   "word_ratio": 1.12,
+   "audio_match": 0.987,
+   "ppm": 129,
+   "tts_attempts": 1,
+   "missing_numbers": [],
+   "diffs": [
+    "extrajeron -> extranjeron",
+    "barcazas -> barcasas",
+    "por -> con",
+    "agripa -> agrippa"
+   ]
+  },
+  {
+   "n": 4,
+   "name": "Bajo la cúpula",
+   "file": "04 - Bajo la cúpula.mp3",
+   "es_min": 5.1,
+   "en_min": 3.9,
+   "dur_ratio": 1.31,
+   "word_ratio": 1.12,
+   "audio_match": 0.986,
+   "ppm": 142,
+   "tts_attempts": 1,
+   "missing_numbers": [],
+   "diffs": [
+    "basquetbol -> basketball",
+    "6 -> seis",
+    "pomez -> pommes",
+    "casetones -> cacetones",
+    " -> a",
+    "basilica -> vacilica",
+    "basilica -> vacilica",
+    "1800 -> 1 800",
+    "esten frente -> este enfrente"
+   ]
+  },
+  {
+   "n": 5,
+   "name": "El altar mayor: de Júpiter a María",
+   "file": "05 - El altar mayor de Júpiter a María.mp3",
+   "es_min": 2.5,
+   "en_min": 2.1,
+   "dur_ratio": 1.23,
+   "word_ratio": 1.07,
+   "audio_match": 0.992,
+   "ppm": 142,
+   "tts_attempts": 1,
+   "missing_numbers": [],
+   "diffs": [
+    "dioses -> dioces",
+    "bastaba -> bastara",
+    "11 -> once"
+   ]
+  },
+  {
+   "n": 6,
+   "name": "La tumba de Rafael",
+   "file": "06 - La tumba de Rafael.mp3",
+   "es_min": 2.7,
+   "en_min": 2.1,
+   "dur_ratio": 1.29,
+   "word_ratio": 1.07,
+   "audio_match": 0.975,
+   "ppm": 133,
+   "tts_attempts": 1,
+   "missing_numbers": [],
+   "diffs": [
+    "homenajea -> hominajea",
+    "ille hic -> hile ik",
+    "raphael -> rafael",
+    "yace -> ya se",
+    "sixtina -> sikstina",
+    "crucen -> cruce en",
+    "segundo -> ii"
+   ]
+  },
+  {
+   "n": 7,
+   "name": "La tumba de Víctor Manuel segundo",
+   "file": "07 - La tumba de Víctor Manuel segundo.mp3",
+   "es_min": 1.8,
+   "en_min": 1.5,
+   "dur_ratio": 1.19,
+   "word_ratio": 1.05,
+   "audio_match": 0.967,
+   "ppm": 131,
+   "tts_attempts": 1,
+   "missing_numbers": [],
+   "diffs": [
+    "segundo -> ii",
+    "della -> de la",
+    "segundo -> ii",
+    "diecinueve -> xix",
+    "saboya -> aboya",
+    "diez -> x",
+    "primero -> i"
+   ]
   }
  ]
 }
