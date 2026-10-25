@@ -1,0 +1,47 @@
+{
+ "tour": "rome-pantheon",
+ "title": "El Panteón de Roma",
+ "model": "gemini-3.1-flash-tts-preview",
+ "voice": "Charon",
+ "stops": [
+  {
+   "n": 1,
+   "name": "Introducción",
+   "file": "01 - Introducción.mp3",
+   "es_min": 1.4,
+   "en_min": 1.8,
+   "dur_ratio": 0.81,
+   "word_ratio": 0.62,
+   "audio_match": 1.0,
+   "ppm": 120,
+   "tts_attempts": 1,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 2,
+   "name": "El exterior del Panteón",
+   "file": "02 - El exterior del Panteón.mp3",
+   "es_min": 4.6,
+   "en_min": 3.7,
+   "dur_ratio": 1.26,
+   "word_ratio": 1.02,
+   "audio_match": 0.976,
+   "ppm": 134,
+   "tts_attempts": 1,
+   "missing_numbers": [
+    "20"
+   ],
+   "diffs": [
+    "theos -> teos",
+    "antes de cristo -> a c",
+    "agripa -> agrippa",
+    "yerno -> hierno",
+    "lucii filius consul tertium fecit -> lucy y philius consultertium fekit",
+    "agripa -> agrippa",
+    "despues de cristo -> d c",
+    "6 -> seis"
+   ]
+  }
+ ]
+}
