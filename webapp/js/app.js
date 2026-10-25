@@ -81,21 +81,30 @@ async function deleteCity(cityId) {
 function viewCities() {
   $("#title").textContent = "Audioguías";
   $("#back").hidden = true;
+  $("#appbar").classList.remove("on-dark");
   const root = $("#root");
   root.innerHTML = "";
-  root.append(el("div", { class: "notice", html:
-    '<strong>Cómo usar.</strong> Elegí una ciudad y tocá "Descargar" la primera vez con internet. ' +
-    'Después todo funciona sin conexión. Cuando ya no la necesites, podés eliminarla y descargar la siguiente.' }));
+  root.append(el("section", { class: "hero" },
+    el("div", { class: "dot d1" }),
+    el("div", { class: "dot d2" }),
+    el("div", { class: "dot d3" }),
+    el("h2", {}, "Elegí tu próxima parada"),
+    el("p", {}, "Descargá una ciudad, salí a caminar y escuchá sin internet."),
+  ));
   const grid = el("div", { class: "city-grid" });
+  let i = 0;
   for (const [cid, city] of Object.entries(DATA.cities)) {
     const n_tours = city.tours.length;
     const n_stops = city.tours.reduce((s, t) => s + t.stops.length, 0);
-    const card = el("div", { class: "card" },
-      el("h2", {}, city.name),
-      el("div", { class: "sub" }, `${city.country} · ${n_tours} ${n_tours === 1 ? "tour" : "tours"} · ${n_stops} paradas`),
-      el("button", { class: "primary", onclick: () => (location.hash = "#/ciudad/" + cid) }, "Ver tours"),
+    const card = el("div", { class: "city-card c-" + (i % 6), onclick: () => (location.hash = "#/ciudad/" + cid) },
+      el("div", { class: "blob" }),
+      el("div", { class: "arrow" }, "›"),
+      el("div", {},
+        el("h3", {}, city.name),
+        el("div", { class: "sub" }, `${n_tours} ${n_tours === 1 ? "tour" : "tours"} · ${n_stops} paradas`),
+      ),
     );
-    const row = el("div", { class: "pkg-row" });
+    const row = el("div", { class: "pkg-row", onclick: ev => ev.stopPropagation() });
     const status = el("span", { class: "status" }, "...");
     const dl = el("button", { class: "small" }, "Descargar");
     const rm = el("button", { class: "small danger" }, "Eliminar");
@@ -103,6 +112,7 @@ function viewCities() {
     row.append(status, prog, dl, rm);
     card.append(row);
     grid.append(card);
+    i++;
 
     const refresh = async () => {
       const { done, total } = await cityStatus(cid);
@@ -136,6 +146,7 @@ function viewCity(cityId) {
   if (!city) { location.hash = ""; return; }
   $("#title").textContent = city.name;
   $("#back").hidden = false;
+  $("#appbar").classList.remove("on-dark");
   $("#back").onclick = () => (location.hash = "");
   const root = $("#root");
   root.innerHTML = "";
@@ -143,19 +154,20 @@ function viewCity(cityId) {
   const mapDiv = el("div", { id: "map" });
   root.append(mapDiv);
 
-  const list = el("ul", { class: "tour-list" });
+  const grid = el("div", { class: "tour-grid" });
+  let i = 0;
   for (const t of city.tours) {
-    const li = el("li", { onclick: () => (location.hash = `#/tour/${cityId}/${t.id}`) },
-      el("span", { class: "n" }, String(city.tours.indexOf(t) + 1)),
-      el("div", { class: "meta" },
-        el("div", { class: "title" }, t.title),
-        el("div", { class: "sub" }, `${t.stops.length} paradas`),
-      ),
-      el("span", { style: "font-size:1.4rem;color:var(--muted)" }, "›"),
+    const minutes = Math.round(t.stops.length * 2.5); // estimación aproximada
+    const card = el("div", { class: "tour-card t-" + (i % 11), onclick: () => (location.hash = `#/tour/${cityId}/${t.id}`) },
+      el("div", { class: "face" }),
+      el("div", { class: "time" }, `${t.stops.length} paradas`),
+      el("h3", {}, t.title),
+      el("div", { class: "sub" }, "Tocá para empezar"),
     );
-    list.append(li);
+    grid.append(card);
+    i++;
   }
-  root.append(list);
+  root.append(grid);
 
   // Mapa
   const map = L.map("map").setView(city.center, city.zoom);
@@ -177,6 +189,7 @@ function viewTour(cityId, tourId) {
   if (!tour) { location.hash = "#/ciudad/" + cityId; return; }
   $("#title").textContent = tour.title;
   $("#back").hidden = false;
+  $("#appbar").classList.remove("on-dark");
   $("#back").onclick = () => (location.hash = "#/ciudad/" + cityId);
   const root = $("#root");
   root.innerHTML = "";
@@ -189,7 +202,7 @@ function viewTour(cityId, tourId) {
         el("span", { class: "n" }, String(s.n).padStart(2, "0")),
         el("div", { class: "meta" },
           el("div", { class: "title" }, s.name),
-          el("div", { class: "sub" }, "Tocá para leer el texto"),
+          el("div", { class: "sub" }, "Tocá para leer · ▶ para escuchar"),
         ),
         el("button", { class: "play-btn", "aria-label": "Reproducir",
           onclick: ev => { ev.stopPropagation(); play(cityId, tourId, s.n); } }, "▶"),

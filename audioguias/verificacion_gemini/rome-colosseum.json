@@ -19,6 +19,27 @@
    "diffs": [
     "cinanse -> sinanse"
    ]
+  },
+  {
+   "n": 2,
+   "name": "El exterior del Coliseo",
+   "file": "02 - El exterior del Coliseo.mp3",
+   "es_min": 3.9,
+   "en_min": 3.1,
+   "dur_ratio": 1.25,
+   "word_ratio": 1.07,
+   "audio_match": 0.985,
+   "ppm": 133,
+   "tts_attempts": 1,
+   "missing_numbers": [],
+   "diffs": [
+    "colosseo -> coloseo",
+    "despues de cristo -> d c",
+    "zeus -> ceus",
+    "enardecidos -> en ardecidos",
+    "cipreses -> ypreses",
+    "ocho -> 8"
+   ]
   }
  ]
 }
