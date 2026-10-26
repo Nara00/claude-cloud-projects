@@ -17,6 +17,34 @@
    "tts_attempts": 2,
    "missing_numbers": [],
    "diffs": []
+  },
+  {
+   "n": 2,
+   "name": "El Duomo",
+   "file": "02 - El Duomo.mp3",
+   "es_min": 5.6,
+   "en_min": 4.8,
+   "dur_ratio": 1.18,
+   "word_ratio": 1.03,
+   "audio_match": 1.0,
+   "ppm": 128,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 3,
+   "name": "El campanario de Giotto",
+   "file": "03 - El campanario de Giotto.mp3",
+   "es_min": 3.9,
+   "en_min": 3.2,
+   "dur_ratio": 1.22,
+   "word_ratio": 1.14,
+   "audio_match": 1.0,
+   "ppm": 141,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
   }
  ]
 }

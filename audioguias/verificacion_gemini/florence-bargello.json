@@ -45,6 +45,48 @@
    "tts_attempts": 2,
    "missing_numbers": [],
    "diffs": []
+  },
+  {
+   "n": 4,
+   "name": "El Tondo Pitti de Miguel Ángel",
+   "file": "04 - El Tondo Pitti de Miguel Ángel.mp3",
+   "es_min": 4.7,
+   "en_min": 3.7,
+   "dur_ratio": 1.28,
+   "word_ratio": 1.13,
+   "audio_match": 1.0,
+   "ppm": 136,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 5,
+   "name": "El busto de Bruto de Miguel Ángel",
+   "file": "05 - El busto de Bruto de Miguel Ángel.mp3",
+   "es_min": 2.6,
+   "en_min": 2.3,
+   "dur_ratio": 1.13,
+   "word_ratio": 1.11,
+   "audio_match": 1.0,
+   "ppm": 131,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 6,
+   "name": "El David, o Apolo, de Miguel Ángel",
+   "file": "06 - El David, o Apolo, de Miguel Ángel.mp3",
+   "es_min": 2.4,
+   "en_min": 1.9,
+   "dur_ratio": 1.28,
+   "word_ratio": 1.11,
+   "audio_match": 1.0,
+   "ppm": 133,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
   }
  ]
 }

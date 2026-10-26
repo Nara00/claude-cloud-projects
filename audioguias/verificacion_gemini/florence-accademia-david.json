@@ -17,6 +17,34 @@
    "tts_attempts": 2,
    "missing_numbers": [],
    "diffs": []
+  },
+  {
+   "n": 2,
+   "name": "El David de Miguel Ángel",
+   "file": "02 - El David de Miguel Ángel.mp3",
+   "es_min": 6.4,
+   "en_min": 4.9,
+   "dur_ratio": 1.3,
+   "word_ratio": 1.13,
+   "audio_match": 1.0,
+   "ppm": 130,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 3,
+   "name": "El David desde todos los ángulos",
+   "file": "03 - El David desde todos los ángulos.mp3",
+   "es_min": 3.4,
+   "en_min": 2.8,
+   "dur_ratio": 1.21,
+   "word_ratio": 1.07,
+   "audio_match": 1.0,
+   "ppm": 129,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
   }
  ]
 }

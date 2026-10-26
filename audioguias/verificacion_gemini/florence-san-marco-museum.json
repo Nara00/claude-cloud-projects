@@ -73,6 +73,76 @@
    "tts_attempts": 2,
    "missing_numbers": [],
    "diffs": []
+  },
+  {
+   "n": 6,
+   "name": "El Juicio Final",
+   "file": "06 - El Juicio Final.mp3",
+   "es_min": 1.8,
+   "en_min": 1.2,
+   "dur_ratio": 1.49,
+   "word_ratio": 1.13,
+   "audio_match": 1.0,
+   "ppm": 118,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 7,
+   "name": "Las puertas del Armario de la Plata",
+   "file": "07 - Las puertas del Armario de la Plata.mp3",
+   "es_min": 3.5,
+   "en_min": 3.0,
+   "dur_ratio": 1.17,
+   "word_ratio": 1.07,
+   "audio_match": 1.0,
+   "ppm": 131,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 8,
+   "name": "El Lamento sobre Cristo muerto",
+   "file": "08 - El Lamento sobre Cristo muerto.mp3",
+   "es_min": 1.6,
+   "en_min": 1.6,
+   "dur_ratio": 1.01,
+   "word_ratio": 1.1,
+   "audio_match": 1.0,
+   "ppm": 122,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 9,
+   "name": "El Tabernáculo de los Linaioli",
+   "file": "09 - El Tabernáculo de los Linaioli.mp3",
+   "es_min": 2.5,
+   "en_min": 1.9,
+   "dur_ratio": 1.33,
+   "word_ratio": 1.11,
+   "audio_match": 1.0,
+   "ppm": 129,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 10,
+   "name": "El Retablo de Annalena",
+   "file": "10 - El Retablo de Annalena.mp3",
+   "es_min": 2.5,
+   "en_min": 2.2,
+   "dur_ratio": 1.16,
+   "word_ratio": 1.1,
+   "audio_match": 1.0,
+   "ppm": 127,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
   }
  ]
 }

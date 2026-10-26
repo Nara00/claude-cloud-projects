@@ -59,6 +59,62 @@
    "tts_attempts": 2,
    "missing_numbers": [],
    "diffs": []
+  },
+  {
+   "n": 5,
+   "name": "Gentile da Fabriano, La Adoración de los Magos",
+   "file": "05 - Gentile da Fabriano, La Adoración de los Magos.mp3",
+   "es_min": 2.2,
+   "en_min": 1.6,
+   "dur_ratio": 1.39,
+   "word_ratio": 1.11,
+   "audio_match": 1.0,
+   "ppm": 125,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 6,
+   "name": "Paolo Uccello, La batalla de San Romano",
+   "file": "06 - Paolo Uccello, La batalla de San Romano.mp3",
+   "es_min": 4.1,
+   "en_min": 3.3,
+   "dur_ratio": 1.23,
+   "word_ratio": 1.03,
+   "audio_match": 1.0,
+   "ppm": 134,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 7,
+   "name": "Filippo Lippi, La Virgen con el Niño y dos ángeles",
+   "file": "07 - Filippo Lippi, La Virgen con el Niño y dos ángeles.mp3",
+   "es_min": 1.7,
+   "en_min": 1.3,
+   "dur_ratio": 1.31,
+   "word_ratio": 1.64,
+   "audio_match": 1.0,
+   "ppm": 126,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 8,
+   "name": "Piero della Francesca, Retratos de Federico da Montefeltro y Battista Sforza",
+   "file": "08 - Piero della Francesca, Retratos de Federico da Montefeltro y Battista Sforza.mp3",
+   "es_min": 2.2,
+   "en_min": 1.8,
+   "dur_ratio": 1.18,
+   "word_ratio": 1.03,
+   "audio_match": 1.0,
+   "ppm": 120,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
   }
  ]
 }
