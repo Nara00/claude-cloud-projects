@@ -1,0 +1,50 @@
+{
+ "tour": "rome-st-peters-basilica",
+ "title": "La Basílica de San Pedro",
+ "model": "gemini-3.1-flash-tts-preview",
+ "voice": "Charon",
+ "stops": [
+  {
+   "n": 1,
+   "name": "Introducción",
+   "file": "01 - Introducción.mp3",
+   "es_min": 1.5,
+   "en_min": 2.0,
+   "dur_ratio": 0.77,
+   "word_ratio": 0.69,
+   "audio_match": 1.0,
+   "ppm": 136,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 2,
+   "name": "Los orígenes del antiguo y del nuevo San Pedro",
+   "file": "02 - Los orígenes del antiguo y del nuevo San Pedro.mp3",
+   "es_min": 5.4,
+   "en_min": 4.4,
+   "dur_ratio": 1.25,
+   "word_ratio": 1.09,
+   "audio_match": 1.0,
+   "ppm": 140,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 3,
+   "name": "La Plaza de San Pedro",
+   "file": "03 - La Plaza de San Pedro.mp3",
+   "es_min": 3.1,
+   "en_min": 2.4,
+   "dur_ratio": 1.27,
+   "word_ratio": 1.13,
+   "audio_match": 1.0,
+   "ppm": 131,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  }
+ ]
+}

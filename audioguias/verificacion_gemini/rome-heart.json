@@ -131,6 +131,22 @@
     "di pasquino -> de pascino",
     "zas -> saz"
    ]
+  },
+  {
+   "n": 6,
+   "name": "Piazza Navona",
+   "file": "06 - Piazza Navona.mp3",
+   "es_min": 8.3,
+   "en_min": 7.3,
+   "dur_ratio": 1.12,
+   "word_ratio": 1.02,
+   "audio_match": 1.0,
+   "ppm": 137,
+   "tts_attempts": 2,
+   "missing_numbers": [
+    "8080"
+   ],
+   "diffs": []
   }
  ]
 }

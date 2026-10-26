@@ -207,6 +207,48 @@
     "manhattan -> manjatan",
     "adonde -> a donde"
    ]
+  },
+  {
+   "n": 11,
+   "name": "La plaza principal del Foro",
+   "file": "11 - La plaza principal del Foro.mp3",
+   "es_min": 3.2,
+   "en_min": 2.6,
+   "dur_ratio": 1.22,
+   "word_ratio": 1.16,
+   "audio_match": 1.0,
+   "ppm": 127,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 12,
+   "name": "El Templo de Julio César",
+   "file": "12 - El Templo de Julio César.mp3",
+   "es_min": 3.0,
+   "en_min": 2.3,
+   "dur_ratio": 1.32,
+   "word_ratio": 1.05,
+   "audio_match": 1.0,
+   "ppm": 125,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 13,
+   "name": "La sociedad romana",
+   "file": "13 - La sociedad romana.mp3",
+   "es_min": 3.1,
+   "en_min": 2.5,
+   "dur_ratio": 1.25,
+   "word_ratio": 1.14,
+   "audio_match": 1.0,
+   "ppm": 128,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
   }
  ]
 }

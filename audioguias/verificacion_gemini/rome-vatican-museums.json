@@ -1,0 +1,50 @@
+{
+ "tour": "rome-vatican-museums",
+ "title": "Los Museos Vaticanos",
+ "model": "gemini-3.1-flash-tts-preview",
+ "voice": "Charon",
+ "stops": [
+  {
+   "n": 1,
+   "name": "Introducción",
+   "file": "01 - Introducción.mp3",
+   "es_min": 2.5,
+   "en_min": 2.9,
+   "dur_ratio": 0.89,
+   "word_ratio": 0.75,
+   "audio_match": 1.0,
+   "ppm": 126,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 2,
+   "name": "El Patio de la Piña",
+   "file": "02 - El Patio de la Piña.mp3",
+   "es_min": 2.9,
+   "en_min": 2.8,
+   "dur_ratio": 1.03,
+   "word_ratio": 1.04,
+   "audio_match": 1.0,
+   "ppm": 127,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 3,
+   "name": "Hacia el Patio Octogonal",
+   "file": "03 - Hacia el Patio Octogonal.mp3",
+   "es_min": 2.5,
+   "en_min": 2.3,
+   "dur_ratio": 1.09,
+   "word_ratio": 0.97,
+   "audio_match": 1.0,
+   "ppm": 131,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  }
+ ]
+}

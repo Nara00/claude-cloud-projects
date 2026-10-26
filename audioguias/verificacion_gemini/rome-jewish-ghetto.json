@@ -150,6 +150,62 @@
     "ottavia -> otavia",
     "pasen -> pazen"
    ]
+  },
+  {
+   "n": 7,
+   "name": "Via del Portico d'Ottavia, la calle principal del gueto",
+   "file": "07 - Via del Portico d'Ottavia, la calle principal del gueto.mp3",
+   "es_min": 4.0,
+   "en_min": 3.5,
+   "dur_ratio": 1.15,
+   "word_ratio": 1.11,
+   "audio_match": 1.0,
+   "ppm": 139,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 8,
+   "name": "Via della Reginella",
+   "file": "08 - Via della Reginella.mp3",
+   "es_min": 1.9,
+   "en_min": 1.5,
+   "dur_ratio": 1.3,
+   "word_ratio": 1.17,
+   "audio_match": 1.0,
+   "ppm": 136,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 9,
+   "name": "Piazza Mattei y la Fuente de las Tortugas",
+   "file": "09 - Piazza Mattei y la Fuente de las Tortugas.mp3",
+   "es_min": 1.4,
+   "en_min": 1.2,
+   "dur_ratio": 1.14,
+   "word_ratio": 1.22,
+   "audio_match": 1.0,
+   "ppm": 152,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 10,
+   "name": "Más lugares en la Via del Portico d'Ottavia",
+   "file": "10 - Más lugares en la Via del Portico d'Ottavia.mp3",
+   "es_min": 1.5,
+   "en_min": 1.1,
+   "dur_ratio": 1.46,
+   "word_ratio": 1.15,
+   "audio_match": 1.0,
+   "ppm": 128,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
   }
  ]
 }

@@ -233,6 +233,62 @@
     "di diana -> didiana",
     "enfrente -> en frente"
    ]
+  },
+  {
+   "n": 12,
+   "name": "La Insula de las Pinturas",
+   "file": "12 - La Insula de las Pinturas.mp3",
+   "es_min": 3.0,
+   "en_min": 2.5,
+   "dur_ratio": 1.22,
+   "word_ratio": 1.08,
+   "audio_match": 1.0,
+   "ppm": 136,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 13,
+   "name": "El Foro",
+   "file": "13 - El Foro.mp3",
+   "es_min": 3.5,
+   "en_min": 2.9,
+   "dur_ratio": 1.23,
+   "word_ratio": 1.09,
+   "audio_match": 1.0,
+   "ppm": 139,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 14,
+   "name": "La letrina pública",
+   "file": "14 - La letrina pública.mp3",
+   "es_min": 1.4,
+   "en_min": 1.2,
+   "dur_ratio": 1.17,
+   "word_ratio": 1.05,
+   "audio_match": 1.0,
+   "ppm": 136,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 15,
+   "name": "Las Termas del Foro",
+   "file": "15 - Las Termas del Foro.mp3",
+   "es_min": 2.4,
+   "en_min": 2.0,
+   "dur_ratio": 1.17,
+   "word_ratio": 1.04,
+   "audio_match": 1.0,
+   "ppm": 130,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
   }
  ]
 }
