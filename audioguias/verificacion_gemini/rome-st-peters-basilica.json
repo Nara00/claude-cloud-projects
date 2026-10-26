@@ -103,6 +103,48 @@
    "tts_attempts": 2,
    "missing_numbers": [],
    "diffs": []
+  },
+  {
+   "n": 8,
+   "name": "La iglesia de Miguel Ángel",
+   "file": "08 - La iglesia de Miguel Ángel.mp3",
+   "es_min": 3.1,
+   "en_min": 2.5,
+   "dur_ratio": 1.21,
+   "word_ratio": 1.1,
+   "audio_match": 1.0,
+   "ppm": 132,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 9,
+   "name": "La cúpula de Miguel Ángel",
+   "file": "09 - La cúpula de Miguel Ángel.mp3",
+   "es_min": 2.1,
+   "en_min": 2.1,
+   "dur_ratio": 0.98,
+   "word_ratio": 1.09,
+   "audio_match": 1.0,
+   "ppm": 130,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 10,
+   "name": "La tumba de Pedro",
+   "file": "10 - La tumba de Pedro.mp3",
+   "es_min": 4.3,
+   "en_min": 3.6,
+   "dur_ratio": 1.18,
+   "word_ratio": 1.1,
+   "audio_match": 1.0,
+   "ppm": 139,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
   }
  ]
 }

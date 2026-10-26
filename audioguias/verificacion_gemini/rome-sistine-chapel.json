@@ -129,6 +129,34 @@
    "tts_attempts": 2,
    "missing_numbers": [],
    "diffs": []
+  },
+  {
+   "n": 10,
+   "name": "El Juicio Final",
+   "file": "10 - El Juicio Final.mp3",
+   "es_min": 5.0,
+   "en_min": 3.8,
+   "dur_ratio": 1.32,
+   "word_ratio": 1.06,
+   "audio_match": 1.0,
+   "ppm": 129,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 11,
+   "name": "Los detalles del Juicio Final",
+   "file": "11 - Los detalles del Juicio Final.mp3",
+   "es_min": 3.0,
+   "en_min": 3.1,
+   "dur_ratio": 0.99,
+   "word_ratio": 0.88,
+   "audio_match": 1.0,
+   "ppm": 130,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
   }
  ]
 }

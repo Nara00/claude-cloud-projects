@@ -101,6 +101,48 @@
    "tts_attempts": 2,
    "missing_numbers": [],
    "diffs": []
+  },
+  {
+   "n": 8,
+   "name": "Del Viale di Trastevere a la Piazza Santa Maria",
+   "file": "08 - Del Viale di Trastevere a la Piazza Santa Maria.mp3",
+   "es_min": 4.9,
+   "en_min": 4.2,
+   "dur_ratio": 1.18,
+   "word_ratio": 1.09,
+   "audio_match": 1.0,
+   "ppm": 129,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 9,
+   "name": "Santa Maria in Trastevere: la plaza y la iglesia",
+   "file": "09 - Santa Maria in Trastevere la plaza y la iglesia.mp3",
+   "es_min": 1.9,
+   "en_min": 1.9,
+   "dur_ratio": 1.0,
+   "word_ratio": 1.11,
+   "audio_match": 1.0,
+   "ppm": 134,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 10,
+   "name": "El interior de Santa Maria in Trastevere",
+   "file": "10 - El interior de Santa Maria in Trastevere.mp3",
+   "es_min": 2.1,
+   "en_min": 2.1,
+   "dur_ratio": 0.96,
+   "word_ratio": 1.1,
+   "audio_match": 1.0,
+   "ppm": 125,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
   }
  ]
 }

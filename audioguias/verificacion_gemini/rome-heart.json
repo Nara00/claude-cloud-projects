@@ -203,6 +203,36 @@
    "tts_attempts": 2,
    "missing_numbers": [],
    "diffs": []
+  },
+  {
+   "n": 11,
+   "name": "Piazza Colonna",
+   "file": "11 - Piazza Colonna.mp3",
+   "es_min": 3.9,
+   "en_min": 3.2,
+   "dur_ratio": 1.22,
+   "word_ratio": 1.05,
+   "audio_match": 1.0,
+   "ppm": 131,
+   "tts_attempts": 2,
+   "missing_numbers": [
+    "97"
+   ],
+   "diffs": []
+  },
+  {
+   "n": 12,
+   "name": "La Via del Corso y la Galleria Alberto Sordi",
+   "file": "12 - La Via del Corso y la Galleria Alberto Sordi.mp3",
+   "es_min": 4.5,
+   "en_min": 3.7,
+   "dur_ratio": 1.22,
+   "word_ratio": 1.07,
+   "audio_match": 1.0,
+   "ppm": 138,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
   }
  ]
 }

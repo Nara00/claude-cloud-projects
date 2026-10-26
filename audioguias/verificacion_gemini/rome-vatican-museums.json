@@ -115,6 +115,34 @@
    "tts_attempts": 2,
    "missing_numbers": [],
    "diffs": []
+  },
+  {
+   "n": 9,
+   "name": "La Galería de los Candelabros",
+   "file": "09 - La Galería de los Candelabros.mp3",
+   "es_min": 3.0,
+   "en_min": 2.8,
+   "dur_ratio": 1.09,
+   "word_ratio": 0.91,
+   "audio_match": 1.0,
+   "ppm": 121,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 10,
+   "name": "La Galería de los Tapices",
+   "file": "10 - La Galería de los Tapices.mp3",
+   "es_min": 3.1,
+   "en_min": 2.9,
+   "dur_ratio": 1.07,
+   "word_ratio": 1.01,
+   "audio_match": 1.0,
+   "ppm": 124,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
   }
  ]
 }
