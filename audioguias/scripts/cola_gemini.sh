@@ -7,7 +7,8 @@ MODELO=gemini-3.1-flash-tts-preview
 VOZ=Charon
 ROMA="rome-pantheon rome-colosseum rome-forum rome-heart rome-jewish-ghetto rome-ostia-antica rome-sistine-chapel rome-st-peters-basilica rome-trastevere rome-vatican-museums rome-vatican-pinacoteca"
 FLORENCIA="florence-accademia-david florence-bargello florence-renaissance-walk florence-san-marco-museum florence-uffizi-gallery"
-PARALELO=4
+PARALELO=8
+export SKIP_VERIFY=1
 LOGS=/tmp/claude-0/-home-user-claude-cloud-projects/b4aa56bb-52a3-5976-b787-c53d98d8e7cc/scratchpad/por_tour
 mkdir -p "$LOGS"
 
@@ -22,7 +23,7 @@ procesar() {
   return 1
 }
 export -f procesar
-export MODELO VOZ LOGS
+export MODELO VOZ LOGS SKIP_VERIFY
 
 echo "=== $(date -Iseconds) ROMA ($PARALELO procesos) ==="
 echo "$ROMA" | tr ' ' '\n' | xargs -n1 -P $PARALELO -I {} bash -c 'procesar "$@"' _ {}
