@@ -73,6 +73,34 @@
    "tts_attempts": 2,
    "missing_numbers": [],
    "diffs": []
+  },
+  {
+   "n": 6,
+   "name": "Las nueve escenas del Génesis",
+   "file": "06 - Las nueve escenas del Génesis.mp3",
+   "es_min": 4.7,
+   "en_min": 3.8,
+   "dur_ratio": 1.25,
+   "word_ratio": 1.05,
+   "audio_match": 1.0,
+   "ppm": 133,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 7,
+   "name": "Miguel Ángel y la técnica del fresco",
+   "file": "07 - Miguel Ángel y la técnica del fresco.mp3",
+   "es_min": 3.5,
+   "en_min": 2.9,
+   "dur_ratio": 1.22,
+   "word_ratio": 1.05,
+   "audio_match": 1.0,
+   "ppm": 135,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
   }
  ]
 }

@@ -59,6 +59,34 @@
    "tts_attempts": 2,
    "missing_numbers": [],
    "diffs": []
+  },
+  {
+   "n": 5,
+   "name": "Via dei Salumi y Vicolo dell'Atleta",
+   "file": "05 - Via dei Salumi y Vicolo dell'Atleta.mp3",
+   "es_min": 4.2,
+   "en_min": 4.3,
+   "dur_ratio": 0.99,
+   "word_ratio": 1.02,
+   "audio_match": 1.0,
+   "ppm": 138,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 6,
+   "name": "La iglesia de Santa Cecilia",
+   "file": "06 - La iglesia de Santa Cecilia.mp3",
+   "es_min": 1.5,
+   "en_min": 2.2,
+   "dur_ratio": 0.69,
+   "word_ratio": 1.22,
+   "audio_match": 1.0,
+   "ppm": 130,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
   }
  ]
 }

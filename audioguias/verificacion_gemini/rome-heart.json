@@ -147,6 +147,34 @@
     "8080"
    ],
    "diffs": []
+  },
+  {
+   "n": 7,
+   "name": "De Piazza Navona al Panteón",
+   "file": "07 - De Piazza Navona al Panteón.mp3",
+   "es_min": 5.5,
+   "en_min": 5.2,
+   "dur_ratio": 1.06,
+   "word_ratio": 1.07,
+   "audio_match": 1.0,
+   "ppm": 139,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 8,
+   "name": "El Panteón",
+   "file": "08 - El Panteón.mp3",
+   "es_min": 3.6,
+   "en_min": 2.9,
+   "dur_ratio": 1.23,
+   "word_ratio": 1.08,
+   "audio_match": 1.0,
+   "ppm": 129,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
   }
  ]
 }

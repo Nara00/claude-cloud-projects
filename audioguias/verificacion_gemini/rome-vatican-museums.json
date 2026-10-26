@@ -45,6 +45,34 @@
    "tts_attempts": 2,
    "missing_numbers": [],
    "diffs": []
+  },
+  {
+   "n": 4,
+   "name": "El Apolo de Belvedere",
+   "file": "04 - El Apolo de Belvedere.mp3",
+   "es_min": 4.7,
+   "en_min": 4.1,
+   "dur_ratio": 1.14,
+   "word_ratio": 1.04,
+   "audio_match": 1.0,
+   "ppm": 126,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 5,
+   "name": "El Laocoonte",
+   "file": "05 - El Laocoonte.mp3",
+   "es_min": 4.9,
+   "en_min": 4.2,
+   "dur_ratio": 1.15,
+   "word_ratio": 1.07,
+   "audio_match": 1.0,
+   "ppm": 128,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
   }
  ]
 }

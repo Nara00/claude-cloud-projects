@@ -45,6 +45,34 @@
    "tts_attempts": 2,
    "missing_numbers": [],
    "diffs": []
+  },
+  {
+   "n": 4,
+   "name": "El mundo del papa",
+   "file": "04 - El mundo del papa.mp3",
+   "es_min": 7.3,
+   "en_min": 5.9,
+   "dur_ratio": 1.24,
+   "word_ratio": 1.09,
+   "audio_match": 1.0,
+   "ppm": 140,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 5,
+   "name": "La Ciudad del Vaticano",
+   "file": "05 - La Ciudad del Vaticano.mp3",
+   "es_min": 3.5,
+   "en_min": 2.8,
+   "dur_ratio": 1.27,
+   "word_ratio": 1.07,
+   "audio_match": 1.0,
+   "ppm": 139,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
   }
  ]
 }

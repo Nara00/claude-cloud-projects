@@ -1,0 +1,36 @@
+{
+ "tour": "rome-vatican-pinacoteca",
+ "title": "La Pinacoteca Vaticana",
+ "model": "gemini-3.1-flash-tts-preview",
+ "voice": "Charon",
+ "stops": [
+  {
+   "n": 1,
+   "name": "Introducción",
+   "file": "01 - Introducción.mp3",
+   "es_min": 2.2,
+   "en_min": 2.4,
+   "dur_ratio": 0.91,
+   "word_ratio": 0.75,
+   "audio_match": 1.0,
+   "ppm": 127,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 2,
+   "name": "La Piedad de yeso",
+   "file": "02 - La Piedad de yeso.mp3",
+   "es_min": 3.1,
+   "en_min": 2.7,
+   "dur_ratio": 1.14,
+   "word_ratio": 1.13,
+   "audio_match": 1.0,
+   "ppm": 139,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  }
+ ]
+}

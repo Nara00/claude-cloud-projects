@@ -206,6 +206,20 @@
    "tts_attempts": 2,
    "missing_numbers": [],
    "diffs": []
+  },
+  {
+   "n": 11,
+   "name": "Piazza Costaguti",
+   "file": "11 - Piazza Costaguti.mp3",
+   "es_min": 3.5,
+   "en_min": 3.6,
+   "dur_ratio": 0.97,
+   "word_ratio": 0.81,
+   "audio_match": 1.0,
+   "ppm": 131,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
   }
  ]
 }
