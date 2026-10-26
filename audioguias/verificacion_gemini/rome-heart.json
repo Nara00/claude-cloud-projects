@@ -84,6 +84,53 @@
     "dei baullari -> de ibaulari",
     "de -> dei"
    ]
+  },
+  {
+   "n": 4,
+   "name": "Hacia el Corso Vittorio Emanuele segundo",
+   "file": "04 - Hacia el Corso Vittorio Emanuele segundo.mp3",
+   "es_min": 4.4,
+   "en_min": 4.0,
+   "dur_ratio": 1.09,
+   "word_ratio": 1.14,
+   "audio_match": 0.982,
+   "ppm": 138,
+   "tts_attempts": 1,
+   "missing_numbers": [],
+   "diffs": [
+    "vittorio -> vitorio",
+    "segundo -> ii",
+    "dei baullari -> de ibaulari",
+    "segundo -> ii",
+    "bulevar -> boulevard",
+    "neorrenacentista -> neo renacentista",
+    "diecinueve -> xix",
+    "desviense en -> desviensen",
+    "malditos -> maldito"
+   ]
+  },
+  {
+   "n": 5,
+   "name": "La estatua de Pasquino",
+   "file": "05 - La estatua de Pasquino.mp3",
+   "es_min": 2.3,
+   "en_min": 2.4,
+   "dur_ratio": 0.95,
+   "word_ratio": 1.1,
+   "audio_match": 0.963,
+   "ppm": 135,
+   "tts_attempts": 1,
+   "missing_numbers": [],
+   "diffs": [
+    "pasquino -> pascino",
+    "tercero antes de cristo -> iii a c",
+    "pasquino -> pascino",
+    "pasquino -> pascino",
+    "pasquino -> pascino",
+    "pasquino -> pascino",
+    "di pasquino -> de pascino",
+    "zas -> saz"
+   ]
   }
  ]
 }

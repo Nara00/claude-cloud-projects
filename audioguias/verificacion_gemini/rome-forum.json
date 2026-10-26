@@ -150,6 +150,63 @@
     "000 -> mil",
     "declararla -> declarar la"
    ]
+  },
+  {
+   "n": 8,
+   "name": "El Templo de Vesta",
+   "file": "08 - El Templo de Vesta.mp3",
+   "es_min": 2.4,
+   "en_min": 2.2,
+   "dur_ratio": 1.11,
+   "word_ratio": 1.06,
+   "audio_match": 0.985,
+   "ppm": 125,
+   "tts_attempts": 1,
+   "missing_numbers": [],
+   "diffs": [
+    "sacerdotisas -> sacerdotizas",
+    "rodeen -> rode en",
+    "treinta -> 30",
+    "condenados -> combinados"
+   ]
+  },
+  {
+   "n": 9,
+   "name": "La Casa de las Vírgenes Vestales",
+   "file": "09 - La Casa de las Vírgenes Vestales.mp3",
+   "es_min": 3.2,
+   "en_min": 2.8,
+   "dur_ratio": 1.14,
+   "word_ratio": 1.07,
+   "audio_match": 0.981,
+   "ppm": 130,
+   "tts_attempts": 1,
+   "missing_numbers": [],
+   "diffs": [
+    "traian agua -> traia nagua",
+    "vestal -> bestal",
+    "treinta -> 30",
+    "una dote -> un adote",
+    "sacerdotisas -> sacerdotizas",
+    "vestales -> bestales"
+   ]
+  },
+  {
+   "n": 10,
+   "name": "¿Qué fue de la antigua Roma?",
+   "file": "10 - ¿Qué fue de la antigua Roma.mp3",
+   "es_min": 1.6,
+   "en_min": 1.2,
+   "dur_ratio": 1.36,
+   "word_ratio": 1.14,
+   "audio_match": 0.988,
+   "ppm": 131,
+   "tts_attempts": 1,
+   "missing_numbers": [],
+   "diffs": [
+    "manhattan -> manjatan",
+    "adonde -> a donde"
+   ]
   }
  ]
 }

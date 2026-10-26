@@ -164,6 +164,75 @@
     "2000 -> dos mil",
     "4000 -> 4 000"
    ]
+  },
+  {
+   "n": 9,
+   "name": "La Plaza de las Corporaciones",
+   "file": "09 - La Plaza de las Corporaciones.mp3",
+   "es_min": 5.3,
+   "en_min": 4.5,
+   "dur_ratio": 1.18,
+   "word_ratio": 1.11,
+   "audio_match": 0.97,
+   "ppm": 142,
+   "tts_attempts": 1,
+   "missing_numbers": [],
+   "diffs": [
+    "navic -> navik",
+    "segundo -> ii",
+    "ostia -> hostia",
+    "ostia -> hostia",
+    "de -> del",
+    "ceres -> seres",
+    "ostia -> hostia",
+    "decumano -> de cumano",
+    "decumano -> de cumano",
+    "dei molini -> de himolini",
+    "carabinieri -> carabineri",
+    "decumano -> de cumano",
+    "dei molini -> de himolini",
+    "repubblicano -> republicano",
+    "dei molini -> de himolini",
+    "dei molini -> de himolini",
+    "di -> de"
+   ]
+  },
+  {
+   "n": 10,
+   "name": "El molino",
+   "file": "10 - El molino.mp3",
+   "es_min": 1.1,
+   "en_min": 1.1,
+   "dur_ratio": 0.97,
+   "word_ratio": 1.1,
+   "audio_match": 0.951,
+   "ppm": 133,
+   "tts_attempts": 1,
+   "missing_numbers": [],
+   "diffs": [
+    "despues de cristo -> d c",
+    "de -> del",
+    "dei molini -> de himolini",
+    "di diana -> didiana"
+   ]
+  },
+  {
+   "n": 11,
+   "name": "La Via di Diana y el termopolio",
+   "file": "11 - La Via di Diana y el termopolio.mp3",
+   "es_min": 1.5,
+   "en_min": 1.6,
+   "dur_ratio": 0.93,
+   "word_ratio": 0.78,
+   "audio_match": 0.978,
+   "ppm": 126,
+   "tts_attempts": 1,
+   "missing_numbers": [],
+   "diffs": [
+    "11 -> once",
+    "di diana -> didiana",
+    "enfrente -> en frente"
+   ]
   }
  ]
 }

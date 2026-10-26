@@ -96,6 +96,60 @@
     "gueto -> ghetto",
     "ottobre -> de otobre"
    ]
+  },
+  {
+   "n": 5,
+   "name": "Largo 16 Ottobre 1943",
+   "file": "05 - Largo 16 Ottobre 1943.mp3",
+   "es_min": 3.9,
+   "en_min": 3.0,
+   "dur_ratio": 1.3,
+   "word_ratio": 1.07,
+   "audio_match": 0.975,
+   "ppm": 130,
+   "tts_attempts": 1,
+   "missing_numbers": [],
+   "diffs": [
+    "ottobre -> de octubre",
+    "de -> ",
+    "diecinueve -> xix",
+    "diecinueve -> xix",
+    "antijudias -> anti judias",
+    " -> a",
+    "13000 -> 13 000",
+    "2000 -> 2 000",
+    "segundo -> ii",
+    "segundo -> ii",
+    "shoa -> shoah",
+    "shoa -> shoah"
+   ]
+  },
+  {
+   "n": 6,
+   "name": "El Pórtico de Octavia",
+   "file": "06 - El Pórtico de Octavia.mp3",
+   "es_min": 3.9,
+   "en_min": 3.1,
+   "dur_ratio": 1.23,
+   "word_ratio": 1.13,
+   "audio_match": 0.968,
+   "ppm": 135,
+   "tts_attempts": 1,
+   "missing_numbers": [],
+   "diffs": [
+    "antes de cristo -> a c",
+    "gueto -> geto",
+    "pescheria -> pesqueria",
+    "in pescheria -> en pesqueria",
+    "gueto -> geto",
+    "enseguida -> en seguida",
+    "argamasa -> arga masa",
+    "expliquen -> explique en",
+    "rodeen -> rode en",
+    "gueto -> ghetto",
+    "ottavia -> otavia",
+    "pasen -> pazen"
+   ]
   }
  ]
 }
