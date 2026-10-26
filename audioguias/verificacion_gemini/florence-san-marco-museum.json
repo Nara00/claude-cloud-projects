@@ -1,0 +1,22 @@
+{
+ "tour": "florence-san-marco-museum",
+ "title": "El Museo de San Marco",
+ "model": "gemini-3.1-flash-tts-preview",
+ "voice": "Charon",
+ "stops": [
+  {
+   "n": 1,
+   "name": "Introducción",
+   "file": "01 - Introducción.mp3",
+   "es_min": 1.8,
+   "en_min": 2.5,
+   "dur_ratio": 0.72,
+   "word_ratio": 0.69,
+   "audio_match": 1.0,
+   "ppm": 130,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  }
+ ]
+}

@@ -1,0 +1,22 @@
+{
+ "tour": "florence-bargello",
+ "title": "El Museo del Bargello",
+ "model": "gemini-3.1-flash-tts-preview",
+ "voice": "Charon",
+ "stops": [
+  {
+   "n": 1,
+   "name": "Introducción",
+   "file": "01 - Introducción.mp3",
+   "es_min": 1.7,
+   "en_min": 2.2,
+   "dur_ratio": 0.77,
+   "word_ratio": 0.68,
+   "audio_match": 1.0,
+   "ppm": 127,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  }
+ ]
+}

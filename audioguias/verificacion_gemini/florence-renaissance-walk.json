@@ -1,0 +1,22 @@
+{
+ "tour": "florence-renaissance-walk",
+ "title": "Florencia: un paseo por el Renacimiento",
+ "model": "gemini-3.1-flash-tts-preview",
+ "voice": "Charon",
+ "stops": [
+  {
+   "n": 1,
+   "name": "Introducción",
+   "file": "01 - Introducción.mp3",
+   "es_min": 1.5,
+   "en_min": 1.7,
+   "dur_ratio": 0.89,
+   "word_ratio": 0.68,
+   "audio_match": 1.0,
+   "ppm": 124,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  }
+ ]
+}
