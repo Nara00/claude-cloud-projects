@@ -59,6 +59,34 @@
    "tts_attempts": 2,
    "missing_numbers": [],
    "diffs": []
+  },
+  {
+   "n": 5,
+   "name": "Melozzo da Forlì, Ángeles músicos",
+   "file": "05 - Melozzo da Forlì, Ángeles músicos.mp3",
+   "es_min": 4.6,
+   "en_min": 4.4,
+   "dur_ratio": 1.06,
+   "word_ratio": 1.06,
+   "audio_match": 1.0,
+   "ppm": 125,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 6,
+   "name": "Melozzo da Forlì, Sixto cuarto",
+   "file": "06 - Melozzo da Forlì, Sixto cuarto.mp3",
+   "es_min": 3.6,
+   "en_min": 3.1,
+   "dur_ratio": 1.15,
+   "word_ratio": 1.05,
+   "audio_match": 1.0,
+   "ppm": 128,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
   }
  ]
 }

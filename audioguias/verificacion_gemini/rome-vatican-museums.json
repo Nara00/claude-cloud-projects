@@ -143,6 +143,34 @@
    "tts_attempts": 2,
    "missing_numbers": [],
    "diffs": []
+  },
+  {
+   "n": 11,
+   "name": "La Galería de los Mapas",
+   "file": "11 - La Galería de los Mapas.mp3",
+   "es_min": 6.3,
+   "en_min": 5.1,
+   "dur_ratio": 1.24,
+   "word_ratio": 1.08,
+   "audio_match": 1.0,
+   "ppm": 133,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 12,
+   "name": "Pinturas monumentales camino a las Salas de Rafael",
+   "file": "12 - Pinturas monumentales camino a las Salas de Rafael.mp3",
+   "es_min": 3.8,
+   "en_min": 3.3,
+   "dur_ratio": 1.15,
+   "word_ratio": 1.04,
+   "audio_match": 1.0,
+   "ppm": 130,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
   }
  ]
 }

@@ -145,6 +145,48 @@
    "tts_attempts": 2,
    "missing_numbers": [],
    "diffs": []
+  },
+  {
+   "n": 11,
+   "name": "La estatua de Pedro",
+   "file": "11 - La estatua de Pedro.mp3",
+   "es_min": 2.6,
+   "en_min": 2.1,
+   "dur_ratio": 1.23,
+   "word_ratio": 1.1,
+   "audio_match": 1.0,
+   "ppm": 144,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 12,
+   "name": "El papa Juan veintitrés",
+   "file": "12 - El papa Juan veintitrés.mp3",
+   "es_min": 3.0,
+   "en_min": 2.7,
+   "dur_ratio": 1.11,
+   "word_ratio": 1.18,
+   "audio_match": 1.0,
+   "ppm": 137,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 13,
+   "name": "El altar mayor y el baldaquino de Bernini",
+   "file": "13 - El altar mayor y el baldaquino de Bernini.mp3",
+   "es_min": 4.5,
+   "en_min": 3.9,
+   "dur_ratio": 1.13,
+   "word_ratio": 1.04,
+   "audio_match": 1.0,
+   "ppm": 139,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
   }
  ]
 }

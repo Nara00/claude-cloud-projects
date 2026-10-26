@@ -143,6 +143,34 @@
    "tts_attempts": 2,
    "missing_numbers": [],
    "diffs": []
+  },
+  {
+   "n": 11,
+   "name": "Los mosaicos del ábside",
+   "file": "11 - Los mosaicos del ábside.mp3",
+   "es_min": 2.6,
+   "en_min": 2.0,
+   "dur_ratio": 1.3,
+   "word_ratio": 1.12,
+   "audio_match": 1.0,
+   "ppm": 138,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 12,
+   "name": "La estatua de San Antonio y despedida",
+   "file": "12 - La estatua de San Antonio y despedida.mp3",
+   "es_min": 1.9,
+   "en_min": 2.4,
+   "dur_ratio": 0.8,
+   "word_ratio": 0.67,
+   "audio_match": 1.0,
+   "ppm": 134,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
   }
  ]
 }
