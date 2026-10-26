@@ -247,6 +247,22 @@
    "tts_attempts": 2,
    "missing_numbers": [],
    "diffs": []
+  },
+  {
+   "n": 14,
+   "name": "Las ruinas del acueducto: el agua de Roma",
+   "file": "14 - Las ruinas del acueducto el agua de Roma.mp3",
+   "es_min": 6.9,
+   "en_min": 5.9,
+   "dur_ratio": 1.16,
+   "word_ratio": 1.06,
+   "audio_match": 1.0,
+   "ppm": 135,
+   "tts_attempts": 2,
+   "missing_numbers": [
+    "15"
+   ],
+   "diffs": []
   }
  ]
 }

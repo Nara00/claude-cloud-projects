@@ -87,6 +87,48 @@
    "tts_attempts": 2,
    "missing_numbers": [],
    "diffs": []
+  },
+  {
+   "n": 7,
+   "name": "Perugino, La Virgen con el Niño y santos",
+   "file": "07 - Perugino, La Virgen con el Niño y santos.mp3",
+   "es_min": 4.4,
+   "en_min": 3.6,
+   "dur_ratio": 1.23,
+   "word_ratio": 1.08,
+   "audio_match": 1.0,
+   "ppm": 124,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 8,
+   "name": "Rafael, La Transfiguración y la Coronación de la Virgen",
+   "file": "08 - Rafael, La Transfiguración y la Coronación de la Virgen.mp3",
+   "es_min": 3.1,
+   "en_min": 2.6,
+   "dur_ratio": 1.16,
+   "word_ratio": 0.99,
+   "audio_match": 1.0,
+   "ppm": 120,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 9,
+   "name": "Rafael, La Virgen de Foligno",
+   "file": "09 - Rafael, La Virgen de Foligno.mp3",
+   "es_min": 2.9,
+   "en_min": 2.2,
+   "dur_ratio": 1.32,
+   "word_ratio": 1.0,
+   "audio_match": 1.0,
+   "ppm": 120,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
   }
  ]
 }

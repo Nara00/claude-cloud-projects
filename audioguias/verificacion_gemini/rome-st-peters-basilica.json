@@ -187,6 +187,48 @@
    "tts_attempts": 2,
    "missing_numbers": [],
    "diffs": []
+  },
+  {
+   "n": 14,
+   "name": "El ábside",
+   "file": "14 - El ábside.mp3",
+   "es_min": 3.1,
+   "en_min": 2.4,
+   "dur_ratio": 1.31,
+   "word_ratio": 1.28,
+   "audio_match": 1.0,
+   "ppm": 143,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 15,
+   "name": "El lugar de la crucifixión de Pedro",
+   "file": "15 - El lugar de la crucifixión de Pedro.mp3",
+   "es_min": 2.8,
+   "en_min": 2.7,
+   "dur_ratio": 1.05,
+   "word_ratio": 1.08,
+   "audio_match": 1.0,
+   "ppm": 130,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 16,
+   "name": "La cúpula y otros lugares para visitar",
+   "file": "16 - La cúpula y otros lugares para visitar.mp3",
+   "es_min": 4.0,
+   "en_min": 3.4,
+   "dur_ratio": 1.18,
+   "word_ratio": 1.04,
+   "audio_match": 1.0,
+   "ppm": 144,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
   }
  ]
 }

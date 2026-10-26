@@ -171,6 +171,34 @@
    "tts_attempts": 2,
    "missing_numbers": [],
    "diffs": []
+  },
+  {
+   "n": 13,
+   "name": "La Sala de Constantino",
+   "file": "13 - La Sala de Constantino.mp3",
+   "es_min": 3.6,
+   "en_min": 2.9,
+   "dur_ratio": 1.23,
+   "word_ratio": 1.02,
+   "audio_match": 1.0,
+   "ppm": 126,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 14,
+   "name": "La Sala de Heliodoro",
+   "file": "14 - La Sala de Heliodoro.mp3",
+   "es_min": 3.7,
+   "en_min": 3.8,
+   "dur_ratio": 0.98,
+   "word_ratio": 1.07,
+   "audio_match": 1.0,
+   "ppm": 140,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
   }
  ]
 }
