@@ -45,6 +45,34 @@
    "tts_attempts": 2,
    "missing_numbers": [],
    "diffs": []
+  },
+  {
+   "n": 4,
+   "name": "El Tríptico de San Pedro Mártir",
+   "file": "04 - El Tríptico de San Pedro Mártir.mp3",
+   "es_min": 1.7,
+   "en_min": 1.5,
+   "dur_ratio": 1.11,
+   "word_ratio": 1.08,
+   "audio_match": 1.0,
+   "ppm": 127,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 5,
+   "name": "Los Desposorios y el Funeral de la Virgen",
+   "file": "05 - Los Desposorios y el Funeral de la Virgen.mp3",
+   "es_min": 1.8,
+   "en_min": 1.6,
+   "dur_ratio": 1.18,
+   "word_ratio": 1.04,
+   "audio_match": 1.0,
+   "ppm": 123,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
   }
  ]
 }

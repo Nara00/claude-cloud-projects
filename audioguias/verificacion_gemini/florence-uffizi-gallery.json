@@ -45,6 +45,20 @@
    "tts_attempts": 2,
    "missing_numbers": [],
    "diffs": []
+  },
+  {
+   "n": 4,
+   "name": "Simone Martini, La Anunciación",
+   "file": "04 - Simone Martini, La Anunciación.mp3",
+   "es_min": 2.8,
+   "en_min": 2.3,
+   "dur_ratio": 1.23,
+   "word_ratio": 1.05,
+   "audio_match": 1.0,
+   "ppm": 128,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
   }
  ]
 }

@@ -157,6 +157,62 @@
    "tts_attempts": 2,
    "missing_numbers": [],
    "diffs": []
+  },
+  {
+   "n": 12,
+   "name": "Leonardo da Vinci, San Jerónimo en el desierto",
+   "file": "12 - Leonardo da Vinci, San Jerónimo en el desierto.mp3",
+   "es_min": 4.2,
+   "en_min": 3.5,
+   "dur_ratio": 1.23,
+   "word_ratio": 1.06,
+   "audio_match": 1.0,
+   "ppm": 125,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 13,
+   "name": "Barocci, El descanso en la huida a Egipto",
+   "file": "13 - Barocci, El descanso en la huida a Egipto.mp3",
+   "es_min": 2.3,
+   "en_min": 1.9,
+   "dur_ratio": 1.2,
+   "word_ratio": 1.1,
+   "audio_match": 1.0,
+   "ppm": 124,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 14,
+   "name": "Bernini, Modelo de ángel para San Pedro",
+   "file": "14 - Bernini, Modelo de ángel para San Pedro.mp3",
+   "es_min": 1.9,
+   "en_min": 1.7,
+   "dur_ratio": 1.14,
+   "word_ratio": 1.08,
+   "audio_match": 1.0,
+   "ppm": 132,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 15,
+   "name": "Caravaggio, El Descendimiento",
+   "file": "15 - Caravaggio, El Descendimiento.mp3",
+   "es_min": 3.9,
+   "en_min": 4.1,
+   "dur_ratio": 0.95,
+   "word_ratio": 0.84,
+   "audio_match": 1.0,
+   "ppm": 122,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
   }
  ]
 }
