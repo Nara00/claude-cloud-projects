@@ -20,6 +20,58 @@
     "kosher -> cocher",
     "judia -> jubia"
    ]
+  },
+  {
+   "n": 2,
+   "name": "El Ponte Fabricio y la historia del gueto",
+   "file": "02 - El Ponte Fabricio y la historia del gueto.mp3",
+   "es_min": 4.7,
+   "en_min": 3.6,
+   "dur_ratio": 1.32,
+   "word_ratio": 1.13,
+   "audio_match": 0.964,
+   "ppm": 135,
+   "tts_attempts": 1,
+   "missing_numbers": [],
+   "diffs": [
+    "judaeorum -> judaerum",
+    "segundo antes de cristo -> ii a c",
+    "30000 -> 30 000",
+    "primero despues de cristo -> i d c",
+    "hacer -> a ser",
+    "aun asi -> ahora si",
+    "dieciseis -> xvi",
+    "herejia -> erigia",
+    "encauzado -> encausado",
+    "diecinueve -> xix",
+    "enfrente -> en frente",
+    "quattro -> cuatro",
+    "della -> de la",
+    "san gregorio -> sangre gorio"
+   ]
+  },
+  {
+   "n": 3,
+   "name": "Santa Maria della Pietà",
+   "file": "03 - Santa Maria della Pietà.mp3",
+   "es_min": 2.6,
+   "en_min": 2.2,
+   "dur_ratio": 1.19,
+   "word_ratio": 1.11,
+   "audio_match": 0.973,
+   "ppm": 132,
+   "tts_attempts": 1,
+   "missing_numbers": [],
+   "diffs": [
+    "della -> de la",
+    "cuarto -> iv",
+    "4000 -> cuatro mil",
+    "3 -> tres",
+    "hacinados -> asinados",
+    "della -> de la",
+    "diecisiete -> xvii",
+    "gettare -> getare"
+   ]
   }
  ]
 }

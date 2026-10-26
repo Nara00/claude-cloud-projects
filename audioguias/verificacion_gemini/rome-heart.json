@@ -22,6 +22,40 @@
     "passeggiata -> paseyata",
     "a horcajadas -> ahorcajadas"
    ]
+  },
+  {
+   "n": 2,
+   "name": "Campo de' Fiori",
+   "file": "02 - Campo de' Fiori.mp3",
+   "es_min": 6.6,
+   "en_min": 6.2,
+   "dur_ratio": 1.06,
+   "word_ratio": 1.05,
+   "audio_match": 0.969,
+   "ppm": 134,
+   "tts_attempts": 1,
+   "missing_numbers": [],
+   "diffs": [
+    "dos -> 2",
+    "roma no -> romano",
+    "celo su -> celos o",
+    "de -> del",
+    "di torre argentina -> dito reargentina",
+    "a punaladas -> apunaladas",
+    "giordano -> jordano",
+    "dieciseis -> xvi",
+    "teatro -> teatros",
+    "heretica -> eretica",
+    "decadas antes -> de cada santes",
+    "herejia -> erejia",
+    "giordano -> jordano",
+    "lo -> los",
+    "doblara -> doblar",
+    "dei baullari -> de ibaulari",
+    "dei baullari -> de ibaulari",
+    "dei baullari -> de ibaulari",
+    "dei baullari -> de ibaulari"
+   ]
   }
  ]
 }

@@ -61,6 +61,57 @@
     "2000 -> dos mil",
     "pasen -> passen"
    ]
+  },
+  {
+   "n": 4,
+   "name": "Mil años de historia romana",
+   "file": "04 - Mil años de historia romana.mp3",
+   "es_min": 2.6,
+   "en_min": 1.8,
+   "dur_ratio": 1.47,
+   "word_ratio": 1.24,
+   "audio_match": 0.96,
+   "ppm": 126,
+   "tts_attempts": 1,
+   "missing_numbers": [],
+   "diffs": [
+    "antes de cristo -> a c",
+    "despues de cristo -> d c",
+    "nostrum -> nostrom",
+    "antes de cristo -> a c",
+    "paz -> pax",
+    "despues de cristo -> d c",
+    "basilica -> vacilica"
+   ]
+  },
+  {
+   "n": 5,
+   "name": "La Basílica de Constantino",
+   "file": "05 - La Basílica de Constantino.mp3",
+   "es_min": 3.8,
+   "en_min": 3.2,
+   "dur_ratio": 1.19,
+   "word_ratio": 1.1,
+   "audio_match": 0.97,
+   "ppm": 128,
+   "tts_attempts": 1,
+   "missing_numbers": [],
+   "diffs": [
+    "basilica -> vacilica",
+    "salientes -> alientes",
+    "basilica -> vacilica",
+    "capitolinos -> capitalinos",
+    "basilica -> vacilica",
+    "basilica -> vacilica",
+    "al gotico -> algotico",
+    "basilica -> vacilica",
+    "basilica -> vacilica",
+    "el -> al",
+    "majencio -> magensio",
+    "basilica -> vacilica",
+    "basilica -> vacilica",
+    "basilica -> vacilica"
+   ]
   }
  ]
 }
