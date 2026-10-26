@@ -229,6 +229,22 @@
    "tts_attempts": 2,
    "missing_numbers": [],
    "diffs": []
+  },
+  {
+   "n": 17,
+   "name": "La Piedad de Miguel Ángel",
+   "file": "17 - La Piedad de Miguel Ángel.mp3",
+   "es_min": 4.7,
+   "en_min": 4.6,
+   "dur_ratio": 1.04,
+   "word_ratio": 0.91,
+   "audio_match": 1.0,
+   "ppm": 131,
+   "tts_attempts": 2,
+   "missing_numbers": [
+    "2024"
+   ],
+   "diffs": []
   }
  ]
 }

@@ -129,6 +129,20 @@
    "tts_attempts": 2,
    "missing_numbers": [],
    "diffs": []
+  },
+  {
+   "n": 10,
+   "name": "Rafael, La Transfiguración",
+   "file": "10 - Rafael, La Transfiguración.mp3",
+   "es_min": 5.2,
+   "en_min": 4.1,
+   "dur_ratio": 1.26,
+   "word_ratio": 1.07,
+   "audio_match": 1.0,
+   "ppm": 125,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
   }
  ]
 }

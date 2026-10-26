@@ -263,6 +263,36 @@
     "15"
    ],
    "diffs": []
+  },
+  {
+   "n": 15,
+   "name": "La columna de la Inmaculada Concepción",
+   "file": "15 - La columna de la Inmaculada Concepción.mp3",
+   "es_min": 6.9,
+   "en_min": 6.0,
+   "dur_ratio": 1.13,
+   "word_ratio": 1.05,
+   "audio_match": 1.0,
+   "ppm": 134,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 16,
+   "name": "La Plaza de España",
+   "file": "16 - La Plaza de España.mp3",
+   "es_min": 4.5,
+   "en_min": 4.5,
+   "dur_ratio": 1.0,
+   "word_ratio": 0.86,
+   "audio_match": 1.0,
+   "ppm": 134,
+   "tts_attempts": 2,
+   "missing_numbers": [
+    "360"
+   ],
+   "diffs": []
   }
  ]
 }

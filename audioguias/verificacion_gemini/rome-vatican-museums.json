@@ -199,6 +199,34 @@
    "tts_attempts": 2,
    "missing_numbers": [],
    "diffs": []
+  },
+  {
+   "n": 15,
+   "name": "La Sala de la Signatura: La escuela de Atenas",
+   "file": "15 - La Sala de la Signatura La escuela de Atenas.mp3",
+   "es_min": 5.5,
+   "en_min": 4.7,
+   "dur_ratio": 1.18,
+   "word_ratio": 1.01,
+   "audio_match": 1.0,
+   "ppm": 132,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 16,
+   "name": "La disputa del Sacramento",
+   "file": "16 - La disputa del Sacramento.mp3",
+   "es_min": 3.5,
+   "en_min": 3.7,
+   "dur_ratio": 0.92,
+   "word_ratio": 0.8,
+   "audio_match": 1.0,
+   "ppm": 129,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
   }
  ]
 }
