@@ -175,6 +175,34 @@
    "tts_attempts": 2,
    "missing_numbers": [],
    "diffs": []
+  },
+  {
+   "n": 9,
+   "name": "Del Panteón a la Piazza Capranica",
+   "file": "09 - Del Panteón a la Piazza Capranica.mp3",
+   "es_min": 5.3,
+   "en_min": 4.5,
+   "dur_ratio": 1.19,
+   "word_ratio": 1.06,
+   "audio_match": 1.0,
+   "ppm": 140,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 10,
+   "name": "El Parlamento y su obelisco",
+   "file": "10 - El Parlamento y su obelisco.mp3",
+   "es_min": 5.2,
+   "en_min": 4.4,
+   "dur_ratio": 1.18,
+   "word_ratio": 1.03,
+   "audio_match": 1.0,
+   "ppm": 133,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
   }
  ]
 }

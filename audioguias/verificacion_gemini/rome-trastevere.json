@@ -87,6 +87,20 @@
    "tts_attempts": 2,
    "missing_numbers": [],
    "diffs": []
+  },
+  {
+   "n": 7,
+   "name": "La estatua de Santa Cecilia y el ábside",
+   "file": "07 - La estatua de Santa Cecilia y el ábside.mp3",
+   "es_min": 6.5,
+   "en_min": 5.2,
+   "dur_ratio": 1.26,
+   "word_ratio": 1.06,
+   "audio_match": 1.0,
+   "ppm": 133,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
   }
  ]
 }

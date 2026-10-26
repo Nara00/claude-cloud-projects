@@ -73,6 +73,48 @@
    "tts_attempts": 2,
    "missing_numbers": [],
    "diffs": []
+  },
+  {
+   "n": 6,
+   "name": "El Torso del Belvedere",
+   "file": "06 - El Torso del Belvedere.mp3",
+   "es_min": 2.5,
+   "en_min": 2.5,
+   "dur_ratio": 0.99,
+   "word_ratio": 1.08,
+   "audio_match": 1.0,
+   "ppm": 141,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 7,
+   "name": "La Sala Redonda",
+   "file": "07 - La Sala Redonda.mp3",
+   "es_min": 2.8,
+   "en_min": 2.4,
+   "dur_ratio": 1.19,
+   "word_ratio": 1.08,
+   "audio_match": 1.0,
+   "ppm": 131,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 8,
+   "name": "Los sarcófagos de pórfido",
+   "file": "08 - Los sarcófagos de pórfido.mp3",
+   "es_min": 4.4,
+   "en_min": 4.0,
+   "dur_ratio": 1.11,
+   "word_ratio": 1.04,
+   "audio_match": 1.0,
+   "ppm": 125,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
   }
  ]
 }

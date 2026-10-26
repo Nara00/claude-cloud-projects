@@ -101,6 +101,34 @@
    "tts_attempts": 2,
    "missing_numbers": [],
    "diffs": []
+  },
+  {
+   "n": 8,
+   "name": "Profetas, antepasados y desnudos",
+   "file": "08 - Profetas, antepasados y desnudos.mp3",
+   "es_min": 2.9,
+   "en_min": 2.4,
+   "dur_ratio": 1.22,
+   "word_ratio": 1.11,
+   "audio_match": 1.0,
+   "ppm": 129,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 9,
+   "name": "El triunfo de Miguel Ángel",
+   "file": "09 - El triunfo de Miguel Ángel.mp3",
+   "es_min": 3.6,
+   "en_min": 2.8,
+   "dur_ratio": 1.28,
+   "word_ratio": 1.13,
+   "audio_match": 1.0,
+   "ppm": 131,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
   }
  ]
 }

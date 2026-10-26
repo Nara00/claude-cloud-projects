@@ -31,6 +31,20 @@
    "tts_attempts": 2,
    "missing_numbers": [],
    "diffs": []
+  },
+  {
+   "n": 3,
+   "name": "Niccolò y Giovanni, El Juicio Final",
+   "file": "03 - Niccolò y Giovanni, El Juicio Final.mp3",
+   "es_min": 7.5,
+   "en_min": 6.4,
+   "dur_ratio": 1.18,
+   "word_ratio": 1.03,
+   "audio_match": 1.0,
+   "ppm": 130,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
   }
  ]
 }

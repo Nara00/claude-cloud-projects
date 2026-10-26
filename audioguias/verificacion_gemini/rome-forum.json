@@ -291,6 +291,20 @@
    "tts_attempts": 2,
    "missing_numbers": [],
    "diffs": []
+  },
+  {
+   "n": 17,
+   "name": "El Templo de Saturno y la Columna de Focas",
+   "file": "17 - El Templo de Saturno y la Columna de Focas.mp3",
+   "es_min": 4.3,
+   "en_min": 4.2,
+   "dur_ratio": 1.01,
+   "word_ratio": 0.85,
+   "audio_match": 1.0,
+   "ppm": 123,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
   }
  ]
 }
