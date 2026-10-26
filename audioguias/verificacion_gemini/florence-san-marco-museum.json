@@ -17,6 +17,34 @@
    "tts_attempts": 2,
    "missing_numbers": [],
    "diffs": []
+  },
+  {
+   "n": 2,
+   "name": "El patio del monasterio, o claustro",
+   "file": "02 - El patio del monasterio, o claustro.mp3",
+   "es_min": 3.5,
+   "en_min": 3.0,
+   "dur_ratio": 1.17,
+   "word_ratio": 1.1,
+   "audio_match": 1.0,
+   "ppm": 127,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 3,
+   "name": "El Descendimiento de la Cruz, de Fra Angelico",
+   "file": "03 - El Descendimiento de la Cruz, de Fra Angelico.mp3",
+   "es_min": 3.7,
+   "en_min": 3.0,
+   "dur_ratio": 1.23,
+   "word_ratio": 1.09,
+   "audio_match": 1.0,
+   "ppm": 123,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
   }
  ]
 }

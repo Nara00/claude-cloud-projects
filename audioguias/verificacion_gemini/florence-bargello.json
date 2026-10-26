@@ -17,6 +17,34 @@
    "tts_attempts": 2,
    "missing_numbers": [],
    "diffs": []
+  },
+  {
+   "n": 2,
+   "name": "El patio",
+   "file": "02 - El patio.mp3",
+   "es_min": 3.3,
+   "en_min": 2.8,
+   "dur_ratio": 1.21,
+   "word_ratio": 1.09,
+   "audio_match": 1.0,
+   "ppm": 131,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 3,
+   "name": "El Baco de Miguel Ángel",
+   "file": "03 - El Baco de Miguel Ángel.mp3",
+   "es_min": 4.3,
+   "en_min": 3.8,
+   "dur_ratio": 1.15,
+   "word_ratio": 1.02,
+   "audio_match": 1.0,
+   "ppm": 125,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
   }
  ]
 }

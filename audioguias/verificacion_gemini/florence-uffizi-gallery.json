@@ -17,6 +17,34 @@
    "tts_attempts": 2,
    "missing_numbers": [],
    "diffs": []
+  },
+  {
+   "n": 2,
+   "name": "El último piso: cómo está organizado el museo",
+   "file": "02 - El último piso cómo está organizado el museo.mp3",
+   "es_min": 2.1,
+   "en_min": 1.6,
+   "dur_ratio": 1.31,
+   "word_ratio": 1.26,
+   "audio_match": 1.0,
+   "ppm": 130,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 3,
+   "name": "Giotto, Virgen con el Niño",
+   "file": "03 - Giotto, Virgen con el Niño.mp3",
+   "es_min": 3.9,
+   "en_min": 3.1,
+   "dur_ratio": 1.26,
+   "word_ratio": 1.13,
+   "audio_match": 1.0,
+   "ppm": 127,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
   }
  ]
 }
