@@ -72,6 +72,30 @@
     "diecisiete -> xvii",
     "gettare -> getare"
    ]
+  },
+  {
+   "n": 4,
+   "name": "La sinagoga y el Museo Judío",
+   "file": "04 - La sinagoga y el Museo Judío.mp3",
+   "es_min": 4.2,
+   "en_min": 3.6,
+   "dur_ratio": 1.16,
+   "word_ratio": 1.09,
+   "audio_match": 0.979,
+   "ppm": 137,
+   "tts_attempts": 1,
+   "missing_numbers": [],
+   "diffs": [
+    "gueto -> geto",
+    "gueto -> geto",
+    "gueto -> geto",
+    "abraham -> abram",
+    "nouveau -> nubo",
+    "tiffany -> tifani",
+    "segundo antes de cristo -> ii a c",
+    "gueto -> ghetto",
+    "ottobre -> de otobre"
+   ]
   }
  ]
 }

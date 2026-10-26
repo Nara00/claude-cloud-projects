@@ -112,6 +112,44 @@
     "basilica -> vacilica",
     "basilica -> vacilica"
    ]
+  },
+  {
+   "n": 6,
+   "name": "La Vía Sacra",
+   "file": "06 - La Vía Sacra.mp3",
+   "es_min": 2.7,
+   "en_min": 1.9,
+   "dur_ratio": 1.4,
+   "word_ratio": 1.17,
+   "audio_match": 0.99,
+   "ppm": 127,
+   "tts_attempts": 1,
+   "missing_numbers": [],
+   "diffs": [
+    "piensenlo -> piensen",
+    "2000 -> dos mil",
+    "diez -> 10"
+   ]
+  },
+  {
+   "n": 7,
+   "name": "El Templo de Antonino Pío y Faustina",
+   "file": "07 - El Templo de Antonino Pío y Faustina.mp3",
+   "es_min": 3.2,
+   "en_min": 2.5,
+   "dur_ratio": 1.29,
+   "word_ratio": 1.07,
+   "audio_match": 0.987,
+   "ppm": 128,
+   "tts_attempts": 1,
+   "missing_numbers": [],
+   "diffs": [
+    "segundo -> ii",
+    "adentro -> dentro",
+    "paces -> pases",
+    "000 -> mil",
+    "declararla -> declarar la"
+   ]
   }
  ]
 }

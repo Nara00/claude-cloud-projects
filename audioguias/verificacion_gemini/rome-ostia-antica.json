@@ -130,6 +130,40 @@
    "tts_attempts": 1,
    "missing_numbers": [],
    "diffs": []
+  },
+  {
+   "n": 7,
+   "name": "Las Termas de Neptuno",
+   "file": "07 - Las Termas de Neptuno.mp3",
+   "es_min": 1.4,
+   "en_min": 2.6,
+   "dur_ratio": 0.55,
+   "word_ratio": 1.07,
+   "audio_match": 0.981,
+   "ppm": 126,
+   "tts_attempts": 1,
+   "missing_numbers": [],
+   "diffs": [
+    "fino mosaico -> fin homozaico",
+    "delfin -> del fin"
+   ]
+  },
+  {
+   "n": 8,
+   "name": "El teatro",
+   "file": "08 - El teatro.mp3",
+   "es_min": 2.3,
+   "en_min": 1.8,
+   "dur_ratio": 1.28,
+   "word_ratio": 1.12,
+   "audio_match": 0.99,
+   "ppm": 135,
+   "tts_attempts": 1,
+   "missing_numbers": [],
+   "diffs": [
+    "2000 -> dos mil",
+    "4000 -> 4 000"
+   ]
   }
  ]
 }

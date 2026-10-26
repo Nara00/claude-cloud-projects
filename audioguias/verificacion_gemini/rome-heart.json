@@ -56,6 +56,34 @@
     "dei baullari -> de ibaulari",
     "dei baullari -> de ibaulari"
    ]
+  },
+  {
+   "n": 3,
+   "name": "Palazzo Farnese",
+   "file": "03 - Palazzo Farnese.mp3",
+   "es_min": 3.4,
+   "en_min": 3.0,
+   "dur_ratio": 1.14,
+   "word_ratio": 1.06,
+   "audio_match": 0.967,
+   "ppm": 135,
+   "tts_attempts": 1,
+   "missing_numbers": [],
+   "diffs": [
+    "a -> ",
+    "enfrente -> en frente",
+    "dieciseis -> xvi",
+    "tercero -> iii",
+    "cornisa -> corniza",
+    "cornisas -> cornizas",
+    "farnese -> farnece",
+    "farnese -> farnece",
+    "acqua vergine -> aquavergin",
+    "2000 -> dos mil",
+    "de -> dei",
+    "dei baullari -> de ibaulari",
+    "de -> dei"
+   ]
   }
  ]
 }
