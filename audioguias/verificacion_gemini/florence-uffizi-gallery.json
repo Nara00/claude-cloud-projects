@@ -115,6 +115,20 @@
    "tts_attempts": 2,
    "missing_numbers": [],
    "diffs": []
+  },
+  {
+   "n": 9,
+   "name": "Antonio del Pollaiolo, Los trabajos de Hércules",
+   "file": "09 - Antonio del Pollaiolo, Los trabajos de Hércules.mp3",
+   "es_min": 2.4,
+   "en_min": 1.9,
+   "dur_ratio": 1.26,
+   "word_ratio": 1.05,
+   "audio_match": 1.0,
+   "ppm": 120,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
   }
  ]
 }

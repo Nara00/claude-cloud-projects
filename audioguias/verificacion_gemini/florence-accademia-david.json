@@ -45,6 +45,20 @@
    "tts_attempts": 2,
    "missing_numbers": [],
    "diffs": []
+  },
+  {
+   "n": 4,
+   "name": "El busto de Miguel Ángel",
+   "file": "04 - El busto de Miguel Ángel.mp3",
+   "es_min": 3.2,
+   "en_min": 2.6,
+   "dur_ratio": 1.23,
+   "word_ratio": 1.16,
+   "audio_match": 1.0,
+   "ppm": 138,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
   }
  ]
 }
