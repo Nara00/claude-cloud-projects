@@ -59,6 +59,76 @@
    "tts_attempts": 2,
    "missing_numbers": [],
    "diffs": []
+  },
+  {
+   "n": 5,
+   "name": "Los Prisioneros",
+   "file": "05 - Los Prisioneros.mp3",
+   "es_min": 2.8,
+   "en_min": 2.2,
+   "dur_ratio": 1.26,
+   "word_ratio": 1.12,
+   "audio_match": 1.0,
+   "ppm": 129,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 6,
+   "name": "San Mateo y los otros Prisioneros",
+   "file": "06 - San Mateo y los otros Prisioneros.mp3",
+   "es_min": 3.2,
+   "en_min": 2.3,
+   "dur_ratio": 1.4,
+   "word_ratio": 1.19,
+   "audio_match": 1.0,
+   "ppm": 135,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 7,
+   "name": "La Piedad y otras salas cerca del David",
+   "file": "07 - La Piedad y otras salas cerca del David.mp3",
+   "es_min": 2.9,
+   "en_min": 2.7,
+   "dur_ratio": 1.1,
+   "word_ratio": 1.01,
+   "audio_match": 1.0,
+   "ppm": 138,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 8,
+   "name": "El rapto de las sabinas de Giambologna",
+   "file": "08 - El rapto de las sabinas de Giambologna.mp3",
+   "es_min": 2.4,
+   "en_min": 2.2,
+   "dur_ratio": 1.09,
+   "word_ratio": 1.16,
+   "audio_match": 1.0,
+   "ppm": 130,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 9,
+   "name": "El Museo de Instrumentos Musicales",
+   "file": "09 - El Museo de Instrumentos Musicales.mp3",
+   "es_min": 3.1,
+   "en_min": 3.1,
+   "dur_ratio": 1.0,
+   "word_ratio": 0.87,
+   "audio_match": 1.0,
+   "ppm": 120,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
   }
  ]
 }

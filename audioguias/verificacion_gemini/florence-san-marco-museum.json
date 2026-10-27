@@ -157,6 +157,76 @@
    "tts_attempts": 2,
    "missing_numbers": [],
    "diffs": []
+  },
+  {
+   "n": 12,
+   "name": "El Retablo de Bosco ai Frati",
+   "file": "12 - El Retablo de Bosco ai Frati.mp3",
+   "es_min": 3.9,
+   "en_min": 3.4,
+   "dur_ratio": 1.15,
+   "word_ratio": 1.11,
+   "audio_match": 1.0,
+   "ppm": 136,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 13,
+   "name": "El refectorio y el lavabo",
+   "file": "13 - El refectorio y el lavabo.mp3",
+   "es_min": 1.8,
+   "en_min": 1.5,
+   "dur_ratio": 1.23,
+   "word_ratio": 1.12,
+   "audio_match": 1.0,
+   "ppm": 144,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 14,
+   "name": "Las pinturas de Fra Bartolomeo",
+   "file": "14 - Las pinturas de Fra Bartolomeo.mp3",
+   "es_min": 3.7,
+   "en_min": 3.5,
+   "dur_ratio": 1.04,
+   "word_ratio": 1.06,
+   "audio_match": 1.0,
+   "ppm": 124,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 15,
+   "name": "La Crucifixión con santos, de Fra Angelico",
+   "file": "15 - La Crucifixión con santos, de Fra Angelico.mp3",
+   "es_min": 3.2,
+   "en_min": 2.5,
+   "dur_ratio": 1.25,
+   "word_ratio": 1.03,
+   "audio_match": 1.0,
+   "ppm": 134,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 16,
+   "name": "La Anunciación, de Fra Angelico",
+   "file": "16 - La Anunciación, de Fra Angelico.mp3",
+   "es_min": 2.4,
+   "en_min": 2.2,
+   "dur_ratio": 1.07,
+   "word_ratio": 1.06,
+   "audio_match": 1.0,
+   "ppm": 132,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
   }
  ]
 }

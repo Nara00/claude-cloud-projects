@@ -45,6 +45,34 @@
    "tts_attempts": 2,
    "missing_numbers": [],
    "diffs": []
+  },
+  {
+   "n": 4,
+   "name": "La cúpula de Brunelleschi",
+   "file": "04 - La cúpula de Brunelleschi.mp3",
+   "es_min": 7.3,
+   "en_min": 5.5,
+   "dur_ratio": 1.33,
+   "word_ratio": 1.08,
+   "audio_match": 1.0,
+   "ppm": 131,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 5,
+   "name": "El Baptisterio y las puertas norte de Ghiberti",
+   "file": "05 - El Baptisterio y las puertas norte de Ghiberti.mp3",
+   "es_min": 5.0,
+   "en_min": 4.0,
+   "dur_ratio": 1.26,
+   "word_ratio": 1.04,
+   "audio_match": 1.0,
+   "ppm": 129,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
   }
  ]
 }

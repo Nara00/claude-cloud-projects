@@ -101,6 +101,76 @@
    "tts_attempts": 2,
    "missing_numbers": [],
    "diffs": []
+  },
+  {
+   "n": 8,
+   "name": "Un primer David de Donatello",
+   "file": "08 - Un primer David de Donatello.mp3",
+   "es_min": 2.4,
+   "en_min": 1.9,
+   "dur_ratio": 1.29,
+   "word_ratio": 1.08,
+   "audio_match": 1.0,
+   "ppm": 125,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 9,
+   "name": "El David de Andrea del Verrocchio",
+   "file": "09 - El David de Andrea del Verrocchio.mp3",
+   "es_min": 1.5,
+   "en_min": 1.4,
+   "dur_ratio": 1.09,
+   "word_ratio": 1.09,
+   "audio_match": 1.0,
+   "ppm": 128,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 10,
+   "name": "El David de Donatello",
+   "file": "10 - El David de Donatello.mp3",
+   "es_min": 3.4,
+   "en_min": 2.6,
+   "dur_ratio": 1.28,
+   "word_ratio": 1.11,
+   "audio_match": 1.0,
+   "ppm": 125,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 11,
+   "name": "Niccolò da Uzzano, de Donatello",
+   "file": "11 - Niccolò da Uzzano, de Donatello.mp3",
+   "es_min": 2.5,
+   "en_min": 2.1,
+   "dur_ratio": 1.2,
+   "word_ratio": 1.12,
+   "audio_match": 1.0,
+   "ppm": 131,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 12,
+   "name": "El San Jorge de Donatello",
+   "file": "12 - El San Jorge de Donatello.mp3",
+   "es_min": 3.3,
+   "en_min": 2.7,
+   "dur_ratio": 1.23,
+   "word_ratio": 1.1,
+   "audio_match": 1.0,
+   "ppm": 130,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
   }
  ]
 }

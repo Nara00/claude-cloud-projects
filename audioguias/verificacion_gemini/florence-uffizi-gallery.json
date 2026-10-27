@@ -129,6 +129,48 @@
    "tts_attempts": 2,
    "missing_numbers": [],
    "diffs": []
+  },
+  {
+   "n": 10,
+   "name": "Florencia: florece el Renacimiento",
+   "file": "10 - Florencia florece el Renacimiento.mp3",
+   "es_min": 3.5,
+   "en_min": 2.7,
+   "dur_ratio": 1.32,
+   "word_ratio": 1.15,
+   "audio_match": 1.0,
+   "ppm": 116,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 11,
+   "name": "Botticelli, La primavera",
+   "file": "11 - Botticelli, La primavera.mp3",
+   "es_min": 3.5,
+   "en_min": 2.7,
+   "dur_ratio": 1.29,
+   "word_ratio": 1.13,
+   "audio_match": 1.0,
+   "ppm": 123,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 12,
+   "name": "Botticelli, El nacimiento de Venus",
+   "file": "12 - Botticelli, El nacimiento de Venus.mp3",
+   "es_min": 4.9,
+   "en_min": 4.0,
+   "dur_ratio": 1.23,
+   "word_ratio": 1.09,
+   "audio_match": 1.0,
+   "ppm": 130,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
   }
  ]
 }
