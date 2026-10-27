@@ -1,6 +1,8 @@
 // Audioguías PWA. Rutas por hash. Descarga por ciudad.
 const DATA_URL = "data/tours.json";
-const AUDIO_PATH = (city, tour, n, name) => `audio/${city}/${tour}/${String(n).padStart(2,"0")} - ${name}.mp3`;
+// safe() replica scripts/generar_audio_gemini.py: quita los caracteres no permitidos del filename.
+const safeFilename = (name) => name.replace(/[\\/:*?"<>|]/g, "").trim();
+const AUDIO_PATH = (city, tour, n, name) => `audio/${city}/${tour}/${String(n).padStart(2,"0")} - ${safeFilename(name)}.mp3`;
 
 const $ = sel => document.querySelector(sel);
 const el = (tag, props = {}, ...children) => {
