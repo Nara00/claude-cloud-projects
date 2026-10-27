@@ -227,6 +227,48 @@
    "tts_attempts": 2,
    "missing_numbers": [],
    "diffs": []
+  },
+  {
+   "n": 17,
+   "name": "Las celdas de los monjes, con pinturas de Fra Angelico",
+   "file": "17 - Las celdas de los monjes, con pinturas de Fra Angelico.mp3",
+   "es_min": 8.4,
+   "en_min": 7.2,
+   "dur_ratio": 1.16,
+   "word_ratio": 1.0,
+   "audio_match": 1.0,
+   "ppm": 123,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 18,
+   "name": "El estandarte y el manto de Savonarola",
+   "file": "18 - El estandarte y el manto de Savonarola.mp3",
+   "es_min": 2.3,
+   "en_min": 2.0,
+   "dur_ratio": 1.17,
+   "word_ratio": 1.03,
+   "audio_match": 1.0,
+   "ppm": 123,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 19,
+   "name": "Las celdas de Savonarola",
+   "file": "19 - Las celdas de Savonarola.mp3",
+   "es_min": 2.9,
+   "en_min": 2.5,
+   "dur_ratio": 1.13,
+   "word_ratio": 1.06,
+   "audio_match": 1.0,
+   "ppm": 128,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
   }
  ]
 }

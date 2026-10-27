@@ -171,6 +171,20 @@
    "tts_attempts": 2,
    "missing_numbers": [],
    "diffs": []
+  },
+  {
+   "n": 13,
+   "name": "Los paneles del concurso de las puertas del Baptisterio",
+   "file": "13 - Los paneles del concurso de las puertas del Baptisterio.mp3",
+   "es_min": 5.5,
+   "en_min": 5.6,
+   "dur_ratio": 0.99,
+   "word_ratio": 0.88,
+   "audio_match": 1.0,
+   "ppm": 129,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
   }
  ]
 }

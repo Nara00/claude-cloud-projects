@@ -87,6 +87,34 @@
    "tts_attempts": 2,
    "missing_numbers": [],
    "diffs": []
+  },
+  {
+   "n": 7,
+   "name": "Por la Via dei Calzaiuoli",
+   "file": "07 - Por la Via dei Calzaiuoli.mp3",
+   "es_min": 2.7,
+   "en_min": 2.1,
+   "dur_ratio": 1.25,
+   "word_ratio": 0.99,
+   "audio_match": 1.0,
+   "ppm": 132,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 8,
+   "name": "La columna y la Piazza della Repubblica",
+   "file": "08 - La columna y la Piazza della Repubblica.mp3",
+   "es_min": 3.0,
+   "en_min": 2.2,
+   "dur_ratio": 1.37,
+   "word_ratio": 1.1,
+   "audio_match": 1.0,
+   "ppm": 128,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
   }
  ]
 }

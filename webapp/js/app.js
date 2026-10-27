@@ -59,23 +59,36 @@ async function downloadCity(cityId, onProgress) {
   const city = DATA.cities[cityId];
   const urls = cityUrls(city, cityId);
   const cache = await caches.open("city-" + cityId);
-  let done = 0, failed = 0;
+  let done = 0, failed_urls = [];
   for (const u of urls) {
     try {
       const match = await cache.match(u);
       if (!match) {
-        // Para links cross-origin (PDFs del cloudfront), usar no-cors para poder guardar en cache
         const isExternal = /^https?:\/\//.test(u) && !u.startsWith(location.origin);
         const req = isExternal ? new Request(u, { mode: "no-cors" }) : new Request(u, { cache: "no-cache" });
         const res = await fetch(req);
         if (res.ok || res.type === "opaque") await cache.put(u, res.clone());
-        else failed++;
+        else failed_urls.push({ url: u, reason: `HTTP ${res.status}` });
       }
-    } catch (e) { failed++; }
+    } catch (e) { failed_urls.push({ url: u, reason: e.message || "error de red" }); }
     done++;
-    onProgress({ done, total: urls.length, failed });
+    onProgress({ done, total: urls.length, failed: failed_urls.length });
   }
-  return { done, total: urls.length, failed };
+  try { localStorage.setItem("fallidos_" + cityId, JSON.stringify(failed_urls)); } catch {}
+  return { done, total: urls.length, failed: failed_urls };
+}
+
+function getFailed(cityId) {
+  try { return JSON.parse(localStorage.getItem("fallidos_" + cityId) || "[]"); }
+  catch { return []; }
+}
+
+async function stopIsCached(cityId, tourId, stopN, stopName) {
+  if (!("caches" in window)) return false;
+  const url = AUDIO_PATH(cityId, tourId, stopN, stopName);
+  const cache = await caches.open("city-" + cityId);
+  const match = await cache.match(url);
+  return !!match;
 }
 
 async function deleteCity(cityId) {
@@ -118,12 +131,31 @@ function viewCities() {
     grid.append(card);
     i++;
 
+    const errList = el("div", { class: "err-list" });
+    card.append(errList);
     const refresh = async () => {
       const { done, total } = await cityStatus(cid);
+      const failed = getFailed(cid);
       if (total === 0) { status.textContent = "sin tours"; dl.disabled = true; rm.disabled = true; return; }
       if (done === 0) { status.textContent = `0 / ${total}`; status.className = "status"; rm.disabled = true; }
       else if (done < total) { status.textContent = `${done} / ${total} descargados`; status.className = "status err"; rm.disabled = false; }
       else { status.textContent = `${total} / ${total} ✓ sin internet`; status.className = "status ok"; rm.disabled = false; }
+      errList.innerHTML = "";
+      if (failed.length) {
+        const names = failed.map(f => f.url.split("/").slice(-2).join(" / "));
+        errList.append(el("details", {},
+          el("summary", {}, `${failed.length} con error — tocá para ver`),
+          el("ul", {}, ...names.map(n => el("li", {}, n))),
+          el("button", { class: "small", onclick: async () => {
+            dl.disabled = true; row.classList.add("loading");
+            await downloadCity(cid, ({ done, total, failed }) => {
+              prog.value = Math.round(done / total * 100);
+              status.textContent = `${done} / ${total}` + (failed ? ` (${failed})` : "");
+            });
+            row.classList.remove("loading"); dl.disabled = false; await refresh();
+          } }, "Reintentar los que fallaron"),
+        ));
+      }
     };
     refresh();
 
@@ -211,13 +243,13 @@ function viewTour(cityId, tourId) {
   }
 
   for (const s of tour.stops) {
-    const audioUrl = AUDIO_PATH(cityId, tourId, s.n, s.name);
+    const dot = el("span", { class: "cache-dot", title: "..." }, "·");
     const stopEl = el("div", { class: "stop", id: `stop-${s.n}` },
       el("header", {},
         el("span", { class: "n" }, String(s.n).padStart(2, "0")),
         el("div", { class: "meta" },
           el("div", { class: "title" }, s.name),
-          el("div", { class: "sub" }, "Tocá para leer · ▶ para escuchar"),
+          el("div", { class: "sub" }, dot, " ", el("span", { class: "sub-text" }, "cargando estado…")),
         ),
         el("button", { class: "play-btn", "aria-label": "Reproducir",
           onclick: ev => { ev.stopPropagation(); play(cityId, tourId, s.n); } }, "▶"),
@@ -229,6 +261,12 @@ function viewTour(cityId, tourId) {
       stopEl.classList.toggle("open");
     });
     root.append(stopEl);
+    stopIsCached(cityId, tourId, s.n, s.name).then(ok => {
+      dot.textContent = ok ? "●" : "○";
+      dot.className = "cache-dot " + (ok ? "ok" : "miss");
+      dot.title = ok ? "Descargado, funciona sin internet" : "No descargado";
+      stopEl.querySelector(".sub-text").textContent = ok ? "Sin internet ✓" : "Requiere internet";
+    });
   }
 }
 
