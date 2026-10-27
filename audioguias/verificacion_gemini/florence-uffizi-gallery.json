@@ -171,6 +171,20 @@
    "tts_attempts": 2,
    "missing_numbers": [],
    "diffs": []
+  },
+  {
+   "n": 13,
+   "name": "Botticelli, La calumnia de Apeles",
+   "file": "13 - Botticelli, La calumnia de Apeles.mp3",
+   "es_min": 4.7,
+   "en_min": 3.7,
+   "dur_ratio": 1.27,
+   "word_ratio": 1.04,
+   "audio_match": 1.0,
+   "ppm": 122,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
   }
  ]
 }
