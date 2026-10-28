@@ -213,6 +213,20 @@
    "tts_attempts": 2,
    "missing_numbers": [],
    "diffs": []
+  },
+  {
+   "n": 16,
+   "name": "Savonarola",
+   "file": "16 - Savonarola.mp3",
+   "es_min": 3.1,
+   "en_min": 2.8,
+   "dur_ratio": 1.12,
+   "word_ratio": 1.04,
+   "audio_match": 1.0,
+   "ppm": 116,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
   }
  ]
 }
