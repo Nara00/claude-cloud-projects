@@ -1,5 +1,5 @@
-// Service Worker: cachea el shell y responde desde los caches city-<id>/* para audios.
-const SHELL = "shell-v1";
+// Service Worker con manejo de Range requests para audio offline.
+const SHELL = "shell-v2";
 const SHELL_URLS = [
   "./",
   "index.html",
@@ -29,25 +29,70 @@ self.addEventListener("activate", (e) => {
   })());
 });
 
+// Devuelve una Response 206 Partial Content a partir de una Response completa cacheada,
+// honrando el header Range del request original (necesario para <audio> en Safari/iOS).
+async function rangedFromCache(cachedResponse, request) {
+  const buffer = await cachedResponse.clone().arrayBuffer();
+  const size = buffer.byteLength;
+  const rangeHeader = request.headers.get("range");
+  if (!rangeHeader) {
+    return new Response(buffer, {
+      status: 200,
+      headers: {
+        "Content-Type": cachedResponse.headers.get("Content-Type") || "audio/mpeg",
+        "Content-Length": size,
+        "Accept-Ranges": "bytes",
+      },
+    });
+  }
+  const match = /bytes=(\d*)-(\d*)/.exec(rangeHeader);
+  const start = match && match[1] ? parseInt(match[1], 10) : 0;
+  const end = match && match[2] ? parseInt(match[2], 10) : size - 1;
+  const slice = buffer.slice(start, end + 1);
+  return new Response(slice, {
+    status: 206,
+    statusText: "Partial Content",
+    headers: {
+      "Content-Type": cachedResponse.headers.get("Content-Type") || "audio/mpeg",
+      "Content-Length": slice.byteLength,
+      "Content-Range": `bytes ${start}-${end}/${size}`,
+      "Accept-Ranges": "bytes",
+    },
+  });
+}
+
 self.addEventListener("fetch", (e) => {
   const url = new URL(e.request.url);
   if (e.request.method !== "GET") return;
 
-  // Audio: cache-first contra el cache de la ciudad correspondiente
+  // Audio: cache-first contra el cache de la ciudad, con Range correcto.
   if (url.pathname.includes("/audio/")) {
     const m = url.pathname.match(/\/audio\/([^/]+)\//);
-    const cacheName = m ? "city-" + m[1] : "shell-fallback";
+    const cacheName = m ? "city-" + m[1] : null;
     e.respondWith((async () => {
-      const cached = await caches.match(e.request);
-      if (cached) return cached;
+      // Buscamos por URL (no por request): la entrada guardada no tiene Range
+      const cacheKey = new Request(url.pathname + url.search);
+      let cached;
+      if (cacheName) {
+        const cache = await caches.open(cacheName);
+        cached = await cache.match(cacheKey, { ignoreSearch: false });
+        if (!cached) cached = await cache.match(e.request.url);
+      }
+      if (!cached) cached = await caches.match(e.request.url);
+      if (cached) {
+        try { return await rangedFromCache(cached, e.request); }
+        catch (err) { /* seguir al fetch */ }
+      }
       try {
         const res = await fetch(e.request);
-        if (res.ok && m) {
+        if (res.ok && cacheName && !e.request.headers.get("range")) {
           const cache = await caches.open(cacheName);
-          cache.put(e.request, res.clone());
+          cache.put(cacheKey, res.clone()).catch(() => null);
         }
         return res;
-      } catch (err) { return new Response("Offline y no está en el cache", { status: 503 }); }
+      } catch (err) {
+        return new Response("Audio no disponible sin conexión", { status: 503 });
+      }
     })());
     return;
   }

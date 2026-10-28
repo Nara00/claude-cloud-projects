@@ -215,6 +215,20 @@
    "tts_attempts": 2,
    "missing_numbers": [],
    "diffs": []
+  },
+  {
+   "n": 16,
+   "name": "Leonardo da Vinci, La Anunciación y La Adoración de los Magos",
+   "file": "16 - Leonardo da Vinci, La Anunciación y La Adoración de los Magos.mp3",
+   "es_min": 9.4,
+   "en_min": 7.8,
+   "dur_ratio": 1.21,
+   "word_ratio": 1.05,
+   "audio_match": 1.0,
+   "ppm": 126,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
   }
  ]
 }

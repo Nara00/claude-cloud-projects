@@ -269,6 +269,20 @@
    "tts_attempts": 2,
    "missing_numbers": [],
    "diffs": []
+  },
+  {
+   "n": 20,
+   "name": "La habitación con los objetos de Savonarola",
+   "file": "20 - La habitación con los objetos de Savonarola.mp3",
+   "es_min": 6.3,
+   "en_min": 6.1,
+   "dur_ratio": 1.04,
+   "word_ratio": 0.89,
+   "audio_match": 1.0,
+   "ppm": 124,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
   }
  ]
 }

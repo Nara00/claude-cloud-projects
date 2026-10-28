@@ -7,6 +7,7 @@ MODELO=gemini-3.1-flash-tts-preview
 VOZ=Charon
 ROMA="rome-pantheon rome-colosseum rome-forum rome-heart rome-jewish-ghetto rome-ostia-antica rome-sistine-chapel rome-st-peters-basilica rome-trastevere rome-vatican-museums rome-vatican-pinacoteca"
 FLORENCIA="florence-accademia-david florence-bargello florence-renaissance-walk florence-san-marco-museum florence-uffizi-gallery"
+OTRAS="siena-city-walk barcelona-city-walk barcelona-eixample-walk madrid-city-walk sevilla-city-walk"
 PARALELO=8
 export SKIP_VERIFY=1
 LOGS=/tmp/claude-0/-home-user-claude-cloud-projects/b4aa56bb-52a3-5976-b787-c53d98d8e7cc/scratchpad/por_tour
@@ -29,4 +30,6 @@ echo "=== $(date -Iseconds) ROMA ($PARALELO procesos) ==="
 echo "$ROMA" | tr ' ' '\n' | xargs -n1 -P $PARALELO -I {} bash -c 'procesar "$@"' _ {}
 echo "=== $(date -Iseconds) FLORENCIA ($PARALELO procesos) ==="
 echo "$FLORENCIA" | tr ' ' '\n' | xargs -n1 -P $PARALELO -I {} bash -c 'procesar "$@"' _ {}
+echo "=== $(date -Iseconds) OTRAS CIUDADES ($PARALELO procesos) ==="
+echo "$OTRAS" | tr ' ' '\n' | xargs -n1 -P $PARALELO -I {} bash -c 'procesar "$@"' _ {}
 echo "=== $(date -Iseconds) FIN ==="

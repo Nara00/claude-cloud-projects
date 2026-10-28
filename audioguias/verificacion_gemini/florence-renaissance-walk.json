@@ -115,6 +115,34 @@
    "tts_attempts": 2,
    "missing_numbers": [],
    "diffs": []
+  },
+  {
+   "n": 9,
+   "name": "El exterior de Orsanmichele",
+   "file": "09 - El exterior de Orsanmichele.mp3",
+   "es_min": 6.3,
+   "en_min": 4.9,
+   "dur_ratio": 1.28,
+   "word_ratio": 1.12,
+   "audio_match": 1.0,
+   "ppm": 134,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 10,
+   "name": "El interior de Orsanmichele",
+   "file": "10 - El interior de Orsanmichele.mp3",
+   "es_min": 2.2,
+   "en_min": 1.8,
+   "dur_ratio": 1.23,
+   "word_ratio": 1.12,
+   "audio_match": 1.0,
+   "ppm": 122,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
   }
  ]
 }
