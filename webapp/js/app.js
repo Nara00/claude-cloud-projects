@@ -231,19 +231,30 @@ function viewTour(cityId, tourId) {
   root.innerHTML = "";
   QUEUE = tour.stops.map(s => ({ ...s, cityId, tourId }));
 
+  const header = el("div", { class: "tour-header" });
   if (tour.map_url) {
-    const header = el("div", { class: "tour-header" },
+    header.append(
       el("a", { class: "map-btn", href: tour.map_url, target: "_blank", rel: "noopener" },
         el("span", { class: "map-ico" }, "🗺"),
         el("span", {}, "Ver mapa oficial del tour"),
         el("span", { class: "map-ext" }, "↗"),
       ),
     );
-    root.append(header);
   }
+  const dirUrl = `https://github.com/Nara00/claude-cloud-projects/tree/audioguias-rick-steves/webapp/audio/${cityId}/${tourId}`;
+  header.append(
+    el("a", { class: "zip-btn", href: `https://download-directory.github.io/?url=${encodeURIComponent(dirUrl)}`,
+      target: "_blank", rel: "noopener" },
+      el("span", { class: "map-ico" }, "⬇"),
+      el("span", {}, "Descargar MP3 del tour como ZIP"),
+      el("span", { class: "map-ext" }, "↗"),
+    ),
+  );
+  root.append(header);
 
   for (const s of tour.stops) {
     const dot = el("span", { class: "cache-dot", title: "..." }, "·");
+    const audioUrl = AUDIO_PATH(cityId, tourId, s.n, s.name);
     const stopEl = el("div", { class: "stop", id: `stop-${s.n}` },
       el("header", {},
         el("span", { class: "n" }, String(s.n).padStart(2, "0")),
@@ -251,6 +262,9 @@ function viewTour(cityId, tourId) {
           el("div", { class: "title" }, s.name),
           el("div", { class: "sub" }, dot, " ", el("span", { class: "sub-text" }, "cargando estado…")),
         ),
+        el("a", { class: "dl-btn", href: audioUrl, download: `${String(s.n).padStart(2,"0")} - ${safeFilename(s.name)}.mp3`,
+          "aria-label": "Descargar MP3", title: "Descargar MP3",
+          onclick: ev => ev.stopPropagation() }, "⬇"),
         el("button", { class: "play-btn", "aria-label": "Reproducir",
           onclick: ev => { ev.stopPropagation(); play(cityId, tourId, s.n); } }, "▶"),
       ),
