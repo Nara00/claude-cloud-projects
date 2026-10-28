@@ -143,6 +143,76 @@
    "tts_attempts": 2,
    "missing_numbers": [],
    "diffs": []
+  },
+  {
+   "n": 11,
+   "name": "El San Marcos de Donatello y otras estatuas",
+   "file": "11 - El San Marcos de Donatello y otras estatuas.mp3",
+   "es_min": 4.9,
+   "en_min": 3.9,
+   "dur_ratio": 1.28,
+   "word_ratio": 1.13,
+   "audio_match": 1.0,
+   "ppm": 127,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 12,
+   "name": "La Piazza della Signoria y el Palazzo Vecchio",
+   "file": "12 - La Piazza della Signoria y el Palazzo Vecchio.mp3",
+   "es_min": 3.2,
+   "en_min": 2.6,
+   "dur_ratio": 1.24,
+   "word_ratio": 1.08,
+   "audio_match": 1.0,
+   "ppm": 130,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 13,
+   "name": "El patio del Palazzo Vecchio",
+   "file": "13 - El patio del Palazzo Vecchio.mp3",
+   "es_min": 2.1,
+   "en_min": 1.7,
+   "dur_ratio": 1.22,
+   "word_ratio": 1.11,
+   "audio_match": 1.0,
+   "ppm": 126,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 14,
+   "name": "La Loggia",
+   "file": "14 - La Loggia.mp3",
+   "es_min": 2.6,
+   "en_min": 1.9,
+   "dur_ratio": 1.35,
+   "word_ratio": 1.13,
+   "audio_match": 1.0,
+   "ppm": 130,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 15,
+   "name": "La fuente de Neptuno",
+   "file": "15 - La fuente de Neptuno.mp3",
+   "es_min": 1.5,
+   "en_min": 1.1,
+   "dur_ratio": 1.39,
+   "word_ratio": 1.13,
+   "audio_match": 1.0,
+   "ppm": 121,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
   }
  ]
 }

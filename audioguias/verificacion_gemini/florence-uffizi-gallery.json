@@ -229,6 +229,62 @@
    "tts_attempts": 2,
    "missing_numbers": [],
    "diffs": []
+  },
+  {
+   "n": 17,
+   "name": "Miguel Ángel, La Sagrada Familia",
+   "file": "17 - Miguel Ángel, La Sagrada Familia.mp3",
+   "es_min": 3.5,
+   "en_min": 2.8,
+   "dur_ratio": 1.26,
+   "word_ratio": 1.09,
+   "audio_match": 1.0,
+   "ppm": 128,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 18,
+   "name": "Rafael, La Virgen del jilguero y los retratos de los Doni",
+   "file": "18 - Rafael, La Virgen del jilguero y los retratos de los Doni.mp3",
+   "es_min": 4.6,
+   "en_min": 3.8,
+   "dur_ratio": 1.2,
+   "word_ratio": 1.09,
+   "audio_match": 1.0,
+   "ppm": 134,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 19,
+   "name": "El Laocoonte",
+   "file": "19 - El Laocoonte.mp3",
+   "es_min": 2.4,
+   "en_min": 2.0,
+   "dur_ratio": 1.16,
+   "word_ratio": 1.01,
+   "audio_match": 1.0,
+   "ppm": 128,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 20,
+   "name": "Unas palabras finales: el resto de los Uffizi",
+   "file": "20 - Unas palabras finales el resto de los Uffizi.mp3",
+   "es_min": 2.6,
+   "en_min": 3.0,
+   "dur_ratio": 0.88,
+   "word_ratio": 0.75,
+   "audio_match": 1.0,
+   "ppm": 128,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
   }
  ]
 }
