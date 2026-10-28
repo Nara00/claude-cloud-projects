@@ -227,6 +227,48 @@
    "tts_attempts": 2,
    "missing_numbers": [],
    "diffs": []
+  },
+  {
+   "n": 17,
+   "name": "El patio de los Uffizi: el Salón de la Fama del Renacimiento",
+   "file": "17 - El patio de los Uffizi el Salón de la Fama del Renacimiento.mp3",
+   "es_min": 7.3,
+   "en_min": 5.9,
+   "dur_ratio": 1.23,
+   "word_ratio": 1.07,
+   "audio_match": 1.0,
+   "ppm": 131,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 18,
+   "name": "El río Arno y la vista del Ponte Vecchio",
+   "file": "18 - El río Arno y la vista del Ponte Vecchio.mp3",
+   "es_min": 4.0,
+   "en_min": 3.0,
+   "dur_ratio": 1.37,
+   "word_ratio": 1.1,
+   "audio_match": 1.0,
+   "ppm": 130,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 19,
+   "name": "El Ponte Vecchio",
+   "file": "19 - El Ponte Vecchio.mp3",
+   "es_min": 2.9,
+   "en_min": 2.9,
+   "dur_ratio": 0.97,
+   "word_ratio": 0.83,
+   "audio_match": 1.0,
+   "ppm": 125,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
   }
  ]
 }
