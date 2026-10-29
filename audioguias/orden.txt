@@ -19,3 +19,7 @@ barcelona-eixample-walk.mp3
 siena-city-walk.mp3
 madrid-city-walk.mp3
 barcelona-city-walk.mp3
+venice-frari-church.mp3
+venice-grand-canal.mp3
+venice-st-marks-basilica.mp3
+venice-st-marks-square.mp3

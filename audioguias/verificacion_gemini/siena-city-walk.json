@@ -203,6 +203,38 @@
    "tts_attempts": 2,
    "missing_numbers": [],
    "diffs": []
+  },
+  {
+   "n": 15,
+   "name": "De obispo a papa, y los cantorales",
+   "file": "15 - De obispo a papa, y los cantorales.mp3",
+   "es_min": 6.9,
+   "en_min": 6.0,
+   "dur_ratio": 1.15,
+   "word_ratio": 1.06,
+   "audio_match": 1.0,
+   "ppm": 129,
+   "tts_attempts": 2,
+   "missing_numbers": [
+    "10"
+   ],
+   "diffs": []
+  },
+  {
+   "n": 16,
+   "name": "La iglesia inconclusa",
+   "file": "16 - La iglesia inconclusa.mp3",
+   "es_min": 4.6,
+   "en_min": 3.8,
+   "dur_ratio": 1.21,
+   "word_ratio": 1.04,
+   "audio_match": 1.0,
+   "ppm": 135,
+   "tts_attempts": 2,
+   "missing_numbers": [
+    "90"
+   ],
+   "diffs": []
   }
  ]
 }

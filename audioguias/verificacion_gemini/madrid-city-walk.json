@@ -190,6 +190,34 @@
    "tts_attempts": 2,
    "missing_numbers": [],
    "diffs": []
+  },
+  {
+   "n": 14,
+   "name": "La Catedral de la Almudena",
+   "file": "14 - La Catedral de la Almudena.mp3",
+   "es_min": 4.8,
+   "en_min": 4.4,
+   "dur_ratio": 1.1,
+   "word_ratio": 0.98,
+   "audio_match": 1.0,
+   "ppm": 134,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 15,
+   "name": "El Palacio Real",
+   "file": "15 - El Palacio Real.mp3",
+   "es_min": 7.3,
+   "en_min": 6.0,
+   "dur_ratio": 1.22,
+   "word_ratio": 1.0,
+   "audio_match": 1.0,
+   "ppm": 129,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
   }
  ]
 }

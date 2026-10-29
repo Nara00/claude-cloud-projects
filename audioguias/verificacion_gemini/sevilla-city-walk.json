@@ -163,6 +163,48 @@
    "tts_attempts": 2,
    "missing_numbers": [],
    "diffs": []
+  },
+  {
+   "n": 12,
+   "name": "Los callejones del beso",
+   "file": "12 - Los callejones del beso.mp3",
+   "es_min": 1.8,
+   "en_min": 2.1,
+   "dur_ratio": 0.86,
+   "word_ratio": 0.98,
+   "audio_match": 1.0,
+   "ppm": 138,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 13,
+   "name": "La Plaza de los Venerables",
+   "file": "13 - La Plaza de los Venerables.mp3",
+   "es_min": 4.4,
+   "en_min": 3.7,
+   "dur_ratio": 1.18,
+   "word_ratio": 1.04,
+   "audio_match": 1.0,
+   "ppm": 133,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 14,
+   "name": "La Plaza de Doña Elvira",
+   "file": "14 - La Plaza de Doña Elvira.mp3",
+   "es_min": 2.3,
+   "en_min": 2.0,
+   "dur_ratio": 1.16,
+   "word_ratio": 1.06,
+   "audio_match": 1.0,
+   "ppm": 127,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
   }
  ]
 }

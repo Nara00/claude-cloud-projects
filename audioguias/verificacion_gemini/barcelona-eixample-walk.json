@@ -190,6 +190,50 @@
     "200"
    ],
    "diffs": []
+  },
+  {
+   "n": 14,
+   "name": "La Floristeria Navarro",
+   "file": "14 - La Floristeria Navarro.mp3",
+   "es_min": 2.3,
+   "en_min": 2.3,
+   "dur_ratio": 1.01,
+   "word_ratio": 1.06,
+   "audio_match": 1.0,
+   "ppm": 134,
+   "tts_attempts": 2,
+   "missing_numbers": [
+    "7"
+   ],
+   "diffs": []
+  },
+  {
+   "n": 15,
+   "name": "El Mercat de la Concepció",
+   "file": "15 - El Mercat de la Concepció.mp3",
+   "es_min": 2.0,
+   "en_min": 3.9,
+   "dur_ratio": 0.51,
+   "word_ratio": 0.88,
+   "audio_match": 1.0,
+   "ppm": 138,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 16,
+   "name": "Del mercado a la iglesia de la Concepción",
+   "file": "16 - Del mercado a la iglesia de la Concepción.mp3",
+   "es_min": 2.3,
+   "en_min": 2.1,
+   "dur_ratio": 1.13,
+   "word_ratio": 1.0,
+   "audio_match": 1.0,
+   "ppm": 130,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
   }
  ]
 }
