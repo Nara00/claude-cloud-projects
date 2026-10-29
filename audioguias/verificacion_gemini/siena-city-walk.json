@@ -235,6 +235,34 @@
     "90"
    ],
    "diffs": []
+  },
+  {
+   "n": 17,
+   "name": "Camino a la Piazza dell'Indipendenza",
+   "file": "17 - Camino a la Piazza dell'Indipendenza.mp3",
+   "es_min": 5.6,
+   "en_min": 5.0,
+   "dur_ratio": 1.11,
+   "word_ratio": 0.99,
+   "audio_match": 1.0,
+   "ppm": 136,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 18,
+   "name": "La Piazza dell'Indipendenza y la Loggia della Mercanzia",
+   "file": "18 - La Piazza dell'Indipendenza y la Loggia della Mercanzia.mp3",
+   "es_min": 3.1,
+   "en_min": 2.5,
+   "dur_ratio": 1.25,
+   "word_ratio": 1.07,
+   "audio_match": 1.0,
+   "ppm": 128,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
   }
  ]
 }
