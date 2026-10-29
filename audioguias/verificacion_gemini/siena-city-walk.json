@@ -189,6 +189,20 @@
    "tts_attempts": 2,
    "missing_numbers": [],
    "diffs": []
+  },
+  {
+   "n": 14,
+   "name": "La Biblioteca Piccolomini",
+   "file": "14 - La Biblioteca Piccolomini.mp3",
+   "es_min": 5.4,
+   "en_min": 4.4,
+   "dur_ratio": 1.24,
+   "word_ratio": 1.04,
+   "audio_match": 1.0,
+   "ppm": 131,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
   }
  ]
 }

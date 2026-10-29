@@ -149,6 +149,20 @@
    "tts_attempts": 2,
    "missing_numbers": [],
    "diffs": []
+  },
+  {
+   "n": 11,
+   "name": "La Casa de Murillo y el convento de Santa Teresa",
+   "file": "11 - La Casa de Murillo y el convento de Santa Teresa.mp3",
+   "es_min": 5.0,
+   "en_min": 4.2,
+   "dur_ratio": 1.19,
+   "word_ratio": 1.0,
+   "audio_match": 1.0,
+   "ppm": 133,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
   }
  ]
 }
