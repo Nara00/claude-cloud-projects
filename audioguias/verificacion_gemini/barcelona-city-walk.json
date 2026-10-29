@@ -125,6 +125,20 @@
     "10"
    ],
    "diffs": []
+  },
+  {
+   "n": 9,
+   "name": "La Plaça Nova",
+   "file": "09 - La Plaça Nova.mp3",
+   "es_min": 4.8,
+   "en_min": 4.0,
+   "dur_ratio": 1.2,
+   "word_ratio": 1.09,
+   "audio_match": 1.0,
+   "ppm": 138,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
   }
  ]
 }
