@@ -104,6 +104,20 @@
    "tts_attempts": 2,
    "missing_numbers": [],
    "diffs": []
+  },
+  {
+   "n": 8,
+   "name": "La Inquisición y la Plaza Mayor de hoy",
+   "file": "08 - La Inquisición y la Plaza Mayor de hoy.mp3",
+   "es_min": 4.0,
+   "en_min": 3.2,
+   "dur_ratio": 1.24,
+   "word_ratio": 1.1,
+   "audio_match": 1.0,
+   "ppm": 128,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
   }
  ]
 }
