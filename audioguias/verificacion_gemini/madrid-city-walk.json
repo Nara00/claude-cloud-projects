@@ -118,6 +118,36 @@
    "tts_attempts": 2,
    "missing_numbers": [],
    "diffs": []
+  },
+  {
+   "n": 9,
+   "name": "El bar taurino La Torre del Oro",
+   "file": "09 - El bar taurino La Torre del Oro.mp3",
+   "es_min": 6.2,
+   "en_min": 5.3,
+   "dur_ratio": 1.16,
+   "word_ratio": 0.95,
+   "audio_match": 1.0,
+   "ppm": 134,
+   "tts_attempts": 2,
+   "missing_numbers": [
+    "15"
+   ],
+   "diffs": []
+  },
+  {
+   "n": 10,
+   "name": "El Mercado de San Miguel",
+   "file": "10 - El Mercado de San Miguel.mp3",
+   "es_min": 6.3,
+   "en_min": 5.7,
+   "dur_ratio": 1.1,
+   "word_ratio": 0.91,
+   "audio_match": 1.0,
+   "ppm": 142,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
   }
  ]
 }

@@ -107,6 +107,34 @@
     "180"
    ],
    "diffs": []
+  },
+  {
+   "n": 8,
+   "name": "La entrada al Barrio de Santa Cruz",
+   "file": "08 - La entrada al Barrio de Santa Cruz.mp3",
+   "es_min": 4.0,
+   "en_min": 3.3,
+   "dur_ratio": 1.21,
+   "word_ratio": 1.02,
+   "audio_match": 1.0,
+   "ppm": 131,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 9,
+   "name": "El Callejón del Agua",
+   "file": "09 - El Callejón del Agua.mp3",
+   "es_min": 4.4,
+   "en_min": 3.9,
+   "dur_ratio": 1.13,
+   "word_ratio": 1.03,
+   "audio_match": 1.0,
+   "ppm": 137,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
   }
  ]
 }

@@ -133,6 +133,34 @@
    "tts_attempts": 2,
    "missing_numbers": [],
    "diffs": []
+  },
+  {
+   "n": 10,
+   "name": "Bajo la cúpula",
+   "file": "10 - Bajo la cúpula.mp3",
+   "es_min": 4.4,
+   "en_min": 3.8,
+   "dur_ratio": 1.16,
+   "word_ratio": 1.0,
+   "audio_match": 1.0,
+   "ppm": 133,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 11,
+   "name": "El púlpito de Pisano",
+   "file": "11 - El púlpito de Pisano.mp3",
+   "es_min": 2.9,
+   "en_min": 2.5,
+   "dur_ratio": 1.16,
+   "word_ratio": 1.03,
+   "audio_match": 1.0,
+   "ppm": 129,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
   }
  ]
 }

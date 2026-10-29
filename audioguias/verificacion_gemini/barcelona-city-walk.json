@@ -153,6 +153,36 @@
    "tts_attempts": 2,
    "missing_numbers": [],
    "diffs": []
+  },
+  {
+   "n": 11,
+   "name": "La catedral de Barcelona: el exterior",
+   "file": "11 - La catedral de Barcelona el exterior.mp3",
+   "es_min": 5.2,
+   "en_min": 4.8,
+   "dur_ratio": 1.07,
+   "word_ratio": 1.01,
+   "audio_match": 1.0,
+   "ppm": 135,
+   "tts_attempts": 2,
+   "missing_numbers": [
+    "16"
+   ],
+   "diffs": []
+  },
+  {
+   "n": 12,
+   "name": "El interior de la catedral: la nave",
+   "file": "12 - El interior de la catedral la nave.mp3",
+   "es_min": 3.0,
+   "en_min": 3.1,
+   "dur_ratio": 0.99,
+   "word_ratio": 1.01,
+   "audio_match": 1.0,
+   "ppm": 134,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
   }
  ]
 }
