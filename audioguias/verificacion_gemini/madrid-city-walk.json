@@ -148,6 +148,34 @@
    "tts_attempts": 2,
    "missing_numbers": [],
    "diffs": []
+  },
+  {
+   "n": 11,
+   "name": "La iglesia y el convento del Corpus Christi",
+   "file": "11 - La iglesia y el convento del Corpus Christi.mp3",
+   "es_min": 4.4,
+   "en_min": 4.1,
+   "dur_ratio": 1.07,
+   "word_ratio": 1.0,
+   "audio_match": 1.0,
+   "ppm": 135,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 12,
+   "name": "La Plaza de la Villa y la Casa de la Villa",
+   "file": "12 - La Plaza de la Villa y la Casa de la Villa.mp3",
+   "es_min": 5.1,
+   "en_min": 4.2,
+   "dur_ratio": 1.19,
+   "word_ratio": 1.06,
+   "audio_match": 1.0,
+   "ppm": 130,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
   }
  ]
 }

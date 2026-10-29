@@ -135,6 +135,20 @@
    "tts_attempts": 2,
    "missing_numbers": [],
    "diffs": []
+  },
+  {
+   "n": 10,
+   "name": "La Plaza de Santa Cruz",
+   "file": "10 - La Plaza de Santa Cruz.mp3",
+   "es_min": 7.5,
+   "en_min": 7.5,
+   "dur_ratio": 1.0,
+   "word_ratio": 1.0,
+   "audio_match": 1.0,
+   "ppm": 132,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
   }
  ]
 }

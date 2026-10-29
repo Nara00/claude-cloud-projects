@@ -145,6 +145,34 @@
    "tts_attempts": 2,
    "missing_numbers": [],
    "diffs": []
+  },
+  {
+   "n": 11,
+   "name": "La Manzana de la Discordia, segunda parte: el legado del modernismo",
+   "file": "11 - La Manzana de la Discordia, segunda parte el legado del modernismo.mp3",
+   "es_min": 4.3,
+   "en_min": 3.7,
+   "dur_ratio": 1.16,
+   "word_ratio": 1.03,
+   "audio_match": 1.0,
+   "ppm": 129,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 12,
+   "name": "El Carrer d'Aragó: el Eixample de todos los días",
+   "file": "12 - El Carrer d'Aragó el Eixample de todos los días.mp3",
+   "es_min": 4.1,
+   "en_min": 3.4,
+   "dur_ratio": 1.22,
+   "word_ratio": 1.09,
+   "audio_match": 1.0,
+   "ppm": 136,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
   }
  ]
 }

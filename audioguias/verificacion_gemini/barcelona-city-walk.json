@@ -183,6 +183,20 @@
    "tts_attempts": 2,
    "missing_numbers": [],
    "diffs": []
+  },
+  {
+   "n": 13,
+   "name": "Las capillas laterales",
+   "file": "13 - Las capillas laterales.mp3",
+   "es_min": 8.5,
+   "en_min": 7.2,
+   "dur_ratio": 1.18,
+   "word_ratio": 1.05,
+   "audio_match": 1.0,
+   "ppm": 135,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
   }
  ]
 }

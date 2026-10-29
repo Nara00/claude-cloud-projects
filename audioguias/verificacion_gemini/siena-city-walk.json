@@ -161,6 +161,34 @@
    "tts_attempts": 2,
    "missing_numbers": [],
    "diffs": []
+  },
+  {
+   "n": 12,
+   "name": "El transepto izquierdo y el San Juan de Donatello",
+   "file": "12 - El transepto izquierdo y el San Juan de Donatello.mp3",
+   "es_min": 3.4,
+   "en_min": 2.6,
+   "dur_ratio": 1.3,
+   "word_ratio": 1.09,
+   "audio_match": 1.0,
+   "ppm": 129,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 13,
+   "name": "La Capilla de la Madonna del Voto",
+   "file": "13 - La Capilla de la Madonna del Voto.mp3",
+   "es_min": 4.5,
+   "en_min": 4.1,
+   "dur_ratio": 1.11,
+   "word_ratio": 1.0,
+   "audio_match": 1.0,
+   "ppm": 134,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
   }
  ]
 }
