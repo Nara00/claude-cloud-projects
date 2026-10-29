@@ -234,6 +234,20 @@
    "tts_attempts": 2,
    "missing_numbers": [],
    "diffs": []
+  },
+  {
+   "n": 17,
+   "name": "La iglesia de la Concepción",
+   "file": "17 - La iglesia de la Concepción.mp3",
+   "es_min": 3.9,
+   "en_min": 5.2,
+   "dur_ratio": 0.76,
+   "word_ratio": 1.06,
+   "audio_match": 1.0,
+   "ppm": 132,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
   }
  ]
 }

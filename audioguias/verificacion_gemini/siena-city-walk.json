@@ -263,6 +263,34 @@
    "tts_attempts": 2,
    "missing_numbers": [],
    "diffs": []
+  },
+  {
+   "n": 19,
+   "name": "Banchi di Sopra y Banchi di Sotto",
+   "file": "19 - Banchi di Sopra y Banchi di Sotto.mp3",
+   "es_min": 6.0,
+   "en_min": 5.1,
+   "dur_ratio": 1.18,
+   "word_ratio": 1.01,
+   "audio_match": 1.0,
+   "ppm": 127,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 20,
+   "name": "La Piazza Salimbeni",
+   "file": "20 - La Piazza Salimbeni.mp3",
+   "es_min": 4.1,
+   "en_min": 4.1,
+   "dur_ratio": 1.02,
+   "word_ratio": 0.89,
+   "audio_match": 1.0,
+   "ppm": 131,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
   }
  ]
 }

@@ -218,6 +218,20 @@
    "tts_attempts": 2,
    "missing_numbers": [],
    "diffs": []
+  },
+  {
+   "n": 16,
+   "name": "La Plaza de Oriente",
+   "file": "16 - La Plaza de Oriente.mp3",
+   "es_min": 3.5,
+   "en_min": 3.0,
+   "dur_ratio": 1.15,
+   "word_ratio": 1.02,
+   "audio_match": 1.0,
+   "ppm": 134,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
   }
  ]
 }
