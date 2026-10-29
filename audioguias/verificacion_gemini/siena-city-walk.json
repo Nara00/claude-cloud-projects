@@ -119,6 +119,20 @@
     "13"
    ],
    "diffs": []
+  },
+  {
+   "n": 9,
+   "name": "El interior del Duomo: la nave",
+   "file": "09 - El interior del Duomo la nave.mp3",
+   "es_min": 5.7,
+   "en_min": 5.1,
+   "dur_ratio": 1.1,
+   "word_ratio": 1.13,
+   "audio_match": 1.0,
+   "ppm": 135,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
   }
  ]
 }

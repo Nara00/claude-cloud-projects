@@ -139,6 +139,20 @@
    "tts_attempts": 2,
    "missing_numbers": [],
    "diffs": []
+  },
+  {
+   "n": 10,
+   "name": "La Casa de l'Ardiaca",
+   "file": "10 - La Casa de l'Ardiaca.mp3",
+   "es_min": 2.0,
+   "en_min": 1.9,
+   "dur_ratio": 1.1,
+   "word_ratio": 0.97,
+   "audio_match": 1.0,
+   "ppm": 131,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
   }
  ]
 }

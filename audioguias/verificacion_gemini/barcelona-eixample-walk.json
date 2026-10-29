@@ -117,6 +117,20 @@
    "tts_attempts": 2,
    "missing_numbers": [],
    "diffs": []
+  },
+  {
+   "n": 9,
+   "name": "La Casa Amatller",
+   "file": "09 - La Casa Amatller.mp3",
+   "es_min": 7.4,
+   "en_min": 6.5,
+   "dur_ratio": 1.15,
+   "word_ratio": 0.97,
+   "audio_match": 1.0,
+   "ppm": 132,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
   }
  ]
 }

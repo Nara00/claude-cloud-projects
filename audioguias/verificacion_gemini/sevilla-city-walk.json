@@ -91,6 +91,22 @@
    "tts_attempts": 2,
    "missing_numbers": [],
    "diffs": []
+  },
+  {
+   "n": 7,
+   "name": "El Real Alcázar y el Patio de Banderas",
+   "file": "07 - El Real Alcázar y el Patio de Banderas.mp3",
+   "es_min": 4.8,
+   "en_min": 4.2,
+   "dur_ratio": 1.15,
+   "word_ratio": 1.05,
+   "audio_match": 1.0,
+   "ppm": 132,
+   "tts_attempts": 2,
+   "missing_numbers": [
+    "180"
+   ],
+   "diffs": []
   }
  ]
 }
