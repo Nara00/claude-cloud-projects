@@ -1,0 +1,122 @@
+{
+ "tour": "barcelona-eixample-walk",
+ "title": "Paseo por el Eixample",
+ "model": "gemini-3.1-flash-tts-preview",
+ "voice": "Charon",
+ "stops": [
+  {
+   "n": 1,
+   "name": "Introducción",
+   "file": "01 - Introducción.mp3",
+   "es_min": 2.4,
+   "en_min": 2.6,
+   "dur_ratio": 0.92,
+   "word_ratio": 0.78,
+   "audio_match": 1.0,
+   "ppm": 126,
+   "tts_attempts": 2,
+   "missing_numbers": [
+    "7"
+   ],
+   "diffs": []
+  },
+  {
+   "n": 2,
+   "name": "El Passeig de Gràcia",
+   "file": "02 - El Passeig de Gràcia.mp3",
+   "es_min": 4.1,
+   "en_min": 3.6,
+   "dur_ratio": 1.15,
+   "word_ratio": 1.05,
+   "audio_match": 1.0,
+   "ppm": 130,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 3,
+   "name": "La Pedrera o Casa Milà",
+   "file": "03 - La Pedrera o Casa Milà.mp3",
+   "es_min": 3.5,
+   "en_min": 3.0,
+   "dur_ratio": 1.15,
+   "word_ratio": 1.04,
+   "audio_match": 1.0,
+   "ppm": 131,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 4,
+   "name": "El Carrer de Provença",
+   "file": "04 - El Carrer de Provença.mp3",
+   "es_min": 2.7,
+   "en_min": 2.4,
+   "dur_ratio": 1.13,
+   "word_ratio": 1.03,
+   "audio_match": 1.0,
+   "ppm": 123,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 5,
+   "name": "La Rambla de Catalunya",
+   "file": "05 - La Rambla de Catalunya.mp3",
+   "es_min": 4.8,
+   "en_min": 3.9,
+   "dur_ratio": 1.24,
+   "word_ratio": 1.04,
+   "audio_match": 1.0,
+   "ppm": 130,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 6,
+   "name": "La Casa Juncosa",
+   "file": "06 - La Casa Juncosa.mp3",
+   "es_min": 4.0,
+   "en_min": 3.4,
+   "dur_ratio": 1.2,
+   "word_ratio": 1.06,
+   "audio_match": 1.0,
+   "ppm": 130,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 7,
+   "name": "La Fundació Antoni Tàpies",
+   "file": "07 - La Fundació Antoni Tàpies.mp3",
+   "es_min": 4.1,
+   "en_min": 3.7,
+   "dur_ratio": 1.11,
+   "word_ratio": 1.0,
+   "audio_match": 1.0,
+   "ppm": 131,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 8,
+   "name": "La Manzana de la Discordia y la Casa Batlló",
+   "file": "08 - La Manzana de la Discordia y la Casa Batlló.mp3",
+   "es_min": 5.9,
+   "en_min": 5.0,
+   "dur_ratio": 1.19,
+   "word_ratio": 1.03,
+   "audio_match": 1.0,
+   "ppm": 137,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  }
+ ]
+}

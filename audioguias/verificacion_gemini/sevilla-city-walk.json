@@ -1,0 +1,96 @@
+{
+ "tour": "sevilla-city-walk",
+ "title": "Paseo por Sevilla",
+ "model": "gemini-3.1-flash-tts-preview",
+ "voice": "Charon",
+ "stops": [
+  {
+   "n": 1,
+   "name": "Introducción",
+   "file": "01 - Introducción.mp3",
+   "es_min": 2.2,
+   "en_min": 2.7,
+   "dur_ratio": 0.83,
+   "word_ratio": 0.75,
+   "audio_match": 1.0,
+   "ppm": 136,
+   "tts_attempts": 2,
+   "missing_numbers": [
+    "90"
+   ],
+   "diffs": []
+  },
+  {
+   "n": 2,
+   "name": "Panorámica de Sevilla",
+   "file": "02 - Panorámica de Sevilla.mp3",
+   "es_min": 4.9,
+   "en_min": 4.4,
+   "dur_ratio": 1.11,
+   "word_ratio": 1.04,
+   "audio_match": 1.0,
+   "ppm": 131,
+   "tts_attempts": 2,
+   "missing_numbers": [
+    "360"
+   ],
+   "diffs": []
+  },
+  {
+   "n": 3,
+   "name": "La Catedral de Sevilla y la Giralda",
+   "file": "03 - La Catedral de Sevilla y la Giralda.mp3",
+   "es_min": 8.2,
+   "en_min": 7.2,
+   "dur_ratio": 1.14,
+   "word_ratio": 0.98,
+   "audio_match": 1.0,
+   "ppm": 134,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 4,
+   "name": "La Puerta del Perdón y la antigua mezquita",
+   "file": "04 - La Puerta del Perdón y la antigua mezquita.mp3",
+   "es_min": 5.2,
+   "en_min": 4.7,
+   "dur_ratio": 1.12,
+   "word_ratio": 1.02,
+   "audio_match": 1.0,
+   "ppm": 134,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 5,
+   "name": "La Avenida de la Constitución",
+   "file": "05 - La Avenida de la Constitución.mp3",
+   "es_min": 6.1,
+   "en_min": 5.2,
+   "dur_ratio": 1.17,
+   "word_ratio": 1.1,
+   "audio_match": 1.0,
+   "ppm": 143,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 6,
+   "name": "El Archivo de Indias, la Plaza del Triunfo y el Siglo de Oro",
+   "file": "06 - El Archivo de Indias, la Plaza del Triunfo y el Siglo de Oro.mp3",
+   "es_min": 6.9,
+   "en_min": 6.0,
+   "dur_ratio": 1.16,
+   "word_ratio": 1.03,
+   "audio_match": 1.0,
+   "ppm": 133,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  }
+ ]
+}

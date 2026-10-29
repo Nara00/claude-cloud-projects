@@ -1,0 +1,130 @@
+{
+ "tour": "barcelona-city-walk",
+ "title": "Paseo por Barcelona",
+ "model": "gemini-3.1-flash-tts-preview",
+ "voice": "Charon",
+ "stops": [
+  {
+   "n": 1,
+   "name": "Introducción",
+   "file": "01 - Introducción.mp3",
+   "es_min": 2.0,
+   "en_min": 2.2,
+   "dur_ratio": 0.92,
+   "word_ratio": 0.75,
+   "audio_match": 1.0,
+   "ppm": 136,
+   "tts_attempts": 2,
+   "missing_numbers": [
+    "7",
+    "24"
+   ],
+   "diffs": []
+  },
+  {
+   "n": 2,
+   "name": "La Plaça de Catalunya",
+   "file": "02 - La Plaça de Catalunya.mp3",
+   "es_min": 8.1,
+   "en_min": 7.0,
+   "dur_ratio": 1.16,
+   "word_ratio": 1.04,
+   "audio_match": 1.0,
+   "ppm": 136,
+   "tts_attempts": 2,
+   "missing_numbers": [
+    "10"
+   ],
+   "diffs": []
+  },
+  {
+   "n": 3,
+   "name": "La Rambla y la Font de Canaletes",
+   "file": "03 - La Rambla y la Font de Canaletes.mp3",
+   "es_min": 3.2,
+   "en_min": 2.6,
+   "dur_ratio": 1.2,
+   "word_ratio": 1.11,
+   "audio_match": 1.0,
+   "ppm": 136,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 4,
+   "name": "Bajando por La Rambla",
+   "file": "04 - Bajando por La Rambla.mp3",
+   "es_min": 2.9,
+   "en_min": 2.3,
+   "dur_ratio": 1.26,
+   "word_ratio": 1.09,
+   "audio_match": 1.0,
+   "ppm": 143,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 5,
+   "name": "El Carrer de Santa Anna y la iglesia de Santa Anna",
+   "file": "05 - El Carrer de Santa Anna y la iglesia de Santa Anna.mp3",
+   "es_min": 4.7,
+   "en_min": 4.1,
+   "dur_ratio": 1.15,
+   "word_ratio": 1.02,
+   "audio_match": 1.0,
+   "ppm": 131,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 6,
+   "name": "La Avinguda del Portal de l'Àngel",
+   "file": "06 - La Avinguda del Portal de l'Àngel.mp3",
+   "es_min": 2.4,
+   "en_min": 2.0,
+   "dur_ratio": 1.2,
+   "word_ratio": 1.06,
+   "audio_match": 1.0,
+   "ppm": 132,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 7,
+   "name": "Els Quatre Gats",
+   "file": "07 - Els Quatre Gats.mp3",
+   "es_min": 6.4,
+   "en_min": 5.7,
+   "dur_ratio": 1.12,
+   "word_ratio": 1.07,
+   "audio_match": 1.0,
+   "ppm": 136,
+   "tts_attempts": 2,
+   "missing_numbers": [
+    "7",
+    "24"
+   ],
+   "diffs": []
+  },
+  {
+   "n": 8,
+   "name": "La Font de Santa Anna",
+   "file": "08 - La Font de Santa Anna.mp3",
+   "es_min": 2.5,
+   "en_min": 2.3,
+   "dur_ratio": 1.08,
+   "word_ratio": 1.1,
+   "audio_match": 1.0,
+   "ppm": 137,
+   "tts_attempts": 2,
+   "missing_numbers": [
+    "10"
+   ],
+   "diffs": []
+  }
+ ]
+}
