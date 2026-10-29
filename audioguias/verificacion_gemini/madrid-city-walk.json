@@ -176,6 +176,20 @@
    "tts_attempts": 2,
    "missing_numbers": [],
    "diffs": []
+  },
+  {
+   "n": 13,
+   "name": "La Calle Mayor",
+   "file": "13 - La Calle Mayor.mp3",
+   "es_min": 3.6,
+   "en_min": 3.1,
+   "dur_ratio": 1.15,
+   "word_ratio": 1.02,
+   "audio_match": 1.0,
+   "ppm": 134,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
   }
  ]
 }

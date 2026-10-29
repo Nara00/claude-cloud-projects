@@ -197,6 +197,20 @@
    "tts_attempts": 2,
    "missing_numbers": [],
    "diffs": []
+  },
+  {
+   "n": 14,
+   "name": "El coro",
+   "file": "14 - El coro.mp3",
+   "es_min": 3.8,
+   "en_min": 3.5,
+   "dur_ratio": 1.08,
+   "word_ratio": 1.05,
+   "audio_match": 1.0,
+   "ppm": 136,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
   }
  ]
 }
