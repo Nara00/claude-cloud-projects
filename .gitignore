@@ -3,3 +3,5 @@ __pycache__/
 venv/
 audioguias/salida_gemini/
 webapp/build/geo_cache.json
+audioguias/mp3_originales/
+audioguias/logs/

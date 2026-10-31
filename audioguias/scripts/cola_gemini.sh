@@ -10,7 +10,7 @@ FLORENCIA="florence-accademia-david florence-bargello florence-renaissance-walk 
 OTRAS="siena-city-walk barcelona-city-walk barcelona-eixample-walk madrid-city-walk sevilla-city-walk"
 PARALELO=8
 export SKIP_VERIFY=1
-LOGS=/tmp/claude-0/-home-user-claude-cloud-projects/b4aa56bb-52a3-5976-b787-c53d98d8e7cc/scratchpad/por_tour
+LOGS=/home/user/claude-cloud-projects/audioguias/logs/por_tour
 mkdir -p "$LOGS"
 
 procesar() {
