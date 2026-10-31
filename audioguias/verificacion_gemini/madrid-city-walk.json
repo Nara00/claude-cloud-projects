@@ -232,6 +232,34 @@
    "tts_attempts": 2,
    "missing_numbers": [],
    "diffs": []
+  },
+  {
+   "n": 17,
+   "name": "El Teatro Real y la Plaza de Isabel segunda",
+   "file": "17 - El Teatro Real y la Plaza de Isabel segunda.mp3",
+   "es_min": 4.6,
+   "en_min": 4.1,
+   "dur_ratio": 1.13,
+   "word_ratio": 1.01,
+   "audio_match": 1.0,
+   "ppm": 131,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 18,
+   "name": "La Calle del Arenal y la iglesia de San Ginés",
+   "file": "18 - La Calle del Arenal y la iglesia de San Ginés.mp3",
+   "es_min": 4.7,
+   "en_min": 4.0,
+   "dur_ratio": 1.18,
+   "word_ratio": 1.02,
+   "audio_match": 1.0,
+   "ppm": 140,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
   }
  ]
 }

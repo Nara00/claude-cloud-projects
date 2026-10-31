@@ -239,6 +239,37 @@
    "tts_attempts": 2,
    "missing_numbers": [],
    "diffs": []
+  },
+  {
+   "n": 17,
+   "name": "El Monumento a los Mártires de la Independencia",
+   "file": "17 - El Monumento a los Mártires de la Independencia.mp3",
+   "es_min": 4.8,
+   "en_min": 4.2,
+   "dur_ratio": 1.15,
+   "word_ratio": 1.02,
+   "audio_match": 1.0,
+   "ppm": 124,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 18,
+   "name": "La Plaça de Sant Felip Neri",
+   "file": "18 - La Plaça de Sant Felip Neri.mp3",
+   "es_min": 4.6,
+   "en_min": 4.5,
+   "dur_ratio": 1.01,
+   "word_ratio": 1.02,
+   "audio_match": 1.0,
+   "ppm": 139,
+   "tts_attempts": 2,
+   "missing_numbers": [
+    "18",
+    "20"
+   ],
+   "diffs": []
   }
  ]
 }

@@ -248,6 +248,34 @@
    "tts_attempts": 2,
    "missing_numbers": [],
    "diffs": []
+  },
+  {
+   "n": 18,
+   "name": "El Carrer d'Aragó, segunda parte: de vuelta al Passeig de Gràcia",
+   "file": "18 - El Carrer d'Aragó, segunda parte de vuelta al Passeig de Gràcia.mp3",
+   "es_min": 1.8,
+   "en_min": 3.8,
+   "dur_ratio": 0.48,
+   "word_ratio": 0.93,
+   "audio_match": 1.0,
+   "ppm": 139,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 19,
+   "name": "El corazón del Eixample: del Passeig de Gràcia a la Plaça de Catalunya",
+   "file": "19 - El corazón del Eixample del Passeig de Gràcia a la Plaça de Catalunya.mp3",
+   "es_min": 5.5,
+   "en_min": 5.4,
+   "dur_ratio": 1.02,
+   "word_ratio": 0.87,
+   "audio_match": 1.0,
+   "ppm": 136,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
   }
  ]
 }

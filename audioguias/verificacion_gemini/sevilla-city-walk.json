@@ -205,6 +205,20 @@
    "tts_attempts": 2,
    "missing_numbers": [],
    "diffs": []
+  },
+  {
+   "n": 15,
+   "name": "De vuelta al comienzo, con parada en los dulces de las monjas",
+   "file": "15 - De vuelta al comienzo, con parada en los dulces de las monjas.mp3",
+   "es_min": 5.3,
+   "en_min": 5.7,
+   "dur_ratio": 0.94,
+   "word_ratio": 0.8,
+   "audio_match": 1.0,
+   "ppm": 132,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
   }
  ]
 }
