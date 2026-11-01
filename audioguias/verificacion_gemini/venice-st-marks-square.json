@@ -81,6 +81,54 @@
     "1720"
    ],
    "diffs": []
+  },
+  {
+   "n": 6,
+   "name": "Tiendas y artesanías",
+   "file": "06 - Tiendas y artesanías.mp3",
+   "es_min": 2.5,
+   "en_min": 3.2,
+   "dur_ratio": 0.78,
+   "word_ratio": 0.53,
+   "audio_match": 1.0,
+   "ppm": 126,
+   "tts_attempts": 2,
+   "missing_numbers": [
+    "1063"
+   ],
+   "diffs": []
+  },
+  {
+   "n": 7,
+   "name": "El Campanile",
+   "file": "07 - El Campanile.mp3",
+   "es_min": 1.9,
+   "en_min": 2.8,
+   "dur_ratio": 0.69,
+   "word_ratio": 0.6,
+   "audio_match": 1.0,
+   "ppm": 128,
+   "tts_attempts": 2,
+   "missing_numbers": [
+    "1150",
+    "1550",
+    "2006"
+   ],
+   "diffs": []
+  },
+  {
+   "n": 8,
+   "name": "Las inundaciones en Venecia",
+   "file": "08 - Las inundaciones en Venecia.mp3",
+   "es_min": 3.2,
+   "en_min": 0.0,
+   "dur_ratio": 191.71,
+   "word_ratio": 448.0,
+   "audio_match": 1.0,
+   "ppm": 142,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
   }
  ]
 }

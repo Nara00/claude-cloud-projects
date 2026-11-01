@@ -119,6 +119,65 @@
    "tts_attempts": 2,
    "missing_numbers": [],
    "diffs": []
+  },
+  {
+   "n": 9,
+   "name": "Rialto",
+   "file": "09 - Rialto.mp3",
+   "es_min": 2.5,
+   "en_min": 0.0,
+   "dur_ratio": 150.31,
+   "word_ratio": 320.0,
+   "audio_match": 1.0,
+   "ppm": 129,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 10,
+   "name": "San Silvestro",
+   "file": "10 - San Silvestro.mp3",
+   "es_min": 2.5,
+   "en_min": 4.7,
+   "dur_ratio": 0.52,
+   "word_ratio": 0.47,
+   "audio_match": 1.0,
+   "ppm": 124,
+   "tts_attempts": 2,
+   "missing_numbers": [
+    "500",
+    "1588"
+   ],
+   "diffs": []
+  },
+  {
+   "n": 11,
+   "name": "Sant'Angelo",
+   "file": "11 - Sant'Angelo.mp3",
+   "es_min": 1.7,
+   "en_min": 3.4,
+   "dur_ratio": 0.51,
+   "word_ratio": 0.71,
+   "audio_match": 1.0,
+   "ppm": 135,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 12,
+   "name": "San Tomà",
+   "file": "12 - San Tomà.mp3",
+   "es_min": 2.1,
+   "en_min": 3.3,
+   "dur_ratio": 0.63,
+   "word_ratio": 0.71,
+   "audio_match": 1.0,
+   "ppm": 139,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
   }
  ]
 }

@@ -166,6 +166,37 @@
     "1094"
    ],
    "diffs": []
+  },
+  {
+   "n": 12,
+   "name": "La tumba de san Marcos",
+   "file": "12 - La tumba de san Marcos.mp3",
+   "es_min": 2.7,
+   "en_min": 5.0,
+   "dur_ratio": 0.53,
+   "word_ratio": 0.47,
+   "audio_match": 1.0,
+   "ppm": 130,
+   "tts_attempts": 2,
+   "missing_numbers": [
+    "1204",
+    "1848"
+   ],
+   "diffs": []
+  },
+  {
+   "n": 13,
+   "name": "El retablo de oro, la Pala d'Oro",
+   "file": "13 - El retablo de oro, la Pala d'Oro.mp3",
+   "es_min": 4.4,
+   "en_min": 0.0,
+   "dur_ratio": 262.3,
+   "word_ratio": 560.0,
+   "audio_match": 1.0,
+   "ppm": 130,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
   }
  ]
 }
