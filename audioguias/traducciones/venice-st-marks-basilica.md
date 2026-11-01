@@ -288,7 +288,7 @@ Fíjense en el panel con el velero. Cuenta otra historia del viaje de regreso de
 
 Paolo Veneziano firmó con orgullo su nombre en la parte de abajo, junto con los nombres de dos de sus ayudantes, sus hijos Luca y Giovanni.
 
-Ya estamos en la recta final. Cuando estén listos para seguir con el recorrido, sigan la ruta del museo hasta los caballos de bronce originales. Cuando lleguen, pasen a la siguiente parada.
+Ya estamos en la recta final. Cuando estén listos para seguir con el recorrido, vuelvan sobre sus pasos por donde vinieron, pasando entre los fragmentos de piedra de la iglesia, hasta llegar a los cuatro grandes caballos de bronce. Cuando lleguen, pasen a la siguiente parada.
 
 ## 18 · Los caballos de bronce {en=40:05}
 

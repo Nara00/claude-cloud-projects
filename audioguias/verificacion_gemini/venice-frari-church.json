@@ -113,6 +113,23 @@
     "1576"
    ],
    "diffs": []
+  },
+  {
+   "n": 8,
+   "name": "Paolo Veneziano, La Virgen con el Niño y el dux Dandolo",
+   "file": "08 - Paolo Veneziano, La Virgen con el Niño y el dux Dandolo.mp3",
+   "es_min": 3.3,
+   "en_min": 3.7,
+   "dur_ratio": 0.9,
+   "word_ratio": 0.64,
+   "audio_match": 1.0,
+   "ppm": 128,
+   "tts_attempts": 2,
+   "missing_numbers": [
+    "31",
+    "1423"
+   ],
+   "diffs": []
   }
  ]
 }

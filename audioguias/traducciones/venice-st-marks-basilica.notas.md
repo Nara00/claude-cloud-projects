@@ -85,3 +85,6 @@
 
 ## Revisión contra el inglés
 - Se revisaron las 20 paradas contra la transcripción, frase por frase. Todas las cifras del inglés están en la traducción: los siglos van en palabras, Artajerjes primero en palabras, "the 1700s" como "siglo dieciocho" y las yardas convertidas. No se omitió contenido ni indicaciones; los únicos cortes son los diálogos, las instrucciones de la app y los créditos listados arriba.
+
+## Corrección posterior
+- Parada 17: se recuperó del original la indicación cortada en el cambio de tramo: "double back the way you came through the displays of stone fragments from the church, finally arriving at the four big bronze horses". Reemplaza la indicación completada a mano.
