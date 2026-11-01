@@ -1,0 +1,86 @@
+{
+ "tour": "venice-st-marks-square",
+ "title": "La Plaza San Marcos, en Venecia",
+ "model": "gemini-3.1-flash-tts-preview",
+ "voice": "Charon",
+ "stops": [
+  {
+   "n": 1,
+   "name": "Introducción",
+   "file": "01 - Introducción.mp3",
+   "es_min": 1.5,
+   "en_min": 3.6,
+   "dur_ratio": 0.41,
+   "word_ratio": 0.66,
+   "audio_match": 1.0,
+   "ppm": 123,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 2,
+   "name": "La plaza",
+   "file": "02 - La plaza.mp3",
+   "es_min": 5.9,
+   "en_min": 10.3,
+   "dur_ratio": 0.57,
+   "word_ratio": 0.71,
+   "audio_match": 1.0,
+   "ppm": 131,
+   "tts_attempts": 2,
+   "missing_numbers": [
+    "1204"
+   ],
+   "diffs": []
+  },
+  {
+   "n": 3,
+   "name": "Los cafés",
+   "file": "03 - Los cafés.mp3",
+   "es_min": 3.2,
+   "en_min": 5.2,
+   "dur_ratio": 0.61,
+   "word_ratio": 0.44,
+   "audio_match": 1.0,
+   "ppm": 122,
+   "tts_attempts": 2,
+   "missing_numbers": [
+    "20",
+    "24"
+   ],
+   "diffs": []
+  },
+  {
+   "n": 4,
+   "name": "La Basílica de San Marcos: el exterior",
+   "file": "04 - La Basílica de San Marcos el exterior.mp3",
+   "es_min": 3.8,
+   "en_min": 0.0,
+   "dur_ratio": 227.42,
+   "word_ratio": 453.0,
+   "audio_match": 1.0,
+   "ppm": 122,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 5,
+   "name": "La Torre del Reloj",
+   "file": "05 - La Torre del Reloj.mp3",
+   "es_min": 3.4,
+   "en_min": 3.9,
+   "dur_ratio": 0.87,
+   "word_ratio": 0.62,
+   "audio_match": 1.0,
+   "ppm": 125,
+   "tts_attempts": 2,
+   "missing_numbers": [
+    "15",
+    "1720"
+   ],
+   "diffs": []
+  }
+ ]
+}

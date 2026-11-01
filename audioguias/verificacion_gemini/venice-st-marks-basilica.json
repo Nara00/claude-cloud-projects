@@ -91,6 +91,81 @@
    "tts_attempts": 2,
    "missing_numbers": [],
    "diffs": []
+  },
+  {
+   "n": 7,
+   "name": "La planta de cruz griega",
+   "file": "07 - La planta de cruz griega.mp3",
+   "es_min": 1.4,
+   "en_min": 2.0,
+   "dur_ratio": 0.68,
+   "word_ratio": 0.53,
+   "audio_match": 1.0,
+   "ppm": 128,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 8,
+   "name": "El mosaico de la cúpula central: la Ascensión",
+   "file": "08 - El mosaico de la cúpula central la Ascensión.mp3",
+   "es_min": 3.5,
+   "en_min": 4.8,
+   "dur_ratio": 0.74,
+   "word_ratio": 0.93,
+   "audio_match": 1.0,
+   "ppm": 123,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 9,
+   "name": "Bajo la cúpula de la Ascensión: la iglesia como teatro",
+   "file": "09 - Bajo la cúpula de la Ascensión la iglesia como teatro.mp3",
+   "es_min": 2.5,
+   "en_min": 3.2,
+   "dur_ratio": 0.76,
+   "word_ratio": 0.66,
+   "audio_match": 1.0,
+   "ppm": 132,
+   "tts_attempts": 2,
+   "missing_numbers": [
+    "600"
+   ],
+   "diffs": []
+  },
+  {
+   "n": 10,
+   "name": "El mosaico del hallazgo de san Marcos",
+   "file": "10 - El mosaico del hallazgo de san Marcos.mp3",
+   "es_min": 2.4,
+   "en_min": 0.0,
+   "dur_ratio": 145.61,
+   "word_ratio": 315.0,
+   "audio_match": 1.0,
+   "ppm": 134,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 11,
+   "name": "El Tesoro",
+   "file": "11 - El Tesoro.mp3",
+   "es_min": 7.3,
+   "en_min": 12.2,
+   "dur_ratio": 0.6,
+   "word_ratio": 0.57,
+   "audio_match": 1.0,
+   "ppm": 130,
+   "tts_attempts": 2,
+   "missing_numbers": [
+    "14",
+    "1094"
+   ],
+   "diffs": []
   }
  ]
 }

@@ -31,6 +31,94 @@
    "tts_attempts": 2,
    "missing_numbers": [],
    "diffs": []
+  },
+  {
+   "n": 3,
+   "name": "Ferrovia: sale el barco",
+   "file": "03 - Ferrovia sale el barco.mp3",
+   "es_min": 2.6,
+   "en_min": 3.4,
+   "dur_ratio": 0.76,
+   "word_ratio": 0.68,
+   "audio_match": 1.0,
+   "ppm": 131,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 4,
+   "name": "Riva de Biasio",
+   "file": "04 - Riva de Biasio.mp3",
+   "es_min": 1.9,
+   "en_min": 2.2,
+   "dur_ratio": 0.84,
+   "word_ratio": 0.61,
+   "audio_match": 1.0,
+   "ppm": 144,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 5,
+   "name": "San Marcuola",
+   "file": "05 - San Marcuola.mp3",
+   "es_min": 2.4,
+   "en_min": 0.0,
+   "dur_ratio": 143.47,
+   "word_ratio": 309.0,
+   "audio_match": 1.0,
+   "ppm": 131,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 6,
+   "name": "San Stae",
+   "file": "06 - San Stae.mp3",
+   "es_min": 2.2,
+   "en_min": 3.2,
+   "dur_ratio": 0.68,
+   "word_ratio": 0.57,
+   "audio_match": 1.0,
+   "ppm": 134,
+   "tts_attempts": 2,
+   "missing_numbers": [
+    "1516"
+   ],
+   "diffs": []
+  },
+  {
+   "n": 7,
+   "name": "Ca' d'Oro",
+   "file": "07 - Ca' d'Oro.mp3",
+   "es_min": 3.0,
+   "en_min": 3.7,
+   "dur_ratio": 0.8,
+   "word_ratio": 0.65,
+   "audio_match": 1.0,
+   "ppm": 137,
+   "tts_attempts": 2,
+   "missing_numbers": [
+    "1883"
+   ],
+   "diffs": []
+  },
+  {
+   "n": 8,
+   "name": "Rialto Mercato",
+   "file": "08 - Rialto Mercato.mp3",
+   "es_min": 3.9,
+   "en_min": 5.2,
+   "dur_ratio": 0.73,
+   "word_ratio": 0.73,
+   "audio_match": 1.0,
+   "ppm": 134,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
   }
  ]
 }
