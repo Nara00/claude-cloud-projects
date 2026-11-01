@@ -1,0 +1,22 @@
+{
+ "tour": "pitti-palatine-gallery-p3",
+ "title": "Palacio Pitti: la Galería Palatina",
+ "model": "gemini-3.1-flash-tts-preview",
+ "voice": "Charon",
+ "stops": [
+  {
+   "n": 7,
+   "name": "Sala de Saturno: los Rafael",
+   "file": "07 - Sala de Saturno los Rafael.mp3",
+   "es_min": 2.4,
+   "en_min": 0.0,
+   "dur_ratio": 143.18,
+   "word_ratio": 309.0,
+   "audio_match": 1.0,
+   "ppm": 132,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  }
+ ]
+}

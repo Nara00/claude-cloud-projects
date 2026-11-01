@@ -1,0 +1,36 @@
+{
+ "tour": "pitti-palatine-gallery-p1",
+ "title": "Palacio Pitti: la Galería Palatina",
+ "model": "gemini-3.1-flash-tts-preview",
+ "voice": "Charon",
+ "stops": [
+  {
+   "n": 1,
+   "name": "Introducción",
+   "file": "01 - Introducción.mp3",
+   "es_min": 2.1,
+   "en_min": 0.0,
+   "dur_ratio": 124.85,
+   "word_ratio": 271.0,
+   "audio_match": 1.0,
+   "ppm": 132,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 2,
+   "name": "Sala de Prometeo",
+   "file": "02 - Sala de Prometeo.mp3",
+   "es_min": 2.0,
+   "en_min": 0.0,
+   "dur_ratio": 117.67,
+   "word_ratio": 257.0,
+   "audio_match": 1.0,
+   "ppm": 134,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  }
+ ]
+}

@@ -23,7 +23,7 @@ CITIES = {
                  "center": [43.7696, 11.2558], "zoom": 15,
                  "tours": ["florence-accademia-david", "florence-bargello",
                             "florence-renaissance-walk", "florence-san-marco-museum",
-                            "florence-uffizi-gallery"]},
+                            "florence-uffizi-gallery", "pitti-palatine-gallery"]},
     "siena": {"name": "Siena", "country": "Italia", "nominatim_city": "Siena, Italia",
               "center": [43.3188, 11.3307], "zoom": 15, "tours": ["siena-city-walk"]},
     "sangimignano": {"name": "San Gimignano", "country": "Italia", "nominatim_city": "San Gimignano, Italia",
@@ -60,6 +60,7 @@ TOUR_MAPS = {
     "florence-renaissance-walk": "https://www.ricksteves.com/watch-read-listen/audio/audio-tours/map-audiotours-florence-renaissance-walk.pdf",
     "florence-san-marco-museum": "https://www.ricksteves.com/watch-read-listen/audio/audio-tours/map-audiotours-florence-sanmarco-museum.pdf",
     "florence-uffizi-gallery": "https://www.ricksteves.com/watch-read-listen/audio/audio-tours/map-audiotours-florence-uffizi.pdf",
+    "pitti-palatine-gallery": "maps/pitti-croquis.png",
 }
 
 # Coordenadas aproximadas del punto de inicio de cada tour (centro del lugar).
@@ -81,6 +82,7 @@ TOUR_COORDS = {
     "florence-renaissance-walk": [43.7731, 11.2559],  # Piazza del Duomo
     "florence-san-marco-museum": [43.7786, 11.2585],
     "florence-uffizi-gallery": [43.7678, 11.2553],
+    "pitti-palatine-gallery": [43.7651, 11.2500],
     "siena-city-walk": [43.3188, 11.3307],
     "sangimignano-walk": [43.4677, 11.0432],
     "venice-grand-canal": [45.4410, 12.3210],
@@ -110,6 +112,7 @@ TOUR_TITLES = {
     "florence-renaissance-walk": "Paseo del Renacimiento",
     "florence-san-marco-museum": "Museo de San Marcos",
     "florence-uffizi-gallery": "Galería Uffizi",
+    "pitti-palatine-gallery": "Palacio Pitti: Galería Palatina",
     "siena-city-walk": "Paseo por Siena",
     "sangimignano-walk": "Paseo por San Gimignano",
     "venice-grand-canal": "Paseo en barco por el Gran Canal",

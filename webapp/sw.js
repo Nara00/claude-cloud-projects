@@ -1,5 +1,5 @@
 // Service Worker con manejo de Range requests para audio offline.
-const SHELL = "shell-v2";
+const SHELL = "shell-v3";
 const SHELL_URLS = [
   "./",
   "index.html",
@@ -111,7 +111,26 @@ self.addEventListener("fetch", (e) => {
     return;
   }
 
-  // Shell: cache-first con revalidación simple
+  // Shell propio (lista de tours, app, estilos): red primero para recibir tours nuevos,
+  // con la copia guardada si no hay conexión o la red tarda más de 4 s.
+  if (url.origin === self.location.origin && !/\/icons\//.test(url.pathname)) {
+    e.respondWith((async () => {
+      const cached = caches.match(e.request);
+      try {
+        const res = await Promise.race([
+          fetch(e.request),
+          new Promise((_, rej) => setTimeout(() => rej(new Error("timeout")), 4000)),
+        ]);
+        if (res.ok) { const c = await caches.open(SHELL); c.put(e.request, res.clone()); }
+        return res;
+      } catch {
+        return (await cached) || new Response("Offline", { status: 503 });
+      }
+    })());
+    return;
+  }
+
+  // Resto (íconos, Leaflet): cache-first
   e.respondWith((async () => {
     const cached = await caches.match(e.request);
     if (cached) return cached;

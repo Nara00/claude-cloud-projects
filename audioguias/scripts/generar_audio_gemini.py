@@ -32,7 +32,8 @@ def parse(md_path):
             stops[-1]["text"] += line + "\n"
     if not title or not stops:
         raise ValueError(f"{md_path}: falta título o paradas")
-    for i, s in enumerate(stops, 1):
+    # Permite archivos parciales (para generar en paralelo) que empiezan en otra parada
+    for i, s in enumerate(stops, stops[0]["n"]):
         if s["n"] != i:
             raise ValueError(f"{md_path}: numeración salteada en parada {s['n']}")
         s["text"] = re.sub(r"\n{3,}", "\n\n", s["text"]).strip()
