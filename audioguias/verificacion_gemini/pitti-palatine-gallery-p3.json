@@ -31,6 +31,20 @@
    "tts_attempts": 2,
    "missing_numbers": [],
    "diffs": []
+  },
+  {
+   "n": 9,
+   "name": "Sala de Marte",
+   "file": "09 - Sala de Marte.mp3",
+   "es_min": 1.6,
+   "en_min": 0.0,
+   "dur_ratio": 98.95,
+   "word_ratio": 208.0,
+   "audio_match": 1.0,
+   "ppm": 129,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
   }
  ]
 }
