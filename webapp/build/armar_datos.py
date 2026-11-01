@@ -95,6 +95,35 @@ TOUR_COORDS = {
     "sevilla-city-walk": [37.3886, -5.9823],
 }
 
+# Puntos del recorrido (aprox.) para dibujar el mapa dentro del tour cuando no hay PDF oficial.
+# label = número de parada que se muestra; stop = parada que reproduce; kind "info" = no es parada.
+TOUR_POINTS = {
+    "siena-city-walk": [
+        {"label": "🚌", "name": "Colectivo 131R a Florencia (Via Tozzi / Piazza Gramsci, aprox.)", "coord": [43.3233, 11.3318], "kind": "info"},
+        {"label": "1-2", "name": "Il Campo", "coord": [43.3184, 11.3316], "stop": 1},
+        {"label": "3", "name": "Palazzo Pubblico", "coord": [43.3178, 11.3321], "stop": 3},
+        {"label": "4", "name": "Fonte Gaia", "coord": [43.3189, 11.3313], "stop": 4},
+        {"label": "5", "name": "Via di Città", "coord": [43.3180, 11.3301], "stop": 5},
+        {"label": "6", "name": "Palazzo Chigi-Saracini", "coord": [43.3175, 11.3292], "stop": 6},
+        {"label": "7", "name": "Quattro Cantoni", "coord": [43.3172, 11.3284], "stop": 7},
+        {"label": "8-15", "name": "Duomo", "coord": [43.3179, 11.3287], "stop": 8},
+        {"label": "16", "name": "La iglesia inconclusa (Duomo Nuovo)", "coord": [43.3175, 11.3280], "stop": 16},
+        {"label": "17", "name": "Camino a la Piazza dell'Indipendenza", "coord": [43.3196, 11.3298], "stop": 17},
+        {"label": "18", "name": "Loggia della Mercanzia", "coord": [43.3193, 11.3318], "stop": 18},
+        {"label": "19", "name": "Banchi di Sopra y Banchi di Sotto", "coord": [43.3201, 11.3320], "stop": 19},
+        {"label": "20", "name": "Piazza Salimbeni", "coord": [43.3215, 11.3318], "stop": 20},
+    ],
+    "sangimignano-walk": [
+        {"label": "P", "name": "Estacionamiento P2 Montemaggio (aprox.)", "coord": [43.4641, 11.0424], "kind": "info"},
+        {"label": "1-2", "name": "Porta San Giovanni", "coord": [43.4655, 11.0425], "stop": 1},
+        {"label": "3", "name": "Piazza della Cisterna", "coord": [43.4671, 11.0433], "stop": 3},
+        {"label": "4", "name": "Colegiata", "coord": [43.4678, 11.0430], "stop": 4},
+        {"label": "5", "name": "Palacio Comunal y Torre Grossa", "coord": [43.4677, 11.0436], "stop": 5},
+        {"label": "6", "name": "Rocca di Montestaffoli", "coord": [43.4686, 11.0418], "stop": 6},
+        {"label": "7", "name": "Iglesia de San Agustín", "coord": [43.4712, 11.0425], "stop": 7},
+    ],
+}
+
 TOUR_TITLES = {
     "rome-pantheon": "Panteón",
     "rome-colosseum": "Coliseo",
@@ -206,6 +235,7 @@ def main():
                 "full_title": full_title,
                 "coord": tour_coord,
                 "map_url": TOUR_MAPS.get(tour),
+                "points": TOUR_POINTS.get(tour),
                 "stops": [{"n": s["n"], "name": s["name"], "text": s["text"],
                             "en_start": s["en_start"], "coord": s["coord"]} for s in stops],
             })

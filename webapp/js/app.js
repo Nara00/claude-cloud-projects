@@ -251,6 +251,7 @@ function viewTour(cityId, tourId) {
     ),
   );
   root.append(header);
+  if (tour.points && window.L) drawTourMap(header, tour, cityId, tourId);
 
   for (const s of tour.stops) {
     const dot = el("span", { class: "cache-dot", title: "..." }, "·");
@@ -282,6 +283,48 @@ function viewTour(cityId, tourId) {
       stopEl.querySelector(".sub-text").textContent = ok ? "Sin internet ✓" : "Requiere internet";
     });
   }
+}
+
+// Mapa con calles y paradas numeradas, para tours sin PDF oficial.
+function drawTourMap(container, tour, cityId, tourId) {
+  const box = el("div", { class: "tour-map" });
+  container.append(box);
+  const tm = L.map(box, { zoomControl: true });
+  L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
+    maxZoom: 19, attribution: "© OpenStreetMap",
+  }).addTo(tm);
+  const all = [], route = [];
+  for (const p of tour.points) {
+    all.push(p.coord);
+    if (p.kind !== "info") route.push(p.coord);
+    const icon = L.divIcon({ className: "num-pin" + (p.kind ? " " + p.kind : ""),
+      html: `<span>${escapeHtml(p.label)}</span>`, iconSize: [0, 0] });
+    const m = L.marker(p.coord, { icon }).addTo(tm);
+    m.bindPopup(`<strong>${escapeHtml(p.label)}</strong> · ${escapeHtml(p.name)}` +
+      (p.stop ? `<br><a href="#" class="pop-play" data-stop="${p.stop}">▶ Escuchar parada ${p.stop}</a>` : ""));
+  }
+  L.polyline(route, { color: "#e0457b", weight: 4, opacity: .8, dashArray: "8 8" }).addTo(tm);
+  tm.fitBounds(L.latLngBounds(all).pad(0.12));
+  tm.on("popupopen", e => {
+    const a = e.popup.getElement().querySelector(".pop-play");
+    if (a) a.onclick = ev => { ev.preventDefault(); tm.closePopup(); play(cityId, tourId, Number(a.dataset.stop)); };
+  });
+  // Botón "Dónde estoy"
+  let me = null;
+  const Locate = L.Control.extend({
+    onAdd() {
+      const b = L.DomUtil.create("button", "locate-btn");
+      b.type = "button"; b.textContent = "📍 Dónde estoy";
+      L.DomEvent.on(b, "click", ev => { L.DomEvent.stop(ev); tm.locate({ setView: true, maxZoom: 17 }); });
+      return b;
+    },
+  });
+  new Locate({ position: "topright" }).addTo(tm);
+  tm.on("locationfound", e => {
+    if (me) tm.removeLayer(me);
+    me = L.circleMarker(e.latlng, { radius: 9, color: "#fff", weight: 3, fillColor: "#1e88e5", fillOpacity: 1 }).addTo(tm);
+  });
+  tm.on("locationerror", () => alert("No se pudo obtener la ubicación. Revisá que el celular tenga la ubicación activada y permiso para esta página."));
 }
 
 function escapeHtml(s) {

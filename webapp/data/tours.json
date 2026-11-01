@@ -18,6 +18,7 @@
       12.4769
      ],
      "map_url": "https://d3dqioy2sca31t.cloudfront.net/Projects/cms/production/000/004/454/original/c9bf7131f52c3012c39c5db21f945984/pantheon.pdf",
+     "points": null,
      "stops": [
       {
        "n": 1,
@@ -120,6 +121,7 @@
       12.4922
      ],
      "map_url": "https://www.ricksteves.com/watch-read-listen/audio/audio-tours/map-audiotours-colosseum.pdf",
+     "points": null,
      "stops": [
       {
        "n": 1,
@@ -252,6 +254,7 @@
       12.4853
      ],
      "map_url": "https://www.ricksteves.com/watch-read-listen/audio/audio-tours/map-audiotours-forum.pdf",
+     "points": null,
      "stops": [
       {
        "n": 1,
@@ -434,6 +437,7 @@
       12.4833
      ],
      "map_url": "https://www.ricksteves.com/watch-read-listen/audio/audio-tours/heart-of-rome-walk-map-1.pdf",
+     "points": null,
      "stops": [
       {
        "n": 1,
@@ -606,6 +610,7 @@
       12.4777
      ],
      "map_url": "https://www.ricksteves.com/watch-read-listen/audio/audio-tours/map-audiotours-rome-jewish-ghetto.pdf",
+     "points": null,
      "stops": [
       {
        "n": 1,
@@ -728,6 +733,7 @@
       12.2914
      ],
      "map_url": "https://www.ricksteves.com/watch-read-listen/audio/audio-tours/map-audiotours-rome-ostia-antica.pdf",
+     "points": null,
      "stops": [
       {
        "n": 1,
@@ -900,6 +906,7 @@
       12.4545
      ],
      "map_url": "https://www.ricksteves.com/watch-read-listen/audio/audio-tours/map-audiotours-rome-sistine.pdf",
+     "points": null,
      "stops": [
       {
        "n": 1,
@@ -1022,6 +1029,7 @@
       12.4539
      ],
      "map_url": "https://www.ricksteves.com/watch-read-listen/audio/audio-tours/map-audiotours-st-peters-basilica.pdf",
+     "points": null,
      "stops": [
       {
        "n": 1,
@@ -1204,6 +1212,7 @@
       12.468
      ],
      "map_url": "https://www.ricksteves.com/watch-read-listen/audio/audio-tours/map-audiotours-rome-trastevere.pdf",
+     "points": null,
      "stops": [
       {
        "n": 1,
@@ -1336,6 +1345,7 @@
       12.4536
      ],
      "map_url": "https://www.ricksteves.com/watch-read-listen/audio/audio-tours/vatican-musems-map.pdf",
+     "points": null,
      "stops": [
       {
        "n": 1,
@@ -1508,6 +1518,7 @@
       12.4536
      ],
      "map_url": "https://www.ricksteves.com/rome-pinacoteca-audio-tour-map.pdf",
+     "points": null,
      "stops": [
       {
        "n": 1,
@@ -1681,6 +1692,7 @@
       11.2594
      ],
      "map_url": "https://www.ricksteves.com/watch-read-listen/audio/audio-tours/map-audiotours-accademia.pdf",
+     "points": null,
      "stops": [
       {
        "n": 1,
@@ -1783,6 +1795,7 @@
       11.2576
      ],
      "map_url": "https://www.ricksteves.com/watch-read-listen/audio/audio-tours/map-audiotours-florence-bargello-museum.pdf",
+     "points": null,
      "stops": [
       {
        "n": 1,
@@ -1925,6 +1938,7 @@
       11.2559
      ],
      "map_url": "https://www.ricksteves.com/watch-read-listen/audio/audio-tours/map-audiotours-florence-renaissance-walk.pdf",
+     "points": null,
      "stops": [
       {
        "n": 1,
@@ -2127,6 +2141,7 @@
       11.2585
      ],
      "map_url": "https://www.ricksteves.com/watch-read-listen/audio/audio-tours/map-audiotours-florence-sanmarco-museum.pdf",
+     "points": null,
      "stops": [
       {
        "n": 1,
@@ -2339,6 +2354,7 @@
       11.2553
      ],
      "map_url": "https://www.ricksteves.com/watch-read-listen/audio/audio-tours/map-audiotours-florence-uffizi.pdf",
+     "points": null,
      "stops": [
       {
        "n": 1,
@@ -2551,6 +2567,7 @@
       11.25
      ],
      "map_url": "maps/pitti-croquis.png",
+     "points": null,
      "stops": [
       {
        "n": 1,
@@ -2694,6 +2711,125 @@
       11.3307
      ],
      "map_url": null,
+     "points": [
+      {
+       "label": "🚌",
+       "name": "Colectivo 131R a Florencia (Via Tozzi / Piazza Gramsci, aprox.)",
+       "coord": [
+        43.3233,
+        11.3318
+       ],
+       "kind": "info"
+      },
+      {
+       "label": "1-2",
+       "name": "Il Campo",
+       "coord": [
+        43.3184,
+        11.3316
+       ],
+       "stop": 1
+      },
+      {
+       "label": "3",
+       "name": "Palazzo Pubblico",
+       "coord": [
+        43.3178,
+        11.3321
+       ],
+       "stop": 3
+      },
+      {
+       "label": "4",
+       "name": "Fonte Gaia",
+       "coord": [
+        43.3189,
+        11.3313
+       ],
+       "stop": 4
+      },
+      {
+       "label": "5",
+       "name": "Via di Città",
+       "coord": [
+        43.318,
+        11.3301
+       ],
+       "stop": 5
+      },
+      {
+       "label": "6",
+       "name": "Palazzo Chigi-Saracini",
+       "coord": [
+        43.3175,
+        11.3292
+       ],
+       "stop": 6
+      },
+      {
+       "label": "7",
+       "name": "Quattro Cantoni",
+       "coord": [
+        43.3172,
+        11.3284
+       ],
+       "stop": 7
+      },
+      {
+       "label": "8-15",
+       "name": "Duomo",
+       "coord": [
+        43.3179,
+        11.3287
+       ],
+       "stop": 8
+      },
+      {
+       "label": "16",
+       "name": "La iglesia inconclusa (Duomo Nuovo)",
+       "coord": [
+        43.3175,
+        11.328
+       ],
+       "stop": 16
+      },
+      {
+       "label": "17",
+       "name": "Camino a la Piazza dell'Indipendenza",
+       "coord": [
+        43.3196,
+        11.3298
+       ],
+       "stop": 17
+      },
+      {
+       "label": "18",
+       "name": "Loggia della Mercanzia",
+       "coord": [
+        43.3193,
+        11.3318
+       ],
+       "stop": 18
+      },
+      {
+       "label": "19",
+       "name": "Banchi di Sopra y Banchi di Sotto",
+       "coord": [
+        43.3201,
+        11.332
+       ],
+       "stop": 19
+      },
+      {
+       "label": "20",
+       "name": "Piazza Salimbeni",
+       "coord": [
+        43.3215,
+        11.3318
+       ],
+       "stop": 20
+      }
+     ],
      "stops": [
       {
        "n": 1,
@@ -2917,6 +3053,71 @@
       11.0432
      ],
      "map_url": null,
+     "points": [
+      {
+       "label": "P",
+       "name": "Estacionamiento P2 Montemaggio (aprox.)",
+       "coord": [
+        43.4641,
+        11.0424
+       ],
+       "kind": "info"
+      },
+      {
+       "label": "1-2",
+       "name": "Porta San Giovanni",
+       "coord": [
+        43.4655,
+        11.0425
+       ],
+       "stop": 1
+      },
+      {
+       "label": "3",
+       "name": "Piazza della Cisterna",
+       "coord": [
+        43.4671,
+        11.0433
+       ],
+       "stop": 3
+      },
+      {
+       "label": "4",
+       "name": "Colegiata",
+       "coord": [
+        43.4678,
+        11.043
+       ],
+       "stop": 4
+      },
+      {
+       "label": "5",
+       "name": "Palacio Comunal y Torre Grossa",
+       "coord": [
+        43.4677,
+        11.0436
+       ],
+       "stop": 5
+      },
+      {
+       "label": "6",
+       "name": "Rocca di Montestaffoli",
+       "coord": [
+        43.4686,
+        11.0418
+       ],
+       "stop": 6
+      },
+      {
+       "label": "7",
+       "name": "Iglesia de San Agustín",
+       "coord": [
+        43.4712,
+        11.0425
+       ],
+       "stop": 7
+      }
+     ],
      "stops": [
       {
        "n": 1,
@@ -3010,6 +3211,7 @@
       12.321
      ],
      "map_url": null,
+     "points": null,
      "stops": [
       {
        "n": 1,
@@ -3202,6 +3404,7 @@
       12.338
      ],
      "map_url": null,
+     "points": null,
      "stops": [
       {
        "n": 1,
@@ -3364,6 +3567,7 @@
       12.3397
      ],
      "map_url": null,
+     "points": null,
      "stops": [
       {
        "n": 1,
@@ -3576,6 +3780,7 @@
       12.3266
      ],
      "map_url": null,
+     "points": null,
      "stops": [
       {
        "n": 1,
@@ -3709,6 +3914,7 @@
       2.1734
      ],
      "map_url": null,
+     "points": null,
      "stops": [
       {
        "n": 1,
@@ -3951,6 +4157,7 @@
       2.1649
      ],
      "map_url": null,
+     "points": null,
      "stops": [
       {
        "n": 1,
@@ -4164,6 +4371,7 @@
       -3.7038
      ],
      "map_url": null,
+     "points": null,
      "stops": [
       {
        "n": 1,
@@ -4397,6 +4605,7 @@
       -5.9823
      ],
      "map_url": null,
+     "points": null,
      "stops": [
       {
        "n": 1,
@@ -4553,5 +4762,5 @@
    ]
   }
  },
- "built_at": "2026-11-01T13:09:25Z"
+ "built_at": "2026-11-01T21:06:49Z"
 }
