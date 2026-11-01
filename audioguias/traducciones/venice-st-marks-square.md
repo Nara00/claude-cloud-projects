@@ -182,7 +182,7 @@ Como intermediaria del comercio entre Europa y Asia, Venecia sacaba riqueza de l
 
 En casa, el dux era el director general de una eficiente empresa multinacional manejada por el Estado. Lo elegía un consejo de nobles, y presidía un gobierno estable y constitucional. Los dux querían que su palacio reflejara la riqueza y los valores laicos de la República, que impresionara a los visitantes y que recordara que los venecianos eran los número uno de Europa.
 
-Por dentro, el Palacio Ducal está prácticamente tapizado de grandes lienzos llenos de color, obra de los grandes artistas de Venecia: Tiziano, Tintoretto y el Veronés. Muestran a dux arrodillados ante los dioses, y a mujeres hermosas con ropas lujosas, que representan a la ciudad de Venecia, imponiéndose sobre sus rivales.
+Por dentro, el Palacio Ducal está prácticamente tapizado de grandes lienzos llenos de color, obra de los grandes artistas de Venecia: Tiziano, Tintoretto y el Veronés. Muestran a dux arrodillados ante Dios, y a mujeres hermosas con ropas lujosas, que representan a la ciudad de Venecia, imponiéndose sobre sus rivales.
 
 El Palacio Ducal es el máximo ejemplo del estilo conocido como gótico veneciano. Van a ver los tradicionales arcos góticos en punta, pero con un toque veneciano. Se curvan hasta terminar en punta, están adornados con un trébol de tres hojas y coronados por un medallón redondo con un trébol de cuatro hojas. Este diseño aparece en el Palacio Ducal y en edificios de toda Venecia, pero en ningún otro lugar del mundo. Bueno, salvo en Las Vegas.
 
@@ -238,7 +238,7 @@ Por cierto, ¿los está agobiando la multitud? La zona de San Marcos puede llena
 
 Pueden tomar un capuchino en el café del Museo Correr, con vista a la plaza, o en el lujoso interior del Café Florian, aunque es caro. Para un poco de verde, prueben el parque de los Giardinetti Reali, muy cerca de aquí, junto al agua. La iglesia de La Salute y San Giorgio Maggiore rara vez están llenas de gente, y las dos están a un corto trayecto en vaporetto.
 
-Sobre todo, propónganse alejarse del concurrido eje turístico que va de San Marcos a Rialto. Lo principal para ver en Venecia es la ciudad misma. Recorran las callejuelas. No se preocupen por perderse. Piérdanse todo lo que puedan. Repítanse: "Estoy en una isla y no puedo salir de ella". Encuentren su propio canal tranquilo o su placita diminuta, y descubran qué hace que esta ciudad sea tan única.
+Sobre todo, propónganse alejarse del concurrido eje turístico que va de San Marcos a Rialto. Lo principal para ver en Venecia es la ciudad misma. Recorran las callejuelas. No se preocupen por perderse. Piérdanse todo lo que puedan. Repítanse: "Estoy en una isla y no puedo salir de ella". Encuentren su propio canal tranquilo o su placita olvidada por el tiempo, y descubran qué hace que esta ciudad sea tan única.
 
 Una de las cosas que hacen única a Venecia son las embarcaciones amarradas en la orilla de la Piazzetta: las góndolas.
 

@@ -1,0 +1,54 @@
+{
+ "tour": "venice-st-marks-basilica",
+ "title": "La Basílica de San Marcos, en Venecia",
+ "model": "gemini-3.1-flash-tts-preview",
+ "voice": "Charon",
+ "stops": [
+  {
+   "n": 1,
+   "name": "Introducción",
+   "file": "01 - Introducción.mp3",
+   "es_min": 1.3,
+   "en_min": 2.6,
+   "dur_ratio": 0.5,
+   "word_ratio": 0.61,
+   "audio_match": 1.0,
+   "ppm": 122,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 2,
+   "name": "El exterior",
+   "file": "02 - El exterior.mp3",
+   "es_min": 4.0,
+   "en_min": 5.8,
+   "dur_ratio": 0.69,
+   "word_ratio": 1.1,
+   "audio_match": 1.0,
+   "ppm": 136,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 3,
+   "name": "La entrada a la iglesia",
+   "file": "03 - La entrada a la iglesia.mp3",
+   "es_min": 1.9,
+   "en_min": 2.6,
+   "dur_ratio": 0.74,
+   "word_ratio": 0.6,
+   "audio_match": 1.0,
+   "ppm": 134,
+   "tts_attempts": 2,
+   "missing_numbers": [
+    "12",
+    "476",
+    "1125"
+   ],
+   "diffs": []
+  }
+ ]
+}
