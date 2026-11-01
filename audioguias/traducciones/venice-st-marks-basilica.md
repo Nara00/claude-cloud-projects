@@ -54,7 +54,7 @@ Cuando la fila avance hacia adentro, van a entrar al atrio, o vestíbulo de entr
 
 ## 04 · Los mosaicos del atrio: el arca de Noé {en=10:55}
 
-En el arco que tienen sobre la cabeza hay escenas de la historia del arca de Noé. Noé y sus hijos están serruchando troncos para construir el barco. Debajo hay tres escenas de Noé subiendo al arca animales de todas las especies, de a dos. ¿Quiénes son los primeros de la fila? Los leones, por supuesto.
+En el arco que tienen sobre la cabeza hay escenas de la historia del arca de Noé. Noé y sus hijos están aserrando troncos para construir el barco. Debajo hay tres escenas de Noé subiendo al arca animales de todas las especies, de a dos. ¿Quiénes son los primeros de la fila? Los leones, por supuesto.
 
 Los famosos mosaicos de San Marcos, con su simbolismo de libro ilustrado, se entendían fácilmente en la época medieval, incluso entre las masas analfabetas. A las masas alfabetizadas de hoy a veces les cuesta leerlos. Pero estas obras del siglo trece, que están entre las más antiguas y mejores de la iglesia, son bastante fáciles de entender.
 
