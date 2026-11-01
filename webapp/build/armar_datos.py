@@ -62,6 +62,8 @@ TOUR_MAPS = {
     "florence-uffizi-gallery": "https://www.ricksteves.com/watch-read-listen/audio/audio-tours/map-audiotours-florence-uffizi.pdf",
     "pitti-palatine-gallery": "maps/pitti-croquis.png",
     "siena-city-walk": "maps/siena-mapa-oficial.jpg",
+    "venice-st-marks-basilica": "maps/basilica-san-marcos-croquis.png",
+    "venice-frari-church": "maps/frari-croquis.png",
 }
 
 # Coordenadas aproximadas del punto de inicio de cada tour (centro del lugar).
@@ -123,6 +125,41 @@ TOUR_POINTS = {
         {"label": "5", "name": "Palacio Comunal y Torre Grossa", "coord": [43.4677, 11.0436], "stop": 5},
         {"label": "6", "name": "Rocca di Montestaffoli", "coord": [43.4686, 11.0418], "stop": 6},
         {"label": "7", "name": "Iglesia de San Agustín", "coord": [43.4712, 11.0425], "stop": 7},
+    ],
+    "venice-grand-canal": [
+        {"label": "1-3", "name": "Ferrovia: estación de tren y salida del vaporetto línea 1", "coord": [45.4405, 12.3218], "stop": 1},
+        {"label": "4", "name": "Riva de Biasio", "coord": [45.4415, 12.3268], "stop": 4},
+        {"label": "5", "name": "San Marcuola", "coord": [45.4437, 12.3300], "stop": 5},
+        {"label": "6", "name": "San Stae", "coord": [45.4413, 12.3329], "stop": 6},
+        {"label": "7", "name": "Ca' d'Oro", "coord": [45.4407, 12.3346], "stop": 7},
+        {"label": "8", "name": "Rialto Mercato", "coord": [45.4393, 12.3341], "stop": 8},
+        {"label": "9", "name": "Rialto", "coord": [45.4374, 12.3362], "stop": 9},
+        {"label": "10", "name": "San Silvestro", "coord": [45.4367, 12.3343], "stop": 10},
+        {"label": "11", "name": "Sant'Angelo", "coord": [45.4353, 12.3327], "stop": 11},
+        {"label": "12", "name": "San Tomà", "coord": [45.4346, 12.3290], "stop": 12},
+        {"label": "13", "name": "Ca' Rezzonico", "coord": [45.4335, 12.3267], "stop": 13},
+        {"label": "14", "name": "Accademia", "coord": [45.4317, 12.3280], "stop": 14},
+        {"label": "15", "name": "Santa Maria del Giglio", "coord": [45.4320, 12.3333], "stop": 15},
+        {"label": "16", "name": "La Salute", "coord": [45.4312, 12.3348], "stop": 16},
+        {"label": "17", "name": "San Marco (Vallaresso)", "coord": [45.4326, 12.3367], "stop": 17},
+        {"label": "18", "name": "San Zaccaria: fin del recorrido", "coord": [45.4337, 12.3420], "stop": 18},
+    ],
+    "venice-st-marks-square": [
+        {"label": "1-2", "name": "La plaza, desde el extremo opuesto a la basílica", "coord": [45.4339, 12.3366], "stop": 1},
+        {"label": "3", "name": "Los cafés", "coord": [45.4341, 12.3378], "stop": 3},
+        {"label": "4", "name": "Fachada de la Basílica", "coord": [45.4344, 12.3392], "stop": 4},
+        {"label": "5", "name": "Torre del Reloj", "coord": [45.4348, 12.3390], "stop": 5},
+        {"label": "6", "name": "Tiendas bajo los arcos", "coord": [45.4346, 12.3375], "stop": 6},
+        {"label": "7-8", "name": "El Campanile", "coord": [45.4340, 12.3389], "stop": 7},
+        {"label": "9-10", "name": "Palacio Ducal y la Piazzetta (Loggetta)", "coord": [45.4336, 12.3396], "stop": 9},
+        {"label": "11-12", "name": "La laguna y las góndolas (las dos columnas)", "coord": [45.4331, 12.3398], "stop": 11},
+        {"label": "13", "name": "Por la Riva", "coord": [45.4332, 12.3407], "stop": 13},
+        {"label": "14-15", "name": "Puente de los Suspiros (desde el Ponte della Paglia)", "coord": [45.4335, 12.3412], "stop": 14},
+    ],
+    "venice-frari-church": [
+        {"label": "🚤", "name": "Vaporetto San Tomà (a 10 min a pie)", "coord": [45.4346, 12.3290], "kind": "info"},
+        {"label": "1-2", "name": "Campo dei Frari: exterior de la iglesia", "coord": [45.4369, 12.3257], "stop": 1},
+        {"label": "3-11", "name": "Interior de la iglesia (ver croquis)", "coord": [45.4367, 12.3266], "stop": 3},
     ],
 }
 
