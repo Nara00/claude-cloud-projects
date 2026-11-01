@@ -270,6 +270,76 @@
     "20"
    ],
    "diffs": []
+  },
+  {
+   "n": 19,
+   "name": "El barrio judío: El Call",
+   "file": "19 - El barrio judío El Call.mp3",
+   "es_min": 5.9,
+   "en_min": 4.8,
+   "dur_ratio": 1.22,
+   "word_ratio": 1.05,
+   "audio_match": 1.0,
+   "ppm": 133,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 20,
+   "name": "El Carrer del Bisbe y su puente",
+   "file": "20 - El Carrer del Bisbe y su puente.mp3",
+   "es_min": 2.4,
+   "en_min": 2.1,
+   "dur_ratio": 1.14,
+   "word_ratio": 1.01,
+   "audio_match": 1.0,
+   "ppm": 127,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 21,
+   "name": "La Plaça de Sant Jaume",
+   "file": "21 - La Plaça de Sant Jaume.mp3",
+   "es_min": 7.5,
+   "en_min": 6.8,
+   "dur_ratio": 1.11,
+   "word_ratio": 1.05,
+   "audio_match": 1.0,
+   "ppm": 135,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 22,
+   "name": "El templo romano de Augusto",
+   "file": "22 - El templo romano de Augusto.mp3",
+   "es_min": 3.9,
+   "en_min": 3.5,
+   "dur_ratio": 1.1,
+   "word_ratio": 1.09,
+   "audio_match": 1.0,
+   "ppm": 130,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 23,
+   "name": "La Plaça del Rei",
+   "file": "23 - La Plaça del Rei.mp3",
+   "es_min": 7.5,
+   "en_min": 7.4,
+   "dur_ratio": 1.01,
+   "word_ratio": 0.92,
+   "audio_match": 1.0,
+   "ppm": 124,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
   }
  ]
 }

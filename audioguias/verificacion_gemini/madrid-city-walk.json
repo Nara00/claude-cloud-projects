@@ -274,6 +274,38 @@
    "tts_attempts": 2,
    "missing_numbers": [],
    "diffs": []
+  },
+  {
+   "n": 20,
+   "name": "La Calle del Arenal, segunda parte",
+   "file": "20 - La Calle del Arenal, segunda parte.mp3",
+   "es_min": 6.5,
+   "en_min": 5.6,
+   "dur_ratio": 1.17,
+   "word_ratio": 0.99,
+   "audio_match": 1.0,
+   "ppm": 138,
+   "tts_attempts": 2,
+   "missing_numbers": [
+    "2"
+   ],
+   "diffs": []
+  },
+  {
+   "n": 21,
+   "name": "Regreso a la Puerta del Sol: la Mariblanca",
+   "file": "21 - Regreso a la Puerta del Sol la Mariblanca.mp3",
+   "es_min": 2.2,
+   "en_min": 2.3,
+   "dur_ratio": 0.97,
+   "word_ratio": 0.76,
+   "audio_match": 1.0,
+   "ppm": 130,
+   "tts_attempts": 2,
+   "missing_numbers": [
+    "15"
+   ],
+   "diffs": []
   }
  ]
 }

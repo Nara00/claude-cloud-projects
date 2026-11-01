@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>Lunes 2: San Gimignano y Siena</name>
+<Style id="p"><IconStyle><Icon><href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href></Icon></IconStyle></Style>
+<Style id="auto"><IconStyle><scale>1.2</scale><Icon><href>http://maps.google.com/mapfiles/kml/paddle/P.png</href></Icon></IconStyle></Style>
+<Style id="ruta"><LineStyle><color>ff2400d4</color><width>4</width></LineStyle></Style>
+
+<Folder><name>San Gimignano (mañana) · audioguía en la app</name>
+<Placemark><name>Estacionamiento (P2 Montemaggio, aprox.)</name><description>Dejen el auto en los estacionamientos señalizados fuera de las murallas: el centro es zona de tránsito restringido, con cámaras.</description><styleUrl>#auto</styleUrl><Point><coordinates>11.0424,43.4641</coordinates></Point></Placemark>
+<Placemark><name>01-02 · Porta San Giovanni</name><description>Puerta del siglo XIII por donde entraban los peregrinos de la Vía Francígena que venían de Siena. Desde acá sube la Via San Giovanni, la calle principal.</description><styleUrl>#p</styleUrl><Point><coordinates>11.0425,43.4655</coordinates></Point></Placemark>
+<Placemark><name>03 · Piazza della Cisterna</name><description>Plaza triangular con un pozo octogonal del siglo XIII y el piso de ladrillos en espiga. Alrededor están las torres gemelas de los Ardinghelli y la Torre del Diablo. Acá está también la heladería famosa.</description><styleUrl>#p</styleUrl><Point><coordinates>11.0433,43.4671</coordinates></Point></Placemark>
+<Placemark><name>04 · Colegiata</name><description>Consagrada en 1148. Por dentro está toda pintada: el Antiguo Testamento a la izquierda, el Nuevo a la derecha y el Juicio Final en la entrada. Al fondo a la derecha, la capilla de Santa Fina, con frescos de Ghirlandaio.
+(Opcional: entrada paga.)</description><styleUrl>#p</styleUrl><Point><coordinates>11.0430,43.4678</coordinates></Point></Placemark>
+<Placemark><name>05 · Palacio Comunal y Torre Grossa</name><description>La Torre Grossa (1311, unos 54 m) es la más alta: estaba prohibido superarla. Adentro están la Sala de Dante, donde el poeta habló en 1300, la Maestà de Lippo Memmi y unos frescos medievales de la vida de una pareja.
+(Opcional: museo y subida a la torre, entrada paga.)</description><styleUrl>#p</styleUrl><Point><coordinates>11.0434,43.4677</coordinates></Point></Placemark>
+<Placemark><name>06 · Rocca di Montestaffoli</name><description>Restos de la fortaleza florentina de 1353, hoy un jardín con olivos. Desde los muros se ven las colinas, los viñedos de Vernaccia y las torres.</description><styleUrl>#p</styleUrl><Point><coordinates>11.0418,43.4686</coordinates></Point></Placemark>
+<Placemark><name>07 · Iglesia de San Agustín</name><description>Iglesia de 1298 con 17 escenas de la vida de San Agustín pintadas por Benozzo Gozzoli (1464-1465) detrás del altar.
+(Opcional: entrar, gratis.)</description><styleUrl>#p</styleUrl><Point><coordinates>11.0425,43.4712</coordinates></Point></Placemark>
+<Placemark><name>Recorrido San Gimignano</name><styleUrl>#ruta</styleUrl><LineString><tessellate>1</tessellate><coordinates>11.0425,43.4655 11.0430,43.4665 11.0433,43.4671 11.0430,43.4678 11.0434,43.4677 11.0418,43.4686 11.0428,43.4695 11.0425,43.4712</coordinates></LineString></Placemark>
+</Folder>
+
+<Folder><name>Siena (tarde) · audioguía de Rick Steves en la app</name>
+<Placemark><name>Estacionamiento Santa Caterina (aprox.)</name><description>Estacionamiento fuera de las murallas con escaleras mecánicas que suben al centro. No entren con el auto: el centro es zona de tránsito restringido.</description><styleUrl>#auto</styleUrl><Point><coordinates>11.3253,43.3215</coordinates></Point></Placemark>
+<Placemark><name>02 · Il Campo</name><description>La plaza en forma de concha, dividida en nueve gajos en honor al Gobierno de los Nueve (1287-1355). Acá se corre el Palio, la carrera de caballos del 2 de julio y el 16 de agosto.</description><styleUrl>#p</styleUrl><Point><coordinates>11.3316,43.3184</coordinates></Point></Placemark>
+<Placemark><name>03 · Palazzo Pubblico y Torre del Mangia</name><description>El palacio del gobierno (1297-1310) y su torre de unos 88 m, que lleva el apodo de su primer campanero. Adentro, en el Museo Cívico, están la Maestà de Simone Martini y las Alegorías del Buen y del Mal Gobierno de Lorenzetti (1338).
+(Opcional: museo y subida a la torre, unos 400 escalones; la torre cierra a las 16 en invierno.)</description><styleUrl>#p</styleUrl><Point><coordinates>11.3321,43.3178</coordinates></Point></Placemark>
+<Placemark><name>04 · Fonte Gaia</name><description>Fuente de Jacopo della Quercia (1419); la que se ve es una copia del siglo XIX. El agua llega por kilómetros de túneles medievales excavados bajo la ciudad.</description><styleUrl>#p</styleUrl><Point><coordinates>11.3314,43.3188</coordinates></Point></Placemark>
+<Placemark><name>05-07 · Via di Città, Palazzo Chigi-Saracini y Quattro Cantoni</name><description>La calle principal sobre la cresta de la colina, con palacios de la nobleza. El Palazzo Chigi-Saracini es sede de una famosa academia de música.</description><styleUrl>#p</styleUrl><Point><coordinates>11.3291,43.3174</coordinates></Point></Placemark>
+<Placemark><name>08-15 · El Duomo (catedral)</name><description>Catedral de mármol blanco y verde oscuro, los colores del escudo de Siena. Adentro:
+• el piso de mármol con 56 escenas, que se descubre solo algunas semanas al año (según una fuente, hasta mediados de noviembre de 2026);
+• el púlpito de Nicola Pisano (1265-1268);
+• el San Juan Bautista de bronce de Donatello;
+• la capilla de la Madonna del Voto, diseñada por Bernini;
+• la Biblioteca Piccolomini, con los frescos de Pinturicchio sobre la vida del papa Pío II.
+(Opcional: entrada paga; de lunes a sábado 10:30-17:30 en invierno.)</description><styleUrl>#p</styleUrl><Point><coordinates>11.3289,43.3180</coordinates></Point></Placemark>
+<Placemark><name>16 · La iglesia inconclusa (Duomo Nuovo)</name><description>En 1339 Siena quiso construir una catedral tan enorme que la actual iba a ser solo el crucero. La peste de 1348 frenó la obra y quedaron los muros y la fachada sin terminar.
+(Opcional: subir al "Facciatone" por el Museo dell'Opera, con una gran vista; va con el pase de la catedral.)</description><styleUrl>#p</styleUrl><Point><coordinates>11.3280,43.3176</coordinates></Point></Placemark>
+<Placemark><name>17-18 · Piazza dell'Indipendenza y Loggia della Mercanzia</name><description>La Loggia della Mercanzia, del siglo XV, era el tribunal de los comerciantes. Está en el punto donde se unen los tres barrios históricos de Siena.</description><styleUrl>#p</styleUrl><Point><coordinates>11.3318,43.3194</coordinates></Point></Placemark>
+<Placemark><name>19 · Banchi di Sopra y Banchi di Sotto</name><description>Las calles de los "bancos" de los banqueros medievales, hoy las calles comerciales principales.</description><styleUrl>#p</styleUrl><Point><coordinates>11.3320,43.3200</coordinates></Point></Placemark>
+<Placemark><name>20 · Piazza Salimbeni</name><description>Sede del Monte dei Paschi di Siena, fundado en 1472 y considerado el banco más antiguo del mundo que sigue funcionando.</description><styleUrl>#p</styleUrl><Point><coordinates>11.3317,43.3216</coordinates></Point></Placemark>
+<Placemark><name>Recorrido Siena</name><styleUrl>#ruta</styleUrl><LineString><tessellate>1</tessellate><coordinates>11.3316,43.3184 11.3321,43.3178 11.3314,43.3188 11.3297,43.3177 11.3291,43.3174 11.3284,43.3172 11.3289,43.3180 11.3280,43.3176 11.3296,43.3200 11.3318,43.3194 11.3320,43.3200 11.3317,43.3216</coordinates></LineString></Placemark>
+</Folder>
+</Document>
+</kml>
