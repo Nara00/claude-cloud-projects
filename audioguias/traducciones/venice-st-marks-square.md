@@ -182,7 +182,7 @@ Como intermediaria del comercio entre Europa y Asia, Venecia sacaba riqueza de l
 
 En casa, el dux era el director general de una eficiente empresa multinacional manejada por el Estado. Lo elegía un consejo de nobles, y presidía un gobierno estable y constitucional. Los dux querían que su palacio reflejara la riqueza y los valores laicos de la República, que impresionara a los visitantes y que recordara que los venecianos eran los número uno de Europa.
 
-Por dentro, el Palacio Ducal está prácticamente tapizado de grandes lienzos llenos de color, obra de los grandes artistas de Venecia: Tiziano, Tintoretto y el Veronés. Muestran a dux arrodillados ante Dios, y a mujeres hermosas con ropas lujosas, que representan a la ciudad de Venecia, imponiéndose sobre sus rivales.
+Por dentro, el Palacio Ducal está prácticamente tapizado de grandes lienzos llenos de color, obra de los grandes artistas de Venecia: Tiziano, Tintoretto y el Veronés. Muestran a dux arrodillados ante los dioses, y a mujeres hermosas con ropas lujosas, que representan a la ciudad de Venecia, imponiéndose sobre sus rivales.
 
 El Palacio Ducal es el máximo ejemplo del estilo conocido como gótico veneciano. Van a ver los tradicionales arcos góticos en punta, pero con un toque veneciano. Se curvan hasta terminar en punta, están adornados con un trébol de tres hojas y coronados por un medallón redondo con un trébol de cuatro hojas. Este diseño aparece en el Palacio Ducal y en edificios de toda Venecia, pero en ningún otro lugar del mundo. Bueno, salvo en Las Vegas.
 

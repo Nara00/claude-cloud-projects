@@ -19,14 +19,14 @@
   - 11 La laguna: 28:16
   - 12 Las góndolas: 31:39
   - 13 La elegante decadencia: 34:48
-  - 14 El Puente de los Suspiros: PENDIENTE
-  - 15 Venecia de noche: PENDIENTE
+  - 14 El Puente de los Suspiros: 37:07
+  - 15 Venecia de noche: 40:57
 
 ## Correcciones de la transcripción
 - "mostly seriously in March and November" → "most seriously", más grave en marzo y noviembre (así lo oye Whisper).
 - "Aqua Alta" → acqua alta.
 - "tiny past square" → "time-passed square", una placita olvidada por el tiempo. Whisper oye "time pass square".
-- "kneeling before Gods": las dos transcripciones dicen "gods", pero casi seguro es "God". En los cuadros del Palacio Ducal los dux aparecen arrodillados ante Cristo, la Virgen o los santos. Se tradujo "arrodillados ante Dios".
+- "kneeling before Gods": se volvió a transcribir ese fragmento con dos modelos de Whisper, y los dos oyen claramente "gods", en plural. Se tradujo tal cual, "arrodillados ante los dioses", aunque en muchos cuadros del Palacio Ducal el dux se arrodilla ante Cristo, la Virgen o san Marcos.
 - "What, little old me?": Whisper oye "Why, little old me?". El sentido es el mismo; se tradujo "¿Quién? ¿Yo, tan poquita cosa?".
 - "And a large winged lion": Whisper oye "An alert winged lion". Se dejó "un gran león alado".
 - "pigeon poopulation": el juego de palabras entre "poop", caca, y "population" se adaptó como "la popoblación de palomas, digo, la población".
@@ -81,7 +81,7 @@
 - Parada 02: el Museo Correr y el Palacio Ducal se visitan con una entrada combinada, los Museos de la Plaza San Marcos. Hoy conviene comprarla en línea, con horario, más que en la boletería del Correr. Tampoco pude confirmar que siga abierto el café del Museo Correr, que Rick recomienda en la parada 11.
 - Parada 03: el precio de sentarse en los cafés de la plaza es hoy bastante mayor que los 15 euros de Rick. En el Florian, una bebida en la terraza ya cuesta más de 10 euros, y se suma un recargo por la música de unos 6 o 7 euros por persona. Las orquestas tocan en horarios fijos, y en invierno pueden tocar menos.
 - Parada 07, el Campanile: se paga entrada y conviene reservar horario en línea; en temporada alta las filas son largas. Puede cerrar por mal tiempo o por obras. Confirmen horarios y precio antes de ir.
-- Paradas 07 y 08, el agua alta: desde octubre de 2020 funciona el MOSE, un sistema de compuertas móviles en las bocas de la laguna que se levanta cuando se pronostican mareas muy altas, más o menos desde 110 centímetros. Desde entonces ya no hubo grandes inundaciones como la de noviembre de 2019, pero la plaza se sigue inundando con mareas más bajas, que no activan el sistema. Además, desde 2023 hay barreras de vidrio que protegen el atrio de la basílica. Las cifras de Rick, 50 inundaciones por invierno y 100 por año, y la idea de que "el agua va ganando" son de antes del MOSE. Rick no lo menciona. Noviembre es justamente temporada de agua alta: conviene mirar el pronóstico de mareas del Centro Maree de la ciudad. Si hay agua alta, se venden cubrebotas de plástico en la calle y se arman pasarelas elevadas.
+- Paradas 07 y 08, el agua alta: desde octubre de 2020 funciona el MOSE, un sistema de compuertas móviles en las bocas de la laguna que se levanta cuando se pronostican mareas muy altas, más o menos desde 110 centímetros. Desde entonces ya no hubo grandes inundaciones como la de noviembre de 2019, pero la plaza se sigue inundando con mareas más bajas, que no activan el sistema. Además, desde hace unos años hay barreras de vidrio que protegen el atrio de la basílica. Las cifras de Rick, 50 inundaciones por invierno y 100 por año, y la idea de que "el agua va ganando" son de antes del MOSE. Rick no lo menciona. Noviembre es justamente temporada de agua alta: conviene mirar el pronóstico de mareas del Centro Maree de la ciudad. Si hay agua alta, se venden cubrebotas de plástico en la calle y se arman pasarelas elevadas.
 - Parada 12, góndolas: la tarifa oficial cambió varias veces. En los últimos años rondaba los 90 euros por unos 30 minutos de día y unos 110 de noche, por góndola. Además, según tengo entendido, desde 2020 el máximo es de 5 pasajeros, no 6. Confirmen el precio antes de subir, como dice Rick.
 - Parada 12: hay unos 430 gondoleros con licencia; la cifra de Rick, unos 400, sigue siendo aproximada.
 - Parada 14: la visita al Palacio Ducal sigue incluyendo el Puente de los Suspiros y las prisiones.

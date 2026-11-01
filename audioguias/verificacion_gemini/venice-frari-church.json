@@ -163,6 +163,29 @@
    "tts_attempts": 2,
    "missing_numbers": [],
    "diffs": []
+  },
+  {
+   "n": 11,
+   "name": "Tiziano, La Virgen de Ca' Pesaro",
+   "file": "11 - Tiziano, La Virgen de Ca' Pesaro.mp3",
+   "es_min": 2.9,
+   "en_min": 4.8,
+   "dur_ratio": 0.61,
+   "word_ratio": 0.37,
+   "audio_match": 1.0,
+   "ppm": 125,
+   "tts_attempts": 2,
+   "missing_numbers": [
+    "00",
+    "5",
+    "90",
+    "1438",
+    "1576",
+    "1757",
+    "1822",
+    "1852"
+   ],
+   "diffs": []
   }
  ]
 }
