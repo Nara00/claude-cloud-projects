@@ -10,7 +10,8 @@ BASE = os.path.join(os.path.dirname(__file__), "..", "..")
 TRAD = os.path.abspath(os.path.join(BASE, "audioguias", "traducciones"))
 OUT = os.path.abspath(os.path.join(BASE, "webapp", "data", "tours.json"))
 CACHE = os.path.abspath(os.path.join(BASE, "webapp", "build", "geo_cache.json"))
-STOP_RE = re.compile(r"^## (\d+) · (.+?) \{en=(\d+):(\d+)\}\s*$")
+# mapa=NN (opcional): número de la parada en el mapa oficial, si difiere del número de pista
+STOP_RE = re.compile(r"^## (\d+) · (.+?) \{en=(\d+):(\d+)(?: mapa=(\d+[a-z]?))?\}\s*$")
 
 CITIES = {
     "rome": {"name": "Roma", "country": "Italia", "nominatim_city": "Roma, Italia",
@@ -130,12 +131,12 @@ TOUR_POINTS = {
         {"label": "6", "name": "Palazzo Chigi-Saracini", "coord": [43.3177, 11.3310], "stop": 6},
         {"label": "7", "name": "Quattro Cantoni", "coord": [43.3167, 11.3297], "stop": 7},
         {"label": "8", "name": "Fachada del Duomo", "coord": [43.3177, 11.3286], "stop": 8},
-        {"label": "9-15", "name": "Interior del Duomo y Biblioteca Piccolomini", "coord": [43.3180, 11.3291], "stop": 9},
-        {"label": "16", "name": "La iglesia inconclusa (Duomo Nuovo)", "coord": [43.3178, 11.3295], "stop": 16},
-        {"label": "17", "name": "Camino a la Piazza dell'Indipendenza", "coord": [43.3184, 11.3296], "stop": 17},
-        {"label": "18", "name": "Piazza dell'Indipendenza y Loggia", "coord": [43.3192, 11.3305], "stop": 18},
-        {"label": "19", "name": "Banchi di Sopra", "coord": [43.3194, 11.3313], "stop": 19},
-        {"label": "20", "name": "Piazza Salimbeni (fin)", "coord": [43.3212, 11.3308], "stop": 20},
+        {"label": "9-12", "name": "Interior del Duomo y Biblioteca Piccolomini", "coord": [43.3180, 11.3291], "stop": 9},
+        {"label": "13", "name": "La iglesia inconclusa (Duomo Nuovo)", "coord": [43.3178, 11.3295], "stop": 16},
+        {"label": "14", "name": "Camino a la Piazza dell'Indipendenza", "coord": [43.3184, 11.3296], "stop": 17},
+        {"label": "15", "name": "Piazza dell'Indipendenza y Loggia", "coord": [43.3192, 11.3305], "stop": 18},
+        {"label": "16", "name": "Banchi di Sopra", "coord": [43.3194, 11.3313], "stop": 19},
+        {"label": "17", "name": "Piazza Salimbeni (fin)", "coord": [43.3212, 11.3308], "stop": 20},
     ],
     "sangimignano-walk": [
         {"label": "P", "name": "Estacionamiento P2 Montemaggio (aprox.)", "coord": [43.4641, 11.0424], "kind": "info"},
@@ -300,7 +301,7 @@ def parse_md(path):
         if line.startswith("# ") and title is None:
             title = line[2:].strip()
         elif m := STOP_RE.match(line):
-            stops.append({"n": int(m[1]), "name": m[2].strip(),
+            stops.append({"n": int(m[1]), "name": m[2].strip(), "label": m[5],
                           "en_start": int(m[3]) * 60 + int(m[4]), "text": ""})
         elif stops:
             stops[-1]["text"] += line + "\n"
@@ -375,7 +376,7 @@ def main():
                 "maps": tour_maps(tour),
                 "map_url": (tour_maps(tour) or [{"url": None}])[0]["url"],
                 "points": TOUR_POINTS.get(tour),
-                "stops": [{"n": s["n"], "name": s["name"], "text": s["text"],
+                "stops": [{"n": s["n"], "label": s["label"], "name": s["name"], "text": s["text"],
                             "en_start": s["en_start"], "coord": s["coord"]} for s in stops],
             })
             print(f"  {tour}: {len(stops)} paradas", file=sys.stderr)

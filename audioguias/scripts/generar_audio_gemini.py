@@ -15,7 +15,8 @@ BASE = sys.argv[1]
 MODEL = sys.argv[2]
 VOICE = sys.argv[3]
 TOURS = sys.argv[4:]
-STOP_RE = re.compile(r"^## (\d+) · (.+?) \{en=(\d+):(\d+)\}\s*$")
+# mapa=NN (opcional): número de la parada en el mapa oficial, si difiere del número de pista
+STOP_RE = re.compile(r"^## (\d+) · (.+?) \{en=(\d+):(\d+)(?: mapa=(\d+[a-z]?))?\}\s*$")
 
 
 def parse(md_path):
@@ -25,7 +26,8 @@ def parse(md_path):
         if line.startswith("# ") and title is None:
             title = line[2:].strip()
         elif m := STOP_RE.match(line):
-            stops.append({"n": int(m[1]), "name": m[2].strip(), "en_start": int(m[3]) * 60 + int(m[4]), "text": ""})
+            stops.append({"n": int(m[1]), "name": m[2].strip(), "en_start": int(m[3]) * 60 + int(m[4]),
+                          "mapa": m[5], "text": ""})
         elif line.startswith("## "):
             raise ValueError(f"{md_path}: encabezado de parada mal formado: {line!r}")
         elif stops:
@@ -128,7 +130,9 @@ def main():
         for i, s in enumerate(stops):
             en_end = stops[i + 1]["en_start"] if i + 1 < len(stops) else en_total
             en_text = " ".join(x["text"] for x in en_segs if s["en_start"] <= x["start"] < en_end)
-            spoken = f"Parada {s['n']}. {s['name']}.\n\n{s['text']}"
+            # Se dice el número del mapa oficial (sin la letra: 11a, 11b... se anuncian como "Parada 11")
+            num = re.sub(r"[a-z]$", "", s["mapa"]) if s.get("mapa") else s["n"]
+            spoken = f"Parada {num}. {s['name']}.\n\n{s['text']}"
             path = os.path.join(out_dir, f"{s['n']:02d} - {safe(s['name'])}.mp3")
             ws = words(spoken)
             fname = os.path.basename(path)

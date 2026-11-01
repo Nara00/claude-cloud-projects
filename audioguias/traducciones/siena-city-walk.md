@@ -202,7 +202,7 @@ Imagínense la escena: 20.000 soldados sieneses frente a 35.000 florentinos. Dur
 
 Lo próximo es un gran púlpito de mármol decorado con estatuas y relieves. Para encontrarlo, empiecen a caminar hacia el rosetón. Van a ver el gran púlpito a mano izquierda, entre los pilares. Cuando lleguen, pasen a la siguiente parada.
 
-## 11 · El púlpito de Pisano {en=39:21}
+## 11 · El púlpito de Pisano {en=39:21 mapa=11a}
 
 El púlpito es octogonal, de mármol de Carrara de la mejor calidad. Sus columnas se apoyan sobre el lomo de unos leones, símbolos del cristianismo triunfante. Como los leones, la Iglesia simbólicamente devora la herejía y amamanta a sus cachorros.
 
@@ -218,7 +218,7 @@ El realismo naciente de escenas como estas fue muy influyente. Influyó en las g
 
 Hay más cosas cerca, en el transepto izquierdo, es decir, a la izquierda si miran hacia el rosetón. La primera está a pocos pasos del púlpito. Así que vayan hacia el transepto izquierdo. En el pavimento del piso van a encontrar un gran panel de mosaico de colores: la Matanza de los Inocentes. Cuando lleguen, pasen a la siguiente parada.
 
-## 12 · El transepto izquierdo y el San Juan de Donatello {en=41:50}
+## 12 · El transepto izquierdo y el San Juan de Donatello {en=41:50 mapa=11b}
 
 Empecemos por el mosaico del piso de la Matanza de los Inocentes. Recuerden que, si el piso está cubierto, puede que este mosaico no se vea. El malvado rey Herodes está a la izquierda, sentado en su trono entre arcos renacentistas. Ordena la masacre de todos los bebés para impedir la llegada del Mesías prometido. Es una escena caótica de soldados furiosos, madres afligidas y bebés masacrados. El mosaico les recordaba constantemente a los sieneses que una república gobernada por un tirano siempre trae problemas.
 
@@ -236,7 +236,7 @@ Lo próximo está justo del otro lado de la iglesia, en el transepto derecho. As
 
 Crucen por debajo de la cúpula y entren al transepto derecho. Justo enfrente hay una capilla llamada Capilla de la Madonna del Voto. Cuando lleguen, pasen a la siguiente parada.
 
-## 13 · La Capilla de la Madonna del Voto {en=44:29}
+## 13 · La Capilla de la Madonna del Voto {en=44:29 mapa=11c}
 
 Entren y perciban por qué Bernini es considerado el más grande escultor del Barroco. La capilla es suntuosa, un derroche de colores, estatuas y arquitectura. Bernini es del siglo diecisiete. Por su arte y su enorme influencia, muchas veces lo llaman el Miguel Ángel del Barroco. Diseñó esta capilla en la década de 1660 para un miembro de la rica familia sienesa de los Chigi, un hombre que llegó a ser papa.
 
@@ -256,7 +256,7 @@ Tanto el altar como la biblioteca están dedicados a esa poderosa familia de Sie
 
 Una vez en el altar Piccolomini, a su derecha hay una puerta que lleva a lo próximo que vamos a ver, la Biblioteca Piccolomini. Entren, y pasen a la siguiente parada.
 
-## 14 · La Biblioteca Piccolomini {en=48:35}
+## 14 · La Biblioteca Piccolomini {en=48:35 mapa=12a}
 
 Esta biblioteca rica y colorida capta el espíritu exuberante y optimista del siglo quince, cuando nacieron el humanismo y el Renacimiento. La biblioteca la construyó la familia Piccolomini para honrar a uno de sus miembros más ilustres, Eneas Piccolomini. Eneas nació en Siena y llegó a ser una de las personas más célebres de su época: el papa Pío segundo. Por su brillante inteligencia, su personalidad expansiva y su pasión por la vida, este papa marcó el tono del primer Renacimiento. De hecho, muchos han llamado al papa Pío segundo el primer humanista.
 
@@ -278,7 +278,7 @@ Pero al acercarse a los 40 años, su vida cambió drásticamente. Vamos a la esc
 
 Escena cuatro: la sumisión al papa Eugenio cuarto. Aquí Eneas se arrodilla ante el papa y le besa el pie. ¿Qué pasó? Cerca de los 40 años, Eneas tuvo una crisis espiritual. Se convenció de que era un pecador miserable. Viajó enseguida a Roma, donde le rogó perdón al papa. Se arrepintió de todas las locuras que había hecho en su juventud, sobre todo de andar detrás de las mujeres. Aunque, en realidad, en su autobiografía confesó que de todos modos ya era hora de cambiar: él había perdido el interés por las mujeres, y ellas habían perdido el interés por él. Eneas dejó el vino, las mujeres y las canciones, y se hizo sacerdote.
 
-## 15 · De obispo a papa, y los cantorales {en=52:57}
+## 15 · De obispo a papa, y los cantorales {en=52:57 mapa=12b}
 
 Ahora Eneas está de vuelta en Siena.
 
@@ -312,7 +312,7 @@ Acérquense y aprecien las finas decoraciones pintadas, las figuras en miniatura
 
 En este punto, nuestro recorrido sale de la iglesia, así que empiecen a ir hacia afuera. Si quieren quedarse un rato más, tómense su tiempo. Cuando estén listos, salgan y pasen a la siguiente parada, donde los voy a guiar hasta el próximo lugar y les voy a ir contando cosas por el camino.
 
-## 16 · La iglesia inconclusa {en=58:58}
+## 16 · La iglesia inconclusa {en=58:58 mapa=13}
 
 Tanto si acaban de terminar de recorrer el interior de la iglesia como si retoman el recorrido desde la parada 8, nuestra próxima parada está afuera del Duomo. Está sobre el lado derecho de la iglesia, es decir, el lado este, en la Piazza Jacopo della Quercia. Así que empiecen a ir hacia allá. Los que todavía están adentro de la iglesia van a salir por la puerta principal, doblar a la izquierda y rodear la esquina de la fachada, para volver por el costado de la iglesia.
 
@@ -332,7 +332,7 @@ Antes de seguir, miren la entrada inconclusa. Fíjense en el cielo azul donde ha
 
 Desde aquí vamos a seguir explorando más callejuelas de Siena. Pasen a la siguiente parada, donde los voy a guiar hasta allá.
 
-## 17 · Camino a la Piazza dell'Indipendenza {en=62:44}
+## 17 · Camino a la Piazza dell'Indipendenza {en=62:44 mapa=14}
 
 Antes de salir de la Piazza Jacopo della Quercia, fíjense en un par de cosas. El agradable Museo del Duomo está aquí, justo debajo del muro inconcluso, aunque no vamos a entrar. Adentro se pueden ver tesoros artísticos de la iglesia. Pueden ver de cerca las estatuas originales de Pisano para la iglesia y el rosetón original de Duccio. Lo más destacado es la majestuosa pintura de María de Duccio, llamada la Maestà.
 
@@ -360,7 +360,7 @@ Más tarde tuvo otra visión. Era un mandato del cielo: debía conseguir la paz 
 
 La Via del Diacceto desemboca en una gran plaza, la Piazza dell'Indipendenza. Cuando lleguen, pasen a la siguiente parada.
 
-## 18 · La Piazza dell'Indipendenza y la Loggia della Mercanzia {en=67:46}
+## 18 · La Piazza dell'Indipendenza y la Loggia della Mercanzia {en=67:46 mapa=15}
 
 La plaza celebra la creación de la nación italiana moderna, en 1870. Está marcada por una loggia, es decir, una galería cubierta con tres arcos. Bajo la galería hay bustos de los dos primeros reyes de Italia. Como capas de historia apiladas, esa loggia neorrenacentista del siglo diecinueve tiene encima un palacio gótico. Y ese palacio, a su vez, tiene encima una torre medieval todavía más antigua.
 
@@ -376,7 +376,7 @@ Por cierto, la loggia, que antes era de los comerciantes, la compró después la
 
 Nuestro recorrido sigue unos pocos pasos después de la loggia, en el cruce en forma de Y. Cuando lleguen, pasen a la siguiente parada.
 
-## 19 · Banchi di Sopra y Banchi di Sotto {en=70:17}
+## 19 · Banchi di Sopra y Banchi di Sotto {en=70:17 mapa=16}
 
 En la Edad Media este era un cruce principal, igual que ahora. Estas dos calles traían a la ciudad a los peregrinos y a otros viajeros desde la Via Francigena. A la izquierda, cuesta arriba, está la Via Banchi di Sopra, que quiere decir la fila de bancos de arriba. A la derecha, cuesta abajo, está la Via Banchi di Sotto, la fila de bancos de abajo.
 
@@ -402,7 +402,7 @@ Pero lo que Siena perdió, lo ganamos nosotros como visitantes. Como la ciudad e
 
 La Via Banchi di Sopra desemboca en otra plaza encantadora, la Piazza Salimbeni. Cuando lleguen, pasen a la siguiente parada.
 
-## 20 · La Piazza Salimbeni {en=75:24}
+## 20 · La Piazza Salimbeni {en=75:24 mapa=17}
 
 Esta plaza capta la esencia de la grandeza de Siena. Está rodeada en tres de sus lados por tres palacios antiguos. Fíjense en los tres estilos. En el medio hay un palacio gótico. Sus ventanas tienen arcos en punta y están divididas en tres. Unas almenas de estilo clásico adornan la línea del techo. A la derecha hay un palacio renacentista, con arcos de medio punto y, a lo largo de la línea del techo, una fila de bustos de emperadores romanos. El tercer palacio, a la izquierda, es manierista. Se construyó después del Renacimiento y tiene una mezcla de elementos.
 

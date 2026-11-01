@@ -263,7 +263,7 @@ function viewTour(cityId, tourId) {
     const audioUrl = AUDIO_PATH(cityId, tourId, s.n, s.name);
     const stopEl = el("div", { class: "stop", id: `stop-${s.n}` },
       el("header", {},
-        el("span", { class: "n" }, String(s.n).padStart(2, "0")),
+        el("span", { class: "n" }, stopLabel(s)),
         el("div", { class: "meta" },
           el("div", { class: "title" }, s.name),
           el("div", { class: "sub" }, dot, " ", el("span", { class: "sub-text" }, "cargando estado…")),
@@ -290,6 +290,9 @@ function viewTour(cityId, tourId) {
   }
 }
 
+// Número que se muestra: el del mapa oficial si difiere de la pista (p. ej. "11b"), si no la pista.
+function stopLabel(s) { return s.label || String(s.n).padStart(2, "0"); }
+
 // Mapas del tour (PDF oficial, mapa con números del audio, croquis); compatible con datos viejos.
 function tourMaps(t) {
   if (t.maps && t.maps.length) return t.maps;
@@ -313,7 +316,7 @@ function drawTourMap(container, tour, cityId, tourId) {
       html: `<span>${escapeHtml(p.label)}</span>`, iconSize: [0, 0] });
     const m = L.marker(p.coord, { icon }).addTo(tm);
     m.bindPopup(`<strong>${escapeHtml(p.label)}</strong> · ${escapeHtml(p.name)}` +
-      (p.stop ? `<br><a href="#" class="pop-play" data-stop="${p.stop}">▶ Escuchar parada ${p.stop}</a>` : ""));
+      (p.stop ? `<br><a href="#" class="pop-play" data-stop="${p.stop}">▶ Escuchar parada ${escapeHtml(stopLabel(tour.stops.find(x => x.n === p.stop) || { n: p.stop }))}</a>` : ""));
   }
   L.polyline(route, { color: "#e0457b", weight: 4, opacity: .8, dashArray: "8 8" }).addTo(tm);
   tm.fitBounds(L.latLngBounds(all).pad(0.12));
@@ -355,7 +358,7 @@ function play(cityId, tourId, n) {
   applyRate();  // Safari (iPhone) vuelve a 1× cada vez que cambia la pista
   AUDIO.play().then(applyRate).catch(e => console.warn("play fail:", e));
   $("#player").hidden = false;
-  $("#np-title").textContent = `${String(n).padStart(2, "0")} · ${stop.name}`;
+  $("#np-title").textContent = `${stopLabel(stop)} · ${stop.name}`;
   $("#np-sub").textContent = `${tour.title} · ${city.name}`;
   $("#np-play").textContent = "⏸";
   document.querySelectorAll(".stop.playing").forEach(e => e.classList.remove("playing"));
@@ -367,7 +370,7 @@ function play(cityId, tourId, n) {
 function updateMediaSession(city, tour, stop) {
   if ("mediaSession" in navigator) {
     navigator.mediaSession.metadata = new MediaMetadata({
-      title: `${String(stop.n).padStart(2, "0")} · ${stop.name}`,
+      title: `${stopLabel(stop)} · ${stop.name}`,
       artist: tour.title, album: city.name,
     });
     navigator.mediaSession.setActionHandler("previoustrack", prev);
