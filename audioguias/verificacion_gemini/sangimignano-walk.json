@@ -31,6 +31,20 @@
    "tts_attempts": 2,
    "missing_numbers": [],
    "diffs": []
+  },
+  {
+   "n": 3,
+   "name": "La Piazza della Cisterna",
+   "file": "03 - La Piazza della Cisterna.mp3",
+   "es_min": 1.7,
+   "en_min": 0.0,
+   "dur_ratio": 102.02,
+   "word_ratio": 254.0,
+   "audio_match": 1.0,
+   "ppm": 153,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
   }
  ]
 }
