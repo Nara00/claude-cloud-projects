@@ -186,6 +186,22 @@
    "tts_attempts": 2,
    "missing_numbers": [],
    "diffs": []
+  },
+  {
+   "n": 12,
+   "name": "Las góndolas",
+   "file": "12 - Las góndolas.mp3",
+   "es_min": 3.8,
+   "en_min": 5.1,
+   "dur_ratio": 0.75,
+   "word_ratio": 0.65,
+   "audio_match": 1.0,
+   "ppm": 133,
+   "tts_attempts": 2,
+   "missing_numbers": [
+    "2000"
+   ],
+   "diffs": []
   }
  ]
 }
