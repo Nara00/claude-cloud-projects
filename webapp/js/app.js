@@ -236,7 +236,7 @@ function viewTour(cityId, tourId) {
     header.append(
       el("a", { class: "map-btn", href: tour.map_url, target: "_blank", rel: "noopener" },
         el("span", { class: "map-ico" }, "🗺"),
-        el("span", {}, tour.map_url.endsWith(".pdf") ? "Ver mapa oficial del tour" : "Ver croquis del recorrido"),
+        el("span", {}, /\.pdf$|oficial/.test(tour.map_url) ? "Ver mapa oficial del tour" : "Ver croquis del recorrido"),
         el("span", { class: "map-ext" }, "↗"),
       ),
     );

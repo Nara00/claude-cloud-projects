@@ -61,6 +61,7 @@ TOUR_MAPS = {
     "florence-san-marco-museum": "https://www.ricksteves.com/watch-read-listen/audio/audio-tours/map-audiotours-florence-sanmarco-museum.pdf",
     "florence-uffizi-gallery": "https://www.ricksteves.com/watch-read-listen/audio/audio-tours/map-audiotours-florence-uffizi.pdf",
     "pitti-palatine-gallery": "maps/pitti-croquis.png",
+    "siena-city-walk": "maps/siena-mapa-oficial.jpg",
 }
 
 # Coordenadas aproximadas del punto de inicio de cada tour (centro del lugar).
@@ -99,19 +100,20 @@ TOUR_COORDS = {
 # label = número de parada que se muestra; stop = parada que reproduce; kind "info" = no es parada.
 TOUR_POINTS = {
     "siena-city-walk": [
-        {"label": "🚌", "name": "Colectivo 131R a Florencia (Via Tozzi / Piazza Gramsci, aprox.)", "coord": [43.3233, 11.3318], "kind": "info"},
-        {"label": "1-2", "name": "Il Campo", "coord": [43.3184, 11.3316], "stop": 1},
-        {"label": "3", "name": "Palazzo Pubblico", "coord": [43.3178, 11.3321], "stop": 3},
-        {"label": "4", "name": "Fonte Gaia", "coord": [43.3189, 11.3313], "stop": 4},
-        {"label": "5", "name": "Via di Città", "coord": [43.3180, 11.3301], "stop": 5},
-        {"label": "6", "name": "Palazzo Chigi-Saracini", "coord": [43.3175, 11.3292], "stop": 6},
-        {"label": "7", "name": "Quattro Cantoni", "coord": [43.3172, 11.3284], "stop": 7},
-        {"label": "8-15", "name": "Duomo", "coord": [43.3179, 11.3287], "stop": 8},
-        {"label": "16", "name": "La iglesia inconclusa (Duomo Nuovo)", "coord": [43.3175, 11.3280], "stop": 16},
-        {"label": "17", "name": "Camino a la Piazza dell'Indipendenza", "coord": [43.3196, 11.3298], "stop": 17},
-        {"label": "18", "name": "Loggia della Mercanzia", "coord": [43.3193, 11.3318], "stop": 18},
-        {"label": "19", "name": "Banchi di Sopra y Banchi di Sotto", "coord": [43.3201, 11.3320], "stop": 19},
-        {"label": "20", "name": "Piazza Salimbeni", "coord": [43.3215, 11.3318], "stop": 20},
+        {"label": "🚌", "name": "Colectivo 131R a Florencia (Via Tozzi / Piazza Gramsci, aprox.)", "coord": [43.3228, 11.3310], "kind": "info"},
+        {"label": "1-2", "name": "Il Campo", "coord": [43.3187, 11.3316], "stop": 1},
+        {"label": "3", "name": "Palazzo Pubblico", "coord": [43.3181, 11.3320], "stop": 3},
+        {"label": "4", "name": "Fonte Gaia", "coord": [43.3189, 11.3312], "stop": 4},
+        {"label": "5", "name": "Via di Città", "coord": [43.3182, 11.3307], "stop": 5},
+        {"label": "6", "name": "Palazzo Chigi-Saracini", "coord": [43.3177, 11.3310], "stop": 6},
+        {"label": "7", "name": "Quattro Cantoni", "coord": [43.3167, 11.3297], "stop": 7},
+        {"label": "8", "name": "Fachada del Duomo", "coord": [43.3177, 11.3286], "stop": 8},
+        {"label": "9-15", "name": "Interior del Duomo y Biblioteca Piccolomini", "coord": [43.3180, 11.3291], "stop": 9},
+        {"label": "16", "name": "La iglesia inconclusa (Duomo Nuovo)", "coord": [43.3178, 11.3295], "stop": 16},
+        {"label": "17", "name": "Camino a la Piazza dell'Indipendenza", "coord": [43.3184, 11.3296], "stop": 17},
+        {"label": "18", "name": "Piazza dell'Indipendenza y Loggia", "coord": [43.3192, 11.3305], "stop": 18},
+        {"label": "19", "name": "Banchi di Sopra", "coord": [43.3194, 11.3313], "stop": 19},
+        {"label": "20", "name": "Piazza Salimbeni (fin)", "coord": [43.3212, 11.3308], "stop": 20},
     ],
     "sangimignano-walk": [
         {"label": "P", "name": "Estacionamiento P2 Montemaggio (aprox.)", "coord": [43.4641, 11.0424], "kind": "info"},
