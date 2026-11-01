@@ -17,6 +17,20 @@
    "tts_attempts": 2,
    "missing_numbers": [],
    "diffs": []
+  },
+  {
+   "n": 2,
+   "name": "La estación de tren",
+   "file": "02 - La estación de tren.mp3",
+   "es_min": 3.9,
+   "en_min": 5.1,
+   "dur_ratio": 0.77,
+   "word_ratio": 1.09,
+   "audio_match": 1.0,
+   "ppm": 135,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
   }
  ]
 }

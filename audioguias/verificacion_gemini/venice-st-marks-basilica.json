@@ -77,6 +77,20 @@
    "tts_attempts": 2,
    "missing_numbers": [],
    "diffs": []
+  },
+  {
+   "n": 6,
+   "name": "El mosaico de Pentecostés",
+   "file": "06 - El mosaico de Pentecostés.mp3",
+   "es_min": 3.0,
+   "en_min": 0.0,
+   "dur_ratio": 180.84,
+   "word_ratio": 370.0,
+   "audio_match": 1.0,
+   "ppm": 125,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
   }
  ]
 }
