@@ -352,7 +352,8 @@ function play(cityId, tourId, n) {
   PLAYING = { cityId, tourId, stopN: n };
   QUEUE = tour.stops;
   AUDIO.src = AUDIO_PATH(cityId, tourId, n, stop.name);
-  AUDIO.play().catch(e => console.warn("play fail:", e));
+  applyRate();  // Safari (iPhone) vuelve a 1× cada vez que cambia la pista
+  AUDIO.play().then(applyRate).catch(e => console.warn("play fail:", e));
   $("#player").hidden = false;
   $("#np-title").textContent = `${String(n).padStart(2, "0")} · ${stop.name}`;
   $("#np-sub").textContent = `${tour.title} · ${city.name}`;
@@ -382,7 +383,9 @@ function updateMediaSession(city, tour, stop) {
 
 function togglePlay() {
   if (!AUDIO.src) return;
-  if (AUDIO.paused) { AUDIO.play(); $("#np-play").textContent = "⏸"; }
+  // Con autoplay apagado, al terminar una parada el ▶ sigue con la próxima.
+  if (AUDIO.ended && !AUTOPLAY) { next(); return; }
+  if (AUDIO.paused) { AUDIO.play().then(applyRate).catch(() => {}); $("#np-play").textContent = "⏸"; }
   else { AUDIO.pause(); $("#np-play").textContent = "▶"; }
 }
 
@@ -399,10 +402,40 @@ function next() {
 }
 
 const RATES = [1, 1.25, 1.5, 2, 0.75];
-let RATE_IDX = Number(localStorage.getItem("rate_idx") || 0);
-AUDIO.playbackRate = RATES[RATE_IDX];
-$("#np-rate").textContent = RATES[RATE_IDX] + "×";
-$("#np-rate").classList.toggle("active", RATES[RATE_IDX] !== 1);
+let RATE_IDX = 0;
+try { RATE_IDX = Number(localStorage.getItem("rate_idx") || 0) % RATES.length || 0; } catch {}
+// Aplica la velocidad elegida. defaultPlaybackRate hace que la mantenga al cargar otra pista;
+// igual la reaplicamos en cada evento de carga porque Safari en iPhone la resetea.
+function applyRate() {
+  const r = RATES[RATE_IDX];
+  AUDIO.defaultPlaybackRate = r;
+  if (Math.abs(AUDIO.playbackRate - r) > 0.001) AUDIO.playbackRate = r;
+  $("#np-rate").textContent = r + "×";
+  $("#np-rate").classList.toggle("active", r !== 1);
+}
+applyRate();
+for (const ev of ["loadedmetadata", "canplay", "play", "playing"]) AUDIO.addEventListener(ev, applyRate);
+AUDIO.addEventListener("ratechange", () => {
+  // Si el navegador la cambió por su cuenta (p. ej. a 1× al cambiar de pista), la volvemos a poner.
+  if (Math.abs(AUDIO.playbackRate - RATES[RATE_IDX]) > 0.001) setTimeout(applyRate, 0);
+});
+
+// Autoplay: si está prendido, al terminar una parada pasa sola a la siguiente.
+let AUTOPLAY = true;
+try { AUTOPLAY = localStorage.getItem("autoplay") !== "0"; } catch {}
+function renderAuto() {
+  const b = $("#np-auto");
+  b.textContent = AUTOPLAY ? "Auto: sí" : "Auto: no";
+  b.setAttribute("aria-pressed", String(AUTOPLAY));
+  b.classList.toggle("off", !AUTOPLAY);
+  b.title = AUTOPLAY ? "Al terminar, pasa sola a la siguiente parada" : "Al terminar, espera a que toques ▶ o ⏭";
+}
+renderAuto();
+$("#np-auto").addEventListener("click", () => {
+  AUTOPLAY = !AUTOPLAY;
+  try { localStorage.setItem("autoplay", AUTOPLAY ? "1" : "0"); } catch {}
+  renderAuto();
+});
 
 function fmt(t) {
   if (!isFinite(t)) return "0:00";
@@ -410,7 +443,10 @@ function fmt(t) {
   return m + ":" + String(s).padStart(2, "0");
 }
 
-AUDIO.addEventListener("ended", next);
+AUDIO.addEventListener("ended", () => {
+  if (AUTOPLAY) next();
+  else $("#np-play").textContent = "▶";
+});
 AUDIO.addEventListener("timeupdate", () => {
   if (!AUDIO.duration) return;
   $("#np-seek").value = (AUDIO.currentTime / AUDIO.duration) * 100;
@@ -429,10 +465,8 @@ $("#np-back").addEventListener("click", () => { AUDIO.currentTime = Math.max(0, 
 $("#np-fwd").addEventListener("click", () => { AUDIO.currentTime = Math.min(AUDIO.duration || 0, AUDIO.currentTime + 5); });
 $("#np-rate").addEventListener("click", () => {
   RATE_IDX = (RATE_IDX + 1) % RATES.length;
-  AUDIO.playbackRate = RATES[RATE_IDX];
-  $("#np-rate").textContent = RATES[RATE_IDX] + "×";
-  $("#np-rate").classList.toggle("active", RATES[RATE_IDX] !== 1);
-  localStorage.setItem("rate_idx", RATE_IDX);
+  try { localStorage.setItem("rate_idx", RATE_IDX); } catch {}
+  applyRate();
 });
 // Teclado (iPad / escritorio)
 document.addEventListener("keydown", (e) => {
