@@ -31,6 +31,20 @@
    "tts_attempts": 2,
    "missing_numbers": [],
    "diffs": []
+  },
+  {
+   "n": 16,
+   "name": "La iglesia inconclusa",
+   "file": "16 - La iglesia inconclusa.mp3",
+   "es_min": 4.6,
+   "en_min": 0.0,
+   "dur_ratio": 277.92,
+   "word_ratio": 610.0,
+   "audio_match": 1.0,
+   "ppm": 133,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
   }
  ]
 }
