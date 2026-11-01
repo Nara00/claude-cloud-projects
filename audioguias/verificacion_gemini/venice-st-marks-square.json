@@ -202,6 +202,48 @@
     "2000"
    ],
    "diffs": []
+  },
+  {
+   "n": 13,
+   "name": "La elegante decadencia",
+   "file": "13 - La elegante decadencia.mp3",
+   "es_min": 3.0,
+   "en_min": 4.5,
+   "dur_ratio": 0.66,
+   "word_ratio": 0.6,
+   "audio_match": 1.0,
+   "ppm": 128,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 14,
+   "name": "El Puente de los Suspiros",
+   "file": "14 - El Puente de los Suspiros.mp3",
+   "es_min": 4.6,
+   "en_min": 0.0,
+   "dur_ratio": 277.25,
+   "word_ratio": 573.0,
+   "audio_match": 1.0,
+   "ppm": 126,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 15,
+   "name": "Venecia de noche",
+   "file": "15 - Venecia de noche.mp3",
+   "es_min": 1.7,
+   "en_min": 3.2,
+   "dur_ratio": 0.53,
+   "word_ratio": 0.38,
+   "audio_match": 1.0,
+   "ppm": 126,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
   }
  ]
 }
