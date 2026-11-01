@@ -49,6 +49,20 @@
     "1125"
    ],
    "diffs": []
+  },
+  {
+   "n": 4,
+   "name": "Los mosaicos del atrio: el arca de Noé",
+   "file": "04 - Los mosaicos del atrio el arca de Noé.mp3",
+   "es_min": 1.9,
+   "en_min": 2.9,
+   "dur_ratio": 0.67,
+   "word_ratio": 0.62,
+   "audio_match": 1.0,
+   "ppm": 129,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
   }
  ]
 }

@@ -10,7 +10,7 @@ Hola. Esta es la audioguía de Rick Steves, traducida al español. Gracias por a
 
 Como intermediarios del comercio entre Europa y el exótico Oriente, los ricos venecianos le enseñaron al resto de Europa a darse la buena vida. Venecia era una ciudad vibrante, llena de palacios pintados, canales relucientes, vino, mujeres y canciones, y multitudes de visitantes llegados de todas partes. Siglos después, Venecia sigue siendo todo eso, con el encanto adicional de una decadencia romántica.
 
-Calculen alrededor de una hora para esta audioguía, en la que vamos a ver la basílica, que es única en el mundo, el Palacio Ducal, es decir, el palacio de los dux, las tiendas, los cafés llenos de música y la plaza mágica que todos ellos rodean.
+Calculen alrededor de una hora para esta audioguía, en la que vamos a ver una basílica única en el mundo, el Palacio Ducal, que era el palacio de los dux, las tiendas, los cafés llenos de música y la plaza mágica que todos ellos rodean.
 
 Y ahora, vamos a la Plaza San Marcos.
 
@@ -62,7 +62,7 @@ La acción está en las mesas de afuera. Pero adentro hay salones antiguos, rica
 
 El Café Quadri, enfrente del Florian, tiene una historia igual de ilustre: recibió a personajes como el escritor Stendhal y el compositor de óperas Richard Wagner. Los otros cafés, aunque animados, son más nuevos y menos prestigiosos.
 
-Si quieren sentarse a una mesa de café y disfrutar de la música, cuenten con pagar unos 15 euros por el recargo por la música y una bebida. Claro, es caro, pero una vez que pagaron, está perfectamente bien quedarse con su capuchino o su copa de vino todo el tiempo que quieran.
+Si quieren sentarse a una mesa de café y disfrutar de la música, cuenten con pagar unos 15 euros entre el recargo por la música y una bebida. Claro, es caro, pero una vez que pagaron, está perfectamente bien quedarse con su capuchino o su copa de vino todo el tiempo que quieran.
 
 Aunque no paguen por sentarse, siempre pueden quedarse por los alrededores y disfrutar del ambiente gratis. No cuesta ni un euro bailar en la plaza bajo un techo de estrellas, un recuerdo para toda la vida.
 
@@ -136,7 +136,7 @@ Es hora de despegarnos de las tiendas y cruzar la plaza caminando hasta el campa
 
 ## 07 · El Campanile {en=20:40}
 
-El Campanile original, o campanario, también era el faro que custodiaba la entrada al Gran Canal. Era una maravilla de la arquitectura del siglo diez, hasta el siglo veinte, cuando se derrumbó en medio de la plaza.
+El Campanile original, o campanario, también era el faro que custodiaba la entrada al Gran Canal. Era una maravilla de la arquitectura del siglo diez. Hasta que, en el siglo veinte, se derrumbó en medio de la plaza.
 
 Una noche de 1902 crujió de manera amenazante, y la gente salió corriendo de los cafés. A la mañana siguiente, ¡se desplomó! El ángel dorado que tenía en la punta cayó justo delante de la puerta principal de la basílica, de pie.
 
@@ -172,7 +172,7 @@ El gran edificio a la derecha de la Basílica de San Marcos, el del exterior ros
 
 ## 09 · El Palacio Ducal {en=22:08}
 
-El pastel de bodas, el mantel o la casa rosada, a veces también se conoce como el Palacio Ducal.
+Al pastel de bodas, al mantel o a la casa rosada, a veces también se lo conoce como el Palacio Ducal.
 
 Este palacio albergaba el fascinante gobierno de este imperio rico y poderoso. También era la residencia del gobernante veneciano conocido como el dux, es decir, el duque. Durante cuatro siglos, más o menos desde 1150 hasta 1550, este terreno de unos 2000 metros cuadrados fue el más poderoso de Europa.
 
@@ -188,7 +188,7 @@ El Palacio Ducal es el máximo ejemplo del estilo conocido como gótico venecian
 
 Fíjense en que las columnas de apoyo son bajas y no tienen base, lo que le da al palacio un aspecto de ser más pesado arriba que abajo. Originalmente tenían base, pero con los siglos quedaron tapadas. A medida que subía el nivel del mar, se fue elevando la plaza con nuevas piedras de pavimento, para ganar un poco más de tiempo mientras el mar se traga lentamente la ciudad.
 
-La pequeña plaza que está entre la basílica y el agua se conoce como la Piazzetta. Esta plazoleta, que eso quiere decir su nombre, está enmarcada por el Palacio Ducal de un lado, y por el Campanile y la Biblioteca Marciana del otro.
+La pequeña plaza que está entre la basílica y el agua se conoce como la Piazzetta. Su nombre quiere decir plaza pequeña. Está enmarcada por el Palacio Ducal de un lado, y por el Campanile y la Biblioteca Marciana del otro.
 
 Vamos a empezar en la base del Campanile y a recorrer la Piazzetta en el sentido de las agujas del reloj, para ver algunas de sus curiosidades. Cuando estén en la base del Campanile, pasen a la siguiente parada.
 
@@ -232,7 +232,7 @@ Miren a lo lejos. En una isla, del otro lado de la laguna, está una de las vist
 
 Al lado de la iglesia está su campanario, que recuerda al Campanile de la Plaza San Marcos. Se puede subir a ese campanario, y el viaje hasta San Giorgio Maggiore vale la pena aunque sea solo por la vista desde arriba: mirando hacia la Plaza San Marcos, tienen una vista clásica de Venecia.
 
-Desplazando la mirada hacia la derecha, busquen la figura que hace equilibrio sobre una gran bola de bronce. Está en lo alto de la antigua Aduana, que custodia la entrada al Gran Canal. A su derecha, un poco más adentro del Gran Canal, está la majestuosa cúpula de la iglesia de La Salute.
+Desplazando la mirada hacia la derecha, busquen la figura que hace equilibrio sobre una gran bola de bronce. Está en lo alto de la antigua Aduana, que custodia la entrada al Gran Canal. A la derecha de la Aduana, un poco más adentro del Gran Canal, está la majestuosa cúpula de la iglesia de La Salute.
 
 Por cierto, ¿los está agobiando la multitud? La zona de San Marcos puede llenarse muchísimo de gente. Si es así, aquí tienen algunos lugares cercanos, relativamente tranquilos, donde escaparse.
 
