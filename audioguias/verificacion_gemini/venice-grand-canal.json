@@ -178,6 +178,99 @@
    "tts_attempts": 2,
    "missing_numbers": [],
    "diffs": []
+  },
+  {
+   "n": 13,
+   "name": "Ca' Rezzonico",
+   "file": "13 - Ca' Rezzonico.mp3",
+   "es_min": 2.7,
+   "en_min": 3.6,
+   "dur_ratio": 0.76,
+   "word_ratio": 0.57,
+   "audio_match": 1.0,
+   "ppm": 139,
+   "tts_attempts": 2,
+   "missing_numbers": [
+    "1000",
+    "1630"
+   ],
+   "diffs": []
+  },
+  {
+   "n": 14,
+   "name": "Accademia",
+   "file": "14 - Accademia.mp3",
+   "es_min": 3.1,
+   "en_min": 0.0,
+   "dur_ratio": 185.71,
+   "word_ratio": 395.0,
+   "audio_match": 1.0,
+   "ppm": 129,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 15,
+   "name": "Santa Maria del Giglio",
+   "file": "15 - Santa Maria del Giglio.mp3",
+   "es_min": 2.2,
+   "en_min": 3.2,
+   "dur_ratio": 0.68,
+   "word_ratio": 0.54,
+   "audio_match": 1.0,
+   "ppm": 138,
+   "tts_attempts": 2,
+   "missing_numbers": [
+    "30",
+    "1898",
+    "1948",
+    "1979",
+    "60000"
+   ],
+   "diffs": []
+  },
+  {
+   "n": 16,
+   "name": "La Salute",
+   "file": "16 - La Salute.mp3",
+   "es_min": 2.8,
+   "en_min": 3.5,
+   "dur_ratio": 0.81,
+   "word_ratio": 1.04,
+   "audio_match": 1.0,
+   "ppm": 128,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 17,
+   "name": "San Marco",
+   "file": "17 - San Marco.mp3",
+   "es_min": 3.2,
+   "en_min": 4.5,
+   "dur_ratio": 0.7,
+   "word_ratio": 1.07,
+   "audio_match": 1.0,
+   "ppm": 133,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 18,
+   "name": "San Zaccaria: fin del recorrido",
+   "file": "18 - San Zaccaria fin del recorrido.mp3",
+   "es_min": 1.2,
+   "en_min": 0.0,
+   "dur_ratio": 70.58,
+   "word_ratio": 151.0,
+   "audio_match": 1.0,
+   "ppm": 134,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
   }
  ]
 }

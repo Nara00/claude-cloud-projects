@@ -197,6 +197,122 @@
    "tts_attempts": 2,
    "missing_numbers": [],
    "diffs": []
+  },
+  {
+   "n": 14,
+   "name": "El transepto norte: la Virgen Nicopeia",
+   "file": "14 - El transepto norte la Virgen Nicopeia.mp3",
+   "es_min": 3.3,
+   "en_min": 5.1,
+   "dur_ratio": 0.65,
+   "word_ratio": 0.58,
+   "audio_match": 1.0,
+   "ppm": 135,
+   "tts_attempts": 2,
+   "missing_numbers": [
+    "15",
+    "250",
+    "300",
+    "828",
+    "1100",
+    "1500"
+   ],
+   "diffs": []
+  },
+  {
+   "n": 15,
+   "name": "El Museo de San Marcos",
+   "file": "15 - El Museo de San Marcos.mp3",
+   "es_min": 1.2,
+   "en_min": 1.8,
+   "dur_ratio": 0.66,
+   "word_ratio": 0.46,
+   "audio_match": 1.0,
+   "ppm": 134,
+   "tts_attempts": 2,
+   "missing_numbers": [
+    "14",
+    "175"
+   ],
+   "diffs": []
+  },
+  {
+   "n": 16,
+   "name": "Fragmentos de mosaicos",
+   "file": "16 - Fragmentos de mosaicos.mp3",
+   "es_min": 2.5,
+   "en_min": 3.6,
+   "dur_ratio": 0.69,
+   "word_ratio": 0.5,
+   "audio_match": 1.0,
+   "ppm": 129,
+   "tts_attempts": 2,
+   "missing_numbers": [
+    "97",
+    "1204",
+    "1797"
+   ],
+   "diffs": []
+  },
+  {
+   "n": 17,
+   "name": "La Sala dei Banchetti",
+   "file": "17 - La Sala dei Banchetti.mp3",
+   "es_min": 2.5,
+   "en_min": 0.0,
+   "dur_ratio": 150.98,
+   "word_ratio": 323.0,
+   "audio_match": 1.0,
+   "ppm": 131,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 18,
+   "name": "Los caballos de bronce",
+   "file": "18 - Los caballos de bronce.mp3",
+   "es_min": 3.6,
+   "en_min": 5.0,
+   "dur_ratio": 0.72,
+   "word_ratio": 0.55,
+   "audio_match": 1.0,
+   "ppm": 132,
+   "tts_attempts": 2,
+   "missing_numbers": [
+    "1070"
+   ],
+   "diffs": []
+  },
+  {
+   "n": 19,
+   "name": "Vista del interior de la iglesia",
+   "file": "19 - Vista del interior de la iglesia.mp3",
+   "es_min": 1.9,
+   "en_min": 3.3,
+   "dur_ratio": 0.57,
+   "word_ratio": 0.54,
+   "audio_match": 1.0,
+   "ppm": 134,
+   "tts_attempts": 2,
+   "missing_numbers": [
+    "1345"
+   ],
+   "diffs": []
+  },
+  {
+   "n": 20,
+   "name": "La vista de la Plaza de San Marcos",
+   "file": "20 - La vista de la Plaza de San Marcos.mp3",
+   "es_min": 2.4,
+   "en_min": 4.0,
+   "dur_ratio": 0.59,
+   "word_ratio": 0.8,
+   "audio_match": 1.0,
+   "ppm": 128,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
   }
  ]
 }

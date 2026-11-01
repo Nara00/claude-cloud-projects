@@ -129,6 +129,63 @@
    "tts_attempts": 2,
    "missing_numbers": [],
    "diffs": []
+  },
+  {
+   "n": 9,
+   "name": "El Palacio Ducal",
+   "file": "09 - El Palacio Ducal.mp3",
+   "es_min": 4.2,
+   "en_min": 6.4,
+   "dur_ratio": 0.66,
+   "word_ratio": 0.67,
+   "audio_match": 1.0,
+   "ppm": 131,
+   "tts_attempts": 2,
+   "missing_numbers": [
+    "30",
+    "50",
+    "65",
+    "196",
+    "1966"
+   ],
+   "diffs": []
+  },
+  {
+   "n": 10,
+   "name": "La Piazzetta",
+   "file": "10 - La Piazzetta.mp3",
+   "es_min": 4.5,
+   "en_min": 7.2,
+   "dur_ratio": 0.62,
+   "word_ratio": 0.51,
+   "audio_match": 1.0,
+   "ppm": 131,
+   "tts_attempts": 2,
+   "missing_numbers": [
+    "25",
+    "40",
+    "50",
+    "80",
+    "200",
+    "400",
+    "500",
+    "10000"
+   ],
+   "diffs": []
+  },
+  {
+   "n": 11,
+   "name": "La laguna",
+   "file": "11 - La laguna.mp3",
+   "es_min": 4.5,
+   "en_min": 0.0,
+   "dur_ratio": 268.8,
+   "word_ratio": 585.0,
+   "audio_match": 1.0,
+   "ppm": 132,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
   }
  ]
 }
