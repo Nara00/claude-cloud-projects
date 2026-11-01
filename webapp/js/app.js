@@ -2,7 +2,9 @@
 const DATA_URL = "data/tours.json";
 // safe() replica scripts/generar_audio_gemini.py: quita los caracteres no permitidos del filename.
 const safeFilename = (name) => name.replace(/[\\/:*?"<>|]/g, "").trim();
-const AUDIO_PATH = (city, tour, n, name) => `audio/${city}/${tour}/${String(n).padStart(2,"0")} - ${safeFilename(name)}.mp3`;
+// v > 1 cuando la pista se regeneró: cambia la URL para que el celular no use la versión vieja guardada.
+const AUDIO_PATH = (city, tour, n, name, v) =>
+  `audio/${city}/${tour}/${String(n).padStart(2,"0")} - ${safeFilename(name)}.mp3` + (v > 1 ? `?v=${v}` : "");
 
 const $ = sel => document.querySelector(sel);
 const el = (tag, props = {}, ...children) => {
@@ -37,7 +39,7 @@ function cityUrls(city, cityId) {
   const urls = [];
   for (const t of city.tours) {
     for (const s of t.stops) {
-      urls.push(AUDIO_PATH(cityId, t.id, s.n, s.name));
+      urls.push(AUDIO_PATH(cityId, t.id, s.n, s.name, s.v));
     }
     for (const m of tourMaps(t)) urls.push(m.url);
   }
@@ -50,8 +52,9 @@ async function cityStatus(cityId) {
   const cache = await caches.open("city-" + cityId);
   const keys = await cache.keys();
   const urls = cityUrls(DATA.cities[cityId], cityId);
-  const have = new Set(keys.map(r => new URL(r.url).pathname.replace(/^\//, "")));
-  const done = urls.filter(u => have.has(u) || have.has("/" + u) || have.has(u.replace(/\s/g, "%20"))).length;
+  const key = u => { const x = new URL(u, location.href); return decodeURI(x.pathname) + x.search; };
+  const have = new Set(keys.map(r => key(r.url)));
+  const done = urls.filter(u => have.has(key(u))).length;
   return { done, total: urls.length };
 }
 
@@ -74,6 +77,12 @@ async function downloadCity(cityId, onProgress) {
     done++;
     onProgress({ done, total: urls.length, failed: failed_urls.length });
   }
+  // Borrar del cache las versiones viejas de pistas regeneradas (y lo que ya no está en la lista)
+  try {
+    const key = x => { const y = new URL(x, location.href); return decodeURI(y.pathname) + y.search; };
+    const want = new Set(urls.map(key));
+    for (const r of await cache.keys()) if (!want.has(key(r.url))) await cache.delete(r);
+  } catch {}
   try { localStorage.setItem("fallidos_" + cityId, JSON.stringify(failed_urls)); } catch {}
   return { done, total: urls.length, failed: failed_urls };
 }
@@ -83,9 +92,9 @@ function getFailed(cityId) {
   catch { return []; }
 }
 
-async function stopIsCached(cityId, tourId, stopN, stopName) {
+async function stopIsCached(cityId, tourId, stopN, stopName, v) {
   if (!("caches" in window)) return false;
-  const url = AUDIO_PATH(cityId, tourId, stopN, stopName);
+  const url = AUDIO_PATH(cityId, tourId, stopN, stopName, v);
   const cache = await caches.open("city-" + cityId);
   const match = await cache.match(url);
   return !!match;
@@ -260,7 +269,7 @@ function viewTour(cityId, tourId) {
 
   for (const s of tour.stops) {
     const dot = el("span", { class: "cache-dot", title: "..." }, "·");
-    const audioUrl = AUDIO_PATH(cityId, tourId, s.n, s.name);
+    const audioUrl = AUDIO_PATH(cityId, tourId, s.n, s.name, s.v);
     const stopEl = el("div", { class: "stop", id: `stop-${s.n}` },
       el("header", {},
         el("span", { class: "n" }, stopLabel(s)),
@@ -281,7 +290,7 @@ function viewTour(cityId, tourId) {
       stopEl.classList.toggle("open");
     });
     root.append(stopEl);
-    stopIsCached(cityId, tourId, s.n, s.name).then(ok => {
+    stopIsCached(cityId, tourId, s.n, s.name, s.v).then(ok => {
       dot.textContent = ok ? "●" : "○";
       dot.className = "cache-dot " + (ok ? "ok" : "miss");
       dot.title = ok ? "Descargado, funciona sin internet" : "No descargado";
@@ -354,7 +363,7 @@ function play(cityId, tourId, n) {
   if (!stop) return;
   PLAYING = { cityId, tourId, stopN: n };
   QUEUE = tour.stops;
-  AUDIO.src = AUDIO_PATH(cityId, tourId, n, stop.name);
+  AUDIO.src = AUDIO_PATH(cityId, tourId, n, stop.name, stop.v);
   applyRate();  // Safari (iPhone) vuelve a 1× cada vez que cambia la pista
   AUDIO.play().then(applyRate).catch(e => console.warn("play fail:", e));
   $("#player").hidden = false;

@@ -263,6 +263,11 @@ TOUR_POINTS = {
     ],
 }
 
+# Pistas regeneradas: versión > 1 para que la app no use la copia vieja guardada en el celular.
+AUDIO_VERSIONS = {
+    "siena-city-walk": {n: 2 for n in range(11, 21)},  # numeración del mapa oficial (nov. 2026)
+}
+
 TOUR_TITLES = {
     "rome-pantheon": "Panteón",
     "rome-colosseum": "Coliseo",
@@ -376,7 +381,8 @@ def main():
                 "maps": tour_maps(tour),
                 "map_url": (tour_maps(tour) or [{"url": None}])[0]["url"],
                 "points": TOUR_POINTS.get(tour),
-                "stops": [{"n": s["n"], "label": s["label"], "name": s["name"], "text": s["text"],
+                "stops": [{"n": s["n"], "label": s["label"], "v": AUDIO_VERSIONS.get(tour, {}).get(s["n"], 1),
+                            "name": s["name"], "text": s["text"],
                             "en_start": s["en_start"], "coord": s["coord"]} for s in stops],
             })
             print(f"  {tour}: {len(stops)} paradas", file=sys.stderr)
