@@ -260,6 +260,20 @@
    "tts_attempts": 2,
    "missing_numbers": [],
    "diffs": []
+  },
+  {
+   "n": 19,
+   "name": "La Chocolatería San Ginés",
+   "file": "19 - La Chocolatería San Ginés.mp3",
+   "es_min": 4.0,
+   "en_min": 3.5,
+   "dur_ratio": 1.15,
+   "word_ratio": 0.9,
+   "audio_match": 1.0,
+   "ppm": 144,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
   }
  ]
 }
