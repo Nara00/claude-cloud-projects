@@ -63,6 +63,20 @@
    "tts_attempts": 2,
    "missing_numbers": [],
    "diffs": []
+  },
+  {
+   "n": 5,
+   "name": "La nave",
+   "file": "05 - La nave.mp3",
+   "es_min": 1.5,
+   "en_min": 2.1,
+   "dur_ratio": 0.72,
+   "word_ratio": 0.62,
+   "audio_match": 1.0,
+   "ppm": 133,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
   }
  ]
 }
