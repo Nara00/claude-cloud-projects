@@ -39,7 +39,7 @@ function cityUrls(city, cityId) {
     for (const s of t.stops) {
       urls.push(AUDIO_PATH(cityId, t.id, s.n, s.name));
     }
-    if (t.map_url) urls.push(t.map_url);
+    for (const m of tourMaps(t)) urls.push(m.url);
   }
   return urls;
 }
@@ -232,14 +232,19 @@ function viewTour(cityId, tourId) {
   QUEUE = tour.stops.map(s => ({ ...s, cityId, tourId }));
 
   const header = el("div", { class: "tour-header" });
-  if (tour.map_url) {
+  const maps = tourMaps(tour);
+  for (const m of maps) {
     header.append(
-      el("a", { class: "map-btn", href: tour.map_url, target: "_blank", rel: "noopener" },
+      el("a", { class: "map-btn", href: m.url, target: "_blank", rel: "noopener" },
         el("span", { class: "map-ico" }, "🗺"),
-        el("span", {}, /\.pdf$|oficial/.test(tour.map_url) ? "Ver mapa oficial del tour" : "Ver croquis del recorrido"),
+        el("span", {}, m.label),
         el("span", { class: "map-ext" }, "↗"),
       ),
     );
+  }
+  if (maps.some(m => m.url.endsWith(".pdf")) && tour.points) {
+    header.append(el("p", { class: "map-hint" },
+      "Ojo: los números del mapa oficial pueden no coincidir con los del audio. Guíense por el nombre de la parada o por el mapa de abajo."));
   }
   const dirUrl = `https://github.com/Nara00/claude-cloud-projects/tree/audioguias-rick-steves/webapp/audio/${cityId}/${tourId}`;
   header.append(
@@ -283,6 +288,13 @@ function viewTour(cityId, tourId) {
       stopEl.querySelector(".sub-text").textContent = ok ? "Sin internet ✓" : "Requiere internet";
     });
   }
+}
+
+// Mapas del tour (PDF oficial, mapa con números del audio, croquis); compatible con datos viejos.
+function tourMaps(t) {
+  if (t.maps && t.maps.length) return t.maps;
+  if (!t.map_url) return [];
+  return [{ url: t.map_url, label: /\.pdf$|oficial/.test(t.map_url) ? "Ver mapa oficial del tour" : "Ver croquis del recorrido" }];
 }
 
 // Mapa con calles y paradas numeradas, para tours sin PDF oficial.

@@ -61,10 +61,30 @@ TOUR_MAPS = {
     "florence-san-marco-museum": "https://www.ricksteves.com/watch-read-listen/audio/audio-tours/map-audiotours-florence-sanmarco-museum.pdf",
     "florence-uffizi-gallery": "https://www.ricksteves.com/watch-read-listen/audio/audio-tours/map-audiotours-florence-uffizi.pdf",
     "pitti-palatine-gallery": "maps/pitti-croquis.png",
-    "siena-city-walk": "maps/siena-mapa-oficial.jpg",
-    "venice-st-marks-basilica": "maps/basilica-san-marcos-croquis.png",
-    "venice-frari-church": "maps/frari-croquis.png",
+    # Varios mapas por tour: el primero es el principal.
+    "siena-city-walk": ["maps/siena-mapa-oficial.jpg", "https://www.ricksteves.com/watch-read-listen/audio/audio-tours/map-audiotours-siena-city-walk-map.pdf"],
+    "venice-grand-canal": "https://www.ricksteves.com/watch-read-listen/audio/map-audiotours-venice-grand-canal.pdf",
+    "venice-st-marks-square": "https://www.ricksteves.com/watch-read-listen/audio/audio-tours/map-audiotours-venice-san-marco-square.pdf",
+    "venice-st-marks-basilica": ["https://www.ricksteves.com/watch-read-listen/audio/audio-tours/map-audiotours-venice-san-marco-basilica.pdf", "maps/basilica-san-marcos-croquis.png"],
+    "venice-frari-church": ["https://www.ricksteves.com/watch-read-listen/audio/audio-tours/map-audiotours-venice-frari.pdf", "maps/frari-croquis.png"],
+    "barcelona-city-walk": "https://www.ricksteves.com/watch-read-listen/audio/audio-tours/map-audiotours-barcelona-city-walk.pdf",
+    "barcelona-eixample-walk": "https://www.ricksteves.com/watch-read-listen/audio/audio-tours/barcelona-eixample-walk-map-rick-steves.pdf",
+    "madrid-city-walk": "https://www.ricksteves.com/watch-read-listen/audio/audio-tours/map-audiotours-madrid-city-walk.pdf",
+    "sevilla-city-walk": "https://www.ricksteves.com/watch-read-listen/audio/audio-tours/sevilla-city-walk-map-rick-steves.pdf",
 }
+
+
+def map_label(url):
+    if url.endswith(".pdf"):
+        return "Ver mapa oficial de Rick Steves (PDF)"
+    if "oficial" in url:
+        return "Ver mapa oficial con los números del audio"
+    return "Ver croquis del recorrido"
+
+
+def tour_maps(tour):
+    m = TOUR_MAPS.get(tour) or []
+    return [{"url": u, "label": map_label(u)} for u in ([m] if isinstance(m, str) else m)]
 
 # Coordenadas aproximadas del punto de inicio de cada tour (centro del lugar).
 # Las paradas internas heredan la coord del tour. Mejora futura: coord por parada.
@@ -352,7 +372,8 @@ def main():
                 "title": TOUR_TITLES.get(tour, tour),
                 "full_title": full_title,
                 "coord": tour_coord,
-                "map_url": TOUR_MAPS.get(tour),
+                "maps": tour_maps(tour),
+                "map_url": (tour_maps(tour) or [{"url": None}])[0]["url"],
                 "points": TOUR_POINTS.get(tour),
                 "stops": [{"n": s["n"], "name": s["name"], "text": s["text"],
                             "en_start": s["en_start"], "coord": s["coord"]} for s in stops],

@@ -17,6 +17,12 @@
       41.8986,
       12.4769
      ],
+     "maps": [
+      {
+       "url": "https://d3dqioy2sca31t.cloudfront.net/Projects/cms/production/000/004/454/original/c9bf7131f52c3012c39c5db21f945984/pantheon.pdf",
+       "label": "Ver mapa oficial de Rick Steves (PDF)"
+      }
+     ],
      "map_url": "https://d3dqioy2sca31t.cloudfront.net/Projects/cms/production/000/004/454/original/c9bf7131f52c3012c39c5db21f945984/pantheon.pdf",
      "points": null,
      "stops": [
@@ -119,6 +125,12 @@
      "coord": [
       41.8902,
       12.4922
+     ],
+     "maps": [
+      {
+       "url": "https://www.ricksteves.com/watch-read-listen/audio/audio-tours/map-audiotours-colosseum.pdf",
+       "label": "Ver mapa oficial de Rick Steves (PDF)"
+      }
      ],
      "map_url": "https://www.ricksteves.com/watch-read-listen/audio/audio-tours/map-audiotours-colosseum.pdf",
      "points": null,
@@ -252,6 +264,12 @@
      "coord": [
       41.8925,
       12.4853
+     ],
+     "maps": [
+      {
+       "url": "https://www.ricksteves.com/watch-read-listen/audio/audio-tours/map-audiotours-forum.pdf",
+       "label": "Ver mapa oficial de Rick Steves (PDF)"
+      }
      ],
      "map_url": "https://www.ricksteves.com/watch-read-listen/audio/audio-tours/map-audiotours-forum.pdf",
      "points": null,
@@ -436,6 +454,12 @@
       41.9009,
       12.4833
      ],
+     "maps": [
+      {
+       "url": "https://www.ricksteves.com/watch-read-listen/audio/audio-tours/heart-of-rome-walk-map-1.pdf",
+       "label": "Ver mapa oficial de Rick Steves (PDF)"
+      }
+     ],
      "map_url": "https://www.ricksteves.com/watch-read-listen/audio/audio-tours/heart-of-rome-walk-map-1.pdf",
      "points": null,
      "stops": [
@@ -609,6 +633,12 @@
       41.8921,
       12.4777
      ],
+     "maps": [
+      {
+       "url": "https://www.ricksteves.com/watch-read-listen/audio/audio-tours/map-audiotours-rome-jewish-ghetto.pdf",
+       "label": "Ver mapa oficial de Rick Steves (PDF)"
+      }
+     ],
      "map_url": "https://www.ricksteves.com/watch-read-listen/audio/audio-tours/map-audiotours-rome-jewish-ghetto.pdf",
      "points": null,
      "stops": [
@@ -731,6 +761,12 @@
      "coord": [
       41.7556,
       12.2914
+     ],
+     "maps": [
+      {
+       "url": "https://www.ricksteves.com/watch-read-listen/audio/audio-tours/map-audiotours-rome-ostia-antica.pdf",
+       "label": "Ver mapa oficial de Rick Steves (PDF)"
+      }
      ],
      "map_url": "https://www.ricksteves.com/watch-read-listen/audio/audio-tours/map-audiotours-rome-ostia-antica.pdf",
      "points": null,
@@ -905,6 +941,12 @@
       41.9029,
       12.4545
      ],
+     "maps": [
+      {
+       "url": "https://www.ricksteves.com/watch-read-listen/audio/audio-tours/map-audiotours-rome-sistine.pdf",
+       "label": "Ver mapa oficial de Rick Steves (PDF)"
+      }
+     ],
      "map_url": "https://www.ricksteves.com/watch-read-listen/audio/audio-tours/map-audiotours-rome-sistine.pdf",
      "points": null,
      "stops": [
@@ -1027,6 +1069,12 @@
      "coord": [
       41.9022,
       12.4539
+     ],
+     "maps": [
+      {
+       "url": "https://www.ricksteves.com/watch-read-listen/audio/audio-tours/map-audiotours-st-peters-basilica.pdf",
+       "label": "Ver mapa oficial de Rick Steves (PDF)"
+      }
      ],
      "map_url": "https://www.ricksteves.com/watch-read-listen/audio/audio-tours/map-audiotours-st-peters-basilica.pdf",
      "points": null,
@@ -1211,6 +1259,12 @@
       41.8882,
       12.468
      ],
+     "maps": [
+      {
+       "url": "https://www.ricksteves.com/watch-read-listen/audio/audio-tours/map-audiotours-rome-trastevere.pdf",
+       "label": "Ver mapa oficial de Rick Steves (PDF)"
+      }
+     ],
      "map_url": "https://www.ricksteves.com/watch-read-listen/audio/audio-tours/map-audiotours-rome-trastevere.pdf",
      "points": null,
      "stops": [
@@ -1343,6 +1397,12 @@
      "coord": [
       41.9064,
       12.4536
+     ],
+     "maps": [
+      {
+       "url": "https://www.ricksteves.com/watch-read-listen/audio/audio-tours/vatican-musems-map.pdf",
+       "label": "Ver mapa oficial de Rick Steves (PDF)"
+      }
      ],
      "map_url": "https://www.ricksteves.com/watch-read-listen/audio/audio-tours/vatican-musems-map.pdf",
      "points": null,
@@ -1516,6 +1576,12 @@
      "coord": [
       41.9064,
       12.4536
+     ],
+     "maps": [
+      {
+       "url": "https://www.ricksteves.com/rome-pinacoteca-audio-tour-map.pdf",
+       "label": "Ver mapa oficial de Rick Steves (PDF)"
+      }
      ],
      "map_url": "https://www.ricksteves.com/rome-pinacoteca-audio-tour-map.pdf",
      "points": null,
@@ -1691,6 +1757,12 @@
       43.7766,
       11.2594
      ],
+     "maps": [
+      {
+       "url": "https://www.ricksteves.com/watch-read-listen/audio/audio-tours/map-audiotours-accademia.pdf",
+       "label": "Ver mapa oficial de Rick Steves (PDF)"
+      }
+     ],
      "map_url": "https://www.ricksteves.com/watch-read-listen/audio/audio-tours/map-audiotours-accademia.pdf",
      "points": null,
      "stops": [
@@ -1793,6 +1865,12 @@
      "coord": [
       43.7703,
       11.2576
+     ],
+     "maps": [
+      {
+       "url": "https://www.ricksteves.com/watch-read-listen/audio/audio-tours/map-audiotours-florence-bargello-museum.pdf",
+       "label": "Ver mapa oficial de Rick Steves (PDF)"
+      }
      ],
      "map_url": "https://www.ricksteves.com/watch-read-listen/audio/audio-tours/map-audiotours-florence-bargello-museum.pdf",
      "points": null,
@@ -1936,6 +2014,12 @@
      "coord": [
       43.7731,
       11.2559
+     ],
+     "maps": [
+      {
+       "url": "https://www.ricksteves.com/watch-read-listen/audio/audio-tours/map-audiotours-florence-renaissance-walk.pdf",
+       "label": "Ver mapa oficial de Rick Steves (PDF)"
+      }
      ],
      "map_url": "https://www.ricksteves.com/watch-read-listen/audio/audio-tours/map-audiotours-florence-renaissance-walk.pdf",
      "points": null,
@@ -2139,6 +2223,12 @@
      "coord": [
       43.7786,
       11.2585
+     ],
+     "maps": [
+      {
+       "url": "https://www.ricksteves.com/watch-read-listen/audio/audio-tours/map-audiotours-florence-sanmarco-museum.pdf",
+       "label": "Ver mapa oficial de Rick Steves (PDF)"
+      }
      ],
      "map_url": "https://www.ricksteves.com/watch-read-listen/audio/audio-tours/map-audiotours-florence-sanmarco-museum.pdf",
      "points": null,
@@ -2353,6 +2443,12 @@
       43.7678,
       11.2553
      ],
+     "maps": [
+      {
+       "url": "https://www.ricksteves.com/watch-read-listen/audio/audio-tours/map-audiotours-florence-uffizi.pdf",
+       "label": "Ver mapa oficial de Rick Steves (PDF)"
+      }
+     ],
      "map_url": "https://www.ricksteves.com/watch-read-listen/audio/audio-tours/map-audiotours-florence-uffizi.pdf",
      "points": null,
      "stops": [
@@ -2566,6 +2662,12 @@
       43.7651,
       11.25
      ],
+     "maps": [
+      {
+       "url": "maps/pitti-croquis.png",
+       "label": "Ver croquis del recorrido"
+      }
+     ],
      "map_url": "maps/pitti-croquis.png",
      "points": null,
      "stops": [
@@ -2709,6 +2811,16 @@
      "coord": [
       43.3188,
       11.3307
+     ],
+     "maps": [
+      {
+       "url": "maps/siena-mapa-oficial.jpg",
+       "label": "Ver mapa oficial con los números del audio"
+      },
+      {
+       "url": "https://www.ricksteves.com/watch-read-listen/audio/audio-tours/map-audiotours-siena-city-walk-map.pdf",
+       "label": "Ver mapa oficial de Rick Steves (PDF)"
+      }
      ],
      "map_url": "maps/siena-mapa-oficial.jpg",
      "points": [
@@ -3061,6 +3173,7 @@
       43.4677,
       11.0432
      ],
+     "maps": [],
      "map_url": null,
      "points": [
       {
@@ -3219,7 +3332,13 @@
       45.441,
       12.321
      ],
-     "map_url": null,
+     "maps": [
+      {
+       "url": "https://www.ricksteves.com/watch-read-listen/audio/map-audiotours-venice-grand-canal.pdf",
+       "label": "Ver mapa oficial de Rick Steves (PDF)"
+      }
+     ],
+     "map_url": "https://www.ricksteves.com/watch-read-listen/audio/map-audiotours-venice-grand-canal.pdf",
      "points": [
       {
        "label": "1-3",
@@ -3557,7 +3676,13 @@
       45.4341,
       12.338
      ],
-     "map_url": null,
+     "maps": [
+      {
+       "url": "https://www.ricksteves.com/watch-read-listen/audio/audio-tours/map-audiotours-venice-san-marco-square.pdf",
+       "label": "Ver mapa oficial de Rick Steves (PDF)"
+      }
+     ],
+     "map_url": "https://www.ricksteves.com/watch-read-listen/audio/audio-tours/map-audiotours-venice-san-marco-square.pdf",
      "points": [
       {
        "label": "1-2",
@@ -3811,7 +3936,17 @@
       45.4345,
       12.3397
      ],
-     "map_url": "maps/basilica-san-marcos-croquis.png",
+     "maps": [
+      {
+       "url": "https://www.ricksteves.com/watch-read-listen/audio/audio-tours/map-audiotours-venice-san-marco-basilica.pdf",
+       "label": "Ver mapa oficial de Rick Steves (PDF)"
+      },
+      {
+       "url": "maps/basilica-san-marcos-croquis.png",
+       "label": "Ver croquis del recorrido"
+      }
+     ],
+     "map_url": "https://www.ricksteves.com/watch-read-listen/audio/audio-tours/map-audiotours-venice-san-marco-basilica.pdf",
      "points": null,
      "stops": [
       {
@@ -4024,7 +4159,17 @@
       45.4369,
       12.3266
      ],
-     "map_url": "maps/frari-croquis.png",
+     "maps": [
+      {
+       "url": "https://www.ricksteves.com/watch-read-listen/audio/audio-tours/map-audiotours-venice-frari.pdf",
+       "label": "Ver mapa oficial de Rick Steves (PDF)"
+      },
+      {
+       "url": "maps/frari-croquis.png",
+       "label": "Ver croquis del recorrido"
+      }
+     ],
+     "map_url": "https://www.ricksteves.com/watch-read-listen/audio/audio-tours/map-audiotours-venice-frari.pdf",
      "points": [
       {
        "label": "🚤",
@@ -4186,7 +4331,13 @@
       41.3851,
       2.1734
      ],
-     "map_url": null,
+     "maps": [
+      {
+       "url": "https://www.ricksteves.com/watch-read-listen/audio/audio-tours/map-audiotours-barcelona-city-walk.pdf",
+       "label": "Ver mapa oficial de Rick Steves (PDF)"
+      }
+     ],
+     "map_url": "https://www.ricksteves.com/watch-read-listen/audio/audio-tours/map-audiotours-barcelona-city-walk.pdf",
      "points": [
       {
        "label": "1-2",
@@ -4601,7 +4752,13 @@
       41.3917,
       2.1649
      ],
-     "map_url": null,
+     "maps": [
+      {
+       "url": "https://www.ricksteves.com/watch-read-listen/audio/audio-tours/barcelona-eixample-walk-map-rick-steves.pdf",
+       "label": "Ver mapa oficial de Rick Steves (PDF)"
+      }
+     ],
+     "map_url": "https://www.ricksteves.com/watch-read-listen/audio/audio-tours/barcelona-eixample-walk-map-rick-steves.pdf",
      "points": [
       {
        "label": "M",
@@ -4987,7 +5144,13 @@
       40.4168,
       -3.7038
      ],
-     "map_url": null,
+     "maps": [
+      {
+       "url": "https://www.ricksteves.com/watch-read-listen/audio/audio-tours/map-audiotours-madrid-city-walk.pdf",
+       "label": "Ver mapa oficial de Rick Steves (PDF)"
+      }
+     ],
+     "map_url": "https://www.ricksteves.com/watch-read-listen/audio/audio-tours/map-audiotours-madrid-city-walk.pdf",
      "points": [
       {
        "label": "1-2",
@@ -5393,7 +5556,13 @@
       37.3886,
       -5.9823
      ],
-     "map_url": null,
+     "maps": [
+      {
+       "url": "https://www.ricksteves.com/watch-read-listen/audio/audio-tours/sevilla-city-walk-map-rick-steves.pdf",
+       "label": "Ver mapa oficial de Rick Steves (PDF)"
+      }
+     ],
+     "map_url": "https://www.ricksteves.com/watch-read-listen/audio/audio-tours/sevilla-city-walk-map-rick-steves.pdf",
      "points": [
       {
        "label": "1-2",
@@ -5678,5 +5847,5 @@
    ]
   }
  },
- "built_at": "2026-11-01T22:06:11Z"
+ "built_at": "2026-11-01T22:52:08Z"
 }
