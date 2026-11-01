@@ -190,8 +190,8 @@ def main():
         city_entry["tours"] = []
         for tour in city["tours"]:
             md = os.path.join(TRAD, tour + ".md")
-            if not os.path.exists(md):
-                print(f"  AVISO: falta {md}", file=sys.stderr); continue
+            if not os.path.exists(md) or not os.path.exists(md[:-3] + ".notas.md"):
+                print(f"  AVISO: falta {md} o sus notas (traducción sin terminar)", file=sys.stderr); continue
             full_title, stops = parse_md(md)
             tour_coord = TOUR_COORDS.get(tour, city["center"])
             for s in stops:

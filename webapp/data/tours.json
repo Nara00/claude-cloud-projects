@@ -2767,6 +2767,444 @@
     }
    ]
   },
+  "sangimignano": {
+   "name": "San Gimignano",
+   "country": "Italia",
+   "center": [
+    43.4677,
+    11.0432
+   ],
+   "zoom": 16,
+   "tours": [
+    {
+     "id": "sangimignano-walk",
+     "title": "Paseo por San Gimignano",
+     "full_title": "Paseo por San Gimignano",
+     "coord": [
+      43.4677,
+      11.0432
+     ],
+     "map_url": null,
+     "stops": [
+      {
+       "n": 1,
+       "name": "Introducción",
+       "text": "Hola. Esta audioguía no es de Rick Steves: la preparamos especialmente para este viaje, con el mismo estilo que las demás.\n\nBienvenidos a San Gimignano, la ciudad de las torres. En la Edad Media, este pueblo en lo alto de una colina llegó a tener unas setenta torres. Hoy quedan catorce, y desde lejos todavía parece una ciudad de rascacielos medievales.\n\nSan Gimignano se hizo rica gracias a su ubicación. Estaba sobre la Vía Francígena, el gran camino de los peregrinos que iban desde el norte de Europa hasta Roma. Los comerciantes del pueblo vendían de todo a los viajeros, y sobre todo azafrán, que valía casi como el oro. Las familias ricas competían entre ellas construyendo torres cada vez más altas, para mostrar su poder y para defenderse.\n\nPero en 1348 llegó la peste, que mató a buena parte de la población. El pueblo quedó pobre, después pasó a depender de Florencia, y casi no se construyó nada nuevo durante siglos. Por eso hoy lo vemos casi igual que en la Edad Media. Desde 1990 es Patrimonio de la Humanidad.\n\nEl recorrido es corto y se hace a pie en una hora, sin contar las visitas. Vamos a entrar por la Porta San Giovanni, subir por la calle principal hasta las dos plazas del centro, ver la iglesia de la Colegiata y el Palacio Comunal, asomarnos al mirador de la Rocca y terminar en la iglesia de San Agustín.\n\nEmpiecen en la Porta San Giovanni, la gran puerta de piedra de la muralla, del lado sur del pueblo. Cuando estén frente a la puerta, pasen a la siguiente parada.",
+       "en_start": 0,
+       "coord": [
+        43.4677,
+        11.0432
+       ]
+      },
+      {
+       "n": 2,
+       "name": "La Porta San Giovanni y la calle principal",
+       "text": "Esta puerta es del siglo trece, y por aquí entraban los peregrinos que venían de Siena. Fíjense en el arco de piedra y en la muralla, que todavía rodea todo el pueblo.\n\nCrucen la puerta y empiecen a subir por la calle que sigue derecho, la Via San Giovanni. Es la calle principal, y es una subida suave pero constante.\n\nMientras suben, miren las fachadas. Muchas casas tienen en la planta baja una puerta ancha y, al lado, una puerta angosta. La puerta ancha era el negocio, que se abría hacia la calle; la angosta llevaba a la casa de la familia, en el piso de arriba. Hoy en las mismas tiendas se venden embutidos de jabalí, quesos y el vino blanco del pueblo, la Vernaccia.\n\nSigan subiendo hasta pasar por debajo de un arco, el Arco dei Becci, que era una de las puertas de la muralla más antigua. Del otro lado se abre una plaza triangular con un pozo en el medio. Cuando lleguen, pasen a la siguiente parada.",
+       "en_start": 0,
+       "coord": [
+        43.4677,
+        11.0432
+       ]
+      },
+      {
+       "n": 3,
+       "name": "La Piazza della Cisterna",
+       "text": "Esta es la Piazza della Cisterna, la plaza de la cisterna. Su nombre viene del pozo octogonal de piedra que está en el centro, del siglo trece. Debajo de la plaza hay una gran cisterna que juntaba el agua de lluvia, y durante siglos este fue el lugar donde los vecinos venían a buscar agua y a enterarse de las novedades. Fíjense en el piso: los ladrillos están puestos en forma de espiga.\n\nAhora miren las torres que rodean la plaza. Las dos torres gemelas que se ven hacia la plaza de al lado son las torres de los Ardinghelli, una de las dos familias más poderosas del pueblo. Su gran rival era la familia Salvucci, que tenía sus propias torres gemelas a pocos metros. Las dos familias se peleaban por el poder del pueblo, y sus torres eran una forma de competir.\n\nHay también una torre a la que llaman la Torre del Diablo. Cuenta la leyenda que su dueño se fue de viaje y, al volver, la encontró más alta de lo que la había dejado, y decidió que solo podía haber sido obra del diablo.\n\nPor cierto, en esta plaza está una heladería famosa, que ganó varias veces campeonatos de helado. Si hay fila, es por algo.\n\nAhora pasen a la plaza de al lado, que se comunica con esta. Es la Piazza del Duomo, con la escalinata de la iglesia y el palacio con la torre más alta. Cuando lleguen al pie de la escalinata, pasen a la siguiente parada.",
+       "en_start": 0,
+       "coord": [
+        43.4677,
+        11.0432
+       ]
+      },
+      {
+       "n": 4,
+       "name": "La Colegiata",
+       "text": "Esta es la iglesia principal del pueblo, la Colegiata de Santa María Asunta. Muchos le dicen el Duomo, aunque técnicamente no es una catedral porque San Gimignano no tiene obispo. Fue consagrada en 1148, y por fuera es sencilla, casi severa. La sorpresa está adentro.\n\nLas paredes de la iglesia están completamente cubiertas de frescos del siglo catorce. Funcionaban como una Biblia ilustrada para la gente que no sabía leer. En la pared de la izquierda están las escenas del Antiguo Testamento, pintadas por Bartolo di Fredi: la creación del mundo, Adán y Eva, el arca de Noé, la historia de Job. En la pared de la derecha está el Nuevo Testamento, la vida de Jesús, pintada por artistas de la escuela de Siena. Y en la pared de la entrada hay un Juicio Final, con un infierno lleno de detalles que asustaban a los fieles.\n\nAl fondo, a la derecha, está la capilla de Santa Fina, la santa del pueblo. Fina era una chica de San Gimignano que pasó años enferma y postrada, y murió en 1253, con apenas quince años. Según la leyenda, cuando murió, en la tabla de madera donde estaba acostada brotaron violetas. Los frescos de su capilla los pintó Domenico Ghirlandaio, el maestro que le enseñó a pintar a un jovencito Miguel Ángel.\n\nPara entrar a la Colegiata se paga entrada. Si deciden entrar, tómense el tiempo que quieran, y después vuelvan a la plaza. Cuando estén listos, miren el palacio con la torre alta y pasen a la siguiente parada.",
+       "en_start": 0,
+       "coord": [
+        43.4677,
+        11.0432
+       ]
+      },
+      {
+       "n": 5,
+       "name": "El Palacio Comunal y la Torre Grossa",
+       "text": "Este es el Palacio Comunal, que fue la sede del gobierno del pueblo y sigue siendo la municipalidad. Su torre, la Torre Grossa, es la más alta de San Gimignano: mide unos 54 metros y se terminó en 1311. Una ley prohibía a las familias construir torres más altas que esta, para que nadie fuera más poderoso que el gobierno de la ciudad.\n\nAdentro del palacio funciona el museo cívico. En la sala principal, en el año 1300, habló el poeta Dante, que vino como embajador de Florencia para pedirle a San Gimignano que se uniera a una alianza. Por eso hoy la llaman la Sala de Dante. En esa misma sala hay un gran fresco de la Virgen en majestad, rodeada de santos, de Lippo Memmi.\n\nArriba, en una pequeña sala, hay unos frescos muy curiosos del siglo catorce, con escenas de la vida de una pareja: el noviazgo, el baño y la noche de bodas. Son de los pocos frescos medievales con escenas de la vida privada, y siempre sorprenden.\n\nY desde el museo se puede subir a la Torre Grossa. La subida es por escaleras, pero desde arriba se ven todas las torres del pueblo y las colinas de la Toscana.\n\nPara el museo y la torre también se paga entrada. Si deciden no entrar, sigan con el recorrido. Para la siguiente parada, de espaldas a la Colegiata, tomen la calle que sale a la izquierda de la iglesia y sigan los carteles que dicen Rocca. Es una subida corta. Cuando lleguen a un jardín con olivos dentro de unas murallas, pasen a la siguiente parada.",
+       "en_start": 0,
+       "coord": [
+        43.4677,
+        11.0432
+       ]
+      },
+      {
+       "n": 6,
+       "name": "La Rocca di Montestaffoli",
+       "text": "Esta es la Rocca, lo que queda de la fortaleza que los florentinos construyeron en 1353, cuando San Gimignano pasó a estar bajo su dominio. Hoy es un jardín tranquilo, con olivos, y es uno de los mejores miradores del pueblo.\n\nSuban a la torrecita de la muralla si pueden, o simplemente asómense a los muros. Desde aquí se ve el paisaje típico de la Toscana: colinas suaves, viñedos, olivares y caminos bordeados de cipreses. Esos viñedos producen la Vernaccia de San Gimignano, un vino blanco que ya se exportaba en la Edad Media y que en 1966 fue el primer vino de Italia en recibir la denominación de origen controlada.\n\nY si se dan vuelta, tienen una de las vistas más lindas de las torres.\n\nPara la última parada, vuelvan a la Piazza del Duomo y tomen la calle que sale hacia el norte, la Via San Matteo. Es una calle de piedra, plana y muy linda, con casas torre a los costados. Síganla unos siete minutos, pasen por la Porta San Matteo o justo antes de llegar a ella doblen a la derecha, siguiendo los carteles, hasta una plaza tranquila con una iglesia de ladrillo. Cuando lleguen, pasen a la siguiente parada.",
+       "en_start": 0,
+       "coord": [
+        43.4677,
+        11.0432
+       ]
+      },
+      {
+       "n": 7,
+       "name": "La iglesia de San Agustín",
+       "text": "Esta es la iglesia de San Agustín, del año 1298. Por fuera es muy sencilla, de ladrillo, pero guarda uno de los tesoros del pueblo, y la entrada es gratis.\n\nDetrás del altar mayor, en el coro, las paredes están cubiertas por los frescos de Benozzo Gozzoli, pintados entre 1464 y 1465. Cuentan la vida de San Agustín en diecisiete escenas, desde que era un chico que iba a la escuela hasta su muerte. Fíjense en los detalles de la vida cotidiana: el maestro que castiga a un alumno, los viajes por mar, las ciudades con torres como las de San Gimignano. Gozzoli era el mismo pintor que hizo la famosa cabalgata de los Reyes Magos en el palacio de los Médici en Florencia.\n\nCon esto termina nuestro paseo. Para volver a la Porta San Giovanni, deshagan el camino por la Via San Matteo y la Via San Giovanni, que es todo bajada. Y antes de irse, si todavía no lo hicieron, prueben un helado en la Piazza della Cisterna o una copa de Vernaccia.\n\nGracias por acompañarnos, y buen viaje.",
+       "en_start": 0,
+       "coord": [
+        43.4677,
+        11.0432
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  "venice": {
+   "name": "Venecia",
+   "country": "Italia",
+   "center": [
+    45.438,
+    12.3358
+   ],
+   "zoom": 15,
+   "tours": [
+    {
+     "id": "venice-st-marks-basilica",
+     "title": "Basílica de San Marcos",
+     "full_title": "La Basílica de San Marcos, en Venecia",
+     "coord": [
+      45.4345,
+      12.3397
+     ],
+     "map_url": null,
+     "stops": [
+      {
+       "n": 1,
+       "name": "Introducción",
+       "text": "La Basílica de San Marcos.\n\nEntre las iglesias de Europa, San Marcos, con sus cúpulas en forma de cebolla, sus ricos mosaicos y sus tesoros exóticos, es única.\n\nHola. Esta es la audioguía de Rick Steves, traducida al español. Gracias por acompañarme en un recorrido guiado por la Basílica de San Marcos.\n\nVamos a maravillarnos con íconos medievales y objetos preciosos de la época en que Venecia era casi tan oriental como europea. Vamos a ver el interior de la iglesia, sus mosaicos y su arte cubierto de joyas, y vamos a terminar con una gran vista de la Plaza de San Marcos.\n\nCalculen alrededor de una hora para aprovechar bien esta audioguía, en la que vamos a ver una iglesia de mil años, cuyos lazos con Bizancio y con el islam hacen que parezca el vestigio de un mundo perdido.\n\nY ahora, vamos a visitar la majestuosa Basílica de San Marcos.",
+       "en_start": 0,
+       "coord": [
+        45.4345,
+        12.3397
+       ]
+      },
+      {
+       "n": 2,
+       "name": "El exterior",
+       "text": "Empiecen afuera de la iglesia, en la plaza, lo bastante lejos como para abarcar toda la fachada. Después vamos a fijarnos en los detalles.\n\nLa Basílica de San Marcos es un cofre lleno del botín saqueado durante los días de gloria de Venecia. La fachada de la iglesia muestra el carácter cosmopolita de una ciudad que entró en contacto con muchísimas culturas distintas. Van a ver arcos de estilo romano sobre las puertas, columnas de estilo griego a los lados, mosaicos de estilo bizantino, pináculos góticos franceses en lo alto del techo y, coronando la iglesia, las cúpulas en forma de cebolla, que evocan el mundo islámico.\n\nTodos estos elementos saqueados son muy apropiados para una iglesia construida sobre los huesos de un santo robado.\n\nAhora vayan hacia la puerta del extremo izquierdo. Acérquense bien, para ver lo más de cerca posible el mosaico que está sobre esa puerta.\n\nEl mosaico muestra una imagen de la iglesia y del robo que puso a Venecia en el mapa de las peregrinaciones. En el centro van a ver a dos hombres con báculos curvos, entrando en San Marcos. Sobre los hombros llevan un ataúd con un cuerpo. Es el cuerpo de san Marcos, que se llevaron a escondidas de tierras musulmanas. A mí me parece que Marcos tiene cara de malhumorado. Debe de haber sido un viaje largo y duro.\n\nLa historia es así. San Marcos fue el autor de uno de los cuatro libros de la Biblia, los de Mateo, Marcos, Lucas y Juan, que cuentan la vida de Jesús. Siete siglos después de la muerte de Marcos, su santo cuerpo estaba en Egipto, ocupado por los musulmanes. En el año 828, dos mercaderes de Venecia fueron hasta allá y decidieron, digamos, rescatar el cuerpo de manos de los llamados infieles. Lo escondieron ingeniosamente en un barril de carne de cerdo, que para los musulmanes era impura, y se lo llevaron a Venecia.\n\nEl mosaico muestra a los mercaderes presentando el cuerpo no a un papa ni a un obispo, sino al gobernante civil de Venecia, el dux. Ahí está el dux, a la derecha, con el cuello de piel blanca, y a la izquierda está su esposa, con su séquito.\n\nLa adquisición de estas santas reliquias le dio un prestigio instantáneo a esta ciudad en pleno ascenso. Construyeron aquí una iglesia sobre los huesos de Marcos y lo hicieron santo patrono de la ciudad. Van a ver el símbolo de Marcos, el león alado, por toda la ciudad.\n\nLa iglesia original se incendió en 976. La estructura actual se empezó en 1063. El mosaico, que es de 1260, muestra que la iglesia no ha cambiado mucho desde entonces. Todavía se ven las cúpulas en forma de cebolla y los famosos caballos de bronce en el balcón.\n\nEn los siglos siguientes, la iglesia se fue recubriendo con materiales saqueados de edificios de todo el imperio veneciano. El botín más preciado fueron los cuatro caballos de bronce que adornaban el balcón, robados de Constantinopla durante la Cuarta Cruzada. No es de extrañar que al estilo arquitectónico de San Marcos lo hayan llamado, en broma, estilo \"saqueo temprano\".\n\nPónganse en la fila para entrar y pasen a la siguiente parada.",
+       "en_start": 154,
+       "coord": [
+        45.4345,
+        12.3397
+       ]
+      },
+      {
+       "n": 3,
+       "name": "La entrada a la iglesia",
+       "text": "Casi siempre hay una fila larga para entrar a San Marcos. Lo mejor es reservar con anticipación. Y hay otras normas.\n\nUna vez adentro, vamos a visitar el Tesoro, el retablo de oro y el museo, que tienen entradas aparte.\n\nAdentro, los pasillos de la iglesia suelen estar delimitados con cordones, para controlar a las multitudes, que no dan respiro. Simplemente hay que ir avanzando despacio, en un recorrido de un solo sentido.\n\nTraten de seguir el ritmo de este recorrido. En los momentos de mucha gente, quizás tengan que esperar un poco antes de pasar a la siguiente parada, o adelantarse, para que mis explicaciones vayan al ritmo del avance de la gente.\n\n¿Les toca esperar en la fila? Mientras esperan, piensen en esto: ¿San Marcos es una catedral, una iglesia o una basílica? En realidad, es las tres cosas. La iglesia también es catedral, porque es la iglesia principal del obispo local. Es basílica porque el papa le dio ese título honorífico. Y, casualmente, también es una basílica en el sentido arquitectónico, porque su planta básica tiene una nave central con naves laterales a los costados, como los antiguos edificios públicos romanos llamados basílicas.\n\nCuando la fila avance hacia adentro, van a entrar al atrio, o vestíbulo de entrada. Apenas entren al atrio, si la multitud lo permite, apártense hacia la derecha. Miren hacia arriba, al arco. No es una cúpula: es un arco decorado con mosaicos finos. Cuando estén dentro del atrio, pasen a la siguiente parada.",
+       "en_start": 500,
+       "coord": [
+        45.4345,
+        12.3397
+       ]
+      },
+      {
+       "n": 4,
+       "name": "Los mosaicos del atrio: el arca de Noé",
+       "text": "En el arco que tienen sobre la cabeza hay escenas de la historia del arca de Noé. Noé y sus hijos están serruchando troncos para construir el barco. Debajo hay tres escenas de Noé subiendo al arca animales de todas las especies, de a dos. ¿Quiénes son los primeros de la fila? Los leones, por supuesto.\n\nLos famosos mosaicos de San Marcos, con su simbolismo de libro ilustrado, se entendían fácilmente en la época medieval, incluso entre las masas analfabetas. A las masas alfabetizadas de hoy a veces les cuesta leerlos. Pero estas obras del siglo trece, que están entre las más antiguas y mejores de la iglesia, son bastante fáciles de entender.\n\nTambién en el arco van a ver el diluvio en toda su fuerza, ahogando a los malvados. Después, Noé suelta una paloma para ver si hay tierra seca donde atracar. La encuentra, sale del arca con un arcoíris precioso en el cielo y le ofrece a Dios un sacrificio de agradecimiento.\n\n¡Miren nada más: ya están leyendo como un campesino medieval! Fácil, ¿no?\n\nAhora que nuestro nivel de alfabetización medieval subió, vuelvan a sumarse al lento avance de la gente. Suban los siete escalones, crucen la puerta y entren en la nave. Si el movimiento de la gente lo permite, quédense un momento en algún lugar justo pasando la puerta y dejen que los ojos se acostumbren. Cuando estén en la nave, pasen a la siguiente parada.",
+       "en_start": 655,
+       "coord": [
+        45.4345,
+        12.3397
+       ]
+      },
+      {
+       "n": 5,
+       "name": "La nave",
+       "text": "El primer efecto es oscuro y poco impresionante, a menos que tengan encendidos los reflectores. Pero a medida que sus pupilas se van dilatando, van a notar que toda la parte superior de la iglesia está decorada con mosaicos brillantes: más de 4000 metros cuadrados. Imaginen cubrir una cancha de fútbol con lentes de contacto. Estos mosaicos dorados son de estilo bizantino, enseguida les cuento más sobre eso, aunque en realidad muchos los diseñaron artistas del Renacimiento italiano y de épocas posteriores.\n\nLas paredes de abajo, que a menudo pasan desapercibidas, están cubiertas de placas de mármol verde, amarillo, morado y rosado, cortadas para que se vea la veta y colocadas en hermosos diseños geométricos.\n\nHasta el piso es de mosaico, con diseños sobre todo geométricos. Ondula como el mar. A medida que Venecia se hunde y se mueve, el piso va formando estas olas de piedra.\n\nBusquen la lámpara de araña que está cerca de la puerta de entrada y sigan con la vista la cadena que la sostiene. Lleva a la cúpula de arriba, que tiene uno de los mosaicos más antiguos y mejores de la iglesia. Cuando la encuentren, pasen a la siguiente parada.",
+       "en_start": 829,
+       "coord": [
+        45.4345,
+        12.3397
+       ]
+      },
+      {
+       "n": 6,
+       "name": "El mosaico de Pentecostés",
+       "text": "Miren hacia arriba, al centro de un cielo dorado. La paloma que representa al Espíritu Santo lanza, como un molinete, rayos láser espirituales. Los rayos encienden lenguas de fuego sobre las cabezas de los 12 apóstoles que están abajo. Es el día de Pentecostés, y los apóstoles recibieron milagrosamente el don de hablar otros idiomas sin necesidad de un manual de conversación de Rick Steves. Uno pensaría que estarían asombrados, pero sus expresiones son tan solemnes como, bueno, íconos.\n\nComo es uno de los mosaicos más antiguos de la iglesia, de alrededor de 1125, muestra la fuerte conexión de Venecia con el estilo de los íconos del Imperio bizantino.\n\nEl Imperio bizantino, con centro en la actual Turquía, era la mitad oriental del antiguo Imperio romano, la mitad que no cayó en el año 476 después de Cristo. Mientras Roma decaía, el emperador Constantino trasladó a lo mejor y más brillante de Roma hacia el este, a la ciudad de Constantinopla, la actual Estambul. Después de la caída de Roma, que hundió a Europa en una época oscura, el Imperio bizantino siguió adelante otros mil años: continuó siendo cristiano, de habla griega, y fue un faro de luz y de saber para el resto de Europa.\n\nEl mosaico de Pentecostés tiene rasgos claros de los íconos bizantinos. Está el fondo dorado, que simboliza lo sagrado. Todos los apóstoles tienen aureola, rostro solemne, ojos almendrados y túnicas arrugadas. Y todos miran de frente, con sus delicadas manos levantadas para bendecir.\n\nEs el arte de una sociedad que todavía era muy sensible a la idea de hacer las llamadas imágenes talladas de las cosas sagradas, que la Biblia prohibía. Bizancio acababa de salir de dos siglos de iconoclasia. Fue una época en la que las estatuas y las pinturas de esas imágenes se rompían y se quemaban, por considerarlas falsos dioses pecaminosos. El estilo artístico bizantino no destaca el detalle humano literal de este mundo, sino un carácter de otro mundo, libre de imágenes, que lleva a la contemplación del cosmos.\n\nMientras contemplan el cosmos, empiecen a avanzar despacio con la multitud hacia el centro de la iglesia y pasen a la siguiente parada, mientras les señalo algunas cosas en el camino.",
+       "en_start": 955,
+       "coord": [
+        45.4345,
+        12.3397
+       ]
+      },
+      {
+       "n": 7,
+       "name": "La planta de cruz griega",
+       "text": "A medida que se acercan al centro, van a notar que la iglesia tiene cuatro brazos iguales, cada uno coronado por una cúpula. Salen del centro y forman una cruz griega, con la forma de un gran signo de suma.\n\nAunque esta iglesia es distinta de la típica iglesia de Europa occidental, es característica de las iglesias ortodoxas orientales, con elementos como la planta de cruz griega, las cúpulas, los mosaicos y las imágenes de María, de Cristo y de los santos al estilo de los íconos.\n\nA medida que los ojos se acostumbran, los mosaicos empiezan a desprender lo que se ha llamado una luminosidad mística y dorada, la atmósfera del cielo bizantino. El aire mismo parece casi visible, como una nube de incienso. Es un efecto sutil, realzado por la luz cambiante y filtrada. Dejen que los vaya envolviendo.\n\nCuando lleguen al centro de la iglesia, donde está el altar, miren hacia arriba, a la cúpula. Cuando estén ahí, pasen a la siguiente parada.",
+       "en_start": 812,
+       "coord": [
+        45.4345,
+        12.3397
+       ]
+      },
+      {
+       "n": 8,
+       "name": "El mosaico de la cúpula central: la Ascensión",
+       "text": "Levanten la vista, boquiabiertos, hacia el corazón mismo de la iglesia.\n\nCristo, después de vivir su vida milagrosa y de ser crucificado por los pecados de los hombres, asciende al cielo estrellado, montado en un arcoíris. Levanta la mano derecha y bendice al universo. Este no es el Jesús muerto, crucificado y mortal que aparece en la mayoría de las iglesias occidentales, sino un Dios poderoso y resucitado, el soberano de todo.\n\nLa bendición de Cristo se irradia hacia afuera y baja, como en ondas, hasta el anillo de apóstoles vestidos de blanco que están abajo. Están de pie entre los árboles del Monte de los Olivos, diciéndole adiós con la mano mientras Cristo asciende. María, con las manos en alto, está con los apóstoles, vestida de azul, con cruces griegas doradas en cada hombro. De estos santos desciende la bondad, que crea las virtudes que rodean la base de la cúpula, entre las ventanas.\n\nEn las iglesias bizantinas, la cúpula iluminada por las ventanas representaba el cielo, mientras que la iglesia oscura de abajo representaba la tierra: un microcosmos del universo cristiano.\n\nCristo está sentado mirando de frente y levantando la mano para bendecir. Esta postura puede resultarles un poco extraña a los protestantes, a los católicos y a las personas no religiosas, pero es bastante habitual en la mayoría de las iglesias ortodoxas orientales. Se lo representa como el Pantocrátor, una palabra griega que significa soberano de todo. Como rey del universo, Cristo lleva su símbolo característico: una aureola dividida por una cruz. Sus dedos forman las letras griegas ji y ro, las dos primeras letras de Christos, es decir, Cristo.\n\nDebajo de la cúpula, en las cuatro esquinas, están los cuatro evangelistas. Busquen los nombres: Mateo, Marcos, Lucas y Juan. Están muy ocupados tomando notas. Esa sabiduría fluye hacia abajo como agua, desde los cuatro ríos simbólicos que están debajo de ellos. Se extiende por los cuatro brazos iguales de la iglesia, los cuatro rincones del mundo, y así bautiza a los fieles con el mensaje del amor de Dios.\n\nLa planta de cruz griega, que puede inscribirse en un círculo, simboliza la perfección, a diferencia de la cruz latina de la crucifixión, más común, que simboliza la condición pecadora del hombre. El edificio de la iglesia es una serie de círculos perfectos dentro de cuadrados perfectos, el orden cósmico, con Cristo en el centro, bendiciéndonos solemnemente a todos.\n\nDios está en su cielo, los santos están en la tierra, y todo está bien en el mundo.\n\nPasen a la siguiente parada.",
+       "en_start": 932,
+       "coord": [
+        45.4345,
+        12.3397
+       ]
+      },
+      {
+       "n": 9,
+       "name": "Bajo la cúpula de la Ascensión: la iglesia como teatro",
+       "text": "Desde el centro de la iglesia, miren a su alrededor el mobiliario de la iglesia e imaginen una misa aquí.\n\nLa barrera, o iconostasio, coronada por 14 santos, separa a los fieles del altar mayor. Esto aumenta el misterio de la misa. El púlpito de la derecha estaba reservado antiguamente al dux, que desde aquí dirigía las oraciones y hacía anuncios importantes.\n\nLos numerosos mosaicos de la iglesia le servían al sacerdote de material visual, y contaban toda la historia de la existencia cristiana: desde las raíces en el Antiguo Testamento, pasando por el nacimiento y la muerte de Jesús, hasta su ascensión al cielo.\n\nCon todo este entorno glorioso, se pueden imaginar que la misa veneciana era un espectáculo teatral y multimedia. Combinaba el sonido de las oraciones, los cantos y la música, los trajes elaborados de los sacerdotes, la utilería, como los candelabros de oro y el incienso, y hasta escenografía y coreografía, mientras los sacerdotes desfilaban entre la multitud hacia el escenario elaborado del altar.\n\nCasualidad o no, la que muchos consideran la primera ópera moderna, que también es una experiencia teatral multimedia, la escribió el maestro de capilla de San Marcos en el siglo diecisiete, Claudio Monteverdi.\n\nAhora presten atención al transepto sur. Es el brazo de la iglesia que queda a la derecha cuando miran hacia el iconostasio y el altar mayor. Este brazo, o transepto, tiene arcos de herradura sobre columnas delgadas, que le dan el aire exótico de una mezquita. La puerta que está debajo del rosetón llevaba directamente a las habitaciones del dux, en su palacio. En las ocasiones importantes, el dux entraba a la iglesia por aquí, subía los escalones de su púlpito y le hablaba al pueblo.\n\nAhora busquen el mosaico poco iluminado que está en la pared de la derecha, es decir, la pared oeste. Cuando lo encuentren, pasen a la siguiente parada.",
+       "en_start": 1218,
+       "coord": [
+        45.4345,
+        12.3397
+       ]
+      },
+      {
+       "n": 10,
+       "name": "El mosaico del hallazgo de san Marcos",
+       "text": "Este mosaico no es una escena bíblica: representa el hecho milagroso que coronó la construcción de la iglesia en la que están parados.\n\nEs el año 1094 y la iglesia está casi terminada. Vean la cúpula, dibujada en corte, para que se vea el interior. Están listos para volver a enterrar los huesos de Marcos debajo del nuevo altar. Hay un solo problema: durante las décadas de construcción, se olvidaron de dónde habían guardado el cuerpo.\n\nEntonces, en la mitad izquierda del mosaico, toda Venecia se reúne dentro de la iglesia para inclinarse y rezar, pidiendo ayuda para encontrar los huesos. El dux los encabeza: vean la palabra latina dux. Poco después, en el extremo derecho del mosaico, el patriarca siente la inspiración de mirar dentro de una columna hueca. Y, para sorpresa de todos, encuentra las reliquias. Todos se dan vuelta y aplauden, incluidas las mujeres del lado izquierdo de la escena, que entran en tropel desde las galerías del piso de arriba.\n\nPoco después de este hallazgo, las reliquias se colocaron debajo del altar, en una ceremonia que inauguró la actual Basílica de San Marcos.\n\nEl pequeño Tesoro está en el transepto sur. Para entrar hay que pagar una entrada pequeña. Esta colección ecléctica de objetos preciosos y religiosos no es imprescindible, pero es la manera más fácil, fuera de Estambul o de Rávena, de maravillarse con las riquezas bizantinas.\n\nAhora entren al Tesoro y doblen a la derecha, hacia la sala principal. Hay muchos objetos aquí, apretados en dos salas pequeñas. No se apuren: tómense su tiempo y vean las cosas a su propio ritmo. Y tengan en cuenta que, como en todos los museos, las piezas expuestas cambian y a veces se mueven de lugar.\n\nUna vez adentro, empiecen por la gran vitrina que está en el centro de la sala. Cuando estén frente a ella, pasen a la siguiente parada.",
+       "en_start": 1412,
+       "coord": [
+        45.4345,
+        12.3397
+       ]
+      },
+      {
+       "n": 11,
+       "name": "El Tesoro",
+       "text": "La gran vitrina central está llena de tesoros venecianos. Admiren los cálices, los relicarios de plata, las enormes custodias que se usaban para exponer la hostia de la comunión, y los íconos hechos de oro, plata, esmaltes, gemas y piedras semipreciosas.\n\nFíjense en la lámpara colgante con los peces que sobresalen. El núcleo de cristal de roca lo hicieron los antiguos romanos en el siglo cuarto. 600 años después, artesanos bizantinos lo enmarcaron con trabajos en metal.\n\nJusto detrás de la lámpara colgante hay un recipiente de color púrpura, con forma de balde, tallado con escenas de sátiros que persiguen a ninfas. Representa a la perfección el mundo pagano, que se iba apagando a medida que triunfaba el cristianismo.\n\nTambién en la vitrina hay íconos azules y dorados, de lapislázuli, de la Crucifixión y del arcángel Miguel, con una especialidad bizantina: el trabajo en esmalte. Vamos a aprender más sobre ese oficio más adelante, en el retablo de oro de la iglesia.\n\nLos distintos cálices, unas copas lujosas que se usaban para el pan y el vino durante la misa, están hechos de ónix, ágata y cristal de roca. Fíjense también en el incensario con forma de iglesia con cúpula. Es una obra artesanal maravillosa, pero es todavía más maravillosa si recuerdan que se hizo cuando Europa occidental todavía se pudría en el barro.\n\nAhora vuélvanse hacia la pared de la derecha y recorran la sala en sentido contrario a las agujas del reloj.\n\nEn las tres primeras vitrinas van a ver cuencos y urnas de vidrio o de cristal de roca, decorados con oro, plata y piedras preciosas. Tómense un tiempo para disfrutar de estos tesoros. Fíjense cómo los estilos combinan elementos de las tres culturas medievales que se influyeron mutuamente en el Mediterráneo oriental: la veneciana, la bizantina y la islámica.\n\nDesde sus primeros tiempos, Venecia tuvo lazos fuertes tanto con Bizancio como con el islam. En el siglo sexto, el emperador bizantino Justiniano invadió el norte de Italia. Por un tiempo breve volvió a unir Oriente y Occidente, e hizo de la cercana Rávena su capital regional. Pronto, a los mercaderes venecianos se les concedieron derechos comerciales en los puertos bizantinos del Adriático y del Mediterráneo oriental. Más tarde, cuando la fe musulmana se extendió por el Mediterráneo oriental, los venecianos fueron de los pocos cristianos que hicieron negocios con los musulmanes: intercambiaban materias primas de Europa occidental por artículos de lujo de Oriente.\n\nSigan recorriendo la sala en sentido contrario a las agujas del reloj. En el medio de la pared, busquen la urna de Artajerjes primero. Este objeto, hecho en Egipto, contuvo en su momento las cenizas de aquel gran rey persa, que reinó hace 2500 años.\n\nLas vitrinas siguientes guardan objetos cristianos que se usaban para la misa solemne: cálices, relicarios, candelabros y vestiduras de obispos. El báculo pastoral ceremonial, de 600 años de antigüedad, todavía lo usa aquí el sacerdote principal en los días de fiesta.\n\nSiguiendo hasta el rincón del fondo a la izquierda de la sala, van a encontrar el Ciborio de Anastasia, un pequeño dosel de mármol que antiguamente cubría la hostia consagrada durante la misa. Puede que haya sido un regalo de una mujer llamada Anastasia: ese es el nombre que tiene tallado en griego. Era una dama de compañía de la corte del emperador bizantino Justiniano, en el siglo sexto. Según una leyenda cristiana, era tan hermosa que Justiniano, un hombre casado, la pretendió. Al final, ella tuvo que disfrazarse de monje y huir a un monasterio del desierto.\n\nCerca del ciborio van a ver el primero de dos grandes candelabros dorados. Detalles exquisitos. Recorriéndolo con la vista de arriba abajo, encuentren los ángeles sonrientes de arriba, el león literario, el hombre con un peso sobre los hombros, la fila de reinas, y así hasta abajo, donde los relieves decorativos se transforman en las raíces de un árbol.\n\nSiguiendo por la sala, busquen una foto de una Virgen. Está adornada con joyas verdaderas, oro y esmalte. Al lado, fíjense en la columna de granito que sigue por debajo del nivel actual del piso. Se ve cómo el piso fue subiendo a medida que Venecia se fue asentando en los últimos mil años.\n\nSigan derecho hasta la sala contigua.\n\nLa vitrina que está sobre el altar de alabastro, que brilla con la luz, contiene relicarios elaborados de oro y vidrio con reliquias de la Pasión de Jesús, es decir, de su tortura y su ejecución. Un relicario de 1125 muestra a Cristo mientras lo azotan. También guarda una piedra de la columna a la que lo ataron.\n\nQuizás ustedes se burlen de la autenticidad de estas supuestas reliquias sagradas, pero de todos los pedazos de la Verdadera Cruz y de los supuestos trozos de la corona de espinas que hay en Europa, estos tienen al menos algún fundamento. Según la leyenda, las pertenencias de Cristo las reunió en el siglo cuarto la madre del emperador Constantino, y las llevó a Constantinopla. Durante el gran robo de la Cruzada, en 1204, los venecianos las trajeron aquí. Estos tesoros se llevan en procesión por la ciudad cada Viernes Santo desde hace 800 años.\n\nAl salir de la sala, a su derecha hay un relicario de vidrio con los supuestos huesos de san Jorge, el legendario matador de dragones. Bueno, ahora sí pueden burlarse.\n\nNuestras dos próximas paradas son la tumba de san Marcos y el retablo de oro. Las dos están detrás del altar mayor y requieren otra pequeña entrada. Busquen en el transepto sur la entrada que dice Pala d'Oro, es decir, retablo de oro. Si hay fila, avancen con paciencia. Cuando vean un dosel de piedra, pasen a la siguiente parada.",
+       "en_start": 1215,
+       "coord": [
+        45.4345,
+        12.3397
+       ]
+      },
+      {
+       "n": 12,
+       "name": "La tumba de san Marcos",
+       "text": "Bajo el dosel de piedra está el altar mayor. Dentro del altar hay una urna. Aunque no se puede ver, contiene los restos mortales de Marcos, el evangelista.\n\nPueden mirar por la reja del altar y leer: Corpus Divi Marci Evangelistae, es decir, el cuerpo del evangelista Marcos.\n\nSegún documentos poco fiables y la leyenda medieval, Marcos fue un cristiano del siglo primero, y es posible que haya llegado a conocer a Jesús. La Biblia menciona a un Marcos y a un Juan Marcos, que podrían haber sido este Marcos. Marcos viajó con otro converso, Pablo, y finalmente se estableció en la ciudad egipcia de Alejandría, donde se convirtió en el primer obispo cristiano de esa ciudad.\n\nSe dice que, durante sus muchos viajes, Marcos atracó aquí, en la laguna de Venecia, donde soñó con un ángel que le dijo: \"La paz sea contigo, Marcos, mi evangelista.\" El ángel le prometió descanso después de la muerte.\n\nDespués de volver a Alejandría, a Marcos lo atacó una turba anticristiana. Arrastraron su cuerpo por las calles hasta que murió. Ocho siglos más tarde, su cuerpo estaba en una iglesia de Alejandría, a punto de ser profanado por fanáticos musulmanes. Dos comerciantes venecianos que estaban en viaje de negocios salvaron las reliquias y zarparon hacia Venecia. El dux recibió el cuerpo y, en 828, construyeron la primera iglesia de San Marcos para guardarlo. Ahora Marcos descansa en paz bajo el altar, tal como le había prometido aquel ángel.\n\nAhora, en silencio, por favor. Mientras siguen pasando junto al altar, fíjense en la columna que sostiene el dosel de mármol, con tallas del siglo trece. En la cuarta fila desde abajo, ¿eso es un genio que se escapa de una botella mientras alguien intenta volver a meterlo adentro?\n\nCuando lleguen al retablo de oro, que suele estar lleno de gente, van a tener que buscar su lugar para verlo mejor. Traten de retroceder para abarcarlo todo mientras escuchan mi descripción. Después, acérquense para admirar los detalles. Cuando lleguen, pasen a la siguiente parada.",
+       "en_start": 1945,
+       "coord": [
+        45.4345,
+        12.3397
+       ]
+      },
+      {
+       "n": 13,
+       "name": "El retablo de oro, la Pala d'Oro",
+       "text": "El retablo de oro es una impresionante pared dorada hecha con 250 esmaltes azules, todos engarzados en un marco de oro y tachonados con 15 rubíes enormes, 300 esmeraldas, 1500 perlas, y además zafiros, amatistas y topacios.\n\nLos esmaltes, hechos en Bizancio alrededor del año 1100, fueron parte del botín que los venecianos saquearon de Constantinopla en 1204. Los trajeron a casa e hicieron que artesanos bizantinos los ensamblaran aquí mismo, en Venecia, para hacer este retablo especialmente para el altar mayor de San Marcos.\n\nAhora acérquense y busquen varios detalles que quizás reconozcan. En el centro, busquen a Jesús como soberano del cosmos, sentado en un trono dorado, con una aureola de perlas y joyas. Como buen Pantocrátor bizantino, mira obedientemente de frente y da su bendición, mientras echa una mirada de reojo, hacia un costado, a Marcos, que tiene escrito el nombre Marcus, y a los demás santos.\n\nA lo largo de la fila de abajo, los profetas del Antiguo Testamento muestran los libros de la Biblia que escribieron. Con sus aureolas, sus rostros solemnes y sus túnicas de pliegues elaborados, son el ejemplo perfecto del estilo de los íconos bizantinos.\n\nSigan la historia de Marcos en los paneles de los costados. En el panel de abajo a la izquierda, Marcos se encuentra con Pedro, que está sentado a las puertas de Roma. Se dice que fue Pedro quien le dio a Marcos el relato de testigo presencial de la vida de Jesús que Marcos después escribió en su evangelio.\n\nEn el panel de abajo a la derecha está el final de la historia de Marcos. Dos mercaderes venecianos vuelven en barco, llevando su ataúd para que por fin descanse aquí mismo, en Venecia.\n\nEstudien una de las exquisitas escenas de esmalte. Bizancio sobresalía en el arte del esmalte tabicado, o cloisonné. Sobre una lámina de oro se estampa un diseño. Después se rellena con charquitos de pintura de esmalte, que se hornean.\n\nMiren de cerca a un solo santo para ver el detalle del trabajo. El fondo dorado alrededor del santo es el medallón de lámina de oro que se estampa. Los pliegues dorados de la túnica son los bordes en relieve que deja la impresión. Los distintos colores de la túnica son pinturas de distintos colores en las partes hundidas. Cada color se hornea en una cocción aparte.\n\nAlgunos santos tienen incluso coronas de perlas o collares de joyas prendidos encima.\n\nEste tipo de trabajo artesanal exquisito, y la infraestructura social que lo hacía posible, hicieron que Bizancio pareciera un mundo encantado durante la triste Edad Media de Europa.\n\nUna vez que hayan mirado algunas escenas, retrocedan todo lo que les permita esta sala pequeña y simplemente déjense deslumbrar por el conjunto: un mosaico de esplendor bizantino.\n\nEste magnífico retablo está montado sobre un eje giratorio. Fíjense en el mecanismo de la base. Los domingos de fiesta, lo hacen girar para que todos los fieles puedan disfrutarlo.\n\nAl salir de la Pala d'Oro, el transepto norte es el brazo de la iglesia que queda a su derecha. En la pared norte van a ver un gran mosaico que muestra el árbol genealógico de Jesús, literalmente. Pero nosotros nos vamos a concentrar en la pared este del transepto, con la pequeña pintura de María y el niño Jesús. Cuando la encuentren, pasen a la siguiente parada.",
+       "en_start": 2245,
+       "coord": [
+        45.4345,
+        12.3397
+       ]
+      },
+      {
+       "n": 14,
+       "name": "El transepto norte: la Virgen Nicopeia",
+       "text": "Los venecianos de hoy le rezan a un ícono de madera pintada de María y el niño Jesús, conocido como la Nicopeia, o Nuestra Señora de la Victoria. Según la leyenda, en realidad lo pintó el evangelista Lucas, y antiguamente estaba adornado con esmaltes brillantes, piedras preciosas y la corona y el collar de oro de María. Esos tesoros hoy están expuestos en el Tesoro de la iglesia.\n\nEsta Virgen es el amuleto de la buena suerte de Venecia desde 1204. Los venecianos se habían sumado a la Cuarta Cruzada con la esperanza de rescatar a sus hermanos cristianos de Bizancio de una invasión de los turcos musulmanes. La cruzada salió terriblemente mal. En vez de luchar contra los musulmanes, los cristianos, encabezados por los venecianos, saquearon Constantinopla, una ciudad cristiana como ellos.\n\nLos venecianos se llevaron a casa un enorme botín mal habido, que todavía hoy le da brillo a la iglesia. Se llevaron el ícono Nicopeia, los esmaltes de la Pala d'Oro, los tesoros del Tesoro, los caballos de bronce, que vamos a ver arriba, y gran parte del mármol que hoy le da a esta iglesia de ladrillo su impresionante revestimiento.\n\nDesde esta primera conquista, la Virgen Nicopeia ayudó a Venecia a salir victoriosa en las guerras, a resistir las pestes y a ganar esos partidos de fútbol decisivos. Cada vez que María responde a una oración, los venecianos agradecidos vienen aquí a dejarle ofrendas de agradecimiento.\n\nUna de esas ofrendas es lo próximo que vamos a ver. Cuando empiecen a salir del transepto norte, estén atentos a un pilar junto a la nave del que cuelga un viejo fusil. El fusil es de 1848. Durante una guerra con Austria, una esposa preocupada le rezó a la Virgen para que su marido volviera sano y salvo. Cuando él volvió a casa entero, ella le regaló el fusil a la Virgen en agradecimiento.\n\nDesde el transepto norte, avancen con la multitud hacia la salida. Pero no se vayan todavía de la iglesia. Vamos al museo de la iglesia, que está justo arriba. Así que, cuando lleguen al atrio, antes de salir a la luz del día, doblen a la izquierda y busquen la puerta y la escalera que llevan al Museo de San Marcos. El cartel junto a la puerta dice Loggia dei Cavalli, Museo.\n\nEste museo ofrece vistas privilegiadas de la Plaza de San Marcos y del interior de la iglesia, además de los preciosos caballos de bronce y de exposiciones sobre los mosaicos.\n\nSuban la escalera empinada y compren la entrada. Cuando estén arriba, dentro del museo, pasen a la siguiente parada.",
+       "en_start": 2025,
+       "coord": [
+        45.4345,
+        12.3397
+       ]
+      },
+      {
+       "n": 15,
+       "name": "El Museo de San Marcos",
+       "text": "Una vez arriba y con su entrada, pasen al museo mientras les doy un rápido panorama.\n\nEl museo tiene varios puntos destacados. Pueden ver de cerca mosaicos preciosos y otros tesoros artísticos. Están los famosos caballos de bronce, tienen una vista impresionante del interior de la iglesia desde un balcón y, por último, una gran vista de la Plaza de San Marcos.\n\nQuizás tengan que seguir un recorrido establecido, y el orden de lo que se ve puede variar. Así que empiecen a seguir el recorrido. El museo es más grande de lo que parece. Da una vuelta hasta el otro extremo de la iglesia, el extremo del altar, y después regresa.\n\nEmpiecen a caminar por el recorrido y pronto van a encontrar paneles en las paredes que muestran algunos de los mosaicos más antiguos de la iglesia. Pasen a la siguiente parada y escúchenla mientras caminan despacio.",
+       "en_start": 2330,
+       "coord": [
+        45.4345,
+        12.3397
+       ]
+      },
+      {
+       "n": 16,
+       "name": "Fragmentos de mosaicos",
+       "text": "Estos mosaicos estuvieron colgados en la iglesia. Pero cuando se dañaron o pasaron de moda, los reemplazaron por mosaicos nuevos, más a la moda. Estos pocos fragmentos se salvaron de la basura.\n\nVan a ver mosaicos de los primeros tiempos de la iglesia, de alrededor de 1070. Están hechos en el estilo más bizantino. Y van a ver mosaicos más recientes, del siglo dieciocho. Son los que tienen detalles más realistas.\n\nLos mosaicos se hacían con cubitos de piedra o de vidrio de colores, presionados sobre arcilla húmeda. Los artistas dibujaban el diseño en un papel. Lo apoyaban sobre la arcilla húmeda y lentamente iban recortando el papel, a medida que reemplazaban el diseño de papel por los cubitos, o teselas. Cada escena de mosaico se armaba en el suelo y después se fijaba con cemento en las paredes.\n\nEl mosaico es un arte antiguo. Los antiguos romanos cubrían pisos, paredes y techos con mosaicos. Cuando cayó Roma, el mosaico desapareció en Occidente, pero los artesanos bizantinos mantuvieron vivo el oficio. Perfeccionaron el efecto del fondo dorado horneando lámina de oro dentro de cubitos de vidrio. Las superficies de las teselas se cortan de forma irregular a propósito, para captar la luz y dar un efecto resplandeciente.\n\nLos mosaicos dorados, que reflejan la luz, ayudaban a iluminar iglesias de paredes gruesas, ventanas pequeñas y luz de lámparas, como esta. Creaban un resplandor dorado que simbolizaba la luz divina del cielo.\n\nSiguiendo adelante, van a ver otras obras de arte y van a alcanzar a ver el interior de la iglesia desde el transepto norte. Aquí tienen una vista de cerca del mosaico del árbol genealógico de Jesús, llamado el Árbol de Jesé. Es el que vimos antes desde la planta baja.\n\nSigan hasta el final, donde por fin van a entrar en una sala grande llamada Sala dei Banchetti. Cuando lleguen, pasen a la siguiente parada.",
+       "en_start": 2435,
+       "coord": [
+        45.4345,
+        12.3397
+       ]
+      },
+      {
+       "n": 17,
+       "name": "La Sala dei Banchetti",
+       "text": "Esta sala grande y ornamentada, que fue el salón de banquetes del dux, está llena de objetos religiosos, tapices, alfombras que antiguamente adornaban la iglesia, vestiduras de encaje de Burano, manuscritos musicales iluminados, un trono del dux y mucho más.\n\nRecórranla. Traten de leer un poco de música. Los manuscritos son del siglo dieciséis, de antes de la época de las claves de sol y de fa. Van a ver una clave de do en el margen izquierdo, que podía deslizarse por el pentagrama para ubicar el do central. A partir de ahí, se podían cantar las notas en la relación correcta entre sí, según el ritmo indicado.\n\nEn el centro de la sala está la obra de arte más prestigiosa de aquí: el retablo de los días laborables de la basílica, la Pala Feriale, de Paolo Veneziano. Es de 1345. En los días laborables comunes, estas 14 escenas pintadas sobre madera cubrían la dorada Pala d'Oro. Hay siete santos arriba, incluido Cristo crucificado, y siete episodios de la vida de Marcos abajo.\n\nFíjense en el panel con el velero. Cuenta otra historia del viaje de regreso de los mercaderes venecianos con el cuerpo de Marcos. Una tormenta en el mar hincha las velas, agita la bandera, revuelve las olas y asusta a la tripulación, mientras el barco va derecho hacia las rocas. Pero entonces aparece milagrosamente el propio Marcos en la popa y calma la tormenta, y así lleva el barco, y su propio cuerpo, a salvo hasta Venecia.\n\nPaolo Veneziano firmó con orgullo su nombre en la parte de abajo, junto con los nombres de dos de sus ayudantes, sus hijos Luca y Giovanni.\n\nYa estamos en la recta final. Cuando estén listos para seguir con el recorrido, sigan la ruta del museo hasta los caballos de bronce originales. Cuando lleguen, pasen a la siguiente parada.",
+       "en_start": 2651,
+       "coord": [
+        45.4345,
+        12.3397
+       ]
+      },
+      {
+       "n": 18,
+       "name": "Los caballos de bronce",
+       "text": "Con paso brioso, de a pares y con sonrisas en la cara, estos cuatro caballos de carro irradian energía y entusiasmo. Son los preciosos originales que durante siglos estuvieron donde hoy están las copias, en la fachada de la iglesia, mirando hacia la Plaza de San Marcos.\n\nLos historiadores del arte no saben qué antigüedad tienen. Podrían ser de la antigua Grecia, del siglo cuarto antes de Cristo, o de la antigua Roma durante su caída, del siglo cuarto después de Cristo. Según un análisis de carbono 14, probablemente sean de alrededor del año 175 antes de Cristo. Originalmente, los caballos tiraban de un carro, al estilo de Ben-Hur.\n\nEstas estatuas de bronce no las hicieron artesanos del metal martillando y doblando el material hasta darle forma: se fundieron con la técnica de la cera perdida, vertiendo bronce fundido en moldes de arcilla. El bronce es de alta calidad, con 97 por ciento de cobre. Originalmente estaban dorados, y todavía conservan algunas vetas de oro. Hace mucho que desaparecieron las pupilas de rubí que hacían brillar al sol sus ojos ardientes.\n\nA lo largo de los siglos, los megalómanos codiciaron estos caballos, no solo por su valor artístico, sino porque simbolizan a Apolo, el dios grecorromano del sol, y el poder civil. El dux, uno de los primeros líderes civiles poderosos del mundo cristiano, le hablaba a su pueblo de pie entre los caballos, cuando adornaban el balcón de lo alto de la fachada de esta iglesia.\n\nSus caras expresivas parecen decir: \"¡Uf, compañero, sí que hemos viajado!\"\n\nSegún la leyenda, los hicieron en la época de Alejandro Magno, es decir, en el siglo cuarto antes de Cristo, y después Nerón se los llevó a Roma, en el siglo primero después de Cristo. Luego, en el siglo cuarto, Constantino los llevó a su nueva capital, Constantinopla, para adornar la pista de carreras de carros. Después, los venecianos se los robaron a sus hermanos cristianos durante el saqueo de Constantinopla, en 1204, y los trajeron aquí, a San Marcos.\n\nPero todo lo que va, vuelve, y Napoleón vino y se llevó los caballos cuando conquistó Venecia, en 1797. Estuvieron sobre un arco de triunfo en París hasta que el imperio de Napoleón se vino abajo, y entonces los devolvieron a su verdadero hogar, la Basílica de San Marcos, aquí en Venecia.\n\nA fines del siglo veinte, a los caballos volvieron a sacarlos de su lugar, cuando los atacó su enemigo más peligroso hasta ahora: la contaminación moderna. La amenaza de la oxidación los mandó a galopar en busca de refugio dentro de la iglesia.\n\nDejen atrás los caballos, galopen unos pasos hacia la izquierda y acérquense a la balaustrada de piedra, para tener una gran vista del interior de la iglesia. Cuando lleguen, pasen a la siguiente parada.",
+       "en_start": 2405,
+       "coord": [
+        45.4345,
+        12.3397
+       ]
+      },
+      {
+       "n": 19,
+       "name": "Vista del interior de la iglesia",
+       "text": "Si ustedes fueran mujeres en la Venecia medieval, disfrutarían de esta misma vista. Porque en la Edad Media a las mujeres no se les permitía rezar en la planta baja. Subían la misma escalera que ustedes acaban de subir y buscaban un lugar en los balcones que ven a sus pies.\n\nLa iglesia estaba dividida en tres zonas: el balcón, para las mujeres; la nave, para los hombres; y el altar, detrás del iconostasio, para los sacerdotes. En esa época, el iconostasio, que es la barrera con los 14 santos encima, separaba al sacerdote del público. El sacerdote oficiaba de espaldas a la gente.\n\nDesde aquí arriba pueden apreciar los diseños del piso de mosaico. Es uno de los mejores de Italia, y cubre el piso como una alfombra persa.\n\nDesde este punto, miren más de cerca el mosaico de Pentecostés. Está en la primera cúpula que tienen encima, y ya lo estudiamos antes. El diseño único que está arriba de todo representa la Trinidad: el trono simboliza a Dios, los Evangelios son Cristo y la paloma representa al Espíritu Santo. Las parejas que están debajo del anillo de apóstoles representan a los pueblos del mundo. Yo alcanzo a ver Asia, Judea y Capadocia. A pesar de sus distintos idiomas, el día de Pentecostés todos entendieron el mensaje del Espíritu.\n\nNuestra visita termina afuera, en el balcón que da a la Plaza de San Marcos. Cuando estén en el balcón, pasen a la siguiente parada.",
+       "en_start": 2704,
+       "coord": [
+        45.4345,
+        12.3397
+       ]
+      },
+      {
+       "n": 20,
+       "name": "La vista de la Plaza de San Marcos",
+       "text": "Esta es una de las grandes vistas del mundo: los cafés a los costados, la música de las orquestas, el bullicio de la multitud, los grupos de palomas. Es realmente inolvidable.\n\nA la derecha, ven bien la parte de arriba de la Torre del Reloj de Venecia, con los dos moros de bronce que tocan la campana a cada hora en punto. A la izquierda, sigan con la vista la línea del Palacio Ducal y, al otro lado de la laguna, busquen a lo lejos, entre la bruma, la fachada blanca con columnas de la iglesia de San Giorgio Maggiore, de Andrea Palladio.\n\nVan a sentirse atraídos una y otra vez por estas vistas, pero acuérdense también de mirar de cerca la fachada de la iglesia. Paseen entre las estatuas de esclavos que cargan agua y que sirven de desagües. Vean con qué ingenio se combinan todos los elementos arquitectónicos saqueados. Los cuatro caballos de bronce son copias, hechas en 1978: fíjense en la fecha que tienen en los cascos.\n\nHagan como un dux y párense entre los caballos, mirando hacia la Plaza de San Marcos. Desde este mismo lugar, bajo el león dorado de San Marcos, delante de los cuatro grandes evangelistas que antiguamente estaban en lo alto de las columnas, y flanqueado, como Apolo, por los cuatro gloriosos caballos, el dux se dirigía a los venecianos reunidos abajo, y los inspiraba a hacer grandes cosas.\n\nAdmiren la vista privilegiada del centro de esta ciudad, que durante siglos fue la única superpotencia de Europa, y recuerden que su corazón religioso era esta gloriosa iglesia, la Basílica de San Marcos.\n\nEsperamos que hayan disfrutado de este recorrido por la Basílica de San Marcos. Gracias a Gene Openshaw, coautor de este recorrido. Grazie, arrivederci, y buen viaje.",
+       "en_start": 2903,
+       "coord": [
+        45.4345,
+        12.3397
+       ]
+      }
+     ]
+    },
+    {
+     "id": "venice-frari-church",
+     "title": "Iglesia de los Frari",
+     "full_title": "La Iglesia de los Frari, en Venecia",
+     "coord": [
+      45.4369,
+      12.3266
+     ],
+     "map_url": null,
+     "stops": [
+      {
+       "n": 1,
+       "name": "Introducción",
+       "text": "La Iglesia de los Frari.\n\nLa iglesia veneciana de los Frari, es decir, de los frailes, los hermanos de la Orden Franciscana, está llena de un arte que expresa el amor de los franciscanos por el ser humano y por la naturaleza.\n\nHola. Esta es la audioguía de Rick Steves, traducida al español. Gracias por acompañarme en este recorrido por uno de los lugares más subestimados y apartados de Venecia.\n\nVamos a ver retablos de los grandes pintores de Venecia que destacan a la Virgen María en sus distintas facetas: joven, meditativa, como ícono y plenamente humana. También vamos a ver las tumbas de algunos artistas, una estatua de Donatello y la amplia arquitectura de la propia iglesia.\n\nPara muchos viajeros, los Frari ofrecen la mejor experiencia de apreciación del arte de Venecia, porque gran parte de sus grandes obras están in situ, es decir, justo en el lugar para el que fueron pensadas, en vez de estar colgadas en un museo.\n\nCalculen alrededor de una hora para visitar esta iglesia, que celebra la gloria de Dios con un arte que celebra el mundo creado.\n\nY ahora, empecemos el recorrido.",
+       "en_start": 0,
+       "coord": [
+        45.4369,
+        12.3266
+       ]
+      },
+      {
+       "n": 2,
+       "name": "Cómo llegar y el exterior de la iglesia",
+       "text": "Lo más difícil de visitar los Frari es, simplemente, encontrar el lugar. Está del lado oeste del Gran Canal, a 10 minutos a pie de la parada de vaporetto de San Tomà, o a unos 25 minutos del Puente de Rialto.\n\nNo tengan miedo de preguntarle a la gente del lugar: \"¿Dov'è la Chiesa dei Frari?\". Quiere decir: \"¿Dónde está la Iglesia de los Frari?\".\n\nDesde afuera, la iglesia, de simple ladrillo marrón y encajada en una plaza diminuta, no impresiona mucho. Pero es casi la única iglesia gótica que van a visitar en Venecia. Como el suelo esponjoso de Venecia nunca habría podido sostener una verdadera iglesia gótica de piedra, como las que se encuentran en Francia, los Frari están hechos de ladrillo, que es liviano y flexible. Los cimientos de piedra caliza blanca que pueden ver aíslan el edificio del suelo húmedo.\n\nEntren a la iglesia, compren las entradas y pasen a la nave, es decir, la gran sala central y alargada de la iglesia. Antes de acercarnos al altar mayor, recorran la nave y simplemente absórbanlo todo, mientras les presento el lugar. Cuando estén en la nave, pasen a la siguiente parada.",
+       "en_start": 258,
+       "coord": [
+        45.4369,
+        12.3266
+       ]
+      },
+      {
+       "n": 3,
+       "name": "La nave",
+       "text": "Esta iglesia sencilla, amplia y luminosa es un espectáculo realmente extraordinario en una ciudad que, por lo demás, está atiborrada de adornos exóticos y recargados.\n\nMide unos 100 metros de largo, tiene vigas transversales de madera rústica y está decorada con una sencilla combinación de rojo y blanco. Los arcos en punta la distinguen como una de las pocas iglesias góticas de Venecia.\n\nLa iglesia se construyó a lo largo de dos siglos, más o menos entre 1250 y 1443, y se consagró en 1492.\n\nTradicionalmente, las iglesias de Venecia tenían forma de cruz, pero como los franciscanos eran una orden internacional, no estaban limitados a los gustos venecianos. Esta nueva planta en forma de T tenía una nave larga y alta, inundada de luz e ideal para grandes reuniones, en las que la gente común escuchaba los sermones.\n\nLa iglesia la construyó la Orden Franciscana, que llegó a Venecia poco después de la muerte de su fundador, san Francisco de Asís, en 1226. Francisco se había dedicado a un estilo de vida desapegado de lo material, como parte de un movimiento de reforma que se extendió por Europa a comienzos del siglo trece. La jerarquía de la Iglesia en Roma se sentía lejana y corrupta, y había hambre de una enseñanza religiosa que llegara a la gente común. Aunque algunos de estos movimientos fueron tachados de herejes, los franciscanos terminaron ganándose la bendición de la Iglesia.\n\nEl espíritu humanista de Francisco le da calidez tanto a la iglesia como al arte que la decora. Francisco amaba toda la creación, tanto la naturaleza como al ser humano. Y eso, más tarde, inspiró a los pintores del Renacimiento a captar la belleza del mundo físico y las emociones humanas, para mostrarles a los fieles la gloria de Dios en términos humanos.\n\nEn ningún lugar se ve esto con más claridad que en el cuadro que está sobre el altar mayor. Cuando los fieles entran a la iglesia y miran a lo largo de la nave, lo que los recibe, enmarcado por el arco de la entrada del coro, es el retablo de Tiziano.\n\nAcérquense al altar pasando por el coro, la zona de madera que está en el centro de la nave. Estructuras como esta les permitían a los frailes celebrar oficios más pequeños e íntimos. Fíjense en los órganos, uno a cada lado. Y miren la fina marquetería tallada en madera que está encima de los asientos del coro: muestra el entusiasmo del Renacimiento por el efecto de tres dimensiones al estilo florentino.\n\nLos coros que se conservan, como este, son raros. Como respuesta al desafío de Lutero, las iglesias de la Contrarreforma dejaron de lado la idea de los coros y de las barreras que separaban el altar, para acercar a los sacerdotes a sus fieles.\n\nAhora presten atención al cuadro grande y colorido que está detrás del altar mayor, enmarcado por un arco: la Asunción de Tiziano. Cuando estén frente al altar, pasen a la siguiente parada.",
+       "en_start": 426,
+       "coord": [
+        45.4369,
+        12.3266
+       ]
+      },
+      {
+       "n": 4,
+       "name": "Tiziano, La Asunción",
+       "text": "Tiziano, La Asunción de María, de 1518.\n\nResplandeciente de rojo y oro, como un vitral, este retablo marca el tono de belleza exuberante que se encuentra en la iglesia. Muestra a María al final de su vida, aunque parece tener apenas 17 años, en el momento en que fue llevada milagrosamente al cielo. Mientras unos querubines la elevan al encuentro de un Dios con aspecto de Júpiter, en la tierra los apóstoles, atónitos, estiran los brazos para tocar la burbuja de luz que flota sobre ellos.\n\nCuando se presentó, en 1518, la obra escandalizó a una Venecia acostumbrada a un arte religioso más sencillo y sobrio. Los colores intensos, las poses retorcidas y la mezcla de angelitos empalagosos con apóstoles de aspecto obrero eran algo nunca visto.\n\nLo más llamativo es que esta Virgen es plenamente humana, no un ícono rígido sentado en un trono. En un arranque de innovación juvenil, Tiziano, que vivió de 1488 a 1576, había reescrito la fórmula del arte religioso, y anticipaba los cambios que iban a llegar con el manierismo y el barroco.\n\nLe dio energía a la escena con una composición compleja. Empieza con un círculo, la burbuja de María, y le superpone un triángulo: tracen una línea desde el apóstol que estira el brazo hacia arriba hasta el rostro de María, y después hacia abajo por el otro lado. Todo esto está organizado en tres niveles horizontales: Dios en el cielo, los hombres en la tierra y María en el medio. Juntos, estos elementos llevan nuestra mirada desde el remolino de brazos y piernas hasta el centro del cuadro: el rostro radiante de una María triunfante, llevada en cuerpo y alma al cielo.\n\nAl principio, los franciscanos no estaban seguros de la obra de Tiziano. Pensaban que esta María adolescente despertaba, digamos, entusiasmo, más que espiritualidad. Solo cuando el emperador del Sacro Imperio Romano Germánico se ofreció a comprar el retablo si ellos lo rechazaban, los franciscanos aceptaron pagarle a Tiziano.\n\nEl nombre oficial de la Iglesia de los Frari es Santa Maria Gloriosa dei Frari, dedicada a la gloriosa Santa María. El retablo de Tiziano capta a la Virgen en toda su gloria juvenil.\n\nSi miran a su alrededor, van a ver que la iglesia está repleta de capillas y tumbas, que fueron posibles gracias al generoso apoyo económico de gente rica que hacía donaciones a los franciscanos por el bien de su alma. Como beneficio adicional, muchas veces conseguían también una estatua de sí mismos encima de la tumba.\n\nEn el mismo ábside de la Asunción de Tiziano, es decir, en esta cabecera de la iglesia, hay tumbas de mármol a lo largo de las paredes. La tumba de la pared derecha es la del dux Foscari; el dux era el gobernante de Venecia. Cuando la tengan enfrente, pasen a la siguiente parada.",
+       "en_start": 802,
+       "coord": [
+        45.4369,
+        12.3266
+       ]
+      },
+      {
+       "n": 5,
+       "name": "La tumba del dux Foscari",
+       "text": "En contraste con la pobreza de los franciscanos, esta tumba pesada y recargada marca el apogeo del poder terrenal de Venecia.\n\nEn 1423, el dux Foscari asumió el mando del poderoso imperio marítimo de Venecia. Durante los 31 años siguientes trató de extenderlo más hacia tierra firme, y combatió contra Milán en una guerra de desgaste que arrasó el norte de Italia. Mientras tanto, en el frente oriental, que había quedado desprotegido, los turcos tomaron la ciudad cristiana de Constantinopla, la actual Estambul, y hundieron el comercio de Venecia.\n\nHabía empezado la larga caída de Venecia en el olvido histórico.\n\nCon la ciudad agotada económicamente, sus dirigentes obligaron a Foscari a renunciar, a entregar su curioso gorro de dux y a devolver las llaves del Palacio Ducal.\n\nCaminen unos pasos hacia la derecha, hasta la primera capilla a la derecha del altar, donde van a encontrar una estatua de madera de tamaño natural de san Juan Bautista. Cuando lleguen, pasen a la siguiente parada.",
+       "en_start": 1111,
+       "coord": [
+        45.4369,
+        12.3266
+       ]
+      },
+      {
+       "n": 6,
+       "name": "Donatello, San Juan Bautista",
+       "text": "Donatello, San Juan Bautista, de 1438.\n\nDemacrado por su desayuno de insectos y miel, y vestido con pieles de animales, el profeta del desierto, con la mirada extraviada, se queda congelado en medio de un sermón exaltado al divisar algo a lo lejos. Se le afloja la mandíbula, tuerce la cara y levanta la mano para anunciar la llegada de... bueno, o de Cristo, o del Renacimiento.\n\nEsta es una obra del escultor pionero del Renacimiento, Donatello. Los florentinos que vivían en Venecia le encargaron a su compatriota esta estatua para su capilla. Y refleja el gusto florentino. El Renacimiento empezó en Florencia en el siglo quince, y allí Donatello creó estatuas realistas con toda la gama de las emociones humanas.\n\nComparen a este San Juan Bautista, retratado sin disimular ningún defecto, con, por ejemplo, la dulce María de Tiziano, y van a ver la diferencia entre el arte veneciano y el florentino. El arte florentino siempre fue más escultórico, incluso en la pintura, con contornos marcados, colores apagados y un realismo crudo. El arte veneciano era pictórico, de contornos suaves, y bello, con colores brillantes.\n\nSigan caminando hacia la derecha del altar. Al fondo del crucero, es decir, del brazo derecho de la iglesia, pasen por la puerta que da a la sacristía.\n\nVan a encontrarse cara a cara con un elaborado altar de reliquias, que vale la pena mirar un momento. Enfrente, cerca de la puerta de entrada, hay un reloj tallado con mucho detalle en una sola pieza de madera.\n\nAhora acérquense al fondo de la sala, donde van a encontrar el retablo de Bellini, con su marco dorado. La familia Pesaro, que financió gran parte de la construcción y de la decoración de los Frari, hizo construir esta encantadora capilla, dominada por la obra maestra de Bellini. Cuando lleguen, pasen a la siguiente parada.",
+       "en_start": 1231,
+       "coord": [
+        45.4369,
+        12.3266
+       ]
+      },
+      {
+       "n": 7,
+       "name": "Giovanni Bellini, La Virgen con el Niño, santos y ángeles",
+       "text": "Giovanni Bellini, La Virgen con el Niño, santos y ángeles, de 1488.\n\nMaría está sentada en un trono bajo una media cúpula, y sostiene al niño Jesús, que apenas está aprendiendo a ponerse de pie. A los lados los acompañan santos, y unos ángeles músicos les dan una serenata.\n\nGiovanni Bellini, el padre del Renacimiento veneciano, pintó columnas y una cúpula falsas que hacen juego con las columnas reales del marco dorado, de modo que el cuadro parece una prolongación de la sala. Completa la ilusión con pedacitos de cielo abierto al fondo.\n\nDespués, llena los nichos pintados con santos pensativos, en poses simétricas. De izquierda a derecha, busquen a san Nicolás, san Pedro, san Marcos y Sean Connery... perdón, san Benito.\n\nEl humanismo del Renacimiento exigía Vírgenes y santos cercanos y humanos. Bellini cumple, pero los ubica en un espacio físico tan hermoso que crea su propio clima de serena santidad.\n\nLa escena está iluminada desde la izquierda, pero nadie proyecta una sombra dura. María y el niño están envueltos en un aura resplandeciente de luz reflejada por la cúpula dorada. La belleza está en los detalles: desde la escritura de la cúpula hasta el fondo de brocado rojo, las vetas del mármol de los escalones y las piernitas con hoyuelos de los ángeles.\n\nBellini combinó las poses meditativas de la tradición bizantina de Venecia con las innovaciones del Renacimiento. Fue pionero en la pintura al óleo, con pigmentos disueltos en aceite vegetal, en lugar del temple medieval, una pintura a base de yema de huevo. Eso le permitió pintar matices de color más sutiles, con capas sucesivas de pintura. Y como los colores oscuros no quedan tan turbios cuando se pintan al óleo, resaltan, y eso, en la práctica, le da al artista una paleta más amplia.\n\nBellini prácticamente inventó la fórmula del retablo del Renacimiento veneciano. Este tipo se llama sagrada conversación: María aparece junto a santos de distintas épocas históricas, en un diálogo imaginario.\n\nComo ya vimos, más tarde esta fórmula emblemática de Bellini la iba a romper su alumno, el atrevido y precoz Tiziano.\n\nAhora vayan a la sala contigua a la sacristía y busquen un cuadro con forma de arco gótico en punta. Si Tiziano rompió el molde de Bellini, Bellini, a su vez, rompió el molde de los retablos que había heredado de los venecianos anteriores. Cuando lleguen, pasen a la siguiente parada.",
+       "en_start": 708,
+       "coord": [
+        45.4369,
+        12.3266
+       ]
+      },
+      {
+       "n": 8,
+       "name": "Paolo Veneziano, La Virgen con el Niño y el dux Dandolo",
+       "text": "Paolo Veneziano, La Virgen con el Niño y el dux Dandolo, de alrededor de 1339.\n\nLas raíces bizantinas de Bellini se remontan al primer gran nombre de la pintura en Venecia, el hombre que ayudó a dar forma al estilo veneciano característico: Paolo Veneziano, literalmente, Pablo el Veneciano.\n\nEn este retablo, Veneziano pinta íconos simplificados de estilo bizantino, y después los pone en movimiento. El niño Jesús se vuelve para saludar al dux Dandolo, que está arrodillado, mientras María se vuelve hacia la esposa del dux.\n\nNada menos que san Francisco es quien le presenta el dux a la Virgen. Tanto san Francisco como santa Isabel, a la derecha, se inclinan desde la cintura y hacen gestos con toda la naturalidad que pueden tener unos íconos del siglo catorce. Con estos movimientos sencillos, Veneziano logra que estos íconos tan rígidos se aflojen un poco, y anticipa el naturalismo del Renacimiento.\n\nVeneziano se inspiró en artistas bizantinos que llegaron a Venecia en busca de más libertad de expresión. Se habían sentido oprimidos en sociedades estrictas, tanto bizantinas como, en algunos lugares, islámicas, que veían con malos ojos pintar imágenes figurativas. En Venecia, estos artistas extranjeros encontraron una comunidad entusiasta de mecenas ricos, que los dejaban dar rienda suelta a su gusto por el color más intenso, el movimiento, el lujo y la emoción.\n\nVuelvan a la nave y diríjanse al otro extremo, es decir, lejos del altar.\n\nMientras caminan por la nave, van a ver que, como en tantas iglesias europeas, a los lados hay tumbas y pequeños altares. Los feligreses ricos querían un lugar de entierro para su familia y un pequeño altar donde sus descendientes pudieran rezar. Contrataban a artistas famosos para decorar las capillas y las tumbas con estatuas y retablos. Al donar dinero a los franciscanos, invertían en un seguro de salvación: les pagaban a los frailes para que rezaran por sus almas mortales.\n\nUno de los feligreses más distinguidos de la Iglesia de los Frari fue el pintor Tiziano, cuya tumba está en la nave.\n\nCuando lleguen al final de la nave, den media vuelta y miren hacia el altar mayor. La tumba de Tiziano está en el segundo tramo entre columnas, a su derecha. Es decir, a la derecha mirando hacia el altar. Arriba hay un león alado. Y en la base, dos ángeles sostienen una corona con el nombre de Tiziano escrito en latín: Titiano Ferdinandus. Cuando lleguen, pasen a la siguiente parada.",
+       "en_start": 935,
+       "coord": [
+        45.4369,
+        12.3266
+       ]
+      },
+      {
+       "n": 9,
+       "name": "La tumba de Tiziano",
+       "text": "En el centro hay una estatua de Tiziano sentado, con barba y con la corona de laurel que se les daba a los grandes artistas.\n\nLa tumba celebra tanto al hombre como a algunos de sus cuadros famosos, que están tallados en el mármol.\n\nTiziano, que vivió más o menos de 1488 a 1576, fue el pintor veneciano más grande y el pintor más famoso de su tiempo, quizás incluso más famoso que Miguel Ángel. Llegó a Venecia de niño, estudió primero el oficio de mosaiquista y después aprendió con Bellini. Se hizo un nombre con un estilo nuevo y audaz, protagonizado por Vírgenes jóvenes. Fíjense en el relieve de la Asunción de María de la Iglesia de los Frari, detrás de la estatua de Tiziano.\n\nTiziano se hizo rico y famoso, viajó por toda Europa y se codeaba con la aristocracia. Se destacó en todos los temas: pintó retratos de duques, reyes y papas, desnudos atrevidos para sus dormitorios, retablos solemnes para las iglesias y escenas paganas de la mitología griega. Era culto e ingenioso, buen músico, un comerciante astuto y, en todo sentido, un verdadero hombre del Renacimiento.\n\nTiziano resistió la tentación de las grandes sumas de dinero que atrajeron a Roma a tantos artistas venecianos de su época. En cambio, siempre volvía a su querida Venecia y a su lugar de culto preferido, la Iglesia de los Frari.\n\nYa anciano, Tiziano dispuso que lo enterraran en los Frari. Para decorar su tumba, empezó a pintar una obra maestra oscura y trágica, llamada la Piedad. Pueden ver un relieve de esa obra arriba, a la izquierda.\n\nCon casi 90 años, Tiziano se esforzaba por terminar su Piedad mientras la peste de 1576 envolvía Venecia. Murió una de cada cuatro personas, entre ellas el hijo de Tiziano. Destrozado, Tiziano murió poco después, por causas naturales. Lo enterraron aquí, como él había pedido, en un lugar humilde, pero su Piedad sin terminar acabó en el museo de la Academia.\n\nTres siglos más tarde, en el año... a ver... eme, de, ce, ce, ce, ele, i, i, creo que es 1852, se levantó este gran monumento para recordar y honrar al pintor más grande de Venecia.\n\nDel lado opuesto de la nave, en un monumento con forma de pirámide, se rinde homenaje al escultor más grande de Venecia. Cuando lleguen, pasen a la siguiente parada.",
+       "en_start": 1156,
+       "coord": [
+        45.4369,
+        12.3266
+       ]
+      },
+      {
+       "n": 10,
+       "name": "El monumento a Canova",
+       "text": "Dos siglos después de Tiziano, Antonio Canova creó estatuas muy pulidas, de un blanco reluciente, de hermosos dioses y diosas griegos, en estilo neoclásico. El propio Canova diseñó este monumento y sus estatuas.\n\nLa forma de pirámide es atemporal: hace pensar en las tumbas de los faraones o en el simbolismo de la Santísima Trinidad cristiana. Las estatuas representan a dolientes, encorvados por la pena, que avanzan arrastrando los pies para rendirle homenaje al gran artista. Hasta el león alado está conmovido. Encima de la puerta hay un retrato de Canova tallado en el mármol.\n\nSi les interesa ver más obras de Canova, que vivió de 1757 a 1822, hay varias expuestas en el Museo Correr, en la Plaza de San Marcos.\n\nSíganme con atención: Canova diseñó esta tumba en forma de pirámide no para él mismo, sino como tumba de un artista al que admiraba muchísimo, Tiziano. Pero la Iglesia de los Frari usó otro diseño para la tumba de Tiziano, así que Canova usó el diseño de la pirámide para una princesa austríaca, en Viena. Después de su muerte, los alumnos de Canova volvieron a usar el diseño aquí, para honrar a su maestro.\n\nDe hecho, Canova no está enterrado aquí. Su cuerpo descansa en el sur de Italia. Pero dentro de la puerta abierta de la tumba se alcanza a distinguir una urna que contiene el corazón de Canova. Estos europeos y sus partes del cuerpo... ¡qué cosa!\n\nNuestra última parada está un poco más adelante en la nave, hacia el altar. Empiecen a caminar y, en la pared de la izquierda, van a ver una tumba grande y recargada, con estatuas de esclavos en negro y blanco. Pasando esa tumba está nuestra última parada: un pequeño altar con un retablo pintado. Cuando lleguen, pasen a la siguiente parada.",
+       "en_start": 1425,
+       "coord": [
+        45.4369,
+        12.3266
+       ]
+      },
+      {
+       "n": 11,
+       "name": "Tiziano, La Virgen de Ca' Pesaro",
+       "text": "Tiziano, La Virgen de Ca' Pesaro, de 1526.\n\nEl segundo retablo de Tiziano para la Iglesia de los Frari muestra todas sus muchas habilidades. Como su maestro Bellini, pone a María sentada y al niño Jesús de pie, en medio de santos que mantienen otra de esas sagradas conversaciones. Y, como Bellini, pinta columnas falsas que hacen eco de las columnas reales de la iglesia.\n\nPero, un momento: María no está en el centro, y la tradicional simetría del Renacimiento está desequilibrada. Los santos idealizados de Tiziano se mezclan con venecianos con barba de un día. Y la escalera se aleja de nosotros en diagonal. María no está sentada en un trono, sino sobre un pedestal. El niño Jesús está inquieto. Las preciadas llaves de san Pedro parecen colgar sin que nadie les preste atención.\n\nEstas cosas trastocan las ideas tradicionales del Renacimiento, pero convierten un grupo de figuras en una escena verdadera y creíble.\n\nSan Pedro está sentado en el centro, vestido de azul y dorado, con un libro. Mira hacia abajo, al jefe de la noble familia Pesaro, que está arrodillado para agradecerle a la Virgen su reciente victoria naval sobre los turcos. Un oficial que lleva una bandera arrastra a un prisionero con turbante.\n\nMientras tanto, san Francisco le habla al niño Jesús y, con la mano, señala hacia abajo, a otros miembros de la familia Pesaro. Abajo a la derecha, el niño que nos mira es el descendiente de los Pesaro que administraba el fondo destinado a que se siguieran diciendo oraciones por su tío muerto.\n\nTiziano combina opuestos: una Virgen de contornos suaves con retratos de un realismo fotográfico, angelitos alados y regordetes con un prisionero musulmán, y una cruz cristiana con una bandera de guerra.\n\nFiel al espíritu humanista de san Francisco, Tiziano deja que los simples mortales se mezclen con los santos, y nosotros estamos ahí mismo, con ellos.\n\nEsperamos que hayan disfrutado de este recorrido por la Iglesia de los Frari. Antes de irse del barrio, consideren visitar la cercana Scuola di San Rocco, con obras maestras de Tintoretto.\n\nGracias a Gene Openshaw, coautor de este recorrido. Grazie, arrivederci, y buen viaje.",
+       "en_start": 1214,
+       "coord": [
+        45.4369,
+        12.3266
+       ]
+      }
+     ]
+    }
+   ]
+  },
   "barcelona": {
    "name": "Barcelona",
    "country": "España",
@@ -3629,5 +4067,5 @@
    ]
   }
  },
- "built_at": "2026-10-25T15:20:40Z"
+ "built_at": "2026-11-01T11:51:24Z"
 }
