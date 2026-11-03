@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>Atardecer: Ponte Vecchio, Piazzale Michelangelo y San Miniato</name>
+<description>Miércoles 4 de noviembre: el sol se pone a las 17:02; cielo naranja de 16:40 a 17:25. Coordenadas aproximadas: para caminar, usen la navegación de Google Maps.</description>
+<Style id="a"><LineStyle><color>ff2400d4</color><width>5</width></LineStyle></Style>
+<Style id="b"><LineStyle><color>ffd47a00</color><width>5</width></LineStyle></Style>
+<Style id="pa"><IconStyle><Icon><href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href></Icon></IconStyle></Style>
+<Style id="pb"><IconStyle><Icon><href>http://maps.google.com/mapfiles/kml/paddle/blu-circle.png</href></Icon></IconStyle></Style>
+<Style id="bus"><IconStyle><Icon><href>http://maps.google.com/mapfiles/kml/shapes/bus.png</href></Icon></IconStyle></Style>
+<Style id="sol"><IconStyle><scale>1.3</scale><Icon><href>http://maps.google.com/mapfiles/kml/shapes/sunny.png</href></Icon></IconStyle></Style>
+
+<Folder><name>Opción A (roja): Piazzale primero y después San Miniato</name>
+<description>Ponte Vecchio → Via de' Bardi → San Niccolò → Rampe del Poggi → Piazzale Michelangelo (atardecer) → escalinata → San Miniato (canto gregoriano ~17:30). Unos 30 min hasta el Piazzale y 10 min más hasta San Miniato. La subida es la más suave.</description>
+<Placemark><name>A1 · Ponte Vecchio (salida del lado sur)</name><description>Crucen el puente y doblen a la IZQUIERDA por Via de' Bardi, que es plana y va junto al río. Salgan de acá a más tardar a las 15:45.</description><styleUrl>#pa</styleUrl><Point><coordinates>11.2530,43.7676</coordinates></Point></Placemark>
+<Placemark><name>A2 · Via de' Bardi y Piazza de' Mozzi</name><description>Calle medieval de palacios. Sigan derecho: después de la plaza la calle se llama Via di San Niccolò.</description><styleUrl>#pa</styleUrl><Point><coordinates>11.2583,43.7663</coordinates></Point></Placemark>
+<Placemark><name>A3 · Via di San Niccolò</name><description>Barrio tranquilo de artesanos, con bares y heladerías. Es un buen lugar para descansar o ir al baño antes de subir.</description><styleUrl>#pa</styleUrl><Point><coordinates>11.2615,43.7655</coordinates></Point></Placemark>
+<Placemark><name>A4 · Porta San Niccolò y comienzo de las Rampe del Poggi</name><description>Torre medieval de la muralla (1324), la única que conserva su altura original. Detrás empiezan las Rampe del Poggi: rampas en zigzag con fuentes y grutas (1870), mitad escalones y mitad rampa, con descansos. Son 10-15 minutos de subida.</description><styleUrl>#pa</styleUrl><Point><coordinates>11.2660,43.7652</coordinates></Point></Placemark>
+<Placemark><name>A5 · Piazzale Michelangelo (atardecer)</name><description>Lleguen a eso de las 16:15-16:30 para conseguir lugar en la baranda. En el centro hay una copia en bronce del David. El sol se pone a las 17:02. Vista de todo Florencia: el Duomo, el Palazzo Vecchio, el Ponte Vecchio y el Arno.</description><styleUrl>#sol</styleUrl><Point><coordinates>11.2650,43.7628</coordinates></Point></Placemark>
+<Placemark><name>A6 · Escalinata a San Miniato</name><description>Crucen la avenida (Viale Galileo) con cuidado y suban la escalinata con cipreses: varios tramos de escalones, con descansos. Son 5-10 minutos.</description><styleUrl>#pa</styleUrl><Point><coordinates>11.2653,43.7611</coordinates></Point></Placemark>
+<Placemark><name>A7 · San Miniato al Monte (fin)</name><description>Iglesia románica del siglo XI, con fachada de mármol blanco y verde. Entrada gratis. Los monjes cantan en gregoriano en la misa de la tarde, alrededor de las 17:30 en invierno (horario aproximado). Durante la misa: silencio y sin fotos. Desde la terraza hay una vista todavía más alta de la ciudad.</description><styleUrl>#pa</styleUrl><Point><coordinates>11.2650,43.7595</coordinates></Point></Placemark>
+<Placemark><name>Recorrido A</name><styleUrl>#a</styleUrl><LineString><tessellate>1</tessellate><coordinates>
+11.2531,43.7681 11.2530,43.7676 11.2540,43.7674 11.2555,43.7670 11.2570,43.7666 11.2583,43.7663 11.2600,43.7659 11.2615,43.7655 11.2635,43.7653 11.2660,43.7652 11.2657,43.7645 11.2650,43.7641 11.2656,43.7637 11.2650,43.7633 11.2650,43.7628 11.2652,43.7620 11.2653,43.7611 11.2651,43.7602 11.2650,43.7595
+</coordinates></LineString></Placemark>
+</Folder>
+
+<Folder><name>Opción B (azul): San Miniato primero y bajada al Piazzale</name>
+<description>Ponte Vecchio → Via de' Bardi → San Niccolò → Porta San Miniato → Via del Monte alle Croci → San Miniato (atardecer desde la terraza) → escalinata de bajada → Piazzale Michelangelo. La subida es más corta pero MÁS EMPINADA; la ventaja es que después se baja. Unos 30-35 min hasta San Miniato.</description>
+<Placemark><name>B1 · Ponte Vecchio (salida del lado sur)</name><description>Crucen el puente y doblen a la IZQUIERDA por Via de' Bardi. Salgan a más tardar a las 15:40.</description><styleUrl>#pb</styleUrl><Point><coordinates>11.2530,43.7676</coordinates></Point></Placemark>
+<Placemark><name>B2 · Porta San Miniato</name><description>Antigua puerta de la muralla, al final de Via di San Niccolò. Crúcenla y empieza la subida.</description><styleUrl>#pb</styleUrl><Point><coordinates>11.2620,43.7641</coordinates></Point></Placemark>
+<Placemark><name>B3 · Via del Monte alle Croci</name><description>Calle empinada entre muros de piedra y olivos, con las estaciones de un Vía Crucis. Al final hay una escalinata hasta San Salvatore al Monte. Vayan despacio y descansen.</description><styleUrl>#pb</styleUrl><Point><coordinates>11.2638,43.7622</coordinates></Point></Placemark>
+<Placemark><name>B4 · San Miniato al Monte (atardecer y canto gregoriano)</name><description>Lleguen a eso de las 16:30. Desde la terraza frente a la iglesia el atardecer se ve igual de lindo que desde el Piazzale, con menos gente. El sol se pone a las 17:02. Canto gregoriano alrededor de las 17:30 (aproximado). Entrada gratis.</description><styleUrl>#sol</styleUrl><Point><coordinates>11.2650,43.7595</coordinates></Point></Placemark>
+<Placemark><name>B5 · Escalinata de bajada</name><description>Bajen por la escalinata de los cipreses hasta la avenida y crúcenla con cuidado hacia el Piazzale.</description><styleUrl>#pb</styleUrl><Point><coordinates>11.2653,43.7611</coordinates></Point></Placemark>
+<Placemark><name>B6 · Piazzale Michelangelo (fin)</name><description>La ciudad iluminada de noche. Para volver: colectivo 12 o 13 (pasaje "Firenze urbano" en la app at bus) o bajada a pie por las Rampe del Poggi hasta la Porta San Niccolò.</description><styleUrl>#pb</styleUrl><Point><coordinates>11.2650,43.7628</coordinates></Point></Placemark>
+<Placemark><name>Recorrido B</name><styleUrl>#b</styleUrl><LineString><tessellate>1</tessellate><coordinates>
+11.2531,43.7681 11.2530,43.7676 11.2540,43.7674 11.2555,43.7670 11.2570,43.7666 11.2583,43.7663 11.2600,43.7659 11.2612,43.7652 11.2620,43.7641 11.2628,43.7632 11.2638,43.7622 11.2645,43.7614 11.2650,43.7608 11.2650,43.7600 11.2650,43.7595 11.2651,43.7602 11.2653,43.7611 11.2652,43.7620 11.2650,43.7628
+</coordinates></LineString></Placemark>
+</Folder>
+
+<Folder><name>Para volver</name>
+<Placemark><name>Colectivos 12 y 13 (Piazzale Michelangelo, aprox.)</name><description>Vuelven al centro sin caminar en bajada a oscuras. Pasaje "Firenze urbano" en la app at bus. Busquen el horario en Google Maps.</description><styleUrl>#bus</styleUrl><Point><coordinates>11.2642,43.7624</coordinates></Point></Placemark>
+</Folder>
+</Document>
+</kml>
