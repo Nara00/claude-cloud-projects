@@ -16,7 +16,7 @@ MODEL = sys.argv[2]
 VOICE = sys.argv[3]
 TOURS = sys.argv[4:]
 # mapa=NN (opcional): número de la parada en el mapa oficial, si difiere del número de pista
-STOP_RE = re.compile(r"^## (\d+) · (.+?) \{en=(\d+):(\d+)(?: mapa=(\d+[a-z]?))?\}\s*$")
+STOP_RE = re.compile(r"^## (\d+) · (.+?) \{en=(\d+):(\d+)(?: mapa=(\d+[a-z]?|intro))?\}\s*$")
 
 
 def parse(md_path):
@@ -131,8 +131,11 @@ def main():
             en_end = stops[i + 1]["en_start"] if i + 1 < len(stops) else en_total
             en_text = " ".join(x["text"] for x in en_segs if s["en_start"] <= x["start"] < en_end)
             # Se dice el número del mapa oficial (sin la letra: 11a, 11b... se anuncian como "Parada 11")
-            num = re.sub(r"[a-z]$", "", s["mapa"]) if s.get("mapa") else s["n"]
-            spoken = f"Parada {num}. {s['name']}.\n\n{s['text']}"
+            if s.get("mapa") == "intro":  # la introducción no lleva número de parada
+                spoken = f"{s['name']}.\n\n{s['text']}"
+            else:
+                num = re.sub(r"[a-z]$", "", s["mapa"]) if s.get("mapa") else s["n"]
+                spoken = f"Parada {num}. {s['name']}.\n\n{s['text']}"
             path = os.path.join(out_dir, f"{s['n']:02d} - {safe(s['name'])}.mp3")
             ws = words(spoken)
             fname = os.path.basename(path)

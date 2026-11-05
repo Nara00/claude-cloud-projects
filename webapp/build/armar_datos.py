@@ -11,7 +11,7 @@ TRAD = os.path.abspath(os.path.join(BASE, "audioguias", "traducciones"))
 OUT = os.path.abspath(os.path.join(BASE, "webapp", "data", "tours.json"))
 CACHE = os.path.abspath(os.path.join(BASE, "webapp", "build", "geo_cache.json"))
 # mapa=NN (opcional): número de la parada en el mapa oficial, si difiere del número de pista
-STOP_RE = re.compile(r"^## (\d+) · (.+?) \{en=(\d+):(\d+)(?: mapa=(\d+[a-z]?))?\}\s*$")
+STOP_RE = re.compile(r"^## (\d+) · (.+?) \{en=(\d+):(\d+)(?: mapa=(\d+[a-z]?|intro))?\}\s*$")
 
 CITIES = {
     "rome": {"name": "Roma", "country": "Italia", "nominatim_city": "Roma, Italia",
@@ -306,7 +306,7 @@ def parse_md(path):
         if line.startswith("# ") and title is None:
             title = line[2:].strip()
         elif m := STOP_RE.match(line):
-            stops.append({"n": int(m[1]), "name": m[2].strip(), "label": m[5],
+            stops.append({"n": int(m[1]), "name": m[2].strip(), "label": "Intro" if m[5] == "intro" else m[5],
                           "en_start": int(m[3]) * 60 + int(m[4]), "text": ""})
         elif stops:
             stops[-1]["text"] += line + "\n"
