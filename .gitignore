@@ -5,3 +5,6 @@ audioguias/salida_gemini/
 webapp/build/geo_cache.json
 audioguias/mp3_originales/
 audioguias/logs/
+
+# Tours del libro (contenido pago): solo se publica cifrado en webapp/privado y audioguias/privado_cifrado
+audioguias/privado/

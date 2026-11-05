@@ -281,3 +281,18 @@ a { color: var(--pink); font-weight: 700; }
   font: 700 14px system-ui, sans-serif; cursor: pointer; }
 .map-hint { margin: .2rem .4rem .8rem; font-size: .85rem; opacity: .75; line-height: 1.35; }
 .tour-header .map-btn + .map-btn { margin-top: .5rem; }
+
+/* Tours privados: menú de contraseña y visor de mapas */
+.menu-capa, .visor-mapa { position: fixed; inset: 0; z-index: 50; background: rgba(0,0,0,.55); display: flex; align-items: center; justify-content: center; padding: 16px; }
+.menu-panel { background: #fff; color: #1d1d1d; border-radius: 22px; padding: 1.2rem; width: min(420px, 100%); display: flex; flex-direction: column; gap: .7rem; }
+.menu-panel h3 { margin: 0; }
+.menu-panel input { font-size: 1.1rem; padding: .7rem .8rem; border-radius: 12px; border: 2px solid #ddd; }
+.menu-panel button { font: 700 1rem system-ui, sans-serif; padding: .75rem; border-radius: 14px; border: 0; cursor: pointer; }
+.menu-ok { background: var(--lime); color: var(--dark); }
+.menu-sec { background: #eee; color: #333; }
+.menu-msg { margin: 0; min-height: 1.2em; font-size: .9rem; }
+.visor-mapa { flex-direction: column; align-items: stretch; padding: 10px; }
+.visor-cerrar { align-self: flex-end; background: #fff; border: 0; border-radius: 12px; padding: .5rem .8rem; font-weight: 800; margin-bottom: 8px; }
+.visor-img { flex: 1; overflow: auto; background: #fff; border-radius: 12px; -webkit-overflow-scrolling: touch; }
+.visor-img img { display: block; width: 100%; height: auto; }
+.dl-btn.lock { cursor: default; opacity: .6; }

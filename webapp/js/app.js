@@ -39,7 +39,7 @@ function cityUrls(city, cityId) {
   const urls = [];
   for (const t of city.tours) {
     for (const s of t.stops) {
-      urls.push(AUDIO_PATH(cityId, t.id, s.n, s.name, s.v));
+      urls.push(stopUrl(cityId, t.id, s));
     }
     for (const m of tourMaps(t)) urls.push(m.url);
   }
@@ -92,9 +92,8 @@ function getFailed(cityId) {
   catch { return []; }
 }
 
-async function stopIsCached(cityId, tourId, stopN, stopName, v) {
+async function stopIsCached(cityId, url) {
   if (!("caches" in window)) return false;
-  const url = AUDIO_PATH(cityId, tourId, stopN, stopName, v);
   const cache = await caches.open("city-" + cityId);
   const match = await cache.match(url);
   return !!match;
@@ -244,7 +243,8 @@ function viewTour(cityId, tourId) {
   const maps = tourMaps(tour);
   for (const m of maps) {
     header.append(
-      el("a", { class: "map-btn", href: m.url, target: "_blank", rel: "noopener" },
+      el("a", { class: "map-btn", href: m.enc ? "#" : m.url, target: "_blank", rel: "noopener",
+        onclick: m.enc ? (ev => { ev.preventDefault(); verMapaCifrado(m); }) : null },
         el("span", { class: "map-ico" }, "🗺"),
         el("span", {}, m.label),
         el("span", { class: "map-ext" }, "↗"),
@@ -256,7 +256,7 @@ function viewTour(cityId, tourId) {
       "Ojo: los números del mapa oficial pueden no coincidir con los del audio. Guíense por el nombre de la parada o por el mapa de abajo."));
   }
   const dirUrl = `https://github.com/Nara00/claude-cloud-projects/tree/audioguias-rick-steves/webapp/audio/${cityId}/${tourId}`;
-  header.append(
+  if (!tour.private) header.append(
     el("a", { class: "zip-btn", href: `https://download-directory.github.io/?url=${encodeURIComponent(dirUrl)}`,
       target: "_blank", rel: "noopener" },
       el("span", { class: "map-ico" }, "⬇"),
@@ -269,7 +269,7 @@ function viewTour(cityId, tourId) {
 
   for (const s of tour.stops) {
     const dot = el("span", { class: "cache-dot", title: "..." }, "·");
-    const audioUrl = AUDIO_PATH(cityId, tourId, s.n, s.name, s.v);
+    const audioUrl = stopUrl(cityId, tourId, s);
     const stopEl = el("div", { class: "stop", id: `stop-${s.n}` },
       el("header", {},
         el("span", { class: "n" }, stopLabel(s)),
@@ -277,6 +277,7 @@ function viewTour(cityId, tourId) {
           el("div", { class: "title" }, s.name),
           el("div", { class: "sub" }, dot, " ", el("span", { class: "sub-text" }, "cargando estado…")),
         ),
+        s.file ? el("span", { class: "dl-btn lock", title: "Tour privado de la familia" }, "🔒") :
         el("a", { class: "dl-btn", href: audioUrl, download: `${String(s.n).padStart(2,"0")} - ${safeFilename(s.name)}.mp3`,
           "aria-label": "Descargar MP3", title: "Descargar MP3",
           onclick: ev => ev.stopPropagation() }, "⬇"),
@@ -290,13 +291,118 @@ function viewTour(cityId, tourId) {
       stopEl.classList.toggle("open");
     });
     root.append(stopEl);
-    stopIsCached(cityId, tourId, s.n, s.name, s.v).then(ok => {
+    stopIsCached(cityId, stopUrl(cityId, tourId, s)).then(ok => {
       dot.textContent = ok ? "●" : "○";
       dot.className = "cache-dot " + (ok ? "ok" : "miss");
       dot.title = ok ? "Descargado, funciona sin internet" : "No descargado";
       stopEl.querySelector(".sub-text").textContent = ok ? "Sin internet ✓" : "Requiere internet";
     });
   }
+}
+
+// -------- Tours privados (cifrados) --------
+// Los tours sacados del libro están cifrados (AES-GCM). La contraseña se pide una vez; en el
+// celular queda guardada la clave derivada, no la contraseña.
+const SILENCIO = "data:audio/mpeg;base64,SUQzBAAAAAAAI1RTU0UAAAAPAAADTGF2ZjYwLjE2LjEwMAAAAAAAAAAAAAAA//OEwAAAAAAAAAAAAEluZm8AAAAPAAAACwAABOAAOzs7Ozs7Ozs7Tk5OTk5OTk5OYmJiYmJiYmJidnZ2dnZ2dnZ2iYmJiYmJiYmJnZ2dnZ2dnZ2dsbGxsbGxsbGxxMTExMTExMTE2NjY2NjY2NjY7Ozs7Ozs7Ozs////////////AAAAAExhdmM2MC4zMQAAAAAAAAAAAAAAACQDwAAAAAAAAATgJ4flhgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA//NExAAAAANIAAAAAExBTUUzLjEwMFVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVTEFNRTMu//NExFMAAANIAAAAADEwMFVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVTEFNRTMu//NExKYAAANIAAAAADEwMFVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVTEFNRTMu//NExKwAAANIAAAAADEwMFVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVTEFNRTMu//NExKwAAANIAAAAADEwMFVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVTEFNRTMu//NExKwAAANIAAAAADEwMFVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVTEFNRTMu//NExKwAAANIAAAAADEwMFVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVTEFNRTMu//NExKwAAANIAAAAADEwMFVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVTEFNRTMu//NExKwAAANIAAAAADEwMFVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV//NExKwAAANIAAAAAFVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV//NExKwAAANIAAAAAFVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV";
+let AUDIO_DESBLOQUEADO = false;
+let CLAVE = null;
+let URL_ACTUAL = null;
+
+const b64 = s => Uint8Array.from(atob(s), c => c.charCodeAt(0));
+const aB64 = buf => btoa(String.fromCharCode(...new Uint8Array(buf)));
+
+function stopUrl(cityId, tourId, s) {
+  return s.file || AUDIO_PATH(cityId, tourId, s.n, s.name, s.v);
+}
+
+async function descifrar(buf) {
+  return crypto.subtle.decrypt({ name: "AES-GCM", iv: buf.slice(0, 12) }, CLAVE, buf.slice(12));
+}
+
+async function claveGuardada() {
+  let raw = null;
+  try { raw = localStorage.getItem("clave_privada"); } catch {}
+  if (!raw || !window.crypto?.subtle) return null;
+  return crypto.subtle.importKey("raw", b64(raw), "AES-GCM", false, ["decrypt"]);
+}
+
+async function desbloquear(password) {
+  const meta = await (await fetch("privado/meta.json", { cache: "no-cache" })).json();
+  const base = await crypto.subtle.importKey("raw", new TextEncoder().encode(password.trim()), "PBKDF2", false, ["deriveBits"]);
+  const bits = await crypto.subtle.deriveBits({ name: "PBKDF2", salt: b64(meta.salt), iterations: meta.iter, hash: "SHA-256" }, base, 256);
+  const key = await crypto.subtle.importKey("raw", bits, "AES-GCM", false, ["decrypt"]);
+  const v = b64(meta.verif);
+  try { await crypto.subtle.decrypt({ name: "AES-GCM", iv: v.slice(0, 12) }, key, v.slice(12)); }
+  catch { return false; }
+  try { localStorage.setItem("clave_privada", aB64(bits)); } catch {}
+  CLAVE = key;
+  return true;
+}
+
+async function cargarPrivado() {
+  try {
+    CLAVE = await claveGuardada();
+    if (!CLAVE) return;
+    const buf = new Uint8Array(await (await fetch("privado/datos.bin")).arrayBuffer());
+    const priv = JSON.parse(new TextDecoder().decode(await descifrar(buf)));
+    for (const [cid, city] of Object.entries(priv.cities)) {
+      if (!DATA.cities[cid]) DATA.cities[cid] = { ...city, tours: [] };
+      const ids = new Set(DATA.cities[cid].tours.map(t => t.id));
+      for (const t of city.tours) if (!ids.has(t.id)) DATA.cities[cid].tours.push({ ...t, private: true });
+    }
+  } catch (e) { console.warn("Tours privados no disponibles:", e); }
+}
+
+async function descargarCifrado(url) {
+  return new Uint8Array(await (await fetch(url)).arrayBuffer());
+}
+
+async function audioPrivadoUrl(url) {
+  const datos = await descifrar(await descargarCifrado(url));
+  if (URL_ACTUAL) URL.revokeObjectURL(URL_ACTUAL);
+  URL_ACTUAL = URL.createObjectURL(new Blob([datos], { type: "audio/mpeg" }));
+  return URL_ACTUAL;
+}
+
+async function verMapaCifrado(m) {
+  try {
+    const datos = await descifrar(await descargarCifrado(m.url));
+    const src = URL.createObjectURL(new Blob([datos], { type: m.type || "image/png" }));
+    const capa = el("div", { class: "visor-mapa", onclick: ev => { if (ev.target === capa) cerrar(); } },
+      el("button", { class: "visor-cerrar", onclick: () => cerrar() }, "✕ Cerrar"),
+      el("div", { class: "visor-img" }, el("img", { src, alt: m.label })),
+    );
+    const cerrar = () => { capa.remove(); URL.revokeObjectURL(src); };
+    document.body.append(capa);
+  } catch (e) { alert("No se pudo abrir el mapa privado."); }
+}
+
+function abrirMenu() {
+  const desbloqueado = !!CLAVE;
+  const input = el("input", { type: "password", placeholder: "Contraseña de la familia", autocomplete: "current-password" });
+  const msg = el("p", { class: "menu-msg" });
+  const capa = el("div", { class: "menu-capa", onclick: ev => { if (ev.target === capa) capa.remove(); } },
+    el("div", { class: "menu-panel" },
+      el("h3", {}, "🔒 Tours privados de la familia"),
+      el("p", {}, desbloqueado
+        ? "Ya están desbloqueados en este celular."
+        : "Algunos tours son solo para la familia. Escribí la contraseña una vez y quedan guardados en este celular."),
+      ...(desbloqueado ? [] : [input, el("button", { class: "menu-ok", onclick: async () => {
+        msg.textContent = "Verificando…";
+        const ok = await desbloquear(input.value).catch(() => false);
+        if (ok) { msg.textContent = "¡Listo! Cargando los tours…"; location.reload(); }
+        else msg.textContent = "Contraseña incorrecta (o sin conexión). Probá de nuevo.";
+      } }, "Desbloquear")]),
+      msg,
+      desbloqueado ? el("button", { class: "menu-sec", onclick: () => {
+        try { localStorage.removeItem("clave_privada"); } catch {}
+        location.reload();
+      } }, "Olvidar la contraseña en este celular") : "",
+      el("button", { class: "menu-sec", onclick: () => capa.remove() }, "Cerrar"),
+    ),
+  );
+  document.body.append(capa);
+  if (!desbloqueado) input.focus();
 }
 
 // Número que se muestra: el del mapa oficial si difiere de la pista (p. ej. "11b"), si no la pista.
@@ -363,9 +469,22 @@ function play(cityId, tourId, n) {
   if (!stop) return;
   PLAYING = { cityId, tourId, stopN: n };
   QUEUE = tour.stops;
-  AUDIO.src = AUDIO_PATH(cityId, tourId, n, stop.name, stop.v);
-  applyRate();  // Safari (iPhone) vuelve a 1× cada vez que cambia la pista
-  AUDIO.play().then(applyRate).catch(e => console.warn("play fail:", e));
+  if (stop.file) {
+    // iPhone solo deja reproducir dentro del toque: desbloqueamos el reproductor con un silencio
+    // y cargamos el audio real cuando termina de descifrarse.
+    if (!AUDIO_DESBLOQUEADO) { AUDIO.src = SILENCIO; AUDIO.play().catch(() => {}); AUDIO_DESBLOQUEADO = true; }
+    const pedido = PLAYING;
+    audioPrivadoUrl(stop.file).then(url => {
+      if (PLAYING !== pedido) return;  // ya eligieron otra parada
+      AUDIO.src = url;
+      applyRate();
+      AUDIO.play().then(applyRate).catch(e => console.warn("play fail:", e));
+    }).catch(e => { console.warn(e); alert("No se pudo abrir este audio privado. Revisá la contraseña en el menú ☰."); });
+  } else {
+    AUDIO.src = AUDIO_PATH(cityId, tourId, n, stop.name, stop.v);
+    applyRate();  // Safari (iPhone) vuelve a 1× cada vez que cambia la pista
+    AUDIO.play().then(applyRate).catch(e => console.warn("play fail:", e));
+  }
   $("#player").hidden = false;
   $("#np-title").textContent = `${stopLabel(stop)} · ${stop.name}`;
   $("#np-sub").textContent = `${tour.title} · ${city.name}`;
@@ -504,5 +623,7 @@ window.addEventListener("hashchange", route);
   await registerSW();
   const r = await fetch(DATA_URL);
   DATA = await r.json();
+  await cargarPrivado();
+  $("#menu").onclick = abrirMenu;
   route();
 })();

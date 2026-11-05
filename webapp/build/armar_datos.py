@@ -392,4 +392,5 @@ def main():
     print(f"Escrito {OUT}", file=sys.stderr)
 
 
-main()
+if __name__ == "__main__":
+    main()
