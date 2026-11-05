@@ -343,7 +343,7 @@ async function cargarPrivado() {
   try {
     CLAVE = await claveGuardada();
     if (!CLAVE) return;
-    const buf = new Uint8Array(await (await fetch("privado/datos.bin")).arrayBuffer());
+    const buf = new Uint8Array(await (await fetch("privado/datos.bin", { cache: "no-cache" })).arrayBuffer());
     const priv = JSON.parse(new TextDecoder().decode(await descifrar(buf)));
     for (const [cid, city] of Object.entries(priv.cities)) {
       if (!DATA.cities[cid]) DATA.cities[cid] = { ...city, tours: [] };
@@ -621,7 +621,7 @@ window.addEventListener("hashchange", route);
 // -------- Init --------
 (async () => {
   await registerSW();
-  const r = await fetch(DATA_URL);
+  const r = await fetch(DATA_URL, { cache: "no-cache" });  // siempre la lista más nueva (sin conexión usa la guardada)
   DATA = await r.json();
   await cargarPrivado();
   $("#menu").onclick = abrirMenu;
