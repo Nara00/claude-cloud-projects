@@ -134,6 +134,9 @@ def main():
                                 "file": "privado/" + rel})
             mapas = []
             for m in t.get("maps", []):
+                if "url" in m:  # mapa externo (p. ej. un archivo privado de Google Drive)
+                    mapas.append({"url": m["url"], "label": m.get("label", "Ver mapa del libro")})
+                    continue
                 rel = f"mapas/{c.nombre(t['id'] + '/mapa/' + m['file'])}.bin"
                 escribir_si_cambia(os.path.join(SALIDA, rel),
                                    c.cifrar(open(os.path.join(FUENTE, m["file"]), "rb").read(), rel))
