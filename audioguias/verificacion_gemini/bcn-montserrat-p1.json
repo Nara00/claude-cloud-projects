@@ -17,6 +17,20 @@
    "tts_attempts": 2,
    "missing_numbers": [],
    "diffs": []
+  },
+  {
+   "n": 2,
+   "name": "Del departamento a Plaça Espanya",
+   "file": "02 - Del departamento a Plaça Espanya.mp3",
+   "es_min": 1.4,
+   "en_min": 0.0,
+   "dur_ratio": 85.01,
+   "word_ratio": 167.0,
+   "audio_match": 1.0,
+   "ppm": 123,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
   }
  ]
 }

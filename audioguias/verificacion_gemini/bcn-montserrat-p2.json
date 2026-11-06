@@ -1,0 +1,22 @@
+{
+ "tour": "bcn-montserrat-p2",
+ "title": "Montserrat: paseo gratis por el recinto (sábado)",
+ "model": "gemini-3.1-flash-tts-preview",
+ "voice": "Charon",
+ "stops": [
+  {
+   "n": 5,
+   "name": "La Plaça de Santa Maria: una vuelta completa",
+   "file": "05 - La Plaça de Santa Maria una vuelta completa.mp3",
+   "es_min": 3.3,
+   "en_min": 0.0,
+   "dur_ratio": 200.54,
+   "word_ratio": 458.0,
+   "audio_match": 1.0,
+   "ppm": 140,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  }
+ ]
+}
