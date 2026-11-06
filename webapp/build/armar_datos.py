@@ -35,7 +35,7 @@ CITIES = {
                          "venice-frari-church"]},
     "barcelona": {"name": "Barcelona", "country": "España", "nominatim_city": "Barcelona, España",
                    "center": [41.3851, 2.1734], "zoom": 14,
-                   "tours": ["barcelona-city-walk", "barcelona-eixample-walk"]},
+                   "tours": ["barcelona-city-walk", "barcelona-eixample-walk", "bcn-montserrat"]},
     "madrid": {"name": "Madrid", "country": "España", "nominatim_city": "Madrid, España",
                 "center": [40.4168, -3.7038], "zoom": 15, "tours": ["madrid-city-walk"]},
     "seville": {"name": "Sevilla", "country": "España", "nominatim_city": "Sevilla, España",
@@ -70,12 +70,15 @@ TOUR_MAPS = {
     "venice-frari-church": ["https://www.ricksteves.com/watch-read-listen/audio/audio-tours/map-audiotours-venice-frari.pdf", "maps/frari-croquis.png"],
     "barcelona-city-walk": "https://www.ricksteves.com/watch-read-listen/audio/audio-tours/map-audiotours-barcelona-city-walk.pdf",
     "barcelona-eixample-walk": "https://www.ricksteves.com/watch-read-listen/audio/audio-tours/barcelona-eixample-walk-map-rick-steves.pdf",
+    "bcn-montserrat": "https://drive.google.com/file/d/1Dk1UGd8g6KdlDIsW2OkihkV2wFTUeGNc/view",
     "madrid-city-walk": "https://www.ricksteves.com/watch-read-listen/audio/audio-tours/map-audiotours-madrid-city-walk.pdf",
     "sevilla-city-walk": "https://www.ricksteves.com/watch-read-listen/audio/audio-tours/sevilla-city-walk-map-rick-steves.pdf",
 }
 
 
 def map_label(url):
+    if "drive.google.com" in url:
+        return "Ver mapa del libro (Google Drive, solo familia)"
     if url.endswith(".pdf"):
         return "Ver mapa oficial de Rick Steves (PDF)"
     if "oficial" in url:
@@ -90,6 +93,7 @@ def tour_maps(tour):
 # Coordenadas aproximadas del punto de inicio de cada tour (centro del lugar).
 # Las paradas internas heredan la coord del tour. Mejora futura: coord por parada.
 TOUR_COORDS = {
+    "bcn-montserrat": [41.5931, 1.8375],
     "rome-pantheon": [41.8986, 12.4769],
     "rome-colosseum": [41.8902, 12.4922],
     "rome-forum": [41.8925, 12.4853],
@@ -122,6 +126,13 @@ TOUR_COORDS = {
 # Puntos del recorrido (aprox.) para dibujar el mapa dentro del tour cuando no hay PDF oficial.
 # label = número de parada que se muestra; stop = parada que reproduce; kind "info" = no es parada.
 TOUR_POINTS = {
+    "bcn-montserrat": [
+        {"label": "3-4", "name": "Estación de arriba del Aeri y subida al recinto (aprox.)", "coord": [41.5922, 1.8366], "stop": 3},
+        {"label": "5-6", "name": "Plaça de Santa Maria y fachada de la basílica", "coord": [41.5930, 1.8371], "stop": 5},
+        {"label": "7", "name": "Arcos mirador al Llobregat (aprox.)", "coord": [41.5926, 1.8373], "stop": 7},
+        {"label": "8", "name": "Oficina de turismo y compras (junto a la cremallera, aprox.)", "coord": [41.5925, 1.8385], "stop": 8},
+        {"label": "9", "name": "Mirador dels Apòstols (almuerzo)", "coord": [41.5939, 1.8401], "stop": 9},
+    ],
     "siena-city-walk": [
         {"label": "🚌", "name": "Colectivo 131R a Florencia (Via Tozzi / Piazza Gramsci, aprox.)", "coord": [43.3228, 11.3310], "kind": "info"},
         {"label": "1-2", "name": "Il Campo", "coord": [43.3187, 11.3316], "stop": 1},
@@ -294,6 +305,7 @@ TOUR_TITLES = {
     "venice-frari-church": "Iglesia de los Frari",
     "barcelona-city-walk": "Paseo por Barcelona",
     "barcelona-eixample-walk": "Paseo por el Eixample",
+    "bcn-montserrat": "Montserrat (sábado)",
     "madrid-city-walk": "Paseo por Madrid",
     "sevilla-city-walk": "Paseo por Sevilla",
 }
