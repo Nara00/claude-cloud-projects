@@ -45,6 +45,20 @@
    "tts_attempts": 2,
    "missing_numbers": [],
    "diffs": []
+  },
+  {
+   "n": 4,
+   "name": "La subida al recinto",
+   "file": "04 - La subida al recinto.mp3",
+   "es_min": 1.5,
+   "en_min": 0.0,
+   "dur_ratio": 87.84,
+   "word_ratio": 186.0,
+   "audio_match": 1.0,
+   "ppm": 131,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
   }
  ]
 }
