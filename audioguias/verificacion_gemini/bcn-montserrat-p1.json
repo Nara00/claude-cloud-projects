@@ -31,6 +31,20 @@
    "tts_attempts": 2,
    "missing_numbers": [],
    "diffs": []
+  },
+  {
+   "n": 3,
+   "name": "El tren R5 y el teleférico",
+   "file": "03 - El tren R5 y el teleférico.mp3",
+   "es_min": 1.5,
+   "en_min": 0.0,
+   "dur_ratio": 89.28,
+   "word_ratio": 191.0,
+   "audio_match": 1.0,
+   "ppm": 134,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
   }
  ]
 }
