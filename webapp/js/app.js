@@ -326,9 +326,17 @@ async function claveGuardada() {
   return crypto.subtle.importKey("raw", b64(raw), "AES-GCM", false, ["decrypt"]);
 }
 
+// Los teclados del celular suelen cambiar lo escrito (mayúscula inicial, guion largo, espacios):
+// lo normalizamos a minúsculas con guiones antes de derivar la clave.
+function normalizarClave(p) {
+  return p.trim().toLowerCase().replace(/[\s\u2010-\u2015\u2212_]+/g, "-");
+}
+
 async function desbloquear(password) {
-  const meta = await (await fetch("privado/meta.json", { cache: "no-cache" })).json();
-  const base = await crypto.subtle.importKey("raw", new TextEncoder().encode(password.trim()), "PBKDF2", false, ["deriveBits"]);
+  let meta;
+  try { meta = await (await fetch("privado/meta.json", { cache: "no-cache" })).json(); }
+  catch { throw new Error("sin-conexion"); }
+  const base = await crypto.subtle.importKey("raw", new TextEncoder().encode(normalizarClave(password)), "PBKDF2", false, ["deriveBits"]);
   const bits = await crypto.subtle.deriveBits({ name: "PBKDF2", salt: b64(meta.salt), iterations: meta.iter, hash: "SHA-256" }, base, 256);
   const key = await crypto.subtle.importKey("raw", bits, "AES-GCM", false, ["decrypt"]);
   const v = b64(meta.verif);
@@ -379,7 +387,8 @@ async function verMapaCifrado(m) {
 
 function abrirMenu() {
   const desbloqueado = !!CLAVE;
-  const input = el("input", { type: "password", placeholder: "Contraseña de la familia", autocomplete: "current-password" });
+  const input = el("input", { type: "text", placeholder: "Contraseña de la familia", autocomplete: "off",
+    autocapitalize: "none", autocorrect: "off", spellcheck: "false" });
   const msg = el("p", { class: "menu-msg" });
   const capa = el("div", { class: "menu-capa", onclick: ev => { if (ev.target === capa) capa.remove(); } },
     el("div", { class: "menu-panel" },
@@ -389,9 +398,12 @@ function abrirMenu() {
         : "Algunos tours son solo para la familia. Escribí la contraseña una vez y quedan guardados en este celular."),
       ...(desbloqueado ? [] : [input, el("button", { class: "menu-ok", onclick: async () => {
         msg.textContent = "Verificando…";
-        const ok = await desbloquear(input.value).catch(() => false);
+        let ok = false, error = "";
+        try { ok = await desbloquear(input.value); } catch (e) { error = e.message; }
         if (ok) { msg.textContent = "¡Listo! Cargando los tours…"; location.reload(); }
-        else msg.textContent = "Contraseña incorrecta (o sin conexión). Probá de nuevo.";
+        else if (error === "sin-conexion") msg.textContent = "No hay conexión a internet. Probá de nuevo con wifi o datos.";
+        else if (!window.crypto?.subtle) msg.textContent = "Este navegador no permite desbloquear. Abrí la página en Chrome o Safari actualizado.";
+        else msg.textContent = "La contraseña no coincide. Revisala y probá de nuevo.";
       } }, "Desbloquear")]),
       msg,
       desbloqueado ? el("button", { class: "menu-sec", onclick: () => {
