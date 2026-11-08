@@ -1,0 +1,6 @@
+# Notas: ronda-tajo
+
+- Guía propia, escrita para el viaje en palabras propias (no es de Rick Steves ni traducción de su libro).
+- El resumen privado de la familia en el Drive se usó solo como referencia del recorrido (orden de calles y lugares) y de los avisos del viaje; no se reutiliza su texto.
+- Horarios, precios y aperturas se dicen en forma general ("verifiquen en la puerta"): cambian con la temporada.
+- Parte llana (plaza de toros, Alameda, Puente Nuevo, La Ciudad) apta para los cuatro; bajada al fondo del tajo marcada como opcional (escaleras y cuestas).

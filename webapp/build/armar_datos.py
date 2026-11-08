@@ -36,10 +36,18 @@ CITIES = {
     "barcelona": {"name": "Barcelona", "country": "España", "nominatim_city": "Barcelona, España",
                    "center": [41.3851, 2.1734], "zoom": 14,
                    "tours": ["barcelona-city-walk", "barcelona-eixample-walk", "bcn-montserrat"]},
+    "granada": {"name": "Granada", "country": "España", "nominatim_city": "Granada, España",
+                "center": [37.1765, -3.5940], "zoom": 15,
+                "tours": ["gra-casco-antiguo", "gra-alhambra", "gra-albaicin"]},
+    "ronda": {"name": "Ronda", "country": "España", "nominatim_city": "Ronda, España",
+              "center": [36.7410, -5.1650], "zoom": 16, "tours": ["ronda-tajo"]},
+    "setenil": {"name": "Setenil de las Bodegas", "country": "España", "nominatim_city": "Setenil de las Bodegas, España",
+                "center": [36.8628, -5.1806], "zoom": 16, "tours": ["setenil-bodegas"]},
+    "seville": {"name": "Sevilla", "country": "España", "nominatim_city": "Sevilla, España",
+                 "center": [37.3886, -5.9823], "zoom": 15,
+                 "tours": ["sevilla-city-walk", "sev-santa-cruz", "sev-triana"]},
     "madrid": {"name": "Madrid", "country": "España", "nominatim_city": "Madrid, España",
                 "center": [40.4168, -3.7038], "zoom": 15, "tours": ["madrid-city-walk"]},
-    "seville": {"name": "Sevilla", "country": "España", "nominatim_city": "Sevilla, España",
-                 "center": [37.3886, -5.9823], "zoom": 15, "tours": ["sevilla-city-walk"]},
 }
 
 # URL del PDF del mapa oficial de Rick Steves para cada tour.
@@ -73,6 +81,12 @@ TOUR_MAPS = {
     "bcn-montserrat": "https://drive.google.com/file/d/1Dk1UGd8g6KdlDIsW2OkihkV2wFTUeGNc/view",
     "madrid-city-walk": "https://www.ricksteves.com/watch-read-listen/audio/audio-tours/map-audiotours-madrid-city-walk.pdf",
     "sevilla-city-walk": "https://www.ricksteves.com/watch-read-listen/audio/audio-tours/sevilla-city-walk-map-rick-steves.pdf",
+    "gra-casco-antiguo": ["https://drive.google.com/file/d/1oaGlPbROrAImcfJBKeDRmjiadJ0xPzIn/view"],
+    "gra-alhambra": [("https://drive.google.com/file/d/19Fokj4wJ66D0jktAimMw6a37Ptd6mZYF/view", "Mapa del libro: todo el recinto (Google Drive, solo familia)"),
+                     ("https://drive.google.com/file/d/1up-qO6WLz3xBTG4_rqca9q8XYYSN6BZX/view", "Mapa del libro: Palacios Nazaríes (Google Drive, solo familia)")],
+    "gra-albaicin": ["https://drive.google.com/file/d/17LWep30mhgss3DCeHyOdgzwNEjHtPLw0/view"],
+    "ronda-tajo": ["https://drive.google.com/file/d/14YSJwCIh9zYK5fk_3sOaAye6WflrDtis/view"],
+    "sev-santa-cruz": ["https://drive.google.com/file/d/1MphI9f6zmuEiIgXMn1DdzwYn1hps_uxL/view"],
 }
 
 
@@ -88,7 +102,9 @@ def map_label(url):
 
 def tour_maps(tour):
     m = TOUR_MAPS.get(tour) or []
-    return [{"url": u, "label": map_label(u)} for u in ([m] if isinstance(m, str) else m)]
+    # Cada mapa es una URL (la etiqueta sale de map_label) o un par (URL, etiqueta propia).
+    return [{"url": u, "label": map_label(u)} if isinstance(u, str) else {"url": u[0], "label": u[1]}
+            for u in ([m] if isinstance(m, str) else m)]
 
 # Coordenadas aproximadas del punto de inicio de cada tour (centro del lugar).
 # Las paradas internas heredan la coord del tour. Mejora futura: coord por parada.
@@ -121,6 +137,13 @@ TOUR_COORDS = {
     "barcelona-eixample-walk": [41.3917, 2.1649],
     "madrid-city-walk": [40.4168, -3.7038],
     "sevilla-city-walk": [37.3886, -5.9823],
+    "gra-casco-antiguo": [37.1747, -3.5977],
+    "gra-alhambra": [37.1768, -3.5893],
+    "gra-albaicin": [37.1811, -3.5927],
+    "ronda-tajo": [36.7413, -5.1658],
+    "setenil-bodegas": [36.8628, -5.1806],
+    "sev-santa-cruz": [37.3863, -5.9919],
+    "sev-triana": [37.3856, -6.0024],
 }
 
 # Puntos del recorrido (aprox.) para dibujar el mapa dentro del tour cuando no hay PDF oficial.
@@ -272,6 +295,67 @@ TOUR_POINTS = {
         {"label": "14", "name": "Plaza de Doña Elvira", "coord": [37.3848, -5.9905], "stop": 14},
         {"label": "15", "name": "Convento de la Encarnación: dulces de las monjas (fin)", "coord": [37.3857, -5.9917], "stop": 15},
     ],
+    "gra-casco-antiguo": [
+        {"label": "2", "name": "Corral del Carbón", "coord": [37.1747, -3.5977], "stop": 2},
+        {"label": "3", "name": "Alcaicería (aprox.)", "coord": [37.1756, -3.599], "stop": 3},
+        {"label": "4", "name": "Plaza de Bib-Rambla", "coord": [37.175, -3.6001], "stop": 4},
+        {"label": "5", "name": "Catedral, fachada principal (aprox.)", "coord": [37.1763, -3.5999], "stop": 5},
+        {"label": "6", "name": "Capilla Real y Madraza, calle Oficios (aprox.)", "coord": [37.176, -3.5985], "stop": 6},
+        {"label": "7", "name": "Plaza de Isabel la Católica", "coord": [37.1766, -3.5974], "stop": 7},
+        {"label": "🚌", "name": "Minibuses a la Alhambra C30/C32 (zona Isabel la Católica, aprox.)", "coord": [37.1768, -3.597], "kind": "info"},
+        {"label": "8", "name": "Plaza Nueva (minibuses C31/C32 al Albaicín)", "coord": [37.1771, -3.5959], "stop": 8},
+        {"label": "9", "name": "El Bañuelo, Carrera del Darro 31 (aprox.)", "coord": [37.1783, -3.5923], "stop": 9},
+        {"label": "10", "name": "Paseo de los Tristes (fin)", "coord": [37.1801, -3.5889], "stop": 10},
+    ],
+    "gra-alhambra": [
+        {"label": "2-3", "name": "Palacio de Carlos V (aprox.)", "coord": [37.1767, -3.5893], "stop": 3},
+        {"label": "4", "name": "Alcazaba: CERRADA en 2026 (vista desde afuera, aprox.)", "coord": [37.177, -3.5913], "stop": 4},
+        {"label": "5", "name": "Entrada a los Palacios Nazaríes: Mexuar (aprox.)", "coord": [37.1772, -3.5899], "stop": 5},
+        {"label": "6-7", "name": "Patio de los Arrayanes y Torre de Comares (aprox.)", "coord": [37.1775, -3.5889], "stop": 6},
+        {"label": "8-11", "name": "Patio de los Leones y salas (aprox.)", "coord": [37.1771, -3.588], "stop": 8},
+        {"label": "12", "name": "El Partal (aprox.)", "coord": [37.1779, -3.5868], "stop": 12},
+        {"label": "13", "name": "Generalife (aprox.)", "coord": [37.1771, -3.5832], "stop": 13},
+        {"label": "14", "name": "Pabellón de entrada y minibús de vuelta (aprox.)", "coord": [37.1757, -3.5843], "stop": 14},
+    ],
+    "gra-albaicin": [
+        {"label": "1-3", "name": "Mirador de San Nicolás y Mezquita Mayor", "coord": [37.1811, -3.5927], "stop": 2},
+        {"label": "4", "name": "Arco de las Pesas (aprox.)", "coord": [37.1826, -3.5924], "stop": 4},
+        {"label": "5", "name": "Plaza Larga (aprox.)", "coord": [37.1829, -3.5921], "stop": 5},
+        {"label": "6", "name": "Mirador de San Cristóbal, opcional (aprox.)", "coord": [37.1851, -3.5937], "stop": 6},
+        {"label": "7", "name": "Santa Isabel la Real y Dar al-Horra (aprox.)", "coord": [37.1819, -3.5949], "stop": 7},
+        {"label": "8", "name": "Placeta de San Miguel Bajo (fin, aprox.)", "coord": [37.1813, -3.5962], "stop": 8},
+    ],
+    "ronda-tajo": [
+        {"label": "P", "name": "Estacionamientos del centro (zona plaza de toros, aprox.)", "coord": [36.7432, -5.1662], "kind": "info"},
+        {"label": "2", "name": "Plaza de toros", "coord": [36.7425, -5.1667], "stop": 2},
+        {"label": "3", "name": "Alameda del Tajo y miradores (aprox.)", "coord": [36.7444, -5.1674], "stop": 3},
+        {"label": "4", "name": "Puente Nuevo", "coord": [36.7413, -5.1658], "stop": 4},
+        {"label": "5", "name": "La Ciudad: Santa María la Mayor (aprox.)", "coord": [36.7372, -5.1652], "stop": 5},
+        {"label": "6", "name": "Opcional: Casa del Rey Moro / Cuesta de Santo Domingo (aprox.)", "coord": [36.7403, -5.1641], "stop": 6},
+        {"label": "7", "name": "Opcional: Puente Viejo, Puente Árabe y Baños Árabes (aprox.)", "coord": [36.7391, -5.162], "stop": 7},
+    ],
+    "sev-santa-cruz": [
+        {"label": "2", "name": "Plaza Virgen de los Reyes y Giralda", "coord": [37.3863, -5.9919], "stop": 2},
+        {"label": "3", "name": "Plaza del Triunfo y Archivo de Indias", "coord": [37.3851, -5.9922], "stop": 3},
+        {"label": "4", "name": "Patio de Banderas", "coord": [37.3845, -5.9914], "stop": 4},
+        {"label": "5", "name": "Entrada a la judería (aprox.)", "coord": [37.3841, -5.9904], "stop": 5},
+        {"label": "6", "name": "Callejón del Agua y Jardines de Murillo (aprox.)", "coord": [37.3845, -5.9893], "stop": 6},
+        {"label": "7", "name": "Plaza de Santa Cruz", "coord": [37.3851, -5.9884], "stop": 7},
+        {"label": "8", "name": "Calle Santa Teresa: casa de Murillo (aprox.)", "coord": [37.3857, -5.989], "stop": 8},
+        {"label": "9", "name": "Calles del beso, calle Reinoso (aprox.)", "coord": [37.3855, -5.9896], "stop": 9},
+        {"label": "10", "name": "Plaza de los Venerables", "coord": [37.3851, -5.9898], "stop": 10},
+        {"label": "11", "name": "Plaza de Doña Elvira (fin)", "coord": [37.3848, -5.9905], "stop": 11},
+    ],
+    "sev-triana": [
+        {"label": "2", "name": "Puente de Isabel II (Triana)", "coord": [37.3858, -6.002], "stop": 2},
+        {"label": "3", "name": "Capilla del Carmen y Plaza del Altozano (aprox.)", "coord": [37.3857, -6.0037], "stop": 3},
+        {"label": "4-5", "name": "Castillo de San Jorge y Mercado de Triana (aprox.)", "coord": [37.3865, -6.0036], "stop": 4},
+        {"label": "6", "name": "Centro Cerámica Triana, calle Antillano Campos (aprox.)", "coord": [37.3872, -6.0052], "stop": 6},
+        {"label": "7", "name": "Calle San Jacinto y calle Pureza (aprox.)", "coord": [37.3846, -6.0044], "stop": 7},
+        {"label": "8", "name": "Capilla de los Marineros, calle Pureza (aprox.)", "coord": [37.3836, -6.0031], "stop": 8},
+        {"label": "9", "name": "Iglesia de Santa Ana (aprox.)", "coord": [37.3827, -6.0027], "stop": 9},
+        {"label": "10", "name": "Calle Betis, junto al río (fin, aprox.)", "coord": [37.3832, -6.0011], "stop": 10},
+    ],
 }
 
 # Pistas regeneradas: versión > 1 para que la app no use la copia vieja guardada en el celular.
@@ -308,6 +392,13 @@ TOUR_TITLES = {
     "bcn-montserrat": "Montserrat (sábado)",
     "madrid-city-walk": "Paseo por Madrid",
     "sevilla-city-walk": "Paseo por Sevilla",
+    "gra-casco-antiguo": "Casco antiguo de Granada",
+    "gra-alhambra": "La Alhambra (martes)",
+    "gra-albaicin": "El Albaicín",
+    "ronda-tajo": "Ronda: el Tajo y el Puente Nuevo",
+    "setenil-bodegas": "Setenil de las Bodegas (miércoles)",
+    "sev-santa-cruz": "Barrio de Santa Cruz",
+    "sev-triana": "Triana",
 }
 
 
