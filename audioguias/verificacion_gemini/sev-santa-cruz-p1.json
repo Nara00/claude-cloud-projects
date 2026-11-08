@@ -1,0 +1,78 @@
+{
+ "tour": "sev-santa-cruz-p1",
+ "title": "Sevilla: el Barrio de Santa Cruz",
+ "model": "gemini-3.1-flash-tts-preview",
+ "voice": "Charon",
+ "stops": [
+  {
+   "n": 1,
+   "name": "Antes de empezar",
+   "file": "01 - Antes de empezar.mp3",
+   "es_min": 1.4,
+   "en_min": 0.0,
+   "dur_ratio": 85.42,
+   "word_ratio": 190.0,
+   "audio_match": 1.0,
+   "ppm": 137,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 2,
+   "name": "La Giralda",
+   "file": "02 - La Giralda.mp3",
+   "es_min": 1.6,
+   "en_min": 0.0,
+   "dur_ratio": 97.25,
+   "word_ratio": 209.0,
+   "audio_match": 1.0,
+   "ppm": 132,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 3,
+   "name": "La Plaza del Triunfo y el Archivo de Indias",
+   "file": "03 - La Plaza del Triunfo y el Archivo de Indias.mp3",
+   "es_min": 1.8,
+   "en_min": 0.0,
+   "dur_ratio": 107.33,
+   "word_ratio": 213.0,
+   "audio_match": 1.0,
+   "ppm": 125,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 4,
+   "name": "El Patio de Banderas",
+   "file": "04 - El Patio de Banderas.mp3",
+   "es_min": 1.5,
+   "en_min": 0.0,
+   "dur_ratio": 87.17,
+   "word_ratio": 195.0,
+   "audio_match": 1.0,
+   "ppm": 138,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 5,
+   "name": "La judería",
+   "file": "05 - La judería.mp3",
+   "es_min": 1.8,
+   "en_min": 0.0,
+   "dur_ratio": 105.38,
+   "word_ratio": 210.0,
+   "audio_match": 1.0,
+   "ppm": 122,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  }
+ ]
+}

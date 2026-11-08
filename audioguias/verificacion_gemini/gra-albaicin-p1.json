@@ -1,0 +1,64 @@
+{
+ "tour": "gra-albaicin-p1",
+ "title": "Granada: el Albaicín",
+ "model": "gemini-3.1-flash-tts-preview",
+ "voice": "Charon",
+ "stops": [
+  {
+   "n": 1,
+   "name": "Cómo subir y cómo moverse",
+   "file": "01 - Cómo subir y cómo moverse.mp3",
+   "es_min": 1.5,
+   "en_min": 0.0,
+   "dur_ratio": 91.3,
+   "word_ratio": 202.0,
+   "audio_match": 1.0,
+   "ppm": 137,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 2,
+   "name": "El Mirador de San Nicolás",
+   "file": "02 - El Mirador de San Nicolás.mp3",
+   "es_min": 1.4,
+   "en_min": 0.0,
+   "dur_ratio": 86.74,
+   "word_ratio": 179.0,
+   "audio_match": 1.0,
+   "ppm": 129,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 3,
+   "name": "La Mezquita Mayor y la iglesia de San Nicolás",
+   "file": "03 - La Mezquita Mayor y la iglesia de San Nicolás.mp3",
+   "es_min": 1.7,
+   "en_min": 0.0,
+   "dur_ratio": 102.67,
+   "word_ratio": 208.0,
+   "audio_match": 1.0,
+   "ppm": 128,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 4,
+   "name": "El Arco de las Pesas",
+   "file": "04 - El Arco de las Pesas.mp3",
+   "es_min": 1.1,
+   "en_min": 0.0,
+   "dur_ratio": 67.44,
+   "word_ratio": 151.0,
+   "audio_match": 1.0,
+   "ppm": 141,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  }
+ ]
+}

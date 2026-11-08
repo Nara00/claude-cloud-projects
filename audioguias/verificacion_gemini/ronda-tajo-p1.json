@@ -1,0 +1,64 @@
+{
+ "tour": "ronda-tajo-p1",
+ "title": "Ronda: el Tajo y el Puente Nuevo",
+ "model": "gemini-3.1-flash-tts-preview",
+ "voice": "Charon",
+ "stops": [
+  {
+   "n": 1,
+   "name": "El plan en Ronda",
+   "file": "01 - El plan en Ronda.mp3",
+   "es_min": 1.4,
+   "en_min": 0.0,
+   "dur_ratio": 86.23,
+   "word_ratio": 194.0,
+   "audio_match": 1.0,
+   "ppm": 139,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 2,
+   "name": "La plaza de toros",
+   "file": "02 - La plaza de toros.mp3",
+   "es_min": 1.6,
+   "en_min": 0.0,
+   "dur_ratio": 93.48,
+   "word_ratio": 200.0,
+   "audio_match": 1.0,
+   "ppm": 132,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 3,
+   "name": "La Alameda y los miradores",
+   "file": "03 - La Alameda y los miradores.mp3",
+   "es_min": 1.1,
+   "en_min": 0.0,
+   "dur_ratio": 67.68,
+   "word_ratio": 136.0,
+   "audio_match": 1.0,
+   "ppm": 127,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 4,
+   "name": "El Puente Nuevo",
+   "file": "04 - El Puente Nuevo.mp3",
+   "es_min": 1.6,
+   "en_min": 0.0,
+   "dur_ratio": 95.4,
+   "word_ratio": 211.0,
+   "audio_match": 1.0,
+   "ppm": 136,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  }
+ ]
+}

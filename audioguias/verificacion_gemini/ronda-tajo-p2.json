@@ -1,0 +1,64 @@
+{
+ "tour": "ronda-tajo-p2",
+ "title": "Ronda: el Tajo y el Puente Nuevo",
+ "model": "gemini-3.1-flash-tts-preview",
+ "voice": "Charon",
+ "stops": [
+  {
+   "n": 5,
+   "name": "La Ciudad, la parte vieja",
+   "file": "05 - La Ciudad, la parte vieja.mp3",
+   "es_min": 1.5,
+   "en_min": 0.0,
+   "dur_ratio": 89.95,
+   "word_ratio": 178.0,
+   "audio_match": 1.0,
+   "ppm": 123,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 6,
+   "name": "Opcional: la bajada por la Cuesta de Santo Domingo",
+   "file": "06 - Opcional la bajada por la Cuesta de Santo Domingo.mp3",
+   "es_min": 1.6,
+   "en_min": 0.0,
+   "dur_ratio": 97.63,
+   "word_ratio": 208.0,
+   "audio_match": 1.0,
+   "ppm": 135,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 7,
+   "name": "Opcional: los puentes viejos y los Baños Árabes",
+   "file": "07 - Opcional los puentes viejos y los Baños Árabes.mp3",
+   "es_min": 1.6,
+   "en_min": 0.0,
+   "dur_ratio": 97.1,
+   "word_ratio": 212.0,
+   "audio_match": 1.0,
+   "ppm": 137,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 8,
+   "name": "Despedida de Ronda",
+   "file": "08 - Despedida de Ronda.mp3",
+   "es_min": 1.0,
+   "en_min": 0.0,
+   "dur_ratio": 59.21,
+   "word_ratio": 129.0,
+   "audio_match": 1.0,
+   "ppm": 136,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  }
+ ]
+}

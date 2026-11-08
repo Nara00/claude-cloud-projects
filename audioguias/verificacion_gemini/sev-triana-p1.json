@@ -1,0 +1,78 @@
+{
+ "tour": "sev-triana-p1",
+ "title": "Sevilla: el barrio de Triana",
+ "model": "gemini-3.1-flash-tts-preview",
+ "voice": "Charon",
+ "stops": [
+  {
+   "n": 1,
+   "name": "Antes de empezar",
+   "file": "01 - Antes de empezar.mp3",
+   "es_min": 1.4,
+   "en_min": 0.0,
+   "dur_ratio": 85.15,
+   "word_ratio": 199.0,
+   "audio_match": 1.0,
+   "ppm": 144,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 2,
+   "name": "El puente de Triana",
+   "file": "02 - El puente de Triana.mp3",
+   "es_min": 1.3,
+   "en_min": 0.0,
+   "dur_ratio": 80.59,
+   "word_ratio": 174.0,
+   "audio_match": 1.0,
+   "ppm": 134,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 3,
+   "name": "La Capilla del Carmen y la Plaza del Altozano",
+   "file": "03 - La Capilla del Carmen y la Plaza del Altozano.mp3",
+   "es_min": 1.4,
+   "en_min": 0.0,
+   "dur_ratio": 84.6,
+   "word_ratio": 181.0,
+   "audio_match": 1.0,
+   "ppm": 136,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 4,
+   "name": "El Castillo de San Jorge y la Inquisición",
+   "file": "04 - El Castillo de San Jorge y la Inquisición.mp3",
+   "es_min": 1.6,
+   "en_min": 0.0,
+   "dur_ratio": 95.02,
+   "word_ratio": 199.0,
+   "audio_match": 1.0,
+   "ppm": 132,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 5,
+   "name": "El Mercado de Triana",
+   "file": "05 - El Mercado de Triana.mp3",
+   "es_min": 1.4,
+   "en_min": 0.0,
+   "dur_ratio": 84.31,
+   "word_ratio": 173.0,
+   "audio_match": 1.0,
+   "ppm": 127,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  }
+ ]
+}

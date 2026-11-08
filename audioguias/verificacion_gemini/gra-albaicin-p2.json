@@ -1,0 +1,64 @@
+{
+ "tour": "gra-albaicin-p2",
+ "title": "Granada: el Albaicín",
+ "model": "gemini-3.1-flash-tts-preview",
+ "voice": "Charon",
+ "stops": [
+  {
+   "n": 5,
+   "name": "La Plaza Larga",
+   "file": "05 - La Plaza Larga.mp3",
+   "es_min": 1.4,
+   "en_min": 0.0,
+   "dur_ratio": 82.3,
+   "word_ratio": 171.0,
+   "audio_match": 1.0,
+   "ppm": 128,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 6,
+   "name": "Opcional: el Mirador de San Cristóbal",
+   "file": "06 - Opcional el Mirador de San Cristóbal.mp3",
+   "es_min": 1.2,
+   "en_min": 0.0,
+   "dur_ratio": 70.2,
+   "word_ratio": 153.0,
+   "audio_match": 1.0,
+   "ppm": 138,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 7,
+   "name": "Santa Isabel la Real y el palacio de Dar al-Horra",
+   "file": "07 - Santa Isabel la Real y el palacio de Dar al-Horra.mp3",
+   "es_min": 1.5,
+   "en_min": 0.0,
+   "dur_ratio": 90.36,
+   "word_ratio": 189.0,
+   "audio_match": 1.0,
+   "ppm": 134,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 8,
+   "name": "La Placeta de San Miguel Bajo",
+   "file": "08 - La Placeta de San Miguel Bajo.mp3",
+   "es_min": 1.4,
+   "en_min": 0.0,
+   "dur_ratio": 82.34,
+   "word_ratio": 181.0,
+   "audio_match": 1.0,
+   "ppm": 138,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  }
+ ]
+}

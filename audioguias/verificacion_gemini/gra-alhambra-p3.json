@@ -1,0 +1,64 @@
+{
+ "tour": "gra-alhambra-p3",
+ "title": "La Alhambra (martes)",
+ "model": "gemini-3.1-flash-tts-preview",
+ "voice": "Charon",
+ "stops": [
+  {
+   "n": 11,
+   "name": "Washington Irving y los cuentos de la Alhambra",
+   "file": "11 - Washington Irving y los cuentos de la Alhambra.mp3",
+   "es_min": 1.5,
+   "en_min": 0.0,
+   "dur_ratio": 92.18,
+   "word_ratio": 183.0,
+   "audio_match": 1.0,
+   "ppm": 126,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 12,
+   "name": "El Partal",
+   "file": "12 - El Partal.mp3",
+   "es_min": 1.4,
+   "en_min": 0.0,
+   "dur_ratio": 81.05,
+   "word_ratio": 184.0,
+   "audio_match": 1.0,
+   "ppm": 139,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 13,
+   "name": "El Generalife",
+   "file": "13 - El Generalife.mp3",
+   "es_min": 1.9,
+   "en_min": 0.0,
+   "dur_ratio": 112.54,
+   "word_ratio": 241.0,
+   "audio_match": 1.0,
+   "ppm": 131,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 14,
+   "name": "La salida y la vuelta",
+   "file": "14 - La salida y la vuelta.mp3",
+   "es_min": 1.2,
+   "en_min": 0.0,
+   "dur_ratio": 69.43,
+   "word_ratio": 160.0,
+   "audio_match": 1.0,
+   "ppm": 144,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  }
+ ]
+}

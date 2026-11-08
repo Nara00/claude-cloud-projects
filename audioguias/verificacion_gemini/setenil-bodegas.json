@@ -1,0 +1,22 @@
+{
+ "tour": "setenil-bodegas",
+ "title": "Setenil de las Bodegas: el pueblo bajo la roca",
+ "model": "gemini-3.1-flash-tts-preview",
+ "voice": "Charon",
+ "stops": [
+  {
+   "n": 1,
+   "name": "Setenil de las Bodegas",
+   "file": "01 - Setenil de las Bodegas.mp3",
+   "es_min": 3.3,
+   "en_min": 0.0,
+   "dur_ratio": 197.21,
+   "word_ratio": 462.0,
+   "audio_match": 1.0,
+   "ppm": 142,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  }
+ ]
+}

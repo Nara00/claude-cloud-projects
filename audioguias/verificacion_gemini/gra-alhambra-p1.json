@@ -1,0 +1,78 @@
+{
+ "tour": "gra-alhambra-p1",
+ "title": "La Alhambra (martes)",
+ "model": "gemini-3.1-flash-tts-preview",
+ "voice": "Charon",
+ "stops": [
+  {
+   "n": 1,
+   "name": "El plan del día",
+   "file": "01 - El plan del día.mp3",
+   "es_min": 1.7,
+   "en_min": 0.0,
+   "dur_ratio": 100.32,
+   "word_ratio": 229.0,
+   "audio_match": 1.0,
+   "ppm": 141,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 2,
+   "name": "La Alhambra en dos minutos",
+   "file": "02 - La Alhambra en dos minutos.mp3",
+   "es_min": 1.7,
+   "en_min": 0.0,
+   "dur_ratio": 102.48,
+   "word_ratio": 193.0,
+   "audio_match": 1.0,
+   "ppm": 117,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 3,
+   "name": "El Palacio de Carlos Quinto",
+   "file": "03 - El Palacio de Carlos Quinto.mp3",
+   "es_min": 1.6,
+   "en_min": 0.0,
+   "dur_ratio": 98.81,
+   "word_ratio": 210.0,
+   "audio_match": 1.0,
+   "ppm": 132,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 4,
+   "name": "La Alcazaba, desde afuera",
+   "file": "04 - La Alcazaba, desde afuera.mp3",
+   "es_min": 1.5,
+   "en_min": 0.0,
+   "dur_ratio": 91.87,
+   "word_ratio": 208.0,
+   "audio_match": 1.0,
+   "ppm": 140,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 5,
+   "name": "Palacios Nazaríes: el Mexuar",
+   "file": "05 - Palacios Nazaríes el Mexuar.mp3",
+   "es_min": 1.8,
+   "en_min": 0.0,
+   "dur_ratio": 105.22,
+   "word_ratio": 211.0,
+   "audio_match": 1.0,
+   "ppm": 124,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  }
+ ]
+}

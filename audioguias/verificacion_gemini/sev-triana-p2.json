@@ -1,0 +1,78 @@
+{
+ "tour": "sev-triana-p2",
+ "title": "Sevilla: el barrio de Triana",
+ "model": "gemini-3.1-flash-tts-preview",
+ "voice": "Charon",
+ "stops": [
+  {
+   "n": 6,
+   "name": "La cerámica de Triana",
+   "file": "06 - La cerámica de Triana.mp3",
+   "es_min": 1.7,
+   "en_min": 0.0,
+   "dur_ratio": 104.16,
+   "word_ratio": 215.0,
+   "audio_match": 1.0,
+   "ppm": 127,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 7,
+   "name": "La calle San Jacinto y la calle Pureza",
+   "file": "07 - La calle San Jacinto y la calle Pureza.mp3",
+   "es_min": 1.3,
+   "en_min": 0.0,
+   "dur_ratio": 79.08,
+   "word_ratio": 166.0,
+   "audio_match": 1.0,
+   "ppm": 134,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 8,
+   "name": "La Capilla de los Marineros",
+   "file": "08 - La Capilla de los Marineros.mp3",
+   "es_min": 1.5,
+   "en_min": 0.0,
+   "dur_ratio": 88.97,
+   "word_ratio": 198.0,
+   "audio_match": 1.0,
+   "ppm": 138,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 9,
+   "name": "La iglesia de Santa Ana",
+   "file": "09 - La iglesia de Santa Ana.mp3",
+   "es_min": 1.3,
+   "en_min": 0.0,
+   "dur_ratio": 80.54,
+   "word_ratio": 176.0,
+   "audio_match": 1.0,
+   "ppm": 136,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 10,
+   "name": "La calle Betis y el río",
+   "file": "10 - La calle Betis y el río.mp3",
+   "es_min": 1.6,
+   "en_min": 0.0,
+   "dur_ratio": 98.33,
+   "word_ratio": 215.0,
+   "audio_match": 1.0,
+   "ppm": 136,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  }
+ ]
+}
