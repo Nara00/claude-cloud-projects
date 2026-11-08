@@ -296,3 +296,10 @@ a { color: var(--pink); font-weight: 700; }
 .visor-img { flex: 1; overflow: auto; background: #fff; border-radius: 12px; -webkit-overflow-scrolling: touch; }
 .visor-img img { display: block; width: 100%; height: auto; }
 .dl-btn.lock { cursor: default; opacity: .6; }
+
+/* NOTAS de la ciudad (cómo llegar, entradas y avisos) */
+.city-notes { background: var(--card); border: 1px solid var(--border); border-radius: 18px; padding: .8rem 1rem; margin: 1rem 0; }
+.city-notes summary { font-weight: 800; letter-spacing: .08em; cursor: pointer; }
+.city-notes h3 { font-size: 1rem; margin: .9rem 0 .3rem; }
+.city-notes ul { margin: 0; padding-left: 1.1rem; }
+.city-notes li { margin: .3rem 0; line-height: 1.4; color: var(--fg); }

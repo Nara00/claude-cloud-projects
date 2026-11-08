@@ -1,14 +1,10 @@
 # Sevilla: el barrio de Triana
 
-## 01 · Antes de empezar {en=00:00}
+## 01 · Introducción {en=00:00}
 
 Hola. Esta guía no es de Rick Steves: la armamos para este viaje, para cruzar el río y recorrer Triana.
 
 Triana es el barrio que está del otro lado del Guadalquivir, frente al centro de Sevilla. Durante siglos fue el barrio de los marineros, de los alfareros que hacían cerámica y azulejos, de los gitanos y de los cantaores de flamenco. Los trianeros tienen tanto orgullo de barrio que, cuando cruzan el puente hacia el centro, todavía dicen que van "a Sevilla", como si fuera otra ciudad.
-
-El paseo es llano y dura alrededor de una hora y media, con paradas. Hay un par de lugares con escalones, y en cada uno les vamos a decir cómo evitarlos.
-
-Un dato práctico: el mercado de Triana tiene más vida a la mañana, y el museo de la cerámica cierra los lunes. Si pueden, hagan el paseo a media mañana y terminen almorzando de tapas en el barrio. O al revés: a la tarde, para terminar viendo el atardecer junto al río.
 
 Empiecen en la entrada del puente de hierro que cruza el río, del lado del centro, el Puente de Isabel Segunda. Cuando estén ahí, pasen a la siguiente parada.
 
@@ -40,9 +36,7 @@ Debajo del mercado, a la altura del río, están las ruinas del Castillo de San 
 
 Desde 1481, y durante trescientos años, fue la sede de la Inquisición en Sevilla. Aquí se encerraba e interrogaba a los acusados de herejía: al principio, sobre todo judíos convertidos al cristianismo, acusados de seguir practicando su religión en secreto. Sevilla fue la primera ciudad de España donde actuó la Inquisición, y aquí se celebraron sus primeros juicios públicos.
 
-Hoy, en las ruinas, hay un pequeño museo gratuito que explica esta historia, con un recorrido por los cimientos del castillo. Es corto y muy interesante.
-
-A la entrada del museo se llega bajando una escalera desde la salida del puente. Si alguien prefiere evitar los escalones, puede ver el museo otro día, o entrar directo al mercado desde la plaza, que está al nivel de la calle.
+Hoy, en las ruinas, hay un pequeño museo que explica esta historia, con un recorrido por los cimientos del castillo.
 
 Junto al castillo hay un pasaje angosto que baja hacia el río, el Callejón de la Inquisición: por ahí, se dice, salían los presos.
 
@@ -54,13 +48,11 @@ El edificio del mercado es moderno, de 2005, pero está hecho a la manera tradic
 
 Recórranlo con calma. Hay puestos de fruta y verdura, carnicerías, pescaderías con lo que llega cada mañana del puerto de Cádiz o de Huelva, aceitunas de todos los tipos, quesos y jamones. Y entre los puestos, barras donde se puede tomar un café, una cerveza o algo para picar, rodeados de vecinos que hacen las compras y se ponen al día.
 
-Es un buen momento para probar algo: unas aceitunas aliñadas, un poco de jamón, o un pescadito frito.
-
 Salgan del mercado por el lado opuesto al río, hacia el interior del barrio, por la calle San Jorge. Caminen unos pasos hasta la calle Antillano Campos, a la izquierda. Ahí, en un edificio de ladrillo con chimeneas de horno, está el centro de la cerámica. Cuando lleguen, pasen a la siguiente parada.
 
 ## 06 · La cerámica de Triana {en=00:00}
 
-Este edificio era una fábrica de cerámica, la de Santa Ana, una de las más famosas del barrio. Hoy es el Centro Cerámica Triana, un pequeño museo, con entrada barata, que cierra los lunes.
+Este edificio era una fábrica de cerámica, la de Santa Ana, una de las más famosas del barrio. Hoy es el Centro Cerámica Triana, un pequeño museo.
 
 Triana hace cerámica desde la época romana. El barro del río era perfecto, y durante siglos el barrio estuvo lleno de alfares, de talleres con hornos. En el siglo dieciséis, un ceramista italiano que se instaló aquí, Niculoso Pisano, enseñó a pintar azulejos planos como si fueran cuadros, y los azulejos de Triana empezaron a decorar iglesias, palacios y patios en España y en América.
 
@@ -84,7 +76,7 @@ Caminen por Pureza hasta una capilla con la puerta abierta y mucha gente que ent
 
 Esta es la Capilla de los Marineros, la casa de la Virgen de la Esperanza de Triana, una de las imágenes más queridas de Sevilla.
 
-Entren con respeto, si está abierta. Al fondo, en el altar, está la Virgen, vestida con mantos bordados, con lágrimas en la cara y llena de joyas.
+Al fondo, en el altar, está la Virgen, vestida con mantos bordados, con lágrimas en la cara y llena de joyas.
 
 En Sevilla, la devoción por las Vírgenes es una pasión que se parece mucho a la del fútbol. Las dos más populares son la Esperanza de Triana y la Esperanza Macarena, del otro lado del río, y cada sevillano es de una o de otra. En la noche del Jueves al Viernes Santo, que aquí llaman la Madrugá, las dos salen en procesión por las calles, y la ciudad entera se queda despierta para verlas pasar. Cuando la Virgen de Triana cruza el puente, es uno de los momentos más emocionantes de la Semana Santa.
 
@@ -98,9 +90,9 @@ Esta es la iglesia de Santa Ana, la parroquia más antigua de Sevilla. En Triana
 
 La mandó construir el rey Alfonso Décimo, el Sabio, en el siglo trece, poco después de la conquista cristiana. Cuenta la tradición que lo hizo para agradecer a Santa Ana que lo curara de una enfermedad en los ojos. Es una iglesia gótica, con una torre que fue cambiando con los siglos.
 
-Adentro, si está abierta, hay una curiosidad. En el piso hay una lápida de azulejos del año 1503, pintada por aquel mismo Niculoso Pisano del museo de la cerámica. La gente la llama la "losa del negro". Dice una costumbre del barrio que las chicas solteras que le dan una patadita encuentran novio. Así que, si la ven, no se sorprendan de que esté gastada.
+Adentro hay una curiosidad. En el piso hay una lápida de azulejos del año 1503, pintada por aquel mismo Niculoso Pisano del museo de la cerámica. La gente la llama la "losa del negro". Dice una costumbre del barrio que las chicas solteras que le dan una patadita encuentran novio. Por eso está tan gastada.
 
-Rodeen la iglesia: del otro lado hay una placita linda con bares. Y desde ahí, tomen cualquiera de las callecitas cortas que van hacia el río. Cuando lleguen a la orilla, pasen a la siguiente parada.
+Rodeen la iglesia: del otro lado hay una placita con bares. Y desde ahí, tomen cualquiera de las callecitas cortas que van hacia el río. Cuando lleguen a la orilla, pasen a la siguiente parada.
 
 ## 10 · La calle Betis y el río {en=00:00}
 
@@ -110,8 +102,6 @@ Enfrente tienen la mejor vista del centro de Sevilla: la Torre del Oro, la plaza
 
 Y piensen en lo que pasó en esta orilla. De los muelles de Triana partieron muchas de las expediciones hacia América. En 1519, de aquí zarparon las cinco naves de Fernando de Magallanes, que buscaba un paso entre los océanos. Bajaron por el río hasta el mar, cruzaron el Atlántico, bajaron por la costa de lo que hoy es Argentina y encontraron el estrecho que lleva su nombre. Tres años después, una sola de esas naves volvió a Sevilla, al mando de Juan Sebastián Elcano, con dieciocho sobrevivientes: habían dado la primera vuelta al mundo.
 
-La calle Betis está llena de bares y restaurantes con terrazas sobre el río. Es un lugar perfecto para el atardecer, o para empezar una ruta de tapas por el barrio que acaban de conocer.
-
-Para volver al centro, caminen por la orilla hasta el puente de Triana y crúcenlo de nuevo.
+La calle Betis está llena de bares y restaurantes con terrazas sobre el río.
 
 Con esto termina el paseo por Triana. Que lo disfruten.

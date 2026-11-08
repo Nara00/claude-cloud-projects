@@ -1,12 +1,8 @@
 # Sevilla: el Barrio de Santa Cruz
 
-## 01 · Antes de empezar {en=00:00}
+## 01 · Introducción {en=00:00}
 
 Hola. Esta guía no es de Rick Steves: la armamos para este viaje, para recorrer el Barrio de Santa Cruz, el más antiguo y más enredado de Sevilla.
-
-Es un paseo llano, por callecitas peatonales de piedra, de una hora larga con calma. Hay muchas placitas con bancos y bares para parar. La mejor hora es al atardecer o a primera hora de la mañana, cuando todavía no llegaron, o ya se fueron, los grandes grupos de turistas.
-
-Si ya escucharon el "Paseo por Sevilla" de Rick en esta aplicación, van a reconocer algunos lugares. Esta guía los complementa con otras historias y se mete un poco más en el barrio.
 
 Una idea para tener en la cabeza: Santa Cruz fue la judería de Sevilla, el barrio donde vivía la comunidad judía en la Edad Media. Casi no quedan edificios de esa época, pero sí quedó el trazado: calles angostas que doblan sin aviso, pensadas para dar sombra y para cerrarse de noche.
 
@@ -22,7 +18,7 @@ En el siglo dieciséis le agregaron la parte de arriba, renacentista, con las ca
 
 Detrás de ustedes, el edificio rojizo con balcones es el Palacio Arzobispal, la residencia del arzobispo.
 
-La catedral merece una visita aparte, con entrada: es una de las catedrales góticas más grandes del mundo y guarda el sepulcro de Cristóbal Colón.
+La catedral es una de las catedrales góticas más grandes del mundo, y guarda el sepulcro de Cristóbal Colón.
 
 Ahora, con la catedral a su derecha, caminen hacia la plaza siguiente, la que tiene una columna con una estatua en el centro. Cuando estén ahí, pasen a la siguiente parada.
 
@@ -32,7 +28,7 @@ Esta plaza está rodeada por tres grandes edificios: la catedral, las murallas d
 
 Ese edificio se construyó a fines del siglo dieciséis como lonja, un lugar para que los comerciantes hicieran negocios a cubierto, en vez de hacerlos en las escalinatas de la catedral, como era costumbre. Era la época dorada de Sevilla: todo el comercio con América pasaba obligatoriamente por esta ciudad, y aquí se compraban y vendían plata, oro, tabaco, cacao y azúcar.
 
-Dos siglos después, el rey decidió reunir aquí todos los papeles sobre América: mapas, cartas, contratos, listas de pasajeros. Hoy guarda millones de páginas, entre ellas documentos de Colón, de Hernán Cortés y de la fundación de muchas ciudades americanas, también de Argentina. La entrada es gratis, y la escalera de mármol y las salas valen la visita si está abierto.
+Dos siglos después, el rey decidió reunir aquí todos los papeles sobre América: mapas, cartas, contratos, listas de pasajeros. Hoy guarda millones de páginas, entre ellas documentos de Colón, de Hernán Cortés y de la fundación de muchas ciudades americanas, también de Argentina.
 
 La columna de la plaza recuerda el terremoto de 1755, que destruyó Lisboa y que en Sevilla se sintió con fuerza, pero sin una gran catástrofe. Los sevillanos lo consideraron un milagro, un triunfo de la Virgen, y de ahí el nombre de la plaza.
 
@@ -42,9 +38,9 @@ Ahora busquen el arco en la muralla del Alcázar, al fondo de la plaza, atravié
 
 Están en el Patio de Banderas, una plaza cerrada, con naranjos y casas blancas y amarillas. Era el patio de armas del Alcázar, donde formaba la guardia del palacio.
 
-El Alcázar, que está detrás de esas murallas, es el palacio real en uso más antiguo de Europa: los reyes de España todavía se alojan ahí cuando vienen a Sevilla. Hubo un palacio musulmán primero, y sobre él, en el siglo catorce, el rey cristiano Pedro Primero mandó construir un palacio de estilo mudéjar, con artesanos de Granada y Toledo, que se parece mucho a la Alhambra. La visita es paga y necesita entrada aparte. Por si les interesa: algunas escenas de la serie Juego de Tronos se filmaron en sus jardines.
+El Alcázar, que está detrás de esas murallas, es el palacio real en uso más antiguo de Europa: los reyes de España todavía se alojan ahí cuando vienen a Sevilla. Hubo un palacio musulmán primero, y sobre él, en el siglo catorce, el rey cristiano Pedro Primero mandó construir un palacio de estilo mudéjar, con artesanos de Granada y Toledo, que se parece mucho a la Alhambra. Algunas escenas de la serie Juego de Tronos se filmaron en sus jardines.
 
-Ahora, una vista. Vayan hasta el arco del rincón por el que se sale del patio, del otro lado, y antes de cruzarlo dense vuelta: desde aquí, la Giralda aparece enmarcada sobre los techos. Es una de las fotos más lindas del paseo.
+Ahora, una vista. Vayan hasta el arco del rincón por el que se sale del patio, del otro lado, y antes de cruzarlo dense vuelta: desde aquí, la Giralda aparece enmarcada sobre los techos.
 
 Crucen ese arco y sigan por el pasaje largo y angosto, junto a la muralla. Cuando el pasaje doble y entren en las callecitas del barrio, pasen a la siguiente parada.
 
@@ -64,11 +60,11 @@ Sigan por las callecitas, guiándose por los carteles de "Calle Agua" o "Callej�
 
 El Callejón del Agua corre pegado a la muralla. Se llama así porque por dentro de esta muralla pasaban los caños que llevaban agua al Alcázar desde un acueducto que venía desde las afueras de la ciudad.
 
-A la izquierda, asómense con discreción a las rejas: detrás hay patios privados, con azulejos, macetas, helechos y fuentes. El patio es el corazón de la casa sevillana. Es el lugar fresco donde se hace la vida en los meses de calor.
+A la izquierda, asómense a las rejas: detrás hay patios privados, con azulejos, macetas, helechos y fuentes. El patio es el corazón de la casa sevillana. Es el lugar fresco donde se hace la vida en los meses de calor.
 
-Al final del callejón se abre un espacio verde: los Jardines de Murillo, que antes eran huertas del Alcázar. Si caminan un poco por el borde de los jardines, encuentran el monumento a Colón: dos columnas altas con una carabela de bronce arriba y un león. Es de principios del siglo veinte y recuerda que de Sevilla salía y volvía la ruta de las Indias.
+Al final del callejón se abre un espacio verde: los Jardines de Murillo, que antes eran huertas del Alcázar. Al borde de los jardines está el monumento a Colón: dos columnas altas con una carabela de bronce arriba y un león. Es de principios del siglo veinte y recuerda que de Sevilla salía y volvía la ruta de las Indias.
 
-No hace falta entrar a los jardines ahora. Vuelvan unos pasos al barrio y busquen una placita con una gran cruz de hierro en el centro. Está muy cerca, a la izquierda. Cuando la encuentren, pasen a la siguiente parada.
+Vuelvan unos pasos al barrio y busquen una placita con una gran cruz de hierro en el centro. Está muy cerca, a la izquierda. Cuando la encuentren, pasen a la siguiente parada.
 
 ## 07 · La Plaza de Santa Cruz {en=00:00}
 
@@ -76,15 +72,13 @@ Esta es la Plaza de Santa Cruz, la que le da nombre al barrio. En el centro hay 
 
 En esta plaza hubo una sinagoga, que después de 1391 se convirtió en la iglesia de Santa Cruz. En esa iglesia estaba enterrado Bartolomé Esteban Murillo, el gran pintor de Sevilla. Cuando las tropas de Napoleón ocuparon la ciudad, en 1810, demolieron la iglesia, y los restos de Murillo se perdieron. Hoy una placa lo recuerda, y la plaza es uno de los rincones más tranquilos del barrio.
 
-Cerca de aquí hay un tablao, un lugar de espectáculos de flamenco, por si quieren ver uno alguna noche en Sevilla.
-
 Salgan de la plaza por la calle Santa Teresa, que sale hacia el norte, y caminen unos pasos. Cuando vean una casa con una placa que menciona a Murillo, pasen a la siguiente parada.
 
 ## 08 · La calle Santa Teresa {en=00:00}
 
 En esta calle vivió Murillo sus últimos años, en una casa con patio. Murillo nació en Sevilla en 1617 y casi no salió de ella en toda su vida. Pintó Vírgenes dulces y luminosas, que se volvieron la imagen de la Inmaculada en medio mundo, y también chicos pobres de la calle, comiendo fruta o jugando, como los que vería por este mismo barrio. Murió en 1682, después de caerse de un andamio mientras pintaba un retablo en Cádiz.
 
-Enfrente, la puerta grande de madera es el convento de San José del Carmen, de monjas carmelitas descalzas. Lo fundó Santa Teresa de Jesús, que vino a Sevilla en 1575 y pasó aquí una temporada difícil: los sevillanos no la recibieron muy bien. El convento conserva tesoros relacionados con ella, entre ellos uno de sus manuscritos y un retrato suyo pintado en vida. El convento es de clausura y no se visita.
+Enfrente, la puerta grande de madera es el convento de San José del Carmen, de monjas carmelitas descalzas. Lo fundó Santa Teresa de Jesús, que vino a Sevilla en 1575 y pasó aquí una temporada difícil: los sevillanos no la recibieron muy bien. El convento conserva tesoros relacionados con ella, entre ellos uno de sus manuscritos y un retrato suyo pintado en vida.
 
 Sigan por la calle Santa Teresa y, poco después, doblen a la izquierda por las callecitas que se meten hacia el oeste, siguiendo el cartel de la calle Lope de Rueda y después la calle Reinoso. Cuando estén en una calle tan angosta que los balcones casi se tocan, pasen a la siguiente parada.
 
@@ -102,11 +96,11 @@ Sigan unos pasos más, y la calle se abre en una plaza con un edificio rojo y bl
 
 El edificio barroco, de ladrillo rojizo y paredes claras, es el Hospital de los Venerables. Se construyó a fines del siglo diecisiete como residencia para sacerdotes ancianos y pobres, los "venerables".
 
-Hoy es un centro cultural. Adentro tiene un patio precioso, una iglesia completamente pintada y una pequeña colección de pintura, con obras de Velázquez, que también era sevillano, y de Murillo. La entrada es paga y los horarios cambian, así que si les interesa, pregunten en la puerta.
+Hoy es un centro cultural. Adentro tiene un patio precioso, una iglesia completamente pintada y una pequeña colección de pintura, con obras de Velázquez, que también era sevillano, y de Murillo.
 
-La plaza es uno de los corazones del barrio: tiene bancos, naranjos y una fuente en el centro. Es un buen lugar para descansar las piernas antes del final.
+La plaza es uno de los corazones del barrio: tiene naranjos y una fuente en el centro.
 
-Salgan de la plaza por la calle Gloria. En una de las paredes hay un gran mapa de azulejos del barrio, por si quieren ubicarse. Sigan la calle Gloria unos pocos pasos, hasta otra plaza con bancos de azulejos. Cuando lleguen, pasen a la siguiente parada.
+Salgan de la plaza por la calle Gloria. En una de las paredes hay un gran mapa de azulejos del barrio. Sigan la calle Gloria unos pocos pasos, hasta otra plaza con bancos de azulejos. Cuando lleguen, pasen a la siguiente parada.
 
 ## 11 · La Plaza de Doña Elvira {en=00:00}
 
@@ -115,7 +109,5 @@ Esta placita, con naranjos, bancos cubiertos de azulejos y una fuente baja, es e
 Muchas de las historias románticas que hicieron famosa a Sevilla se ubican en rincones como este. La más conocida es la de Don Juan Tenorio, el seductor que conquistaba y abandonaba mujeres, protagonista de obras de teatro y de óperas, como Don Giovanni de Mozart. Según la tradición, aquí habría vivido una de sus enamoradas.
 
 Lo que ven es más nuevo de lo que parece. A fines del siglo diecinueve el barrio estaba abandonado y muy deteriorado. Se renovó en los años veinte, cuando Sevilla se preparaba para la Exposición Iberoamericana de 1929, y entonces se le agregaron muchos de los azulejos, rejas y faroles que hoy parecen centenarios. Es una reconstrucción, pero muy respetuosa del espíritu del barrio.
-
-Para volver, salgan de la plaza hacia el norte, y en pocos minutos llegan a la calle Mateos Gago, llena de bares de tapas, que los devuelve a la Giralda.
 
 Con esto termina el paseo por el Barrio de Santa Cruz. Que lo disfruten.

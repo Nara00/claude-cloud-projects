@@ -358,9 +358,74 @@ TOUR_POINTS = {
     ],
 }
 
+# Sección "NOTAS" de cada ciudad (texto en la app, no audio): cómo llegar, entradas y avisos.
+# Cada nota: título + puntos. Los números de parada son los de los audios de la app.
+CITY_NOTES = {
+    "granada": [
+        {"title": "La Alhambra (martes 10/11)", "items": [
+            "Entrada ya comprada. Palacios Nazaríes: turno de las 14:30. El margen para entrar es corto: estar en la fila un rato antes.",
+            "Llevar los pasaportes físicos: las entradas son nominales y los piden.",
+            "Cómo llegar: minibús rojo C30 o C32 (zona Plaza Isabel la Católica) o taxi (~€6). No subir caminando: adentro se camina varias horas.",
+            "Adentro de los Palacios Nazaríes no hay baños: pasar antes. En noviembre el recinto cierra a las 18:00.",
+            "🚨 Por los sismos de agosto de 2026, la Alcazaba está CERRADA y la Torre de Comares sin acceso. En el tour de la app: la parada 04 (Alcazaba) se escucha mirándola desde afuera, y la 07 (Sala de la Barca y Salón de Comares) se saltea o se ve desde la puerta si sigue cerrada. Confirmar en la entrada.",
+            "Del Partal al Generalife: 10 a 15 minutos de subida suave, con algunos escalones. La Escalera del Agua (parada 13) es opcional.",
+            "Para volver: minibús C30/C32 o taxi desde el pabellón de entrada. El camino a pie hasta el Paseo de los Tristes es empinado y de tierra.",
+        ]},
+        {"title": "El Albaicín", "items": [
+            "Cómo llegar: minibús C31 o C32 desde Plaza Nueva, o taxi, hasta el Mirador de San Nicolás. Recorrerlo en bajada.",
+            "La parada 06 (Mirador de San Cristóbal) es opcional: subida corta pero empinada desde la Plaza Larga.",
+            "Para volver: minibús C31/C32 o taxi desde la zona de San Miguel Bajo. A pie hasta Plaza Nueva son unos 15 minutos de cuestas y escalones.",
+            "Atardecer en San Nicolás: alrededor de las 18:00 en noviembre, con mucha gente. Cuidar celulares y carteras. De noche las calles están oscuras: volver en minibús o taxi.",
+        ]},
+        {"title": "Casco antiguo", "items": [
+            "Casi todo llano. El último tramo, por la Carrera del Darro, sube suave y es empedrado.",
+            "Entradas pagas, opcionales, con horarios que cambian: catedral, Capilla Real, Madraza y El Bañuelo.",
+            "Al final, desde el Paseo de los Tristes: minibús C31/C32 o taxi para volver a Plaza Nueva.",
+        ]},
+        {"title": "Mapas", "items": [
+            "Los números de los mapas del libro (Google Drive) no coinciden con los de los audios. El mapa de calles de cada tour sí usa los números de los audios.",
+        ]},
+    ],
+    "ronda": [
+        {"title": "Ronda (miércoles 11/11, unas 3 h)", "items": [
+            "Plan base para todos: el circuito llano del Puente Nuevo. Paradas 02 a 05: plaza de toros, Alameda y miradores, Puente Nuevo y La Ciudad.",
+            "El walk del Tajo (paradas 06 y 07, bajada al fondo de la garganta) es opcional según ganas y tiempo: muchas escaleras y cuestas, de ida y vuelta. Quien no baje puede esperar arriba, cerca del puente.",
+            "La Mina, en la Casa del Rey Moro: 280 escalones, desvío extra pago.",
+            "Pagos y con horarios cortos: museo de la plaza de toros y Baños Árabes. Verificar en la puerta.",
+            "Auto: estacionamientos subterráneos señalizados del centro, cerca de la plaza de toros.",
+        ]},
+    ],
+    "setenil": [
+        {"title": "Setenil (miércoles 11/11, ~11:50)", "items": [
+            "Parada en auto, camino de Granada a Ronda. Calcular 1 h a 1 h 15.",
+            "Estacionar en la parte alta (la parte nueva), en el estacionamiento señalizado. Al mediodía se complica: ir directo, sin intentar bajar con el auto.",
+            "Bajar caminando por la calle principal hasta el río.",
+            "El paseo por Cuevas del Sol y Cuevas de la Sombra, a lo largo del río, es llano: apto para los cuatro. Subir al castillo sí es cuesta.",
+            "Ronda queda a unos 20 minutos de ruta.",
+        ]},
+    ],
+    "seville": [
+        {"title": "Triana", "items": [
+            "Recorrido llano, con dos escaleras en el camino del libro. Alternativas a nivel de calle (verificar en el lugar):",
+            "1) Al final del puente, la escalera que baja al Castillo de San Jorge: en vez de bajar, seguir por la Plaza del Altozano y entrar al mercado por la calle San Jorge. El museo del castillo se puede saltear.",
+            "2) La salida del mercado \"por abajo\": salir por la puerta de la calle San Jorge, a nivel, y seguir el recorrido.",
+            "El mercado tiene más vida a la mañana. El Centro Cerámica Triana cierra los lunes.",
+            "Para volver al centro: caminar por la calle Betis hasta el puente de Triana y cruzarlo.",
+        ]},
+        {"title": "Barrio de Santa Cruz", "items": [
+            "Llano y peatonal. Mejor al atardecer o temprano, sin los grupos grandes.",
+            "Entradas aparte: catedral y Giralda, Real Alcázar (pagas); Archivo de Indias (gratis); Hospital de los Venerables (pago).",
+            "Los números del mapa del libro (Google Drive) no coinciden con los de los audios. El mapa de calles del tour sí.",
+        ]},
+    ],
+}
+
 # Pistas regeneradas: versión > 1 para que la app no use la copia vieja guardada en el celular.
 AUDIO_VERSIONS = {
     "siena-city-walk": {n: 2 for n in range(11, 21)},  # numeración del mapa oficial (nov. 2026)
+    # Andalucía: audios rehechos sin avisos (los avisos pasaron a NOTAS)
+    **{t: {n: 2 for n in range(1, 21)} for t in ("gra-casco-antiguo", "gra-alhambra", "gra-albaicin", "ronda-tajo",
+                                                  "setenil-bodegas", "sev-santa-cruz", "sev-triana")},
 }
 
 TOUR_TITLES = {
@@ -393,7 +458,7 @@ TOUR_TITLES = {
     "madrid-city-walk": "Paseo por Madrid",
     "sevilla-city-walk": "Paseo por Sevilla",
     "gra-casco-antiguo": "Casco antiguo de Granada",
-    "gra-alhambra": "La Alhambra (martes)",
+    "gra-alhambra": "La Alhambra",
     "gra-albaicin": "El Albaicín",
     "ronda-tajo": "Ronda: el Tajo y el Puente Nuevo",
     "setenil-bodegas": "Setenil de las Bodegas (miércoles)",
@@ -466,6 +531,8 @@ def main():
     data = {"cities": {}, "built_at": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime())}
     for cid, city in CITIES.items():
         city_entry = {k: city[k] for k in ("name", "country", "center", "zoom")}
+        if cid in CITY_NOTES:
+            city_entry["notes"] = CITY_NOTES[cid]
         city_entry["tours"] = []
         for tour in city["tours"]:
             md = os.path.join(TRAD, tour + ".md")

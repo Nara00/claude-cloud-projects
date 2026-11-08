@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2"><Document>
+<name>Andalucía: paradas de las audioguías</name>
+<description>Paradas de los tours de la app (Granada, Ronda, Setenil, Sevilla). Coordenadas aproximadas. Los números son los de los audios.</description>
+<Style id="s-granada"><IconStyle><color>ff7b4be7</color><scale>1.1</scale></IconStyle></Style>
+<Style id="s-ronda"><IconStyle><color>ff3d9cf5</color><scale>1.1</scale></IconStyle></Style>
+<Style id="s-setenil"><IconStyle><color>ff5fc29f</color><scale>1.1</scale></IconStyle></Style>
+<Style id="s-seville"><IconStyle><color>ffd0a35f</color><scale>1.1</scale></IconStyle></Style>
+<Folder><name>Granada · Casco antiguo de Granada</name>
+<Placemark><name>2 · Corral del Carbón</name><description>Granada · Casco antiguo de Granada</description><styleUrl>#s-granada</styleUrl><Point><coordinates>-3.5977,37.1747,0</coordinates></Point></Placemark>
+<Placemark><name>3 · Alcaicería (aprox.)</name><description>Granada · Casco antiguo de Granada</description><styleUrl>#s-granada</styleUrl><Point><coordinates>-3.599,37.1756,0</coordinates></Point></Placemark>
+<Placemark><name>4 · Plaza de Bib-Rambla</name><description>Granada · Casco antiguo de Granada</description><styleUrl>#s-granada</styleUrl><Point><coordinates>-3.6001,37.175,0</coordinates></Point></Placemark>
+<Placemark><name>5 · Catedral, fachada principal (aprox.)</name><description>Granada · Casco antiguo de Granada</description><styleUrl>#s-granada</styleUrl><Point><coordinates>-3.5999,37.1763,0</coordinates></Point></Placemark>
+<Placemark><name>6 · Capilla Real y Madraza, calle Oficios (aprox.)</name><description>Granada · Casco antiguo de Granada</description><styleUrl>#s-granada</styleUrl><Point><coordinates>-3.5985,37.176,0</coordinates></Point></Placemark>
+<Placemark><name>7 · Plaza de Isabel la Católica</name><description>Granada · Casco antiguo de Granada</description><styleUrl>#s-granada</styleUrl><Point><coordinates>-3.5974,37.1766,0</coordinates></Point></Placemark>
+<Placemark><name>🚌 Minibuses a la Alhambra C30/C32 (zona Isabel la Católica, aprox.)</name><description>Granada · Casco antiguo de Granada</description><styleUrl>#s-granada</styleUrl><Point><coordinates>-3.597,37.1768,0</coordinates></Point></Placemark>
+<Placemark><name>8 · Plaza Nueva (minibuses C31/C32 al Albaicín)</name><description>Granada · Casco antiguo de Granada</description><styleUrl>#s-granada</styleUrl><Point><coordinates>-3.5959,37.1771,0</coordinates></Point></Placemark>
+<Placemark><name>9 · El Bañuelo, Carrera del Darro 31 (aprox.)</name><description>Granada · Casco antiguo de Granada</description><styleUrl>#s-granada</styleUrl><Point><coordinates>-3.5923,37.1783,0</coordinates></Point></Placemark>
+<Placemark><name>10 · Paseo de los Tristes (fin)</name><description>Granada · Casco antiguo de Granada</description><styleUrl>#s-granada</styleUrl><Point><coordinates>-3.5889,37.1801,0</coordinates></Point></Placemark>
+</Folder>
+<Folder><name>Granada · La Alhambra</name>
+<Placemark><name>2-3 · Palacio de Carlos V (aprox.)</name><description>Granada · La Alhambra</description><styleUrl>#s-granada</styleUrl><Point><coordinates>-3.5893,37.1767,0</coordinates></Point></Placemark>
+<Placemark><name>4 · Alcazaba: CERRADA en 2026 (vista desde afuera, aprox.)</name><description>Granada · La Alhambra</description><styleUrl>#s-granada</styleUrl><Point><coordinates>-3.5913,37.177,0</coordinates></Point></Placemark>
+<Placemark><name>5 · Entrada a los Palacios Nazaríes: Mexuar (aprox.)</name><description>Granada · La Alhambra</description><styleUrl>#s-granada</styleUrl><Point><coordinates>-3.5899,37.1772,0</coordinates></Point></Placemark>
+<Placemark><name>6-7 · Patio de los Arrayanes y Torre de Comares (aprox.)</name><description>Granada · La Alhambra</description><styleUrl>#s-granada</styleUrl><Point><coordinates>-3.5889,37.1775,0</coordinates></Point></Placemark>
+<Placemark><name>8-11 · Patio de los Leones y salas (aprox.)</name><description>Granada · La Alhambra</description><styleUrl>#s-granada</styleUrl><Point><coordinates>-3.588,37.1771,0</coordinates></Point></Placemark>
+<Placemark><name>12 · El Partal (aprox.)</name><description>Granada · La Alhambra</description><styleUrl>#s-granada</styleUrl><Point><coordinates>-3.5868,37.1779,0</coordinates></Point></Placemark>
+<Placemark><name>13 · Generalife (aprox.)</name><description>Granada · La Alhambra</description><styleUrl>#s-granada</styleUrl><Point><coordinates>-3.5832,37.1771,0</coordinates></Point></Placemark>
+<Placemark><name>14 · Pabellón de entrada y minibús de vuelta (aprox.)</name><description>Granada · La Alhambra</description><styleUrl>#s-granada</styleUrl><Point><coordinates>-3.5843,37.1757,0</coordinates></Point></Placemark>
+</Folder>
+<Folder><name>Granada · El Albaicín</name>
+<Placemark><name>1-3 · Mirador de San Nicolás y Mezquita Mayor</name><description>Granada · El Albaicín</description><styleUrl>#s-granada</styleUrl><Point><coordinates>-3.5927,37.1811,0</coordinates></Point></Placemark>
+<Placemark><name>4 · Arco de las Pesas (aprox.)</name><description>Granada · El Albaicín</description><styleUrl>#s-granada</styleUrl><Point><coordinates>-3.5924,37.1826,0</coordinates></Point></Placemark>
+<Placemark><name>5 · Plaza Larga (aprox.)</name><description>Granada · El Albaicín</description><styleUrl>#s-granada</styleUrl><Point><coordinates>-3.5921,37.1829,0</coordinates></Point></Placemark>
+<Placemark><name>6 · Mirador de San Cristóbal, opcional (aprox.)</name><description>Granada · El Albaicín</description><styleUrl>#s-granada</styleUrl><Point><coordinates>-3.5937,37.1851,0</coordinates></Point></Placemark>
+<Placemark><name>7 · Santa Isabel la Real y Dar al-Horra (aprox.)</name><description>Granada · El Albaicín</description><styleUrl>#s-granada</styleUrl><Point><coordinates>-3.5949,37.1819,0</coordinates></Point></Placemark>
+<Placemark><name>8 · Placeta de San Miguel Bajo (fin, aprox.)</name><description>Granada · El Albaicín</description><styleUrl>#s-granada</styleUrl><Point><coordinates>-3.5962,37.1813,0</coordinates></Point></Placemark>
+</Folder>
+<Folder><name>Ronda · Ronda: el Tajo y el Puente Nuevo</name>
+<Placemark><name>P Estacionamientos del centro (zona plaza de toros, aprox.)</name><description>Ronda · Ronda: el Tajo y el Puente Nuevo</description><styleUrl>#s-ronda</styleUrl><Point><coordinates>-5.1662,36.7432,0</coordinates></Point></Placemark>
+<Placemark><name>2 · Plaza de toros</name><description>Ronda · Ronda: el Tajo y el Puente Nuevo</description><styleUrl>#s-ronda</styleUrl><Point><coordinates>-5.1667,36.7425,0</coordinates></Point></Placemark>
+<Placemark><name>3 · Alameda del Tajo y miradores (aprox.)</name><description>Ronda · Ronda: el Tajo y el Puente Nuevo</description><styleUrl>#s-ronda</styleUrl><Point><coordinates>-5.1674,36.7444,0</coordinates></Point></Placemark>
+<Placemark><name>4 · Puente Nuevo</name><description>Ronda · Ronda: el Tajo y el Puente Nuevo</description><styleUrl>#s-ronda</styleUrl><Point><coordinates>-5.1658,36.7413,0</coordinates></Point></Placemark>
+<Placemark><name>5 · La Ciudad: Santa María la Mayor (aprox.)</name><description>Ronda · Ronda: el Tajo y el Puente Nuevo</description><styleUrl>#s-ronda</styleUrl><Point><coordinates>-5.1652,36.7372,0</coordinates></Point></Placemark>
+<Placemark><name>6 · Opcional: Casa del Rey Moro / Cuesta de Santo Domingo (aprox.)</name><description>Ronda · Ronda: el Tajo y el Puente Nuevo</description><styleUrl>#s-ronda</styleUrl><Point><coordinates>-5.1641,36.7403,0</coordinates></Point></Placemark>
+<Placemark><name>7 · Opcional: Puente Viejo, Puente Árabe y Baños Árabes (aprox.)</name><description>Ronda · Ronda: el Tajo y el Puente Nuevo</description><styleUrl>#s-ronda</styleUrl><Point><coordinates>-5.162,36.7391,0</coordinates></Point></Placemark>
+</Folder>
+<Folder><name>Setenil de las Bodegas · Setenil de las Bodegas (miércoles)</name>
+<Placemark><name>1 · Cuevas del Sol y Cuevas de la Sombra (aprox.)</name><description>Setenil de las Bodegas · Setenil de las Bodegas (miércoles)</description><styleUrl>#s-setenil</styleUrl><Point><coordinates>-5.1803,36.8632,0</coordinates></Point></Placemark>
+</Folder>
+<Folder><name>Sevilla · Paseo por Sevilla</name>
+<Placemark><name>1-2 · Plaza Virgen de los Reyes (fuente)</name><description>Sevilla · Paseo por Sevilla</description><styleUrl>#s-seville</styleUrl><Point><coordinates>-5.9919,37.3863,0</coordinates></Point></Placemark>
+<Placemark><name>3 · Catedral y Giralda</name><description>Sevilla · Paseo por Sevilla</description><styleUrl>#s-seville</styleUrl><Point><coordinates>-5.9922,37.3866,0</coordinates></Point></Placemark>
+<Placemark><name>4 · Puerta del Perdón (calle Alemanes)</name><description>Sevilla · Paseo por Sevilla</description><styleUrl>#s-seville</styleUrl><Point><coordinates>-5.9933,37.3867,0</coordinates></Point></Placemark>
+<Placemark><name>5 · Avenida de la Constitución (Puerta de la Asunción)</name><description>Sevilla · Paseo por Sevilla</description><styleUrl>#s-seville</styleUrl><Point><coordinates>-5.9939,37.3858,0</coordinates></Point></Placemark>
+<Placemark><name>6 · Archivo de Indias y Plaza del Triunfo</name><description>Sevilla · Paseo por Sevilla</description><styleUrl>#s-seville</styleUrl><Point><coordinates>-5.9922,37.3851,0</coordinates></Point></Placemark>
+<Placemark><name>7 · Real Alcázar: Patio de Banderas</name><description>Sevilla · Paseo por Sevilla</description><styleUrl>#s-seville</styleUrl><Point><coordinates>-5.9914,37.3845,0</coordinates></Point></Placemark>
+<Placemark><name>8 · Entrada al Barrio de Santa Cruz (callejón de la Judería)</name><description>Sevilla · Paseo por Sevilla</description><styleUrl>#s-seville</styleUrl><Point><coordinates>-5.9904,37.3841,0</coordinates></Point></Placemark>
+<Placemark><name>9 · Callejón del Agua</name><description>Sevilla · Paseo por Sevilla</description><styleUrl>#s-seville</styleUrl><Point><coordinates>-5.9893,37.3845,0</coordinates></Point></Placemark>
+<Placemark><name>10 · Plaza de Santa Cruz</name><description>Sevilla · Paseo por Sevilla</description><styleUrl>#s-seville</styleUrl><Point><coordinates>-5.9884,37.3851,0</coordinates></Point></Placemark>
+<Placemark><name>11 · Casa de Murillo y convento de Santa Teresa</name><description>Sevilla · Paseo por Sevilla</description><styleUrl>#s-seville</styleUrl><Point><coordinates>-5.989,37.3857,0</coordinates></Point></Placemark>
+<Placemark><name>12 · Callejones del beso (calle Reinoso)</name><description>Sevilla · Paseo por Sevilla</description><styleUrl>#s-seville</styleUrl><Point><coordinates>-5.9896,37.3855,0</coordinates></Point></Placemark>
+<Placemark><name>13 · Plaza de los Venerables</name><description>Sevilla · Paseo por Sevilla</description><styleUrl>#s-seville</styleUrl><Point><coordinates>-5.9898,37.3851,0</coordinates></Point></Placemark>
+<Placemark><name>14 · Plaza de Doña Elvira</name><description>Sevilla · Paseo por Sevilla</description><styleUrl>#s-seville</styleUrl><Point><coordinates>-5.9905,37.3848,0</coordinates></Point></Placemark>
+<Placemark><name>15 · Convento de la Encarnación: dulces de las monjas (fin)</name><description>Sevilla · Paseo por Sevilla</description><styleUrl>#s-seville</styleUrl><Point><coordinates>-5.9917,37.3857,0</coordinates></Point></Placemark>
+</Folder>
+<Folder><name>Sevilla · Barrio de Santa Cruz</name>
+<Placemark><name>2 · Plaza Virgen de los Reyes y Giralda</name><description>Sevilla · Barrio de Santa Cruz</description><styleUrl>#s-seville</styleUrl><Point><coordinates>-5.9919,37.3863,0</coordinates></Point></Placemark>
+<Placemark><name>3 · Plaza del Triunfo y Archivo de Indias</name><description>Sevilla · Barrio de Santa Cruz</description><styleUrl>#s-seville</styleUrl><Point><coordinates>-5.9922,37.3851,0</coordinates></Point></Placemark>
+<Placemark><name>4 · Patio de Banderas</name><description>Sevilla · Barrio de Santa Cruz</description><styleUrl>#s-seville</styleUrl><Point><coordinates>-5.9914,37.3845,0</coordinates></Point></Placemark>
+<Placemark><name>5 · Entrada a la judería (aprox.)</name><description>Sevilla · Barrio de Santa Cruz</description><styleUrl>#s-seville</styleUrl><Point><coordinates>-5.9904,37.3841,0</coordinates></Point></Placemark>
+<Placemark><name>6 · Callejón del Agua y Jardines de Murillo (aprox.)</name><description>Sevilla · Barrio de Santa Cruz</description><styleUrl>#s-seville</styleUrl><Point><coordinates>-5.9893,37.3845,0</coordinates></Point></Placemark>
+<Placemark><name>7 · Plaza de Santa Cruz</name><description>Sevilla · Barrio de Santa Cruz</description><styleUrl>#s-seville</styleUrl><Point><coordinates>-5.9884,37.3851,0</coordinates></Point></Placemark>
+<Placemark><name>8 · Calle Santa Teresa: casa de Murillo (aprox.)</name><description>Sevilla · Barrio de Santa Cruz</description><styleUrl>#s-seville</styleUrl><Point><coordinates>-5.989,37.3857,0</coordinates></Point></Placemark>
+<Placemark><name>9 · Calles del beso, calle Reinoso (aprox.)</name><description>Sevilla · Barrio de Santa Cruz</description><styleUrl>#s-seville</styleUrl><Point><coordinates>-5.9896,37.3855,0</coordinates></Point></Placemark>
+<Placemark><name>10 · Plaza de los Venerables</name><description>Sevilla · Barrio de Santa Cruz</description><styleUrl>#s-seville</styleUrl><Point><coordinates>-5.9898,37.3851,0</coordinates></Point></Placemark>
+<Placemark><name>11 · Plaza de Doña Elvira (fin)</name><description>Sevilla · Barrio de Santa Cruz</description><styleUrl>#s-seville</styleUrl><Point><coordinates>-5.9905,37.3848,0</coordinates></Point></Placemark>
+</Folder>
+<Folder><name>Sevilla · Triana</name>
+<Placemark><name>2 · Puente de Isabel II (Triana)</name><description>Sevilla · Triana</description><styleUrl>#s-seville</styleUrl><Point><coordinates>-6.002,37.3858,0</coordinates></Point></Placemark>
+<Placemark><name>3 · Capilla del Carmen y Plaza del Altozano (aprox.)</name><description>Sevilla · Triana</description><styleUrl>#s-seville</styleUrl><Point><coordinates>-6.0037,37.3857,0</coordinates></Point></Placemark>
+<Placemark><name>4-5 · Castillo de San Jorge y Mercado de Triana (aprox.)</name><description>Sevilla · Triana</description><styleUrl>#s-seville</styleUrl><Point><coordinates>-6.0036,37.3865,0</coordinates></Point></Placemark>
+<Placemark><name>6 · Centro Cerámica Triana, calle Antillano Campos (aprox.)</name><description>Sevilla · Triana</description><styleUrl>#s-seville</styleUrl><Point><coordinates>-6.0052,37.3872,0</coordinates></Point></Placemark>
+<Placemark><name>7 · Calle San Jacinto y calle Pureza (aprox.)</name><description>Sevilla · Triana</description><styleUrl>#s-seville</styleUrl><Point><coordinates>-6.0044,37.3846,0</coordinates></Point></Placemark>
+<Placemark><name>8 · Capilla de los Marineros, calle Pureza (aprox.)</name><description>Sevilla · Triana</description><styleUrl>#s-seville</styleUrl><Point><coordinates>-6.0031,37.3836,0</coordinates></Point></Placemark>
+<Placemark><name>9 · Iglesia de Santa Ana (aprox.)</name><description>Sevilla · Triana</description><styleUrl>#s-seville</styleUrl><Point><coordinates>-6.0027,37.3827,0</coordinates></Point></Placemark>
+<Placemark><name>10 · Calle Betis, junto al río (fin, aprox.)</name><description>Sevilla · Triana</description><styleUrl>#s-seville</styleUrl><Point><coordinates>-6.0011,37.3832,0</coordinates></Point></Placemark>
+</Folder>
+</Document></kml>

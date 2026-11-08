@@ -213,6 +213,15 @@ function viewCity(cityId) {
   }
   root.append(grid);
 
+  // NOTAS de la ciudad: cómo llegar, entradas y avisos (texto, no audio)
+  if (city.notes && city.notes.length) {
+    const box = el("details", { class: "city-notes", open: "" }, el("summary", {}, "NOTAS"));
+    for (const n of city.notes) {
+      box.append(el("h3", {}, n.title), el("ul", {}, ...n.items.map(it => el("li", {}, it))));
+    }
+    root.append(box);
+  }
+
   // Mapa
   const map = L.map("map").setView(city.center, city.zoom);
   L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {

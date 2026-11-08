@@ -1,0 +1,78 @@
+{
+ "tour": "gra-casco-antiguo-p2",
+ "title": "Granada: paseo por el casco antiguo",
+ "model": "gemini-3.1-flash-tts-preview",
+ "voice": "Charon",
+ "stops": [
+  {
+   "n": 6,
+   "name": "La Capilla Real y la Madraza",
+   "file": "06 - La Capilla Real y la Madraza.mp3",
+   "es_min": 1.7,
+   "en_min": 0.0,
+   "dur_ratio": 99.62,
+   "word_ratio": 210.0,
+   "audio_match": 1.0,
+   "ppm": 131,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 7,
+   "name": "La Plaza de Isabel la Católica",
+   "file": "07 - La Plaza de Isabel la Católica.mp3",
+   "es_min": 1.1,
+   "en_min": 0.0,
+   "dur_ratio": 68.35,
+   "word_ratio": 142.0,
+   "audio_match": 1.0,
+   "ppm": 132,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 8,
+   "name": "La Plaza Nueva",
+   "file": "08 - La Plaza Nueva.mp3",
+   "es_min": 1.4,
+   "en_min": 0.0,
+   "dur_ratio": 81.14,
+   "word_ratio": 183.0,
+   "audio_match": 1.0,
+   "ppm": 139,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 9,
+   "name": "La Carrera del Darro y El Bañuelo",
+   "file": "09 - La Carrera del Darro y El Bañuelo.mp3",
+   "es_min": 1.4,
+   "en_min": 0.0,
+   "dur_ratio": 84.38,
+   "word_ratio": 187.0,
+   "audio_match": 1.0,
+   "ppm": 139,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  },
+  {
+   "n": 10,
+   "name": "El Paseo de los Tristes",
+   "file": "10 - El Paseo de los Tristes.mp3",
+   "es_min": 1.0,
+   "en_min": 0.0,
+   "dur_ratio": 59.69,
+   "word_ratio": 125.0,
+   "audio_match": 1.0,
+   "ppm": 133,
+   "tts_attempts": 2,
+   "missing_numbers": [],
+   "diffs": []
+  }
+ ]
+}
