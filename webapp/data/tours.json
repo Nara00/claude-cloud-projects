@@ -6124,11 +6124,11 @@
      ],
      "maps": [
       {
-       "url": "https://drive.google.com/drive/folders/1O8EsWNjoCFF5h-4J3Phzg4adlK1-v9XT",
-       "label": "Ver mapa del libro: gra-casco-antiguo-mapa.png (Drive, solo familia)"
+       "url": "https://drive.google.com/file/d/1oaGlPbROrAImcfJBKeDRmjiadJ0xPzIn/view",
+       "label": "Ver mapa del libro (Google Drive, solo familia)"
       }
      ],
-     "map_url": "https://drive.google.com/drive/folders/1O8EsWNjoCFF5h-4J3Phzg4adlK1-v9XT",
+     "map_url": "https://drive.google.com/file/d/1oaGlPbROrAImcfJBKeDRmjiadJ0xPzIn/view",
      "points": [
       {
        "label": "1",
@@ -6295,11 +6295,15 @@
      ],
      "maps": [
       {
-       "url": "https://drive.google.com/drive/folders/1O8EsWNjoCFF5h-4J3Phzg4adlK1-v9XT",
-       "label": "Ver mapas del libro: gra-alhambra-mapa.png y gra-alhambra-palacios-mapa.png (Drive, solo familia)"
+       "url": "https://drive.google.com/file/d/19Fokj4wJ66D0jktAimMw6a37Ptd6mZYF/view",
+       "label": "Mapa general de la Alhambra (Drive, solo familia)"
+      },
+      {
+       "url": "https://drive.google.com/file/d/1up-qO6WLz3xBTG4_rqca9q8XYYSN6BZX/view",
+       "label": "Mapa de los Palacios Nazaríes (Drive, solo familia)"
       }
      ],
-     "map_url": "https://drive.google.com/drive/folders/1O8EsWNjoCFF5h-4J3Phzg4adlK1-v9XT",
+     "map_url": "https://drive.google.com/file/d/19Fokj4wJ66D0jktAimMw6a37Ptd6mZYF/view",
      "points": [
       {
        "label": "1",
@@ -6488,11 +6492,11 @@
      ],
      "maps": [
       {
-       "url": "https://drive.google.com/drive/folders/1O8EsWNjoCFF5h-4J3Phzg4adlK1-v9XT",
-       "label": "Ver mapa del libro: gra-albaicin-mapa.png (Drive, solo familia)"
+       "url": "https://drive.google.com/file/d/17LWep30mhgss3DCeHyOdgzwNEjHtPLw0/view",
+       "label": "Ver mapa del libro (Google Drive, solo familia)"
       }
      ],
-     "map_url": "https://drive.google.com/drive/folders/1O8EsWNjoCFF5h-4J3Phzg4adlK1-v9XT",
+     "map_url": "https://drive.google.com/file/d/17LWep30mhgss3DCeHyOdgzwNEjHtPLw0/view",
      "points": [
       {
        "label": "1",
