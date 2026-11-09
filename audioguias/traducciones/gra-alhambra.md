@@ -1,147 +1,177 @@
-# La Alhambra
+# Granada: la Alhambra
 
-## 01 · Introducción {en=00:00}
+## 01 · Introducción {en=00:00 mapa=intro}
 
-Hola. Esta guía no es de Rick Steves: la armamos para este viaje, para recorrer la Alhambra.
+Este es el tour de Rick Steves por la Alhambra, actualizado con su guía de España de este año.
 
-El recorrido empieza junto al Palacio de Carlos Quinto, sigue por los Palacios Nazaríes y los jardines del Partal, y termina en el Generalife, el palacio de verano de los sultanes.
+La Alhambra es el último y más grande palacio moro de Europa, uno de los sitios top del continente, y la razón por la que la mayoría de los turistas viene a Granada: unas ocho mil personas por día. Es el símbolo del repliegue final del Islam en España. A medida que la Reconquista avanzaba, Córdoba cayó en mil doscientos treinta y siete, Sevilla en mil doscientos cuarenta y ocho, y los musulmanes desplazados se fueron concentrando en Granada, el hogar de los nazaríes, el último reino islámico de España, que recién cayó en mil cuatrocientos noventa y dos. Mientras tanto, Granada floreció como centro intelectual y artístico, y eso es lo que van a ver: estuco ornamentado, estalactitas de yeso, ventanas festoneadas que enmarcan vistas de la ciudad, jardines exuberantes... y agua por todas partes. El agua, escasa y preciosa en el mundo islámico, era el símbolo más puro de la vida: acá aparece quieta, en cascada, tapando conversaciones secretas y goteando juguetonamente.
 
-Cuando estén arriba, junto al gran palacio cuadrado de piedra, el Palacio de Carlos Quinto, pasen a la siguiente parada.
+El complejo reúne cuatro sitios en lo alto de la colina, y este tour los recorre en orden: primero el Palacio de Carlos V, el palacio renacentista cristiano plantado encima después de la Reconquista, con el buen Museo de la Alhambra adentro, al que se entra gratis. Después la Alcazaba, el fuerte viejo, vacío pero evocador. Tercero, los Palacios Nazaríes: el palacio moro exquisito, lo imprescindible de la Alhambra, con su horario de entrada asignado. Y al final, el Generalife, el pequeño palacio de verano con sus jardines, a unos quince minutos a pie cuesta arriba.
 
-## 02 · La Alhambra en dos minutos {en=00:00}
+Para orientarse, párense en la Plaza de los Aljibes, la terraza ajardinada entre el Palacio de Carlos V, el renacentista forrado de mármol, y las torres almenadas más viejas de la Alcazaba. Los baños y las máquinas expendedoras están al fondo de esta plaza, junto a la Puerta del Vino; adentro de los Palacios Nazaríes no hay baños, así que pasen antes. La fila de entrada a los Nazaríes está en el extremo opuesto.
 
-Antes de recorrerla, entendamos qué es la Alhambra. El nombre viene del árabe y quiere decir "la roja", por el color de sus murallas de tierra, que al atardecer se ponen rojizas.
+Empezamos por la parte menos mora de este complejo tan moro.
 
-No es un palacio: es una ciudad amurallada entera, sobre una colina. Tenía palacios, mezquitas, baños, casas, talleres y huertas, y vivían adentro unas dos mil personas. La construyeron los nazaríes, la última dinastía musulmana de la península, que gobernó el reino de Granada durante dos siglos y medio, desde 1238 hasta 1492. Mientras los reinos cristianos iban conquistando Córdoba, Sevilla y el resto de Andalucía, Granada resistió, y se llenó de refugiados, artistas y sabios.
+## 02 · El Palacio de Carlos V y el Museo de la Alhambra {en=00:00 mapa=1}
 
-Los palacios que van a ver son sobre todo del siglo catorce, de dos sultanes: Yusuf Primero y su hijo, Mohamed Quinto. Y el gran secreto de este lugar es el agua. Una acequia, un canal, trae agua del río Darro desde varios kilómetros montaña arriba, y la reparte por fuentes, estanques y jardines. Para gente que venía de tierras secas, el agua era la imagen misma del paraíso.
+Es natural que un rey conquistador construya su palacio sobre el de su enemigo. Pero Carlos Quinto, el emperador del Sacro Imperio, que reinó en España como Carlos Primero, respetó los espléndidos Palacios Nazaríes: a principios del siglo dieciséis levantó al lado este palacio renacentista para las funciones oficiales, y usó el palacio moro como residencia.
 
-Ahora sí, miren el palacio cuadrado que tienen al lado, y pasen a la siguiente parada.
+El diseño es único: un círculo adentro de un cuadrado, obra de Pedro Machuca, discípulo de Miguel Ángel. Para Rick, es el edificio renacentista más impresionante de España. Y se aprecia en pocos minutos: admiren el patio circular rodeado de columnas de piedra conglomerada, como un budín de cuarzo, y suban las escaleras para dar una vuelta bajo las pesadas y elegantes vigas de madera. Es posible que estuviera pensado con cúpula, pero nunca se terminó: su hijo, Felipe Segundo, se concentró en El Escorial, su palacio mucho más masivo cerca de Madrid. Aun sin cúpula, la acústica en el centro del patio es perfecta: párense en el medio y canten su mejor aria.
 
-## 03 · El Palacio de Carlos Quinto {en=00:00}
+En la planta baja, entrando por el patio circular, está el Museo de la Alhambra, gratis, tranquilo y con aire acondicionado. Ayuda a imaginar la vida en el palacio y ofrece la mejor mirada al arte moro que sobrevivió: azulejos, la característica cerámica verde, azul y negra, fuentes de leones, doblones de oro deslumbrantes, una preciosa puerta de madera tallada, y hasta un tablero de ajedrez de setecientos años.
 
-Este palacio es cristiano y renacentista, y desentona a propósito. Lo mandó construir Carlos Quinto, el nieto de los Reyes Católicos, emperador de media Europa, después de visitar Granada en su luna de miel, en 1526. En vez de demoler los palacios moros, que admiraba, se construyó uno propio al lado, a la moda italiana.
+Cuando salgan, mirando desde el frente del Palacio de Carlos V, la Alcazaba es la estructura de ladrillo que se alza del otro lado de un foso, derecho adelante.
 
-Lo diseñó Pedro Machuca, un arquitecto que se había formado en Italia. Por fuera es un cuadrado de piedra; por dentro, sorpresa: un patio perfectamente redondo, rodeado de dos pisos de columnas. Entren al patio, párense en el centro del círculo y hablen en voz alta: la acústica es muy curiosa.
+## 03 · La Alcazaba {en=00:00 mapa=2}
 
-El palacio quedó sin terminar durante siglos. Los reyes se fueron a vivir a Madrid y perdieron interés, y recién en el siglo veinte se le puso techo.
+El fuerte es el "castillo rojo" original: eso significa, justamente, "Alhambra". Es la parte más antigua y más arruinada del complejo, un cascarón casi vacío, pero con las mejores vistas: la ciudad, el Albaicín y la propia Alhambra a sus pies.
 
-En la planta baja está el Museo de la Alhambra. Su pieza estrella es el Jarrón de las Gacelas, un enorme jarrón de cerámica dorada y azul del siglo catorce, con dos gacelas pintadas. Es una de las piezas más lindas del arte nazarí.
+Lo que se ve es de mediados del siglo trece. Esta fortaleza defendía una medina, una ciudad de dos mil musulmanes que vivía dentro de las murallas de la Alhambra, que se extienden más de una milla alrededor de todo el complejo. Era, en esencia, el cuartel de la guarnición: imaginen las cinco millas de acueductos que traían el agua de un río lejano hasta esta sedienta comunidad fortificada.
 
-Cuando salgan, caminen hacia la explanada que da a las murallas de la fortaleza y pasen a la siguiente parada.
+El circuito recorre pasajes y patios, pasando por los cimientos del Barrio Castrense, donde vivían los soldados, con opción de subir a varias torres. La mejor está al final: la Torre de la Vela, con sus cincuenta escalones empinados y una vista de trescientos sesenta grados. Al norte, la Granada moderna y el Albaicín con el mirador de San Nicolás; detrás, sobre la colina verde, el edificio blanco del Generalife; al sur, Sierra Nevada.
 
-## 04 · La Alcazaba {en=00:00}
+Y un momento para la historia. Imaginen aquel día de mil cuatrocientos noventa y dos en que en esta torre se izaron la cruz cristiana y las banderas de Aragón y Castilla. Según una leyenda probablemente fantasiosa, el rey moro Boabdil, en fuga, miró hacia atrás y lloró. Y su madre lo retó: llorás como mujer lo que no supiste defender como hombre. Con esa derrota terminaron más de siete siglos de dominio musulmán en España. Mucho después, Napoleón acuarteló acá a sus tropas, y contribuyó bastante a la ruina del lugar.
 
-Frente a ustedes, detrás del foso, se levantan las murallas y torres de la Alcazaba, la fortaleza militar. Es la parte más antigua de la Alhambra.
+Para ir de la Alcazaba a los Palacios Nazaríes, vuelvan hacia el Palacio de Carlos V y súmense a la fila, a la izquierda, detrás del palacio.
 
-La torre más alta, en la punta que mira a la ciudad, es la Torre de la Vela. Tiene una campana que durante siglos marcó los turnos de riego de las huertas de la vega de Granada, y que todavía se toca cada 2 de enero.
+## 04 · Palacios Nazaríes: la entrada y el Mexuar {en=00:00 mapa=3}
 
-¿Por qué el 2 de enero? Porque ese día de 1492, el último sultán, Boabdil, entregó las llaves de la ciudad a los Reyes Católicos, y en lo alto de esta torre se izaron la cruz y las banderas de Castilla y Aragón. Boabdil partió hacia el exilio. Cuenta la tradición que, desde un paso de montaña al sur de Granada, se dio vuelta para mirar la ciudad por última vez y suspiró. Ese lugar se llama todavía hoy el Suspiro del Moro.
+La multitud entra en tropel a la joya de la Alhambra al comenzar cada turno de media hora. Si su turno está muy lleno, demórense un poco al principio hasta que se calme. Una vez adentro, relájense: ya no hay límite de tiempo.
 
-Ahora caminen hacia la entrada de los Palacios Nazaríes, junto al Palacio de Carlos Quinto. Cuando entren, pasen a la siguiente parada.
+Van a recorrer tres secciones: las oficinas reales, las salas ceremoniales y los aposentos privados. El palacio se construyó sobre todo en el siglo catorce, y es la mejor mirada posible a la refinada civilización mora de al-Ándalus, que es la palabra árabe para la península ibérica bajo control musulmán.
 
-## 05 · Palacios Nazaríes: el Mexuar {en=00:00}
+La primera sala es el mexuar, reservado a las tareas administrativas: imaginen al consejo de sabios y a los escribas haciendo el trabajo de oficina de la burocracia del reino. Todo el palacio tiene salas como esta, decoradas de arriba abajo: techos de madera tallada, estalactitas de estuco, azulejos, paredes de yeso moldeado y ventanas de filigrana. Los patios a cielo abierto, con sus fuentes burbujeantes, le dan al palacio un aire de oasis: el jardín exuberante con agua serena es el símbolo coránico del cielo.
 
-Entraron a los Palacios Nazaríes.
+El truco para apreciarlo es imaginarlo amueblado y vivo: sultanes con narguile recostados en almohadones sobre alfombras persas, cortinados pesados en las ventanas, muebles con incrustaciones de marfil. Y todo pintado de colores vivos, los colores del Corán: azul por el cielo, verde por el oasis, rojo por la sangre y oro por la riqueza. Las paredes iban cubiertas de caligrafía: poemas y versos del Corán y de los poetas locales.
 
-Un consejo para mirar: imaginen todo amueblado y pintado. Hoy las paredes se ven color hueso, pero eran de colores vivos, azules, rojos, verdes y dorados. Había alfombras, almohadones, cortinados y lámparas de aceite. Y miren las paredes de cerca: lo que parece un dibujo son letras, frases en árabe. Versos del Corán, alabanzas a los sultanes y poemas escritos para estas mismas salas.
+Al fondo de la sala, no se pierdan el deslumbrante oratorio, la sala de oración, con un nicho a la derecha orientado a La Meca y ventanas caladas que llenan el espacio de luz, con grandes vistas del Albaicín.
 
-La primera sala grande es el Mexuar, donde el sultán se reunía con sus consejeros y atendía asuntos de gobierno. Después de la conquista, los cristianos la convirtieron en capilla, y por eso tiene algunos agregados. Al fondo hay un pequeño oratorio, con ventanas que miran al Albaicín.
+De acá en adelante, tengan presentes tres temas: el agua, la ausencia casi total de imágenes de seres vivos, mal vistas en el Islam, y los techos de estalactitas. Y un pedido importante del propio Rick: por tentador que sea, no toquen el estuco — el aceite de las manos lo daña.
 
-Al salir del Mexuar llegan a un patio chico, el del Cuarto Dorado. Miren la pared de enfrente: es la Fachada de Comares, una de las más bellas del palacio, con dos puertas. Una llevaba a las zonas oficiales, la otra a las privadas, y así nadie veía hacia adónde iba cada uno.
+Atravesando un patiecito con una fuente redonda, van a desembocar en un gran patio rectangular con un estanque de peces flanqueado por dos setos de arrayán.
 
-Sigan por el pasillo en ángulo hasta un gran patio con un estanque largo. Cuando estén ahí, pasen a la siguiente parada.
+## 05 · El Patio de los Arrayanes {en=00:00 mapa=4}
 
-## 06 · El Patio de los Arrayanes {en=00:00}
+El diseño clásico de un palacio moro incluía un patio central como este, con jardín y agua, a cielo abierto: los moros amaban sus patios.
 
-Este es el Patio de los Arrayanes, la imagen más famosa de la Alhambra. El nombre viene de los dos setos de arrayán, una planta de hojas chiquitas y perfumadas, que bordean el estanque.
+A este patio daban los aposentos de las mujeres del sultán: dos departamentos por lado para las esposas — según el Corán, cuatro era el máximo — y un dormitorio al fondo para las concubinas, de las que un hombre podía tener tantas como pudiera "mantener con dignidad". Según las costumbres moras medievales, las mujeres apenas salían de casa: su contacto con la naturaleza eran patios como este, que debe su nombre a los setos de arrayán fragante que le dan su encanto.
 
-Fíjense en el truco del agua. El estanque está lleno hasta el borde y casi quieto, así que funciona como un espejo. Párense en uno de los extremos y miren cómo se refleja la torre del fondo, la Torre de Comares. Los arquitectos jugaban con la luz, el agua y el silencio para que el patio pareciera más grande y más alto de lo que es.
+Fíjense en las celosías de madera de las ventanas, levantadas por maridos celosos: permitían a las mujeres enclaustradas mirar hacia afuera sin ser vistas con claridad. El piso de arriba se usaba en invierno; la planta baja, más fresca, en verano.
 
-La torre era el corazón político del palacio. Adentro estaba el salón del trono, donde el sultán recibía a los embajadores. Es la torre más alta de los palacios, y su tamaño era un mensaje de poder.
+Desde donde entraron, vayan hacia la izquierda, atravesando unos portones gigantes de madera, hacia una antecámara larga y angosta.
 
-Alrededor del patio vivía la familia del sultán. Las celosías de madera de las ventanas de arriba permitían ver hacia afuera sin ser vistos.
+## 06 · La Sala de la Barca {en=00:00 mapa=5}
 
-Cuando estén listos, caminen hacia la torre y pasen a la siguiente parada.
+Es comprensible que muchos crean que el nombre viene de la forma del techo, un fino casco de barco invertido, de cedro. Pero en realidad viene del árabe "baraka": bendición divina y buena suerte. Dato de color de Rick: el nombre de pila de Obama, Barack, viene de la misma raíz árabe.
 
-## 07 · La Sala de la Barca y el Salón de Comares {en=00:00}
+Y al pasar por esta sala, bendición y suerte era exactamente lo que ibas a necesitar... porque en la sala siguiente te esperaba, cara a cara, el sultán.
 
-Primero está la antesala, larga y angosta: la Sala de la Barca. Mucha gente cree que el nombre viene del techo, que parece el casco de un barco dado vuelta, pero viene de una palabra árabe que significa "bendición".
+Les toca. Pasen a la sala del trono.
 
-Y después, el Salón de Comares, o de los Embajadores: el salón del trono.
+## 07 · El Gran Salón de los Embajadores {en=00:00 mapa=6}
 
-Es un cubo enorme. El sultán se sentaba frente a la entrada, de espaldas a la ventana central, a contraluz: el visitante, que venía del patio luminoso, apenas le veía la cara. Las paredes están completamente cubiertas de yeso tallado y de inscripciones. Una frase se repite por todo el palacio: "No hay más vencedor que Dios", el lema de los nazaríes.
+La sala más grande del palacio, también llamada Salón de Comares, era la sala del trono: acá el sultán, sentado frente a la entrada, recibía a los emisarios extranjeros.
 
-Lo mejor es el techo. Es una cúpula de madera de cedro armada con miles de piezas encastradas, que representa los siete cielos del paraíso, con estrellas. Arriba de todo, en el centro, está el trono de Dios.
+Admiren la sala, un cubo perfecto, de arriba abajo. El techo abovedado de madera está hecho de ocho mil diecisiete piezas encastradas como un rompecabezas gigante: un cielo tachonado de estrellas que sugiere la complejidad del universo infinito de Alá. Estalactitas de madera forman la cornisa que recorre la base del techo. Las paredes de estuco, aun sin su pintura y su dorado originales, siguen siendo gloriosas. Y en el centro del piso sobreviven valiosos azulejos del siglo dieciséis.
 
-Cuando estén listos, vuelvan por el patio y sigan los carteles hacia el Patio de los Leones. Cuando lleguen, pasen a la siguiente parada.
+El visitante pasaba del resplandor del patio a este mundo oscuro, fresco y lleno de incienso, para encontrarse con el sultán a contraluz. Sigan con los ojos la finísima caligrafía árabe tallada: los musulmanes evitaban las imágenes de seres vivos, eso era obra de Dios, pero podían tallar mensajes religiosos. La frase "solo Alá es vencedor" se repite nueve mil veces por todo el palacio. Busquen el carácter de "Alá": parece una W cursiva con una nariz a la izquierda y una línea vertical a la derecha.
 
-## 08 · El Patio de los Leones {en=00:00}
+En mil cuatrocientos noventa y dos, dos hechos históricos probablemente ocurrieron en esta misma sala. Acá se completó la Reconquista, cuando Boabdil, el último rey moro, firmó los términos de su rendición antes de exiliarse en Marruecos. Y acá Colón hizo una de sus últimas presentaciones ante Isabel y Fernando para financiar su viaje. Imaginen la escena: el rey, la reina y las mentes más brillantes de la Universidad de Salamanca, mientras Colón desplegaba mapas para demostrar que podía llegar al este navegando hacia el oeste. Fernando y los profesores se rieron y lo llamaron loco. No porque creyeran que la Tierra era plana — la gente educada sabía que no —, sino porque pensaban, con razón, que Colón subestimaba el tamaño del globo, y por lo tanto el largo y el costo del viaje. Pero Isabel dijo: "Sí, señor". Y Colón, bromea Rick, cayó de rodillas prometiendo empacar liviano, usar riñonera y llevar una buena guía de viajes.
 
-El Patio de los Leones es la parte privada del palacio, la residencia del sultán Mohamed Quinto, de la segunda mitad del siglo catorce. Aquí solo entraban la familia y los más cercanos.
+Al salir, justo afuera de la entrada de la Sala de la Barca, los fotógrafos se detienen para la vista perfecta de la torre reflejada en el estanque del patio. Ese arco bajo la torre era la entrada original del palacio. Después rodeen el estanque por el lado izquierdo y sigan más adentro, hacia un patio al que hace seiscientos años solo podían entrar la familia real y sus sirvientes.
 
-Fíjense en las columnas: son ciento veinticuatro, finitas, de mármol blanco, sueltas o en grupos de dos, tres y cuatro. Desde el centro parecen un bosque de palmeras alrededor de un oasis. Y esa era la idea: el patio es una imagen del paraíso, con cuatro canales de agua que salen de la fuente, como los cuatro ríos del paraíso, y que llevan el agua hasta las salas de alrededor.
+## 08 · El Patio de los Leones {en=00:00 mapa=7}
 
-La fuente está sostenida por doce leones de mármol que echan agua por la boca. Alrededor de la taza hay un poema tallado, de Ibn Zamrak, el poeta de la corte, que describe el agua y la compara con plata derretida. Después de la conquista, la fuente se desarmó y se armó varias veces, y dejó de funcionar bien. Una restauración que terminó en 2012 limpió los leones y volvió a hacer correr el agua.
+Este patio delicioso, el más fotografiado del palacio, debe su nombre a la famosa fuente central con su anillo de doce leones de mármol, originales del siglo catorce. Del centro salen cuatro canales que llevan el agua hacia afuera: figurativamente, hacia los confines de la tierra; literalmente, hacia los departamentos privados de la familia real.
 
-Den la vuelta al patio por la galería. A la derecha, mirando desde donde entraron, hay una sala cuadrada con una puerta de madera antigua. Cuando estén ahí, pasen a la siguiente parada.
+La galería de arcos que rodea el patio se apoya en ciento veinticuatro columnas perfectamente equilibradas. Y la artesanía es de primera: entre las secciones precortadas de las columnas hay piezas de plomo que permiten que todo flexione durante los terremotos, evitando la destrucción.
 
-## 09 · La Sala de los Abencerrajes y la Sala de los Reyes {en=00:00}
+Hace seiscientos años, los moros podían leer la poesía coránica que adorna este patio y entender su simbolismo: un jardín exuberante y cerrado, la encarnación del paraíso. La inscripción de la fuente pregunta qué puede compararse con este alabastro derramando agua cristalina... y responde: nada, salvo la luna llena vertiendo su luz desde un cielo despejado.
 
-Esta es la Sala de los Abencerrajes. Levanten la vista: la cúpula es de mocárabes, miles de celdillas de yeso que cuelgan como estalactitas, dentro de una estrella de ocho puntas. Con la luz que entra por las ventanitas de arriba, parece que se mueve.
+A la derecha, saliendo del patio, la única puerta original que queda en el palacio lleva a una sala cuadrada.
 
-El nombre viene de una leyenda sangrienta. Los Abencerrajes eran una familia noble del reino. Se cuenta que un sultán, convencido de que conspiraban contra él, o celoso porque uno de ellos amaba a la sultana, los invitó a esta sala y los mandó degollar junto a la fuente. Las manchas rojizas del piso, dicen, son su sangre. En realidad es óxido. Pero la historia se sigue contando.
+## 09 · La Sala de los Abencerrajes {en=00:00 mapa=8}
 
-Ahora crucen el patio hacia el lado opuesto, el más alejado de la entrada. Ahí está la Sala de los Reyes, alargada, con alcobas. Busquen los techos de las alcobas: tienen pinturas sobre cuero, algo rarísimo en el arte musulmán, que casi no muestra personas. En la del centro se ve a diez personajes sentados, que se cree que son sultanes nazaríes. En las de los costados hay escenas de caza y de caballeros. Probablemente las pintaron artistas cristianos, para los sultanes.
+Este era el living del sultán, con un techo exquisito basado en la estrella musulmana de ocho puntas.
 
-Después, sigan por el patio hacia la otra sala cuadrada, frente a los Abencerrajes, y pasen a la siguiente parada.
+El nombre viene de un episodio sangriento que, se dice, ocurrió acá. Según una leyenda del siglo dieciséis, el padre de Boabdil invitó a un banquete a los miembros de la familia de los Abencerrajes... y acto seguido los masacró, para abortar una amenaza a su dinastía. Según el relato de Washington Irving, habría apilado treinta y seis cabezas en la pila, bajo este suntuoso techo de estuco apanalado.
 
-## 10 · La Sala de Dos Hermanas y el Mirador de Lindaraja {en=00:00}
+Un minuto sobre el arte islámico, mientras recorren. En vez de pinturas y estatuas, los artistas islámicos se expresaban con objetos bellos pero funcionales: cerámica, alfombras, azulejos, techos de estuco, cristalería, cubiertos de patrones complejos. El entretejido intrincado, la repetición y las líneas sin fin sugieren la naturaleza infinita de Dios. Busquen patrones florales, vides entrelazadas, y geométricos, estrellas y rombos. Y el patrón más común de todos es la caligrafía: letras elaboradas en árabe, la lengua del Corán. Esos motivos que se repiten incontables veces se hacían presionando yeso húmedo en moldes.
 
-Esta es la Sala de Dos Hermanas. El nombre viene de dos grandes losas de mármol blanco, iguales, que están en el piso a los lados de la fuente.
+Al final del patio, frente al lado por el que entraron, está la siguiente sala.
 
-Miren la cúpula. Es la más espectacular de la Alhambra: más de cinco mil celdillas de mocárabes, que forman una especie de panal dorado que se abre hacia la luz. Uno de los poemas de las paredes dice que las estrellas del cielo quisieran quedarse a vivir en esta sala. No exageraban.
+## 10 · La Sala de los Reyes {en=00:00 mapa=9}
 
-Sigan derecho, hasta el fondo. Llegan a un pequeño balcón con una ventana baja: el Mirador de Lindaraja. Las ventanas bajas no son un error: los moros se sentaban en el piso, sobre almohadones, y desde esa altura tenían la vista perfecta. Antes de que los cristianos construyeran las habitaciones de enfrente, desde aquí se veía toda la ciudad. Hoy se ve un jardín cerrado, con una fuente y cipreses, muy tranquilo.
+Esta sala es famosa por sus pinturas de alrededor de mil trescientos sesenta, hechas sobre cuero de cabra, en el techo.
 
-Cuando estén listos, sigan el recorrido señalado, que sale de esta zona por unas galerías del siglo dieciséis. Cuando vean una placa que habla de Washington Irving, pasen a la siguiente parada.
+El retrato grupal de la sala central muestra a los primeros diez de los veintidós sultanes que tuvo la Alhambra. Es una escena fantasiosa: vivieron a lo largo de muchas generaciones y nunca posaron juntos. Las dos salas de los extremos muestran escenas de pasatiempos principescos: ajedrez, caza y tiro.
 
-## 11 · Washington Irving y los cuentos de la Alhambra {en=00:00}
+En un palacio prácticamente desprovisto de figuras humanas, estas imágenes ofrecen una mirada rarísima a la vida real de la corte.
 
-Después de la conquista, los reyes cristianos vivieron aquí a ratos. Carlos Quinto se hizo armar unas habitaciones a la europea, que son estas galerías por las que están pasando. Pero con el tiempo la corte se instaló en Madrid, y la Alhambra quedó casi abandonada. En el siglo dieciocho había gente viviendo entre las ruinas, animales en los patios, y las tropas de Napoleón, a principios del siglo diecinueve, volaron varias torres al retirarse.
+Sigan dando la vuelta alrededor de la fuente de los leones. Antes de entrar a la próxima sala, van a pasar junto a puertas a derecha e izquierda: daban a un baño del siglo catorce con agua corriente, y a las escaleras que subían al harén.
 
-En 1829 llegó un escritor norteamericano, Washington Irving, que vivía en España. Se instaló unos meses en estas habitaciones y escribió los Cuentos de la Alhambra: leyendas de princesas, tesoros escondidos y fantasmas de reyes moros. El libro fue un éxito en todo el mundo. Llegaron viajeros, pintores y poetas románticos, y Granada se dio cuenta de lo que tenía. Así empezó la restauración. La placa le agradece justamente eso.
+## 11 · La Sala de Dos Hermanas {en=00:00 mapa=10}
 
-Sigan el recorrido. Van a pasar por un pequeño patio y por las cúpulas de los baños reales, y después salen al aire libre, a unos jardines con un gran estanque. Cuando lleguen, pasen a la siguiente parada.
+La Sala de Dos Hermanas debe su apodo a las dos losas gemelas gigantes de mármol blanco del piso, que flanquean la fuente. Y tiene otro techo de estuco que te deja sin palabras, iluminado por ventanas altas.
 
-## 12 · El Partal {en=00:00}
+Era otra sala de recepción real, con alcobas privadas y una fuente: el agua corriente refrescaba y humidificaba el ambiente, y además era un toque de extravagancia, un lujo con el que la mayoría de la gente solo podía soñar.
 
-Salieron de los Palacios Nazaríes. Estos son los jardines del Partal.
+Las paredes lucen patrones geométricos y caligrafía árabe con versos del Corán. Y si los azulejos de colores les parecen "a lo Escher", lo tienen al revés: Escher es "a lo Alhambra". M. C. Escher se inspiró en estos mismos patrones en una visita. Estudien la geometría: es un recordatorio de la pericia matemática de los moros.
 
-Frente al estanque está el pórtico de la Torre de las Damas, que es lo que queda del palacio más antiguo que se conserva en la Alhambra, de principios del siglo catorce. Es un poco anterior a los palacios que acaban de ver. Los dos leones de piedra junto al estanque no son de aquí: vienen de un antiguo hospital musulmán de la ciudad. A un costado, sobre unos escalones, hay un oratorio chiquito, una pequeña mezquita privada.
+La sala de estar, la más alejada de la entrada, tiene las ventanas bajas... porque los moros se sentaban en el piso. En el techo sobrevive algo de vitral, una rareza. Desde acá, la sultana gozaba de una gran vista de la ciudad medieval, antes de que un ala del siglo dieciséis se la tapara.
 
-Del otro lado del valle se ve el Albaicín.
+Eso es casi todo el palacio. Desde acá se entra a la sección posterior, del siglo dieciséis: vaguen junto a las cúpulas de los viejos baños y bajen por un pasillo hasta un par de salas con techos de caoba. Busquen la que está marcada con una placa grande.
 
-Desde aquí, sigan los carteles que dicen "Generalife". El camino va bordeando las murallas y sus torres, por jardines, unos diez o quince minutos. Cuando crucen un puente sobre un camino de tierra, ya están llegando. Al entrar a los jardines del Generalife, pasen a la siguiente parada.
+## 12 · La habitación de Washington Irving {en=00:00 mapa=11}
 
-## 13 · El Generalife {en=00:00}
+Viviendo en España en mil ochocientos veintinueve, el escritor estadounidense Washington Irving se alojó en la Alhambra... y escribió sus "Cuentos de la Alhambra" en esta misma habitación.
 
-El Generalife era la residencia de verano de los sultanes, fuera de las murallas de la Alhambra, rodeada de huertas. El nombre se suele traducir como "el jardín del arquitecto" o "la huerta más noble". Aquí venían a descansar del calor y del gobierno.
+Era una época romántica: el palacio, abandonado, era hogar de vagabundos y burros. Los cuentos de Irving reavivaron el interés por la Alhambra y llevaron a que se la reconociera como tesoro nacional. La placa de la pared se lo agradece; Irving fue después embajador de Estados Unidos en España.
 
-Primero van a pasar por jardines modernos, con setos y un teatro al aire libre, que se usa para el festival de música de Granada. Sigan los carteles hasta el pequeño palacio blanco.
+Rick cita un pasaje de "La Alhambra a la luz de la luna", donde Irving cuenta que en esas noches celestiales se sentaba horas en su ventana, aspirando el perfume del jardín y meditando sobre las suertes cambiantes de quienes dejaron estos monumentos.
 
-El corazón del Generalife es el Patio de la Acequia: un canal largo de agua, con flores, arbustos y chorritos de agua a los dos lados. Los chorritos, en realidad, son un agregado posterior: a los nazaríes les gustaba el agua más quieta y silenciosa. Pero el lugar sigue siendo el mismo jardín que disfrutaban los sultanes hace seiscientos años, lo que lo hace uno de los jardines más antiguos de Europa.
+Al salir, deténganse en el espacio a cielo abierto que sigue.
 
-Al fondo, el pabellón tiene un mirador con vista a la Alhambra entera. Y al costado está el Patio del Ciprés de la Sultana, con el tronco seco de un ciprés muy viejo. Según una leyenda, bajo ese árbol se encontraba la sultana con un caballero de los Abencerrajes, y ahí empezó su desgracia.
+## 13 · El mirador del Albaicín {en=00:00 mapa=12}
 
-Más arriba está la Escalera del Agua, con el agua corriendo por canaletas en los pasamanos.
+Acá van a disfrutar la mejor vista que da el palacio: el laberíntico Albaicín, el viejo barrio moro, en la colina de enfrente.
 
-Cuando terminen, sigan los carteles de salida y pasen a la siguiente parada.
+Busquen el famoso mirador de San Nicolás, abajo de donde la torre blanca de la iglesia corta el horizonte: se ven las multitudes de turistas... sacándoles fotos a ustedes. Las manchas verdes son los jardines de los cármenes, las viejas fincas nobles, hoy muchas convertidas en restaurantes románticos. Abajo, el río y el Paseo de los Tristes con su plaza llena de mesas. Trepando los montes a la derecha, el barrio del Sacromonte. Y rodeando todavía la Granada vieja, la muralla mora del siglo quince, construida para proteger a una población hinchada de refugiados musulmanes que la Reconquista empujaba hacia el sur.
 
-## 14 · La salida {en=00:00}
+## 14 · El Patio de Lindaraja, los baños y la sala de los secretos {en=00:00 mapa=13}
 
-Terminaron la visita a la Alhambra. La salida del Generalife lleva al pabellón de entrada principal.
+Abajo, el gran patio verde de Lindaraja, con sus setos como laberinto, marca el final de la visita al palacio.
 
-Antes de irse, miren hacia el otro lado del valle. En la colina de enfrente está el Albaicín, el antiguo barrio musulmán, con su Mirador de San Nicolás, desde donde la Alhambra que acaban de recorrer se ve entera, sobre todo al atardecer. Para ese barrio tienen otra guía en esta aplicación.
+Antes de salir van a pasar por los extensos baños antiguos, a nivel del jardín. Y un juego para el camino: en el centro exacto de ese laberinto de corredores busquen la "sala de los secretos", una sala abovedada de ladrillo con una acústica divertida. Susurren en una esquina, y quien tenga la oreja contra la pared de la esquina opuesta los escucha perfecto. Prueben también hablar parados en el centro exacto.
 
-Con esto termina la visita a la Alhambra. Que la hayan disfrutado.
+Después salgan afuera, a los jardines.
+
+## 15 · Los jardines del Partal {en=00:00 mapa=14}
+
+Estos jardines están construidos sobre las ruinas del Palacio del Partal. Imaginen un palacio como el que acaban de recorrer, levantado alrededor de este estanque reflectante. Un fragmento de sus habitaciones sigue en pie en el lado norte, el más fresco, y sobrevive su oratorio orientado a La Meca: es el edificio pequeño, unos escalones arriba del estanque.
+
+Un dato que lo pone todo en perspectiva: la Alhambra fue sede de siete palacios distintos en ciento cincuenta años. Este tour recorre partes de apenas dos o tres.
+
+Saliendo del palacio, suban unos escalones, sigan por los jardines y sigan los carteles hacia el Generalife. Es un paseo delicioso de quince minutos, por jardines menores pero agradables, junto a una fila de torres fortificadas. Justo antes de llegar van a cruzar un puente: miren abajo el camino de tierra — es la Cuesta del Rey Chico, un atajo práctico para volver al centro después.
+
+## 16 · El Generalife {en=00:00 mapa=15}
+
+Las huertas del sultán y su retiro de verano, el Generalife, quedaban fuera de la protección de la muralla. Los mil residentes de la Alhambra comían la fruta y la verdura fresca que se cultivaba acá. Pero lo más importante: este pequeño palacio le daba al sultán un escape veraniego fresco y tranquilo.
+
+Sigan el camino de sentido único por los jardines. Van a pasar junto a un teatro al aire libre moderno y elegante, que sigue siendo una sede de conciertos importante para Granada. Más adelante, acercándose al palacio blanco brillante, pasan primero por la sala de desmontar: imagínense bajando del caballo sobre la práctica repisa de piedra, mientras el animal toma agua del abrevadero.
+
+Atraviesen el patio de naranjos y suban por la torre para entrar al jardín árabe más fielmente recreado de Andalucía: el Patio de la Acequia. Acá, en el retiro de los reyes moros, este jardín es lo más parecido que hay en la tierra a la descripción coránica del cielo. Se plantó por primera vez hace más de seiscientos años, una longevidad notable para un jardín europeo. Las flores, las hierbas, los aromas y el agua son exquisitos... hasta para un sultán. La fuente decorativa extralarga era parte del sistema de riego: río arriba, el acueducto real desviaba el agua hacia acá y seguía hacia la Alhambra. Y aunque los chorros saltarines son un deleite, son un agregado del siglo diecinueve: los moros preferían el estanque sereno.
+
+Al final del estanque entran al pequeño retiro de verano del sultán, de tres habitaciones. Desde la última, suban diez escalones a los jardines renacentistas superiores, de alrededor de mil seiscientos. El árbol añoso que se alza sobre el estanque inspiró a Washington Irving, que escribió que debía de ser el único testigo superviviente de las maravillas de aquella era de al-Ándalus.
+
+Subiendo y atravesando el molinete, entran al jardín romántico del siglo diecinueve. La visita está completa, y se ganaron la recompensa que promete el Corán: "Ciertamente Alá hará entrar a los que creen y obran bien en jardines bajo los cuales corren ríos; allí serán adornados con brazaletes de oro y perlas, y sus vestiduras serán de seda".
+
+## 17 · La Escalera del Agua y la vuelta al centro {en=00:00 mapa=16}
+
+Si les quedan ganas de un poco más de ejercicio y de vistas, giren a la izquierda en el cartel de "continuación de la visita" y hagan el circuito de media milla que sube y rodea hasta la Escalera del Agua, cuyas barandas funcionan como pequeños canales por donde corre el agua. Desde lo alto se puede subir al mirador romántico, con una vista de piso alto sobre los jardines. Después bajen de nuevo por el jardín y sigan los carteles de salida, atravesando el largo túnel de adelfas. Si están agotados, salteen este desvío: vayan a la derecha y sigan los carteles de salida directamente.
+
+Para volver al centro hay tres opciones. Los minibuses vuelven desde acá a la Plaza Isabel la Católica. A pie, la ruta escénica es la Cuesta del Rey Chico, fácil de pasar por alto: arranca bajo los dos arcos de piedra cerca del pabellón de entrada, junto al restaurante La Mimbre y la parada del minibús. Baja empinada por una senda empedrada y tranquila, perfumada de lavanda, bajo las murallas de la Alhambra, por donde subían los caballos del sultán al Generalife. En quince minutos están de vuelta en el Paseo de los Tristes, y de ahí se pasea a nivel hasta Plaza Nueva. La otra ruta a pie es la más corta y común: derecho por el camino principal junto a la base de la muralla, hasta una fuente a la izquierda, y de ahí bajo el dosel de árboles, bajando y bajando hasta la Cuesta de Gomérez y Plaza Nueva.
+
+Y si todavía tienen cuerda, dos yapas gratuitas dentro del recinto. El parador de Granada, un monumento nacional abierto al público: fue palacio moro y después monasterio franciscano, y en su iglesia eligieron ser enterrados Fernando e Isabel — la losa del piso cerca del altar marca el lugar donde descansaron hasta mil quinientos veintiuno, cuando los trasladaron a la Capilla Real del centro. Su café-terraza tiene vistas exuberantes del Generalife. Y la Puerta del Vino, donde moría el camino principal de la medina: el pozo del viejo aljibe, hoy encajonado en un bar-kiosco, sigue siendo un lugar para una bebida fría.
+
+Fin del tour. Que lo disfruten.

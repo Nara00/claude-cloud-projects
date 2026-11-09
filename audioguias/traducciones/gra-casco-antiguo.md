@@ -1,99 +1,127 @@
 # Granada: paseo por el casco antiguo
 
-## 01 · Introducción {en=00:00}
+## 01 · Introducción {en=00:00 mapa=intro}
 
-Hola. Esta guía no es de Rick Steves: la armamos para este viaje, siguiendo un recorrido clásico por el centro de Granada.
+Este es el paseo de Rick Steves por el centro de Granada, actualizado con su guía de España de este año.
 
-Vamos a caminar desde el Corral del Carbón, cerca de la Plaza del Carmen, hasta el Paseo de los Tristes, al pie de la Alhambra.
+Es una caminata corta que cubre los imprescindibles del centro. Van a arrancar en la Plaza Isabel la Católica, la plaza de la reina más famosa de España, y van a terminar en el Paseo de los Tristes, al pie de la Alhambra, pasando por el Bañuelo, el baño árabe medieval.
 
-El hilo de todo el paseo es uno solo. Durante casi ocho siglos, Granada fue una ciudad musulmana, la capital del último reino moro de la península. En enero de 1492, los Reyes Católicos, Isabel y Fernando, la conquistaron. Y en casi cada esquina van a ver lo mismo: lo cristiano construido encima de lo musulmán, a veces literalmente sobre los mismos cimientos.
+El hilo de todo el paseo es uno solo: el pasado multicultural de Granada, y la transición dramática de ciudad mora a ciudad cristiana que trajo la Reconquista, esa campaña larga, y al final exitosa, para arrebatarle España a los moros musulmanes e imponer el dominio cristiano.
 
-Cuando estén frente al Corral del Carbón, un edificio con un gran arco de herradura en la calle Mariana Pineda, pasen a la siguiente parada.
+El recorrido es esencialmente llano, por calles del centro, y después en suave pendiente junto al río Darro. Hay un solo tramo corto empedrado y con escalones, que se puede evitar rodeando por calles llanas; se lo vamos a avisar cuando llegue.
 
-## 02 · El Corral del Carbón {en=00:00}
+Cuando estén en la plaza con la fuente y la gran estatua, al costado de la calle Reyes Católicos, pasen a la siguiente parada.
 
-Están frente al edificio musulmán más antiguo que queda en pie en el centro de Granada. Es del siglo catorce, de la época de los nazaríes, la misma dinastía que construyó la Alhambra.
+## 02 · Plaza Isabel la Católica {en=00:00 mapa=1}
 
-Era una alhóndiga: una mezcla de posada, depósito y mercado mayorista. Los comerciantes que llegaban con sus mulas cargadas de trigo, seda o especias dejaban la mercadería y los animales en la planta baja, y dormían en las habitaciones de arriba, alrededor del patio. Fíjense en la portada: el arco de herradura, la decoración de yeso tallado como un encaje, y arriba un pequeño techo de mocárabes, esas celdillas que parecen un panal.
+Acá se cruzan los dos grandes bulevares de Granada: la Gran Vía y la calle Reyes Católicos.
 
-Adentro hay un patio con una fuente en el centro y tres pisos de galerías. Después de la conquista, el edificio tuvo muchas vidas. Fue corral de comedias, donde se hacía teatro, fue vivienda de familias pobres y fue depósito de carbón, y de ahí le quedó el nombre.
+Sobre la fuente, una hermosa estatua muestra a Colón desplegando un largo contrato ante la reina Isabel. Es el acuerdo del viaje de mil cuatrocientos noventa y dos, y enumera las condiciones: "Por cuanto vos, Colón, vais por nuestro mandado a descubrir y sojuzgar ciertas islas y tierra firme en el océano...". Abajo de las figuras hay dos relieves con los dos grandes hechos de ese año en Granada: Isabel y Fernando aceptando la propuesta de Colón, y una vibrante escena de batalla que marca el final triunfal de la Reconquista.
 
-Cuando salgan, bajen por la calle hasta la gran avenida, Reyes Católicos. Crúcenla y sigan derecho una cuadra, hasta un arco de estilo árabe que dice "Alcaicería". Entren al callejón y pasen a la siguiente parada.
+A Isabel quizá la movía expandir el catolicismo, pero el interés de España era la ruta marítima a las especias del Lejano Oriente, porque los turcos otomanos habían cortado la ruta terrestre tradicional. Y a Colón lo movía el dinero: como recompensa por agrandar el imperio católico, Isabel le prometió los títulos de Almirante de los Océanos y Gobernador del Nuevo Mundo, y le endulzó el trato con un octavo de todas las riquezas que trajera.
 
-## 03 · La Alcaicería {en=00:00}
+Miren los elegantes edificios que flanquean el inicio de la Gran Vía. Cuando llegó el auto, a principios del siglo veinte, Granada quiso un bulevar al estilo parisino, y lo abrió sin piedad a través del centro, destruyendo todo a su paso, palacios moros históricos y conventos cristianos incluidos. Los dos edificios de inspiración parisina que dan a la plaza, de alrededor de mil novecientos diez, muestran las fachadas elegantes que antes adornaban toda la avenida. Ahora dense vuelta, ciento ochenta grados: estética de los años setenta, moderna en su momento, hoy penosamente pasada de moda. Rick se permite decirle, directamente, fea.
 
-Este laberinto de callecitas angostas era el mercado de la seda de la Granada musulmana. La seda era el gran negocio del reino: se criaban gusanos en las Alpujarras, se tejía aquí, y se vendía a medio Mediterráneo. El mercado tenía puertas que se cerraban de noche y guardias propios, porque adentro había una fortuna en telas.
+La calle Reyes Católicos, por Fernando e Isabel, baja desde esta plaza hasta el cruce de Puerta Real, y de ahí la ciudad moderna sigue hasta el río. Esa zona estalla de granadinos paseando todas las noches: si quieren uno de los mejores paseos de la ciudad, vuelvan a eso de las siete de la tarde.
 
-Lo que ven hoy, sin embargo, no es tan antiguo como parece. En 1843 un incendio arrasó el mercado original, y se reconstruyó poco después, imitando el estilo árabe, con arquitos y yeserías. Es un decorado del siglo diecinueve, pero el trazado de las calles es el de siempre.
+La siguiente parada es un desvío cortito para conocer a un hijo de Granada. Desde la fuente, crucen la calle hacia la izquierda, entre los dos edificios de los setenta. Unas cincuenta yardas más adelante, en una placita diminuta, busquen la estatua de un hombre con turbante y la mano en el pecho.
 
-Hoy se venden recuerdos: farolitos de colores, teteras, cerámica, taraceas, que son esas cajitas de madera con incrustaciones.
+## 03 · La estatua de Yehuda ibn Tibón {en=00:00 mapa=2}
 
-Atraviesen la Alcaicería hacia la izquierda, por la calle Ermita, y salgan a una plaza grande llena de mesas y puestos de flores. Cuando estén junto a la fuente del centro, pasen a la siguiente parada.
+Nacido en mil ciento veinte, Yehuda ibn Tibón fue un destacado médico, filósofo y poeta. Pero, como dice la inscripción, es más famoso como el patriarca de los traductores. Los intelectuales judíos de al-Ándalus solían escribir sus tratados en árabe; Tibón tradujo muchas de esas grandes obras al hebreo, y su trabajo fue clave para incorporar a la lengua hebrea los conceptos nuevos de la ciencia y la filosofía.
 
-## 04 · La Plaza de Bib-Rambla {en=00:00}
+Sobreviven pocos escritos originales suyos, pero el consejo que le escribió a su hijo, que también era médico, deja una lección moral atemporal: si te paga el rico, atendé gratis al pobre; el Señor te va a recompensar, y vas a ganar buen nombre entre judíos y gentiles, cerca y lejos.
 
-Bib-Rambla viene del árabe y quiere decir, más o menos, "la puerta del arenal". Por aquí pasaba una de las puertas de la muralla, cerca del cauce del río, que era de arena.
+La estatua marca el inicio del barrio judío histórico de Granada, el Realejo, un barrio que se presta para vagar. Sus rincones más encantadores están en las calles empinadas que trepan la colina de la Alhambra: recuerdan al Albaicín, pero con una fracción de los turistas. Si vuelven otro día, la Plaza Campo del Príncipe, bordeada de buenos bares de tapas, rinde especialmente de noche.
 
-Esta fue la plaza mayor de la ciudad durante siglos. En época musulmana había mercado y fiestas. Después de la conquista, siguió siendo el escenario de todo: torneos, corridas de toros, procesiones, y también momentos tristes. Aquí mismo, alrededor del año 1500, el cardenal Cisneros mandó quemar miles de libros y manuscritos en árabe, para borrar la cultura de los musulmanes que quedaban en la ciudad.
+La próspera comunidad judía de Granada fue diezmada en mil cuatrocientos noventa y dos cuando, por orden de la reina Isabel, se expulsó a todos los judíos que no se convirtieran al cristianismo: se estima que más de diez mil personas fueron deportadas. Esa intolerancia, lamenta Rick, también es atemporal... aunque sea la lección moral equivocada.
 
-La fuente del centro se llama de los Gigantones, por las figuras grandotas que sostienen la taza, y arriba está Neptuno. Miren hacia un costado: por encima de los edificios asoma la torre de la catedral, que es la próxima parada.
+Ahora vuelvan a la fuente de Colón. Doblen a la izquierda por la transitada Reyes Católicos y sigan apenas cuesta abajo. La calle, aunque no lo parezca, tapa el río Darro, que antes corría a cielo abierto y se cruzaba por una serie de puentes. A unas cien yardas, busquen a su izquierda la callejuela Puente del Carbón: van a ver un portal moro, con un gran arco de herradura. Esa es la próxima parada.
 
-Salgan de la plaza por el lado de la catedral y caminen hasta su fachada principal. Cuando la tengan enfrente, pasen a la siguiente parada.
+## 04 · El Corral del Carbón {en=00:00 mapa=3}
 
-## 05 · La catedral, por fuera {en=00:00}
+Están frente a un caravanserai, de los famosos de la Ruta de la Seda: un lugar protegido donde los mercaderes descansaban a sus animales, pasaban la noche, comían algo y contaban historias. Granada llegó a tener catorce; este, moro, del siglo catorce, es el único que sobrevive, y está a una sola cuadra del mercado de la seda, que es nuestra próxima parada.
 
-Están frente a la catedral de Granada. Los Reyes Católicos quisieron levantarla en el lugar más simbólico posible: donde estaba la mezquita mayor de la ciudad. Se empezó en 1523 y se tardó casi dos siglos en terminarla, así que mezcla estilos.
+Crucen el gran arco de herradura de la entrada. Adentro hay un patio de ladrillo moro alrededor de una fuente: un espacio sobrio pero elegante, que evoca los tiempos en que los comerciantes se juntaban acá con mercancías exóticas y anécdotas de todo el mundo musulmán.
 
-El arquitecto principal fue Diego de Siloé, que la pensó renacentista, luminosa y blanca por dentro, muy distinta de las catedrales góticas oscuras. Y la fachada que ven, con esos tres grandes arcos como un arco de triunfo, es del siglo diecisiete, de Alonso Cano, un artista granadino que fue pintor, escultor y arquitecto. Arriba, en el centro, hay un medallón con la Anunciación: la Virgen ocupa el lugar de honor.
+Rick aprovecha para corregir un error común: pensar que los moros musulmanes "no eran nativos" de la península ibérica. Vivieron acá siete siglos; eran tan de acá como los romanos, los godos o los celtas. Eran musulmanes, sí, pero no estaban más conectados con Arabia que con Francia.
 
-El interior impresiona por la altura y por la capilla mayor, toda dorada.
+Después de la Reconquista, el lugar se usó como depósito de carbón, y de ahí le quedó el nombre. Hoy tiene oficinas de venta de entradas para eventos musicales y, dato práctico, un baño público a la derecha de la entrada.
 
-Rodeen la catedral por la derecha, dejándola a su izquierda, hasta una callecita peatonal con una fachada gótica muy decorada. Cuando estén ahí, pasen a la siguiente parada.
+Cuando terminen, salgan derecho por la callejuela y crucen la calle Reyes Católicos. Sigan una cuadra más, hasta la puerta con forma de herradura que dice "Alcaicería". Justo antes de llegar, fíjense en la calle peatonal Zacatín: hoy es un paseo favorito de los granadinos, llena de gente cada tarde. Crucen la puerta y caminen unas veinte yardas adentro del viejo mercado, hasta el primer cruce de callecitas.
 
-## 06 · La Capilla Real y la Madraza {en=00:00}
+## 05 · La Alcaicería {en=00:00 mapa=4}
 
-Están en la calle Oficios. A un lado, la Capilla Real. Enfrente, la Madraza.
+Esto era un zoco árabe, y el mercado de la seda de Granada: un laberinto de callecitas que ofrecía plata preciosa, especias y seda, con diez puertas armadas y guardias propios.
 
-La Capilla Real es el lugar donde están enterrados Isabel y Fernando. Isabel quiso descansar en Granada porque la conquista de esta ciudad fue, para ella, la obra de su vida. Murió en 1504, antes de que la capilla estuviera terminada, y sus restos se trasladaron aquí en 1521. Adentro, sus sepulcros de mármol están acompañados por los de su hija Juana, a la que la historia llamó "la Loca", y su marido, Felipe el Hermoso. Abajo, en una cripta, se ven los ataúdes de plomo. También se guardan la corona y el cetro de Isabel, la espada de Fernando y la colección de pintura flamenca de la reina.
+La seda era un negocio enorme en época mora. En el campo alrededor de Granada florecían las moreras, el árbol amigo del gusano de seda, y el producto era tan importante que los sultanes lo controlaban y lo custodiaban desde este fino mercado fortificado.
 
-Enfrente, el edificio de fachada pintada es la Madraza, la universidad musulmana fundada en el siglo catorce por un sultán nazarí. Por fuera parece barroca, porque se rehízo después, pero adentro se conserva el oratorio original, con su nicho de oración y su cúpula decorada. Hoy pertenece a la Universidad de Granada.
+Después de la Reconquista, los españoles se dieron cuenta de que el mercado era buen negocio y no lo tocaron. Más tarde, el fanático Felipe Segundo lo mandó cerrar, y un incendio terrible en mil ochocientos cincuenta destruyó lo que quedaba. Así que la Alcaicería de hoy es, en palabras de Rick, una falsificación auténtica: se reconstruyó a fines del siglo diecinueve como atracción turística, para acompañar la imagen romántica de Granada que habían popularizado los escritos de Washington Irving.
 
-Sigan por la calle Oficios hasta la Gran Vía, giren a la derecha y caminen hasta la plaza grande con una fuente y un monumento de bronce. Cuando estén ahí, pasen a la siguiente parada.
+Exploren la malla de callejones comerciales, con sus farolitos, cerámica y taraceas. Y una advertencia del propio Rick: tarde o temprano se van a cruzar con las insistentes mujeres que les empujan ramitas de romero para sacarles plata. Manténganse firmes, no las agarren.
 
-## 07 · La Plaza de Isabel la Católica {en=00:00}
+Ahora doblen a la izquierda por la calle Ermita. A las cincuenta yardas salen del mercado por otra puerta fortificada y entran a una gran plaza repleta de mesas al aire libre. Bordeen las mesas hasta la fuente de Neptuno, en el centro.
 
-En el monumento del centro, la reina Isabel está sentada, y Colón, de pie frente a ella, le presenta su proyecto. Es obra de Mariano Benlliure, de 1892, cuando se cumplían cuatrocientos años del primer viaje.
+## 06 · La Plaza de Bib-Rambla {en=00:00 mapa=5}
 
-La historia pasó muy cerca de aquí. En abril de 1492, tres meses después de tomar Granada, los reyes firmaron con Colón las Capitulaciones de Santa Fe, el acuerdo que le daba títulos, una parte de las riquezas y el mando de la expedición. Santa Fe es un pueblo a diez kilómetros, que había sido el campamento del ejército durante el sitio. Así que el mismo año, y casi en el mismo lugar, terminó la España musulmana y empezó la aventura de América.
+Esta plaza exuberante, con sus cuatro finos faroles del siglo diecinueve, fue el centro de la Granada mora. Párense frente a la estatua de Neptuno.
 
-Ahora sigan por la calle Reyes Católicos, en subida suave, hasta la siguiente plaza. Cuando estén en ella, pasen a la siguiente parada.
+El dominio moro de España duró setecientos años, pero declinó en sus últimos siglos, con líderes débiles, mientras las fuerzas cristianas se volvían más decididas. Los musulmanes que huían del sur reconquistado inundaron Granada, el último reducto del reino moro: hacia mil cuatrocientos, la ciudad tenía unos cien mil habitantes, una enormidad para la Europa medieval. Y esta era la plaza principal, el foco de los mercados y las fiestas, aunque entonces era mucho más chica y apretada, encajonada por la ciudad abarrotada.
 
-## 08 · La Plaza Nueva {en=00:00}
+Bajo el dominio cristiano, los moros que quedaron fueron primero tolerados, porque se los consideraba buenos para el negocio, y esta zona se volvió su gueto. Después llegó la Inquisición, y la ideología pudo más que el pragmatismo: musulmanes y judíos fueron expulsados o forzados a convertirse, y algunos ejecutados. De esa época es esta plaza elegante, y se construyó grande a propósito: todo el aparato del poder cristiano superpuesto al poder moro. De acá arrancaban las procesiones católicas, bien "en tu cara". Miren adelante, a la derecha: esa es la torre de la catedral. Entre la plaza y la catedral estaban la universidad cristiana, el gran edificio naranja, y el palacio del arzobispo, pegado.
 
-La Plaza Nueva se armó en el siglo dieciséis tapando el río Darro con una gran bóveda: el río sigue corriendo debajo de ustedes.
+Hoy Bib-Rambla es un buen lugar para un café entre el color y la fragancia de los puestos de flores, con el borboteo de la fuente de fondo. Y atrás de ustedes, a la izquierda, hay una gran churrería.
 
-El edificio imponente de piedra es la Real Chancillería, el gran tribunal de justicia que los Reyes Católicos instalaron en Granada para todo el sur de Castilla. Hoy sigue siendo un tribunal, el superior de Andalucía. A su lado, al final de la plaza, está la pequeña iglesia de Santa Ana, del siglo dieciséis, también de Diego de Siloé. Su torre, de ladrillo con azulejos verdes y blancos, ocupa el lugar del alminar de una mezquita. Junto a la iglesia hay una fuente de piedra, el Pilar del Toro.
+Ahora, con Neptuno de frente, salgan de la plaza adelante y a la izquierda, por la calle Pescadería, hacia una placita igual de animada: la Plaza Pescadería, donde las familias desbordan los restaurantes. Si es mediodía, Rick recomienda La Freiduría de Tere, a la derecha, al fondo: el cono de pescado frito variado para llevar es un clásico. Después salgan de la placita a la izquierda, por la calle Marqués de Gerona: derecho adelante van a ver una plazoleta frente a una iglesia muy grande.
 
-Levanten la vista: sobre la colina, a la derecha, ya se ven las torres de la Alhambra.
+## 07 · La catedral, por fuera {en=00:00 mapa=6}
 
-Pasen junto a la iglesia de Santa Ana y tomen la calle que sigue al río, la Carrera del Darro. Caminen unos cinco minutos, hasta un edificio de ladrillo con una puerta sencilla, en el número treinta y uno, frente a los restos de un puente. Cuando lleguen, pasen a la siguiente parada.
+La fachada de la catedral de Granada, dice Rick, directamente grita "triunfo". En parte porque su diseño se basa en un arco de triunfo. Y en parte porque está construida sobre una mezquita destruida.
 
-## 09 · La Carrera del Darro y El Bañuelo {en=00:00}
+A quinientas yardas de acá había espacio abierto, fuera de la muralla, con buen suelo para cimentar. Pero los conquistadores cristianos dijeron: ni hablar. Destruyeron la mezquita y levantaron su catedral exactamente acá, sobre suelo arenoso y difícil. Porque este era el lugar donde la gente de Granada siempre había rezado... y ahora iba a rezar como cristiana.
 
-La Carrera del Darro es, para muchos, la calle más linda de Granada. A un lado, casas, conventos y palacios. Al otro, el río, con sus puentecitos de piedra. Y arriba, la muralla de la Alhambra.
+La construcción empezó a principios del siglo dieciséis y no terminó hasta principios del dieciocho. Arrancó con cimientos góticos, pero en dos siglos el diseño fue evolucionando: el interior es mayormente renacentista, los últimos altares son neoclásicos, y la fachada, terminada por el artista local Alonso Cano, es barroca.
 
-Frente al número treinta y uno, en la orilla, van a ver el arranque de un puente que ya no existe. Era del siglo once y unía la ciudad con la colina de la Alhambra.
+Fíjense en un detalle: el énfasis está puesto en María, más que en Cristo. La fachada declara "Ave María". Eran tiempos de Contrarreforma, con la Iglesia católica amenazada por los protestantes, y acentuar a María era acentuar el poder de Roma. Pero además, María resultaba más aceptable para los musulmanes conversos: en el Corán es venerada, y tiene un capítulo entero dedicado a ella.
 
-Y en el treinta y uno está El Bañuelo, un baño árabe del siglo once, uno de los mejor conservados de España. En la ciudad musulmana había decenas de baños: la higiene era parte de la religión, y el baño era también el lugar para charlar, enterarse de las noticias y cerrar negocios. Adentro hay tres salas, la fría, la templada y la caliente, con columnas y arcos de herradura. Fíjense en el techo: los agujeros en forma de estrella dejaban entrar luz y dejaban salir el vapor.
+Ahora rodeen el edificio hacia la derecha, siempre con la iglesia a su izquierda, hasta llegar a una plazoleta frente a la Capilla Real.
 
-Sigan por la Carrera del Darro, junto al río, hasta que la calle se abra en un paseo con terrazas. Cuando estén ahí, pasen a la siguiente parada.
+## 08 · La placita de la Capilla Real y la Madraza {en=00:00 mapa=7}
 
-## 10 · El Paseo de los Tristes {en=00:00}
+Esta placita estuvo rodeada por los edificios moros más importantes de la ciudad: un hammam, es decir un baño público; un caravanserai, que Rick define en broma como el hotel de ruta de la época; el mercado de la seda; la mezquita principal; y una madraza, una escuela.
 
-Llegaron al final del paseo. Este ensanche junto al río se llama oficialmente Paseo del Padre Manjón, pero todos lo conocen como Paseo de los Tristes. El nombre viene de que por aquí pasaban los cortejos fúnebres camino del cementerio, que está detrás de la colina.
+El Palacio de la Madraza es ese edificio frente a la capilla, con la fachada barroca pintada imitando sillares grises. Quinientos años atrás era la escuela coránica de Granada; con el dominio cristiano pasó a ser el primer ayuntamiento de la ciudad. Si está abierto, entren a espiar la pequeña sala de oración con su mihrab: está tan ornamentada como la Alhambra.
 
-Hoy es todo lo contrario de triste. Hay bares con mesas al aire libre y la vista de la Alhambra desde abajo, con la muralla y las torres encima de ustedes. De noche, con la Alhambra iluminada, es uno de los rincones más lindos de Granada.
+En esta placita está también la entrada a la Capilla Real, donde descansan Fernando e Isabel. Sus féretros se trasladaron acá en mil quinientos veintiuno desde la Alhambra. La visita por dentro es un capítulo aparte; en este paseo seguimos de largo.
 
-Desde aquí suben las callecitas del Albaicín, el antiguo barrio musulmán, que tiene su propia guía en esta aplicación.
+Ahora viene el único tramo con escalones del recorrido: la callejuela empedrada que sube de esta placita a la Gran Vía. Si prefieren evitarlos, rodeen la manzana por las calles llanas hasta la Gran Vía. Arriba, doblen a la derecha y caminen hacia la plaza donde empezamos; salúdenlo a Colón al pasar. Después doblen a la izquierda por la calle Reyes Católicos y síganla, apenas cuesta arriba, varias cuadras, hasta que se abra una plaza muy larga y angosta.
 
-Con esto termina el paseo por el casco antiguo de Granada. Que lo disfruten.
+## 09 · La Plaza Nueva {en=00:00 mapa=8}
+
+Esta es la Plaza Nueva, dominada al fondo por el Palacio de Justicia regional, con su gran fachada barroca y la bandera verde y blanca de Andalucía.
+
+Fíjense en la fuente: está coronada por una granada estilizada, el símbolo de la ciudad, siempre abierta y fértil. El movimiento principal de la plaza es el ir y venir de los pequeños buses lanzadera que suben al Albaicín.
+
+Y un detalle de color local: la comunidad hippie de Granada, apodada "los pies negros", por razones obvias, ronda por acá y por la calle de Elvira. Muchos okupan, con sus perros y sus guitarras, cuevas abandonadas arriba en el Sacromonte. Y muchos, cuenta Rick, son hijos de familias españolas ricas del norte, empeñados en decepcionar a sus exitosos padres.
+
+Podrían terminar el paseo acá. Pero lo mejor viene ahora: la caminata junto al río, especialmente agradable al fresco de la tarde. Salgan de la Plaza Nueva por el lado opuesto al que entraron, por la callecita que corre pegada al río Darro.
+
+## 10 · La Carrera del Darro y el Paseo de los Tristes {en=00:00 mapa=9}
+
+Esta calle, la Carrera del Darro, lleva a una plaza encantadora llamada Paseo de los Tristes. El nombre viene de que esta era la ruta de los cortejos fúnebres hacia el cementerio del borde de la ciudad.
+
+Al salir de la Plaza Nueva, fíjense a la derecha en la maciza iglesia de Santa Ana: originalmente fue mezquita, y la torre reemplaza al minarete. Su ladrillo cerámico es arte mudéjar, de artesanos moros cuyas técnicas después adoptaron los españoles. Y miren hacia arriba: las torres rectangulares que asoman en lo alto de la colina son el extremo inferior de la Alhambra.
+
+Sigan junto al río, que fluye rodeando la base de la Alhambra. Seis millas aguas arriba, parte del Darro se desvía por un acueducto para alimentar las fuentes de la Alhambra: una hazaña de ingeniería mora de mil doscientos treinta y ocho.
+
+Después de dos puentecitos pintorescos, la calle se ensancha un poco en una parada de bus. Ahí, cruzando el río, se ve el muñón roto de un gran puente del siglo once que llevaba a la Alhambra. Tiene dos ranuras en la columna: una sostenía un rastrillo de hierro que impedía a los malvivientes entrar a la ciudad por el río; la otra, una compuerta maciza que se bajaba para embalsar el agua y después se soltaba, para limpiar el cauce de una sola correntada.
+
+Frente a los restos del puente está la fachada de ladrillo del Bañuelo, las ruinas austeras pero evocadoras de un baño público árabe del siglo once. Los baños árabes eran mucho más que lugares para lavarse: eran puntos de encuentro social donde se hacían negocios. Y justamente por eso sobreviven tan pocos: en época cristiana se asumía que en estos baños se tramaban conspiraciones. Si está abierto, es una gran oportunidad de ver uno bien conservado por dentro. Y si lo que les tienta es un baño árabe de verdad, están de suerte: el Hammam al Ándalus, un spa moderno, está justo cruzando el río.
+
+Justo enfrente de los baños históricos hay una parada de los minibuses C treinta y uno y C treinta y dos: la manera fácil de subir al Albaicín, que les va a servir para el paseo del mirador.
+
+Unos pasos más adelante, a la izquierda, está Santa Catalina de Zafra, un convento de monjas de clausura, que rezan detrás de una reja que divide la iglesia en dos. Más adelante, a la derecha, la iglesia de San Pedro y San Pablo guarda una carreta con incrustaciones de plata, la que lleva la hostia consagrada en la peregrinación anual al Rocío. Y unos pasos más allá, a la izquierda, el Convento de San Bernardo vende galletas y vino hechos por las monjas: crucen bajo el arco, suban hasta la puerta con el retrato cerámico de San Bernardo, y pidan por el torno giratorio, sin verle la cara a nadie.
+
+El paseo termina en la explanada del Paseo de los Tristes, con las mesas de los bares desparramadas bajo la Alhambra iluminada. Y una última presentación: el tipo de la estatua, en pose de Bruce Lee, es el aclamado bailaor flamenco Mario Maya, criado acá nomás, en el Sacromonte.
+
+Desde acá, la calle sube en arco hacia el Albaicín y se interna en el Sacromonte. Fin del paseo.
