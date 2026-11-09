@@ -45,7 +45,7 @@ CITIES = {
                 "center": [36.8628, -5.1806], "zoom": 16, "tours": ["setenil-bodegas"]},
     "seville": {"name": "Sevilla", "country": "España", "nominatim_city": "Sevilla, España",
                  "center": [37.3886, -5.9823], "zoom": 15,
-                 "tours": ["sevilla-city-walk", "sev-santa-cruz", "sev-triana"]},  # TEMP: catedral/alcazar entran con el push de audios
+                 "tours": ["sevilla-city-walk", "sev-catedral", "sev-alcazar", "sev-santa-cruz", "sev-triana"]},
     "madrid": {"name": "Madrid", "country": "España", "nominatim_city": "Madrid, España",
                 "center": [40.4168, -3.7038], "zoom": 15, "tours": ["madrid-city-walk"]},
 }
@@ -453,8 +453,8 @@ AUDIO_VERSIONS = {
     "siena-city-walk": {n: 2 for n in range(11, 21)},  # numeración del mapa oficial (nov. 2026)
     # Andalucía: audios regenerados con la edición 2026 del libro (9/11/2026)
     **{t: {n: 3 for n in range(1, 21)} for t in ("gra-casco-antiguo", "gra-alhambra", "gra-albaicin", "ronda-tajo",
-                                                  "setenil-bodegas")},
-    **{t: {n: 2 for n in range(1, 21)} for t in ("sev-santa-cruz", "sev-triana")},  # TEMP: v3 con el push de audios
+                                                  "setenil-bodegas", "sev-santa-cruz", "sev-triana",
+                                                  "sev-catedral", "sev-alcazar")},
 }
 
 TOUR_TITLES = {
