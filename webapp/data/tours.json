@@ -6084,18 +6084,18 @@
       "Llevar los pasaportes físicos: las entradas son nominales y los piden.",
       "Cómo llegar: minibús rojo C30 o C32 (zona Plaza Isabel la Católica) o taxi (~€6). No subir caminando: adentro se camina varias horas.",
       "Adentro de los Palacios Nazaríes no hay baños: pasar antes. En noviembre el recinto cierra a las 18:00.",
-      "🚨 Por los sismos de agosto de 2026, la Alcazaba está CERRADA y la Torre de Comares sin acceso. En el tour de la app: la parada 04 (Alcazaba) se escucha mirándola desde afuera, y la 07 (Sala de la Barca y Salón de Comares) se saltea o se ve desde la puerta si sigue cerrada. Confirmar en la entrada.",
-      "Del Partal al Generalife: 10 a 15 minutos de subida suave, con algunos escalones. La Escalera del Agua (parada 13) es opcional.",
+      "🚨 Por los sismos de agosto de 2026, la Alcazaba está CERRADA y la Torre de Comares sin acceso. En el tour de la app: la parada 03 (Alcazaba) se escucha mirándola desde afuera, y las paradas 06 y 07 (Sala de la Barca y Salón de Embajadores, en la Torre de Comares) se saltean o se ven desde la puerta si siguen cerradas. Confirmar en la entrada.",
+      "Del Partal al Generalife: 10 a 15 minutos de subida suave, con algunos escalones. La Escalera del Agua (parada 17) es opcional.",
       "Para volver: minibús C30/C32 o taxi desde el pabellón de entrada. El camino a pie hasta el Paseo de los Tristes es empinado y de tierra."
      ]
     },
     {
      "title": "El Albaicín",
      "items": [
-      "Cómo llegar: minibús C31 o C32 desde Plaza Nueva, o taxi, hasta el Mirador de San Nicolás. Recorrerlo en bajada.",
-      "La parada 06 (Mirador de San Cristóbal) es opcional: subida corta pero empinada desde la Plaza Larga.",
-      "Para volver: minibús C31/C32 o taxi desde la zona de San Miguel Bajo. A pie hasta Plaza Nueva son unos 15 minutos de cuestas y escalones.",
-      "Atardecer en San Nicolás: alrededor de las 18:00 en noviembre, con mucha gente. Cuidar celulares y carteras. De noche las calles están oscuras: volver en minibús o taxi."
+      "El paseo 2026 va EN SUBIDA, desde Plaza Nueva hasta el Mirador de San Nicolás (~30 min), pensado para llegar al atardecer.",
+      "Atajo del propio Rick para saltear el tramo más empinado: minibús C31 o C32 desde Plaza Nueva y retomar el paseo en la Placeta de San Miguel Bajo (parada 05). Desde ahí las subidas que quedan son más cortas.",
+      "Atardecer en San Nicolás: alrededor de las 18:00 en noviembre, con mucha gente. Cuidar celulares y carteras.",
+      "Para volver: minibús C31/C32 o taxi desde cerca del mirador. De noche las calles están oscuras: mejor no bajar caminando."
      ]
     },
     {
@@ -6119,8 +6119,8 @@
      "title": "Casco antiguo de Granada",
      "full_title": "Granada: paseo por el casco antiguo",
      "coord": [
-      37.176,
-      -3.5985
+      37.1747,
+      -3.5977
      ],
      "maps": [
       {
@@ -6215,73 +6215,123 @@
      "stops": [
       {
        "n": 1,
-       "label": null,
+       "label": "Intro",
        "v": 3,
        "name": "Introducción",
-       "text": "Este es el paseo de Rick Steves por el centro de Granada, actualizado con su guía de España de este año.\n\nEs una caminata corta que cubre los imprescindibles del centro. Van a arrancar en la Plaza Isabel la Católica, la plaza de la reina más famosa de España, y van a terminar en el Paseo de los Tristes, al pie de la Alhambra, pasando por el Bañuelo, el baño árabe medieval.\n\nEl hilo de todo el paseo es uno solo: el pasado multicultural de Granada, y la transición dramática de ciudad mora a ciudad cristiana que trajo la Reconquista, esa campaña larga, y al final exitosa, para arrebatarle España a los moros musulmanes e imponer el dominio cristiano.\n\nEl recorrido es esencialmente llano, por calles del centro, y después en suave pendiente junto al río Darro. Hay un solo tramo corto empedrado y con escalones, que se puede evitar rodeando por calles llanas; se lo vamos a avisar cuando llegue.\n\nCuando estén en la plaza con la fuente y la gran estatua, al costado de la calle Reyes Católicos, pasen a la siguiente parada."
+       "text": "Este es el paseo de Rick Steves por el centro de Granada, actualizado con su guía de España de este año.\n\nEs una caminata corta que cubre los imprescindibles del centro. Van a arrancar en la Plaza Isabel la Católica, la plaza de la reina más famosa de España, y van a terminar en el Paseo de los Tristes, al pie de la Alhambra, pasando por el Bañuelo, el baño árabe medieval.\n\nEl hilo de todo el paseo es uno solo: el pasado multicultural de Granada, y la transición dramática de ciudad mora a ciudad cristiana que trajo la Reconquista, esa campaña larga, y al final exitosa, para arrebatarle España a los moros musulmanes e imponer el dominio cristiano.\n\nEl recorrido es esencialmente llano, por calles del centro, y después en suave pendiente junto al río Darro. Hay un solo tramo corto empedrado y con escalones, que se puede evitar rodeando por calles llanas; se lo vamos a avisar cuando llegue.\n\nCuando estén en la plaza con la fuente y la gran estatua, al costado de la calle Reyes Católicos, pasen a la siguiente parada.",
+       "en_start": 0,
+       "coord": [
+        37.1747,
+        -3.5977
+       ]
       },
       {
        "n": 2,
        "label": "1",
        "v": 3,
        "name": "Plaza Isabel la Católica",
-       "text": "Acá se cruzan los dos grandes bulevares de Granada: la Gran Vía y la calle Reyes Católicos.\n\nSobre la fuente, una hermosa estatua muestra a Colón desplegando un largo contrato ante la reina Isabel. Es el acuerdo del viaje de mil cuatrocientos noventa y dos, y enumera las condiciones: \"Por cuanto vos, Colón, vais por nuestro mandado a descubrir y sojuzgar ciertas islas y tierra firme en el océano...\". Abajo de las figuras hay dos relieves con los dos grandes hechos de ese año en Granada: Isabel y Fernando aceptando la propuesta de Colón, y una vibrante escena de batalla que marca el final triunfal de la Reconquista.\n\nA Isabel quizá la movía expandir el catolicismo, pero el interés de España era la ruta marítima a las especias del Lejano Oriente, porque los turcos otomanos habían cortado la ruta terrestre tradicional. Y a Colón lo movía el dinero: como recompensa por agrandar el imperio católico, Isabel le prometió los títulos de Almirante de los Océanos y Gobernador del Nuevo Mundo, y le endulzó el trato con un octavo de todas las riquezas que trajera.\n\nMiren los elegantes edificios que flanquean el inicio de la Gran Vía. Cuando llegó el auto, a principios del siglo veinte, Granada quiso un bulevar al estilo parisino, y lo abrió sin piedad a través del centro, destruyendo todo a su paso, palacios moros históricos y conventos cristianos incluidos. Los dos edificios de inspiración parisina que dan a la plaza, de alrededor de mil novecientos diez, muestran las fachadas elegantes que antes adornaban toda la avenida. Ahora dense vuelta, ciento ochenta grados: estética de los años setenta, moderna en su momento, hoy penosamente pasada de moda. Rick se permite decirle, directamente, fea.\n\nLa calle Reyes Católicos, por Fernando e Isabel, baja desde esta plaza hasta el cruce de Puerta Real, y de ahí la ciudad moderna sigue hasta el río. Esa zona estalla de granadinos paseando todas las noches: si quieren uno de los mejores paseos de la ciudad, vuelvan a eso de las siete de la tarde.\n\nLa siguiente parada es un desvío cortito para conocer a un hijo de Granada. Desde la fuente, crucen la calle hacia la izquierda, entre los dos edificios de los setenta. Unas cincuenta yardas más adelante, en una placita diminuta, busquen la estatua de un hombre con turbante y la mano en el pecho."
+       "text": "Acá se cruzan los dos grandes bulevares de Granada: la Gran Vía y la calle Reyes Católicos.\n\nSobre la fuente, una hermosa estatua muestra a Colón desplegando un largo contrato ante la reina Isabel. Es el acuerdo del viaje de mil cuatrocientos noventa y dos, y enumera las condiciones: \"Por cuanto vos, Colón, vais por nuestro mandado a descubrir y sojuzgar ciertas islas y tierra firme en el océano...\". Abajo de las figuras hay dos relieves con los dos grandes hechos de ese año en Granada: Isabel y Fernando aceptando la propuesta de Colón, y una vibrante escena de batalla que marca el final triunfal de la Reconquista.\n\nA Isabel quizá la movía expandir el catolicismo, pero el interés de España era la ruta marítima a las especias del Lejano Oriente, porque los turcos otomanos habían cortado la ruta terrestre tradicional. Y a Colón lo movía el dinero: como recompensa por agrandar el imperio católico, Isabel le prometió los títulos de Almirante de los Océanos y Gobernador del Nuevo Mundo, y le endulzó el trato con un octavo de todas las riquezas que trajera.\n\nMiren los elegantes edificios que flanquean el inicio de la Gran Vía. Cuando llegó el auto, a principios del siglo veinte, Granada quiso un bulevar al estilo parisino, y lo abrió sin piedad a través del centro, destruyendo todo a su paso, palacios moros históricos y conventos cristianos incluidos. Los dos edificios de inspiración parisina que dan a la plaza, de alrededor de mil novecientos diez, muestran las fachadas elegantes que antes adornaban toda la avenida. Ahora dense vuelta, ciento ochenta grados: estética de los años setenta, moderna en su momento, hoy penosamente pasada de moda. Rick se permite decirle, directamente, fea.\n\nLa calle Reyes Católicos, por Fernando e Isabel, baja desde esta plaza hasta el cruce de Puerta Real, y de ahí la ciudad moderna sigue hasta el río. Esa zona estalla de granadinos paseando todas las noches: si quieren uno de los mejores paseos de la ciudad, vuelvan a eso de las siete de la tarde.\n\nLa siguiente parada es un desvío cortito para conocer a un hijo de Granada. Desde la fuente, crucen la calle hacia la izquierda, entre los dos edificios de los setenta. Unas cincuenta yardas más adelante, en una placita diminuta, busquen la estatua de un hombre con turbante y la mano en el pecho.",
+       "en_start": 0,
+       "coord": [
+        37.1747,
+        -3.5977
+       ]
       },
       {
        "n": 3,
        "label": "2",
        "v": 3,
        "name": "La estatua de Yehuda ibn Tibón",
-       "text": "Nacido en mil ciento veinte, Yehuda ibn Tibón fue un destacado médico, filósofo y poeta. Pero, como dice la inscripción, es más famoso como el patriarca de los traductores. Los intelectuales judíos de al-Ándalus solían escribir sus tratados en árabe; Tibón tradujo muchas de esas grandes obras al hebreo, y su trabajo fue clave para incorporar a la lengua hebrea los conceptos nuevos de la ciencia y la filosofía.\n\nSobreviven pocos escritos originales suyos, pero el consejo que le escribió a su hijo, que también era médico, deja una lección moral atemporal: si te paga el rico, atendé gratis al pobre; el Señor te va a recompensar, y vas a ganar buen nombre entre judíos y gentiles, cerca y lejos.\n\nLa estatua marca el inicio del barrio judío histórico de Granada, el Realejo, un barrio que se presta para vagar. Sus rincones más encantadores están en las calles empinadas que trepan la colina de la Alhambra: recuerdan al Albaicín, pero con una fracción de los turistas. Si vuelven otro día, la Plaza Campo del Príncipe, bordeada de buenos bares de tapas, rinde especialmente de noche.\n\nLa próspera comunidad judía de Granada fue diezmada en mil cuatrocientos noventa y dos cuando, por orden de la reina Isabel, se expulsó a todos los judíos que no se convirtieran al cristianismo: se estima que más de diez mil personas fueron deportadas. Esa intolerancia, lamenta Rick, también es atemporal... aunque sea la lección moral equivocada.\n\nAhora vuelvan a la fuente de Colón. Doblen a la izquierda por la transitada Reyes Católicos y sigan apenas cuesta abajo. La calle, aunque no lo parezca, tapa el río Darro, que antes corría a cielo abierto y se cruzaba por una serie de puentes. A unas cien yardas, busquen a su izquierda la callejuela Puente del Carbón: van a ver un portal moro, con un gran arco de herradura. Esa es la próxima parada."
+       "text": "Nacido en mil ciento veinte, Yehuda ibn Tibón fue un destacado médico, filósofo y poeta. Pero, como dice la inscripción, es más famoso como el patriarca de los traductores. Los intelectuales judíos de al-Ándalus solían escribir sus tratados en árabe; Tibón tradujo muchas de esas grandes obras al hebreo, y su trabajo fue clave para incorporar a la lengua hebrea los conceptos nuevos de la ciencia y la filosofía.\n\nSobreviven pocos escritos originales suyos, pero el consejo que le escribió a su hijo, que también era médico, deja una lección moral atemporal: si te paga el rico, atendé gratis al pobre; el Señor te va a recompensar, y vas a ganar buen nombre entre judíos y gentiles, cerca y lejos.\n\nLa estatua marca el inicio del barrio judío histórico de Granada, el Realejo, un barrio que se presta para vagar. Sus rincones más encantadores están en las calles empinadas que trepan la colina de la Alhambra: recuerdan al Albaicín, pero con una fracción de los turistas. Si vuelven otro día, la Plaza Campo del Príncipe, bordeada de buenos bares de tapas, rinde especialmente de noche.\n\nLa próspera comunidad judía de Granada fue diezmada en mil cuatrocientos noventa y dos cuando, por orden de la reina Isabel, se expulsó a todos los judíos que no se convirtieran al cristianismo: se estima que más de diez mil personas fueron deportadas. Esa intolerancia, lamenta Rick, también es atemporal... aunque sea la lección moral equivocada.\n\nAhora vuelvan a la fuente de Colón. Doblen a la izquierda por la transitada Reyes Católicos y sigan apenas cuesta abajo. La calle, aunque no lo parezca, tapa el río Darro, que antes corría a cielo abierto y se cruzaba por una serie de puentes. A unas cien yardas, busquen a su izquierda la callejuela Puente del Carbón: van a ver un portal moro, con un gran arco de herradura. Esa es la próxima parada.",
+       "en_start": 0,
+       "coord": [
+        37.1747,
+        -3.5977
+       ]
       },
       {
        "n": 4,
        "label": "3",
        "v": 3,
        "name": "El Corral del Carbón",
-       "text": "Están frente a un caravanserai, de los famosos de la Ruta de la Seda: un lugar protegido donde los mercaderes descansaban a sus animales, pasaban la noche, comían algo y contaban historias. Granada llegó a tener catorce; este, moro, del siglo catorce, es el único que sobrevive, y está a una sola cuadra del mercado de la seda, que es nuestra próxima parada.\n\nCrucen el gran arco de herradura de la entrada. Adentro hay un patio de ladrillo moro alrededor de una fuente: un espacio sobrio pero elegante, que evoca los tiempos en que los comerciantes se juntaban acá con mercancías exóticas y anécdotas de todo el mundo musulmán.\n\nRick aprovecha para corregir un error común: pensar que los moros musulmanes \"no eran nativos\" de la península ibérica. Vivieron acá siete siglos; eran tan de acá como los romanos, los godos o los celtas. Eran musulmanes, sí, pero no estaban más conectados con Arabia que con Francia.\n\nDespués de la Reconquista, el lugar se usó como depósito de carbón, y de ahí le quedó el nombre. Hoy tiene oficinas de venta de entradas para eventos musicales y, dato práctico, un baño público a la derecha de la entrada.\n\nCuando terminen, salgan derecho por la callejuela y crucen la calle Reyes Católicos. Sigan una cuadra más, hasta la puerta con forma de herradura que dice \"Alcaicería\". Justo antes de llegar, fíjense en la calle peatonal Zacatín: hoy es un paseo favorito de los granadinos, llena de gente cada tarde. Crucen la puerta y caminen unas veinte yardas adentro del viejo mercado, hasta el primer cruce de callecitas."
+       "text": "Están frente a un caravanserai, de los famosos de la Ruta de la Seda: un lugar protegido donde los mercaderes descansaban a sus animales, pasaban la noche, comían algo y contaban historias. Granada llegó a tener catorce; este, moro, del siglo catorce, es el único que sobrevive, y está a una sola cuadra del mercado de la seda, que es nuestra próxima parada.\n\nCrucen el gran arco de herradura de la entrada. Adentro hay un patio de ladrillo moro alrededor de una fuente: un espacio sobrio pero elegante, que evoca los tiempos en que los comerciantes se juntaban acá con mercancías exóticas y anécdotas de todo el mundo musulmán.\n\nRick aprovecha para corregir un error común: pensar que los moros musulmanes \"no eran nativos\" de la península ibérica. Vivieron acá siete siglos; eran tan de acá como los romanos, los godos o los celtas. Eran musulmanes, sí, pero no estaban más conectados con Arabia que con Francia.\n\nDespués de la Reconquista, el lugar se usó como depósito de carbón, y de ahí le quedó el nombre. Hoy tiene oficinas de venta de entradas para eventos musicales y, dato práctico, un baño público a la derecha de la entrada.\n\nCuando terminen, salgan derecho por la callejuela y crucen la calle Reyes Católicos. Sigan una cuadra más, hasta la puerta con forma de herradura que dice \"Alcaicería\". Justo antes de llegar, fíjense en la calle peatonal Zacatín: hoy es un paseo favorito de los granadinos, llena de gente cada tarde. Crucen la puerta y caminen unas veinte yardas adentro del viejo mercado, hasta el primer cruce de callecitas.",
+       "en_start": 0,
+       "coord": [
+        37.1747,
+        -3.5977
+       ]
       },
       {
        "n": 5,
        "label": "4",
        "v": 3,
        "name": "La Alcaicería",
-       "text": "Esto era un zoco árabe, y el mercado de la seda de Granada: un laberinto de callecitas que ofrecía plata preciosa, especias y seda, con diez puertas armadas y guardias propios.\n\nLa seda era un negocio enorme en época mora. En el campo alrededor de Granada florecían las moreras, el árbol amigo del gusano de seda, y el producto era tan importante que los sultanes lo controlaban y lo custodiaban desde este fino mercado fortificado.\n\nDespués de la Reconquista, los españoles se dieron cuenta de que el mercado era buen negocio y no lo tocaron. Más tarde, el fanático Felipe Segundo lo mandó cerrar, y un incendio terrible en mil ochocientos cincuenta destruyó lo que quedaba. Así que la Alcaicería de hoy es, en palabras de Rick, una falsificación auténtica: se reconstruyó a fines del siglo diecinueve como atracción turística, para acompañar la imagen romántica de Granada que habían popularizado los escritos de Washington Irving.\n\nExploren la malla de callejones comerciales, con sus farolitos, cerámica y taraceas. Y una advertencia del propio Rick: tarde o temprano se van a cruzar con las insistentes mujeres que les empujan ramitas de romero para sacarles plata. Manténganse firmes, no las agarren.\n\nAhora doblen a la izquierda por la calle Ermita. A las cincuenta yardas salen del mercado por otra puerta fortificada y entran a una gran plaza repleta de mesas al aire libre. Bordeen las mesas hasta la fuente de Neptuno, en el centro."
+       "text": "Esto era un zoco árabe, y el mercado de la seda de Granada: un laberinto de callecitas que ofrecía plata preciosa, especias y seda, con diez puertas armadas y guardias propios.\n\nLa seda era un negocio enorme en época mora. En el campo alrededor de Granada florecían las moreras, el árbol amigo del gusano de seda, y el producto era tan importante que los sultanes lo controlaban y lo custodiaban desde este fino mercado fortificado.\n\nDespués de la Reconquista, los españoles se dieron cuenta de que el mercado era buen negocio y no lo tocaron. Más tarde, el fanático Felipe Segundo lo mandó cerrar, y un incendio terrible en mil ochocientos cincuenta destruyó lo que quedaba. Así que la Alcaicería de hoy es, en palabras de Rick, una falsificación auténtica: se reconstruyó a fines del siglo diecinueve como atracción turística, para acompañar la imagen romántica de Granada que habían popularizado los escritos de Washington Irving.\n\nExploren la malla de callejones comerciales, con sus farolitos, cerámica y taraceas. Y una advertencia del propio Rick: tarde o temprano se van a cruzar con las insistentes mujeres que les empujan ramitas de romero para sacarles plata. Manténganse firmes, no las agarren.\n\nAhora doblen a la izquierda por la calle Ermita. A las cincuenta yardas salen del mercado por otra puerta fortificada y entran a una gran plaza repleta de mesas al aire libre. Bordeen las mesas hasta la fuente de Neptuno, en el centro.",
+       "en_start": 0,
+       "coord": [
+        37.1747,
+        -3.5977
+       ]
       },
       {
        "n": 6,
        "label": "5",
        "v": 3,
        "name": "La Plaza de Bib-Rambla",
-       "text": "Esta plaza exuberante, con sus cuatro finos faroles del siglo diecinueve, fue el centro de la Granada mora. Párense frente a la estatua de Neptuno.\n\nEl dominio moro de España duró setecientos años, pero declinó en sus últimos siglos, con líderes débiles, mientras las fuerzas cristianas se volvían más decididas. Los musulmanes que huían del sur reconquistado inundaron Granada, el último reducto del reino moro: hacia mil cuatrocientos, la ciudad tenía unos cien mil habitantes, una enormidad para la Europa medieval. Y esta era la plaza principal, el foco de los mercados y las fiestas, aunque entonces era mucho más chica y apretada, encajonada por la ciudad abarrotada.\n\nBajo el dominio cristiano, los moros que quedaron fueron primero tolerados, porque se los consideraba buenos para el negocio, y esta zona se volvió su gueto. Después llegó la Inquisición, y la ideología pudo más que el pragmatismo: musulmanes y judíos fueron expulsados o forzados a convertirse, y algunos ejecutados. De esa época es esta plaza elegante, y se construyó grande a propósito: todo el aparato del poder cristiano superpuesto al poder moro. De acá arrancaban las procesiones católicas, bien \"en tu cara\". Miren adelante, a la derecha: esa es la torre de la catedral. Entre la plaza y la catedral estaban la universidad cristiana, el gran edificio naranja, y el palacio del arzobispo, pegado.\n\nHoy Bib-Rambla es un buen lugar para un café entre el color y la fragancia de los puestos de flores, con el borboteo de la fuente de fondo. Y atrás de ustedes, a la izquierda, hay una gran churrería.\n\nAhora, con Neptuno de frente, salgan de la plaza adelante y a la izquierda, por la calle Pescadería, hacia una placita igual de animada: la Plaza Pescadería, donde las familias desbordan los restaurantes. Si es mediodía, Rick recomienda La Freiduría de Tere, a la derecha, al fondo: el cono de pescado frito variado para llevar es un clásico. Después salgan de la placita a la izquierda, por la calle Marqués de Gerona: derecho adelante van a ver una plazoleta frente a una iglesia muy grande."
+       "text": "Esta plaza exuberante, con sus cuatro finos faroles del siglo diecinueve, fue el centro de la Granada mora. Párense frente a la estatua de Neptuno.\n\nEl dominio moro de España duró setecientos años, pero declinó en sus últimos siglos, con líderes débiles, mientras las fuerzas cristianas se volvían más decididas. Los musulmanes que huían del sur reconquistado inundaron Granada, el último reducto del reino moro: hacia mil cuatrocientos, la ciudad tenía unos cien mil habitantes, una enormidad para la Europa medieval. Y esta era la plaza principal, el foco de los mercados y las fiestas, aunque entonces era mucho más chica y apretada, encajonada por la ciudad abarrotada.\n\nBajo el dominio cristiano, los moros que quedaron fueron primero tolerados, porque se los consideraba buenos para el negocio, y esta zona se volvió su gueto. Después llegó la Inquisición, y la ideología pudo más que el pragmatismo: musulmanes y judíos fueron expulsados o forzados a convertirse, y algunos ejecutados. De esa época es esta plaza elegante, y se construyó grande a propósito: todo el aparato del poder cristiano superpuesto al poder moro. De acá arrancaban las procesiones católicas, bien \"en tu cara\". Miren adelante, a la derecha: esa es la torre de la catedral. Entre la plaza y la catedral estaban la universidad cristiana, el gran edificio naranja, y el palacio del arzobispo, pegado.\n\nHoy Bib-Rambla es un buen lugar para un café entre el color y la fragancia de los puestos de flores, con el borboteo de la fuente de fondo. Y atrás de ustedes, a la izquierda, hay una gran churrería.\n\nAhora, con Neptuno de frente, salgan de la plaza adelante y a la izquierda, por la calle Pescadería, hacia una placita igual de animada: la Plaza Pescadería, donde las familias desbordan los restaurantes. Si es mediodía, Rick recomienda La Freiduría de Tere, a la derecha, al fondo: el cono de pescado frito variado para llevar es un clásico. Después salgan de la placita a la izquierda, por la calle Marqués de Gerona: derecho adelante van a ver una plazoleta frente a una iglesia muy grande.",
+       "en_start": 0,
+       "coord": [
+        37.1747,
+        -3.5977
+       ]
       },
       {
        "n": 7,
        "label": "6",
        "v": 3,
        "name": "La catedral, por fuera",
-       "text": "La fachada de la catedral de Granada, dice Rick, directamente grita \"triunfo\". En parte porque su diseño se basa en un arco de triunfo. Y en parte porque está construida sobre una mezquita destruida.\n\nA quinientas yardas de acá había espacio abierto, fuera de la muralla, con buen suelo para cimentar. Pero los conquistadores cristianos dijeron: ni hablar. Destruyeron la mezquita y levantaron su catedral exactamente acá, sobre suelo arenoso y difícil. Porque este era el lugar donde la gente de Granada siempre había rezado... y ahora iba a rezar como cristiana.\n\nLa construcción empezó a principios del siglo dieciséis y no terminó hasta principios del dieciocho. Arrancó con cimientos góticos, pero en dos siglos el diseño fue evolucionando: el interior es mayormente renacentista, los últimos altares son neoclásicos, y la fachada, terminada por el artista local Alonso Cano, es barroca.\n\nFíjense en un detalle: el énfasis está puesto en María, más que en Cristo. La fachada declara \"Ave María\". Eran tiempos de Contrarreforma, con la Iglesia católica amenazada por los protestantes, y acentuar a María era acentuar el poder de Roma. Pero además, María resultaba más aceptable para los musulmanes conversos: en el Corán es venerada, y tiene un capítulo entero dedicado a ella.\n\nAhora rodeen el edificio hacia la derecha, siempre con la iglesia a su izquierda, hasta llegar a una plazoleta frente a la Capilla Real."
+       "text": "La fachada de la catedral de Granada, dice Rick, directamente grita \"triunfo\". En parte porque su diseño se basa en un arco de triunfo. Y en parte porque está construida sobre una mezquita destruida.\n\nA quinientas yardas de acá había espacio abierto, fuera de la muralla, con buen suelo para cimentar. Pero los conquistadores cristianos dijeron: ni hablar. Destruyeron la mezquita y levantaron su catedral exactamente acá, sobre suelo arenoso y difícil. Porque este era el lugar donde la gente de Granada siempre había rezado... y ahora iba a rezar como cristiana.\n\nLa construcción empezó a principios del siglo dieciséis y no terminó hasta principios del dieciocho. Arrancó con cimientos góticos, pero en dos siglos el diseño fue evolucionando: el interior es mayormente renacentista, los últimos altares son neoclásicos, y la fachada, terminada por el artista local Alonso Cano, es barroca.\n\nFíjense en un detalle: el énfasis está puesto en María, más que en Cristo. La fachada declara \"Ave María\". Eran tiempos de Contrarreforma, con la Iglesia católica amenazada por los protestantes, y acentuar a María era acentuar el poder de Roma. Pero además, María resultaba más aceptable para los musulmanes conversos: en el Corán es venerada, y tiene un capítulo entero dedicado a ella.\n\nAhora rodeen el edificio hacia la derecha, siempre con la iglesia a su izquierda, hasta llegar a una plazoleta frente a la Capilla Real.",
+       "en_start": 0,
+       "coord": [
+        37.1747,
+        -3.5977
+       ]
       },
       {
        "n": 8,
        "label": "7",
        "v": 3,
        "name": "La placita de la Capilla Real y la Madraza",
-       "text": "Esta placita estuvo rodeada por los edificios moros más importantes de la ciudad: un hammam, es decir un baño público; un caravanserai, que Rick define en broma como el hotel de ruta de la época; el mercado de la seda; la mezquita principal; y una madraza, una escuela.\n\nEl Palacio de la Madraza es ese edificio frente a la capilla, con la fachada barroca pintada imitando sillares grises. Quinientos años atrás era la escuela coránica de Granada; con el dominio cristiano pasó a ser el primer ayuntamiento de la ciudad. Si está abierto, entren a espiar la pequeña sala de oración con su mihrab: está tan ornamentada como la Alhambra.\n\nEn esta placita está también la entrada a la Capilla Real, donde descansan Fernando e Isabel. Sus féretros se trasladaron acá en mil quinientos veintiuno desde la Alhambra. La visita por dentro es un capítulo aparte; en este paseo seguimos de largo.\n\nAhora viene el único tramo con escalones del recorrido: la callejuela empedrada que sube de esta placita a la Gran Vía. Si prefieren evitarlos, rodeen la manzana por las calles llanas hasta la Gran Vía. Arriba, doblen a la derecha y caminen hacia la plaza donde empezamos; salúdenlo a Colón al pasar. Después doblen a la izquierda por la calle Reyes Católicos y síganla, apenas cuesta arriba, varias cuadras, hasta que se abra una plaza muy larga y angosta."
+       "text": "Esta placita estuvo rodeada por los edificios moros más importantes de la ciudad: un hammam, es decir un baño público; un caravanserai, que Rick define en broma como el hotel de ruta de la época; el mercado de la seda; la mezquita principal; y una madraza, una escuela.\n\nEl Palacio de la Madraza es ese edificio frente a la capilla, con la fachada barroca pintada imitando sillares grises. Quinientos años atrás era la escuela coránica de Granada; con el dominio cristiano pasó a ser el primer ayuntamiento de la ciudad. Si está abierto, entren a espiar la pequeña sala de oración con su mihrab: está tan ornamentada como la Alhambra.\n\nEn esta placita está también la entrada a la Capilla Real, donde descansan Fernando e Isabel. Sus féretros se trasladaron acá en mil quinientos veintiuno desde la Alhambra. La visita por dentro es un capítulo aparte; en este paseo seguimos de largo.\n\nAhora viene el único tramo con escalones del recorrido: la callejuela empedrada que sube de esta placita a la Gran Vía. Si prefieren evitarlos, rodeen la manzana por las calles llanas hasta la Gran Vía. Arriba, doblen a la derecha y caminen hacia la plaza donde empezamos; salúdenlo a Colón al pasar. Después doblen a la izquierda por la calle Reyes Católicos y síganla, apenas cuesta arriba, varias cuadras, hasta que se abra una plaza muy larga y angosta.",
+       "en_start": 0,
+       "coord": [
+        37.1747,
+        -3.5977
+       ]
       },
       {
        "n": 9,
        "label": "8",
        "v": 3,
        "name": "La Plaza Nueva",
-       "text": "Esta es la Plaza Nueva, dominada al fondo por el Palacio de Justicia regional, con su gran fachada barroca y la bandera verde y blanca de Andalucía.\n\nFíjense en la fuente: está coronada por una granada estilizada, el símbolo de la ciudad, siempre abierta y fértil. El movimiento principal de la plaza es el ir y venir de los pequeños buses lanzadera que suben al Albaicín.\n\nY un detalle de color local: la comunidad hippie de Granada, apodada \"los pies negros\", por razones obvias, ronda por acá y por la calle de Elvira. Muchos okupan, con sus perros y sus guitarras, cuevas abandonadas arriba en el Sacromonte. Y muchos, cuenta Rick, son hijos de familias españolas ricas del norte, empeñados en decepcionar a sus exitosos padres.\n\nPodrían terminar el paseo acá. Pero lo mejor viene ahora: la caminata junto al río, especialmente agradable al fresco de la tarde. Salgan de la Plaza Nueva por el lado opuesto al que entraron, por la callecita que corre pegada al río Darro."
+       "text": "Esta es la Plaza Nueva, dominada al fondo por el Palacio de Justicia regional, con su gran fachada barroca y la bandera verde y blanca de Andalucía.\n\nFíjense en la fuente: está coronada por una granada estilizada, el símbolo de la ciudad, siempre abierta y fértil. El movimiento principal de la plaza es el ir y venir de los pequeños buses lanzadera que suben al Albaicín.\n\nY un detalle de color local: la comunidad hippie de Granada, apodada \"los pies negros\", por razones obvias, ronda por acá y por la calle de Elvira. Muchos okupan, con sus perros y sus guitarras, cuevas abandonadas arriba en el Sacromonte. Y muchos, cuenta Rick, son hijos de familias españolas ricas del norte, empeñados en decepcionar a sus exitosos padres.\n\nPodrían terminar el paseo acá. Pero lo mejor viene ahora: la caminata junto al río, especialmente agradable al fresco de la tarde. Salgan de la Plaza Nueva por el lado opuesto al que entraron, por la callecita que corre pegada al río Darro.",
+       "en_start": 0,
+       "coord": [
+        37.1747,
+        -3.5977
+       ]
       },
       {
        "n": 10,
        "label": "9",
        "v": 3,
        "name": "La Carrera del Darro y el Paseo de los Tristes",
-       "text": "Esta calle, la Carrera del Darro, lleva a una plaza encantadora llamada Paseo de los Tristes. El nombre viene de que esta era la ruta de los cortejos fúnebres hacia el cementerio del borde de la ciudad.\n\nAl salir de la Plaza Nueva, fíjense a la derecha en la maciza iglesia de Santa Ana: originalmente fue mezquita, y la torre reemplaza al minarete. Su ladrillo cerámico es arte mudéjar, de artesanos moros cuyas técnicas después adoptaron los españoles. Y miren hacia arriba: las torres rectangulares que asoman en lo alto de la colina son el extremo inferior de la Alhambra.\n\nSigan junto al río, que fluye rodeando la base de la Alhambra. Seis millas aguas arriba, parte del Darro se desvía por un acueducto para alimentar las fuentes de la Alhambra: una hazaña de ingeniería mora de mil doscientos treinta y ocho.\n\nDespués de dos puentecitos pintorescos, la calle se ensancha un poco en una parada de bus. Ahí, cruzando el río, se ve el muñón roto de un gran puente del siglo once que llevaba a la Alhambra. Tiene dos ranuras en la columna: una sostenía un rastrillo de hierro que impedía a los malvivientes entrar a la ciudad por el río; la otra, una compuerta maciza que se bajaba para embalsar el agua y después se soltaba, para limpiar el cauce de una sola correntada.\n\nFrente a los restos del puente está la fachada de ladrillo del Bañuelo, las ruinas austeras pero evocadoras de un baño público árabe del siglo once. Los baños árabes eran mucho más que lugares para lavarse: eran puntos de encuentro social donde se hacían negocios. Y justamente por eso sobreviven tan pocos: en época cristiana se asumía que en estos baños se tramaban conspiraciones. Si está abierto, es una gran oportunidad de ver uno bien conservado por dentro. Y si lo que les tienta es un baño árabe de verdad, están de suerte: el Hammam al Ándalus, un spa moderno, está justo cruzando el río.\n\nJusto enfrente de los baños históricos hay una parada de los minibuses C treinta y uno y C treinta y dos: la manera fácil de subir al Albaicín, que les va a servir para el paseo del mirador.\n\nUnos pasos más adelante, a la izquierda, está Santa Catalina de Zafra, un convento de monjas de clausura, que rezan detrás de una reja que divide la iglesia en dos. Más adelante, a la derecha, la iglesia de San Pedro y San Pablo guarda una carreta con incrustaciones de plata, la que lleva la hostia consagrada en la peregrinación anual al Rocío. Y unos pasos más allá, a la izquierda, el Convento de San Bernardo vende galletas y vino hechos por las monjas: crucen bajo el arco, suban hasta la puerta con el retrato cerámico de San Bernardo, y pidan por el torno giratorio, sin verle la cara a nadie.\n\nEl paseo termina en la explanada del Paseo de los Tristes, con las mesas de los bares desparramadas bajo la Alhambra iluminada. Y una última presentación: el tipo de la estatua, en pose de Bruce Lee, es el aclamado bailaor flamenco Mario Maya, criado acá nomás, en el Sacromonte.\n\nDesde acá, la calle sube en arco hacia el Albaicín y se interna en el Sacromonte. Fin del paseo."
+       "text": "Esta calle, la Carrera del Darro, lleva a una plaza encantadora llamada Paseo de los Tristes. El nombre viene de que esta era la ruta de los cortejos fúnebres hacia el cementerio del borde de la ciudad.\n\nAl salir de la Plaza Nueva, fíjense a la derecha en la maciza iglesia de Santa Ana: originalmente fue mezquita, y la torre reemplaza al minarete. Su ladrillo cerámico es arte mudéjar, de artesanos moros cuyas técnicas después adoptaron los españoles. Y miren hacia arriba: las torres rectangulares que asoman en lo alto de la colina son el extremo inferior de la Alhambra.\n\nSigan junto al río, que fluye rodeando la base de la Alhambra. Seis millas aguas arriba, parte del Darro se desvía por un acueducto para alimentar las fuentes de la Alhambra: una hazaña de ingeniería mora de mil doscientos treinta y ocho.\n\nDespués de dos puentecitos pintorescos, la calle se ensancha un poco en una parada de bus. Ahí, cruzando el río, se ve el muñón roto de un gran puente del siglo once que llevaba a la Alhambra. Tiene dos ranuras en la columna: una sostenía un rastrillo de hierro que impedía a los malvivientes entrar a la ciudad por el río; la otra, una compuerta maciza que se bajaba para embalsar el agua y después se soltaba, para limpiar el cauce de una sola correntada.\n\nFrente a los restos del puente está la fachada de ladrillo del Bañuelo, las ruinas austeras pero evocadoras de un baño público árabe del siglo once. Los baños árabes eran mucho más que lugares para lavarse: eran puntos de encuentro social donde se hacían negocios. Y justamente por eso sobreviven tan pocos: en época cristiana se asumía que en estos baños se tramaban conspiraciones. Si está abierto, es una gran oportunidad de ver uno bien conservado por dentro. Y si lo que les tienta es un baño árabe de verdad, están de suerte: el Hammam al Ándalus, un spa moderno, está justo cruzando el río.\n\nJusto enfrente de los baños históricos hay una parada de los minibuses C treinta y uno y C treinta y dos: la manera fácil de subir al Albaicín, que les va a servir para el paseo del mirador.\n\nUnos pasos más adelante, a la izquierda, está Santa Catalina de Zafra, un convento de monjas de clausura, que rezan detrás de una reja que divide la iglesia en dos. Más adelante, a la derecha, la iglesia de San Pedro y San Pablo guarda una carreta con incrustaciones de plata, la que lleva la hostia consagrada en la peregrinación anual al Rocío. Y unos pasos más allá, a la izquierda, el Convento de San Bernardo vende galletas y vino hechos por las monjas: crucen bajo el arco, suban hasta la puerta con el retrato cerámico de San Bernardo, y pidan por el torno giratorio, sin verle la cara a nadie.\n\nEl paseo termina en la explanada del Paseo de los Tristes, con las mesas de los bares desparramadas bajo la Alhambra iluminada. Y una última presentación: el tipo de la estatua, en pose de Bruce Lee, es el aclamado bailaor flamenco Mario Maya, criado acá nomás, en el Sacromonte.\n\nDesde acá, la calle sube en arco hacia el Albaicín y se interna en el Sacromonte. Fin del paseo.",
+       "en_start": 0,
+       "coord": [
+        37.1747,
+        -3.5977
+       ]
       }
      ]
     },
@@ -6290,17 +6340,17 @@
      "title": "La Alhambra",
      "full_title": "Granada: la Alhambra",
      "coord": [
-      37.177,
-      -3.589
+      37.1768,
+      -3.5893
      ],
      "maps": [
       {
        "url": "https://drive.google.com/file/d/19Fokj4wJ66D0jktAimMw6a37Ptd6mZYF/view",
-       "label": "Mapa general de la Alhambra (Drive, solo familia)"
+       "label": "Mapa del libro: todo el recinto (Google Drive, solo familia)"
       },
       {
        "url": "https://drive.google.com/file/d/1up-qO6WLz3xBTG4_rqca9q8XYYSN6BZX/view",
-       "label": "Mapa de los Palacios Nazaríes (Drive, solo familia)"
+       "label": "Mapa del libro: Palacios Nazaríes (Google Drive, solo familia)"
       }
      ],
      "map_url": "https://drive.google.com/file/d/19Fokj4wJ66D0jktAimMw6a37Ptd6mZYF/view",
@@ -6363,132 +6413,217 @@
      "stops": [
       {
        "n": 1,
-       "label": null,
+       "label": "Intro",
        "v": 3,
        "name": "Introducción",
-       "text": "Este es el tour de Rick Steves por la Alhambra, actualizado con su guía de España de este año.\n\nLa Alhambra es el último y más grande palacio moro de Europa, uno de los sitios top del continente, y la razón por la que la mayoría de los turistas viene a Granada: unas ocho mil personas por día. Es el símbolo del repliegue final del Islam en España. A medida que la Reconquista avanzaba, Córdoba cayó en mil doscientos treinta y siete, Sevilla en mil doscientos cuarenta y ocho, y los musulmanes desplazados se fueron concentrando en Granada, el hogar de los nazaríes, el último reino islámico de España, que recién cayó en mil cuatrocientos noventa y dos. Mientras tanto, Granada floreció como centro intelectual y artístico, y eso es lo que van a ver: estuco ornamentado, estalactitas de yeso, ventanas festoneadas que enmarcan vistas de la ciudad, jardines exuberantes... y agua por todas partes. El agua, escasa y preciosa en el mundo islámico, era el símbolo más puro de la vida: acá aparece quieta, en cascada, tapando conversaciones secretas y goteando juguetonamente.\n\nEl complejo reúne cuatro sitios en lo alto de la colina, y este tour los recorre en orden: primero el Palacio de Carlos V, el palacio renacentista cristiano plantado encima después de la Reconquista, con el buen Museo de la Alhambra adentro, al que se entra gratis. Después la Alcazaba, el fuerte viejo, vacío pero evocador. Tercero, los Palacios Nazaríes: el palacio moro exquisito, lo imprescindible de la Alhambra, con su horario de entrada asignado. Y al final, el Generalife, el pequeño palacio de verano con sus jardines, a unos quince minutos a pie cuesta arriba.\n\nPara orientarse, párense en la Plaza de los Aljibes, la terraza ajardinada entre el Palacio de Carlos V, el renacentista forrado de mármol, y las torres almenadas más viejas de la Alcazaba. Los baños y las máquinas expendedoras están al fondo de esta plaza, junto a la Puerta del Vino; adentro de los Palacios Nazaríes no hay baños, así que pasen antes. La fila de entrada a los Nazaríes está en el extremo opuesto.\n\nEmpezamos por la parte menos mora de este complejo tan moro."
+       "text": "Este es el tour de Rick Steves por la Alhambra, actualizado con su guía de España de este año.\n\nLa Alhambra es el último y más grande palacio moro de Europa, uno de los sitios top del continente, y la razón por la que la mayoría de los turistas viene a Granada: unas ocho mil personas por día. Es el símbolo del repliegue final del Islam en España. A medida que la Reconquista avanzaba, Córdoba cayó en mil doscientos treinta y siete, Sevilla en mil doscientos cuarenta y ocho, y los musulmanes desplazados se fueron concentrando en Granada, el hogar de los nazaríes, el último reino islámico de España, que recién cayó en mil cuatrocientos noventa y dos. Mientras tanto, Granada floreció como centro intelectual y artístico, y eso es lo que van a ver: estuco ornamentado, estalactitas de yeso, ventanas festoneadas que enmarcan vistas de la ciudad, jardines exuberantes... y agua por todas partes. El agua, escasa y preciosa en el mundo islámico, era el símbolo más puro de la vida: acá aparece quieta, en cascada, tapando conversaciones secretas y goteando juguetonamente.\n\nEl complejo reúne cuatro sitios en lo alto de la colina, y este tour los recorre en orden: primero el Palacio de Carlos V, el palacio renacentista cristiano plantado encima después de la Reconquista, con el buen Museo de la Alhambra adentro, al que se entra gratis. Después la Alcazaba, el fuerte viejo, vacío pero evocador. Tercero, los Palacios Nazaríes: el palacio moro exquisito, lo imprescindible de la Alhambra, con su horario de entrada asignado. Y al final, el Generalife, el pequeño palacio de verano con sus jardines, a unos quince minutos a pie cuesta arriba.\n\nPara orientarse, párense en la Plaza de los Aljibes, la terraza ajardinada entre el Palacio de Carlos V, el renacentista forrado de mármol, y las torres almenadas más viejas de la Alcazaba. Los baños y las máquinas expendedoras están al fondo de esta plaza, junto a la Puerta del Vino; adentro de los Palacios Nazaríes no hay baños, así que pasen antes. La fila de entrada a los Nazaríes está en el extremo opuesto.\n\nEmpezamos por la parte menos mora de este complejo tan moro.",
+       "en_start": 0,
+       "coord": [
+        37.1768,
+        -3.5893
+       ]
       },
       {
        "n": 2,
        "label": "1",
        "v": 3,
        "name": "El Palacio de Carlos V y el Museo de la Alhambra",
-       "text": "Es natural que un rey conquistador construya su palacio sobre el de su enemigo. Pero Carlos Quinto, el emperador del Sacro Imperio, que reinó en España como Carlos Primero, respetó los espléndidos Palacios Nazaríes: a principios del siglo dieciséis levantó al lado este palacio renacentista para las funciones oficiales, y usó el palacio moro como residencia.\n\nEl diseño es único: un círculo adentro de un cuadrado, obra de Pedro Machuca, discípulo de Miguel Ángel. Para Rick, es el edificio renacentista más impresionante de España. Y se aprecia en pocos minutos: admiren el patio circular rodeado de columnas de piedra conglomerada, como un budín de cuarzo, y suban las escaleras para dar una vuelta bajo las pesadas y elegantes vigas de madera. Es posible que estuviera pensado con cúpula, pero nunca se terminó: su hijo, Felipe Segundo, se concentró en El Escorial, su palacio mucho más masivo cerca de Madrid. Aun sin cúpula, la acústica en el centro del patio es perfecta: párense en el medio y canten su mejor aria.\n\nEn la planta baja, entrando por el patio circular, está el Museo de la Alhambra, gratis, tranquilo y con aire acondicionado. Ayuda a imaginar la vida en el palacio y ofrece la mejor mirada al arte moro que sobrevivió: azulejos, la característica cerámica verde, azul y negra, fuentes de leones, doblones de oro deslumbrantes, una preciosa puerta de madera tallada, y hasta un tablero de ajedrez de setecientos años.\n\nCuando salgan, mirando desde el frente del Palacio de Carlos V, la Alcazaba es la estructura de ladrillo que se alza del otro lado de un foso, derecho adelante."
+       "text": "Es natural que un rey conquistador construya su palacio sobre el de su enemigo. Pero Carlos Quinto, el emperador del Sacro Imperio, que reinó en España como Carlos Primero, respetó los espléndidos Palacios Nazaríes: a principios del siglo dieciséis levantó al lado este palacio renacentista para las funciones oficiales, y usó el palacio moro como residencia.\n\nEl diseño es único: un círculo adentro de un cuadrado, obra de Pedro Machuca, discípulo de Miguel Ángel. Para Rick, es el edificio renacentista más impresionante de España. Y se aprecia en pocos minutos: admiren el patio circular rodeado de columnas de piedra conglomerada, como un budín de cuarzo, y suban las escaleras para dar una vuelta bajo las pesadas y elegantes vigas de madera. Es posible que estuviera pensado con cúpula, pero nunca se terminó: su hijo, Felipe Segundo, se concentró en El Escorial, su palacio mucho más masivo cerca de Madrid. Aun sin cúpula, la acústica en el centro del patio es perfecta: párense en el medio y canten su mejor aria.\n\nEn la planta baja, entrando por el patio circular, está el Museo de la Alhambra, gratis, tranquilo y con aire acondicionado. Ayuda a imaginar la vida en el palacio y ofrece la mejor mirada al arte moro que sobrevivió: azulejos, la característica cerámica verde, azul y negra, fuentes de leones, doblones de oro deslumbrantes, una preciosa puerta de madera tallada, y hasta un tablero de ajedrez de setecientos años.\n\nCuando salgan, mirando desde el frente del Palacio de Carlos V, la Alcazaba es la estructura de ladrillo que se alza del otro lado de un foso, derecho adelante.",
+       "en_start": 0,
+       "coord": [
+        37.1768,
+        -3.5893
+       ]
       },
       {
        "n": 3,
        "label": "2",
        "v": 3,
        "name": "La Alcazaba",
-       "text": "El fuerte es el \"castillo rojo\" original: eso significa, justamente, \"Alhambra\". Es la parte más antigua y más arruinada del complejo, un cascarón casi vacío, pero con las mejores vistas: la ciudad, el Albaicín y la propia Alhambra a sus pies.\n\nLo que se ve es de mediados del siglo trece. Esta fortaleza defendía una medina, una ciudad de dos mil musulmanes que vivía dentro de las murallas de la Alhambra, que se extienden más de una milla alrededor de todo el complejo. Era, en esencia, el cuartel de la guarnición: imaginen las cinco millas de acueductos que traían el agua de un río lejano hasta esta sedienta comunidad fortificada.\n\nEl circuito recorre pasajes y patios, pasando por los cimientos del Barrio Castrense, donde vivían los soldados, con opción de subir a varias torres. La mejor está al final: la Torre de la Vela, con sus cincuenta escalones empinados y una vista de trescientos sesenta grados. Al norte, la Granada moderna y el Albaicín con el mirador de San Nicolás; detrás, sobre la colina verde, el edificio blanco del Generalife; al sur, Sierra Nevada.\n\nY un momento para la historia. Imaginen aquel día de mil cuatrocientos noventa y dos en que en esta torre se izaron la cruz cristiana y las banderas de Aragón y Castilla. Según una leyenda probablemente fantasiosa, el rey moro Boabdil, en fuga, miró hacia atrás y lloró. Y su madre lo retó: llorás como mujer lo que no supiste defender como hombre. Con esa derrota terminaron más de siete siglos de dominio musulmán en España. Mucho después, Napoleón acuarteló acá a sus tropas, y contribuyó bastante a la ruina del lugar.\n\nPara ir de la Alcazaba a los Palacios Nazaríes, vuelvan hacia el Palacio de Carlos V y súmense a la fila, a la izquierda, detrás del palacio."
+       "text": "El fuerte es el \"castillo rojo\" original: eso significa, justamente, \"Alhambra\". Es la parte más antigua y más arruinada del complejo, un cascarón casi vacío, pero con las mejores vistas: la ciudad, el Albaicín y la propia Alhambra a sus pies.\n\nLo que se ve es de mediados del siglo trece. Esta fortaleza defendía una medina, una ciudad de dos mil musulmanes que vivía dentro de las murallas de la Alhambra, que se extienden más de una milla alrededor de todo el complejo. Era, en esencia, el cuartel de la guarnición: imaginen las cinco millas de acueductos que traían el agua de un río lejano hasta esta sedienta comunidad fortificada.\n\nEl circuito recorre pasajes y patios, pasando por los cimientos del Barrio Castrense, donde vivían los soldados, con opción de subir a varias torres. La mejor está al final: la Torre de la Vela, con sus cincuenta escalones empinados y una vista de trescientos sesenta grados. Al norte, la Granada moderna y el Albaicín con el mirador de San Nicolás; detrás, sobre la colina verde, el edificio blanco del Generalife; al sur, Sierra Nevada.\n\nY un momento para la historia. Imaginen aquel día de mil cuatrocientos noventa y dos en que en esta torre se izaron la cruz cristiana y las banderas de Aragón y Castilla. Según una leyenda probablemente fantasiosa, el rey moro Boabdil, en fuga, miró hacia atrás y lloró. Y su madre lo retó: llorás como mujer lo que no supiste defender como hombre. Con esa derrota terminaron más de siete siglos de dominio musulmán en España. Mucho después, Napoleón acuarteló acá a sus tropas, y contribuyó bastante a la ruina del lugar.\n\nPara ir de la Alcazaba a los Palacios Nazaríes, vuelvan hacia el Palacio de Carlos V y súmense a la fila, a la izquierda, detrás del palacio.",
+       "en_start": 0,
+       "coord": [
+        37.1768,
+        -3.5893
+       ]
       },
       {
        "n": 4,
        "label": "3",
        "v": 3,
        "name": "Palacios Nazaríes: la entrada y el Mexuar",
-       "text": "La multitud entra en tropel a la joya de la Alhambra al comenzar cada turno de media hora. Si su turno está muy lleno, demórense un poco al principio hasta que se calme. Una vez adentro, relájense: ya no hay límite de tiempo.\n\nVan a recorrer tres secciones: las oficinas reales, las salas ceremoniales y los aposentos privados. El palacio se construyó sobre todo en el siglo catorce, y es la mejor mirada posible a la refinada civilización mora de al-Ándalus, que es la palabra árabe para la península ibérica bajo control musulmán.\n\nLa primera sala es el mexuar, reservado a las tareas administrativas: imaginen al consejo de sabios y a los escribas haciendo el trabajo de oficina de la burocracia del reino. Todo el palacio tiene salas como esta, decoradas de arriba abajo: techos de madera tallada, estalactitas de estuco, azulejos, paredes de yeso moldeado y ventanas de filigrana. Los patios a cielo abierto, con sus fuentes burbujeantes, le dan al palacio un aire de oasis: el jardín exuberante con agua serena es el símbolo coránico del cielo.\n\nEl truco para apreciarlo es imaginarlo amueblado y vivo: sultanes con narguile recostados en almohadones sobre alfombras persas, cortinados pesados en las ventanas, muebles con incrustaciones de marfil. Y todo pintado de colores vivos, los colores del Corán: azul por el cielo, verde por el oasis, rojo por la sangre y oro por la riqueza. Las paredes iban cubiertas de caligrafía: poemas y versos del Corán y de los poetas locales.\n\nAl fondo de la sala, no se pierdan el deslumbrante oratorio, la sala de oración, con un nicho a la derecha orientado a La Meca y ventanas caladas que llenan el espacio de luz, con grandes vistas del Albaicín.\n\nDe acá en adelante, tengan presentes tres temas: el agua, la ausencia casi total de imágenes de seres vivos, mal vistas en el Islam, y los techos de estalactitas. Y un pedido importante del propio Rick: por tentador que sea, no toquen el estuco — el aceite de las manos lo daña.\n\nAtravesando un patiecito con una fuente redonda, van a desembocar en un gran patio rectangular con un estanque de peces flanqueado por dos setos de arrayán."
+       "text": "La multitud entra en tropel a la joya de la Alhambra al comenzar cada turno de media hora. Si su turno está muy lleno, demórense un poco al principio hasta que se calme. Una vez adentro, relájense: ya no hay límite de tiempo.\n\nVan a recorrer tres secciones: las oficinas reales, las salas ceremoniales y los aposentos privados. El palacio se construyó sobre todo en el siglo catorce, y es la mejor mirada posible a la refinada civilización mora de al-Ándalus, que es la palabra árabe para la península ibérica bajo control musulmán.\n\nLa primera sala es el mexuar, reservado a las tareas administrativas: imaginen al consejo de sabios y a los escribas haciendo el trabajo de oficina de la burocracia del reino. Todo el palacio tiene salas como esta, decoradas de arriba abajo: techos de madera tallada, estalactitas de estuco, azulejos, paredes de yeso moldeado y ventanas de filigrana. Los patios a cielo abierto, con sus fuentes burbujeantes, le dan al palacio un aire de oasis: el jardín exuberante con agua serena es el símbolo coránico del cielo.\n\nEl truco para apreciarlo es imaginarlo amueblado y vivo: sultanes con narguile recostados en almohadones sobre alfombras persas, cortinados pesados en las ventanas, muebles con incrustaciones de marfil. Y todo pintado de colores vivos, los colores del Corán: azul por el cielo, verde por el oasis, rojo por la sangre y oro por la riqueza. Las paredes iban cubiertas de caligrafía: poemas y versos del Corán y de los poetas locales.\n\nAl fondo de la sala, no se pierdan el deslumbrante oratorio, la sala de oración, con un nicho a la derecha orientado a La Meca y ventanas caladas que llenan el espacio de luz, con grandes vistas del Albaicín.\n\nDe acá en adelante, tengan presentes tres temas: el agua, la ausencia casi total de imágenes de seres vivos, mal vistas en el Islam, y los techos de estalactitas. Y un pedido importante del propio Rick: por tentador que sea, no toquen el estuco — el aceite de las manos lo daña.\n\nAtravesando un patiecito con una fuente redonda, van a desembocar en un gran patio rectangular con un estanque de peces flanqueado por dos setos de arrayán.",
+       "en_start": 0,
+       "coord": [
+        37.1768,
+        -3.5893
+       ]
       },
       {
        "n": 5,
        "label": "4",
        "v": 3,
        "name": "El Patio de los Arrayanes",
-       "text": "El diseño clásico de un palacio moro incluía un patio central como este, con jardín y agua, a cielo abierto: los moros amaban sus patios.\n\nA este patio daban los aposentos de las mujeres del sultán: dos departamentos por lado para las esposas — según el Corán, cuatro era el máximo — y un dormitorio al fondo para las concubinas, de las que un hombre podía tener tantas como pudiera \"mantener con dignidad\". Según las costumbres moras medievales, las mujeres apenas salían de casa: su contacto con la naturaleza eran patios como este, que debe su nombre a los setos de arrayán fragante que le dan su encanto.\n\nFíjense en las celosías de madera de las ventanas, levantadas por maridos celosos: permitían a las mujeres enclaustradas mirar hacia afuera sin ser vistas con claridad. El piso de arriba se usaba en invierno; la planta baja, más fresca, en verano.\n\nDesde donde entraron, vayan hacia la izquierda, atravesando unos portones gigantes de madera, hacia una antecámara larga y angosta."
+       "text": "El diseño clásico de un palacio moro incluía un patio central como este, con jardín y agua, a cielo abierto: los moros amaban sus patios.\n\nA este patio daban los aposentos de las mujeres del sultán: dos departamentos por lado para las esposas — según el Corán, cuatro era el máximo — y un dormitorio al fondo para las concubinas, de las que un hombre podía tener tantas como pudiera \"mantener con dignidad\". Según las costumbres moras medievales, las mujeres apenas salían de casa: su contacto con la naturaleza eran patios como este, que debe su nombre a los setos de arrayán fragante que le dan su encanto.\n\nFíjense en las celosías de madera de las ventanas, levantadas por maridos celosos: permitían a las mujeres enclaustradas mirar hacia afuera sin ser vistas con claridad. El piso de arriba se usaba en invierno; la planta baja, más fresca, en verano.\n\nDesde donde entraron, vayan hacia la izquierda, atravesando unos portones gigantes de madera, hacia una antecámara larga y angosta.",
+       "en_start": 0,
+       "coord": [
+        37.1768,
+        -3.5893
+       ]
       },
       {
        "n": 6,
        "label": "5",
        "v": 3,
        "name": "La Sala de la Barca",
-       "text": "Es comprensible que muchos crean que el nombre viene de la forma del techo, un fino casco de barco invertido, de cedro. Pero en realidad viene del árabe \"baraka\": bendición divina y buena suerte. Dato de color de Rick: el nombre de pila de Obama, Barack, viene de la misma raíz árabe.\n\nY al pasar por esta sala, bendición y suerte era exactamente lo que ibas a necesitar... porque en la sala siguiente te esperaba, cara a cara, el sultán.\n\nLes toca. Pasen a la sala del trono."
+       "text": "Es comprensible que muchos crean que el nombre viene de la forma del techo, un fino casco de barco invertido, de cedro. Pero en realidad viene del árabe \"baraka\": bendición divina y buena suerte. Dato de color de Rick: el nombre de pila de Obama, Barack, viene de la misma raíz árabe.\n\nY al pasar por esta sala, bendición y suerte era exactamente lo que ibas a necesitar... porque en la sala siguiente te esperaba, cara a cara, el sultán.\n\nLes toca. Pasen a la sala del trono.",
+       "en_start": 0,
+       "coord": [
+        37.1768,
+        -3.5893
+       ]
       },
       {
        "n": 7,
        "label": "6",
        "v": 3,
        "name": "El Gran Salón de los Embajadores",
-       "text": "La sala más grande del palacio, también llamada Salón de Comares, era la sala del trono: acá el sultán, sentado frente a la entrada, recibía a los emisarios extranjeros.\n\nAdmiren la sala, un cubo perfecto, de arriba abajo. El techo abovedado de madera está hecho de ocho mil diecisiete piezas encastradas como un rompecabezas gigante: un cielo tachonado de estrellas que sugiere la complejidad del universo infinito de Alá. Estalactitas de madera forman la cornisa que recorre la base del techo. Las paredes de estuco, aun sin su pintura y su dorado originales, siguen siendo gloriosas. Y en el centro del piso sobreviven valiosos azulejos del siglo dieciséis.\n\nEl visitante pasaba del resplandor del patio a este mundo oscuro, fresco y lleno de incienso, para encontrarse con el sultán a contraluz. Sigan con los ojos la finísima caligrafía árabe tallada: los musulmanes evitaban las imágenes de seres vivos, eso era obra de Dios, pero podían tallar mensajes religiosos. La frase \"solo Alá es vencedor\" se repite nueve mil veces por todo el palacio. Busquen el carácter de \"Alá\": parece una W cursiva con una nariz a la izquierda y una línea vertical a la derecha.\n\nEn mil cuatrocientos noventa y dos, dos hechos históricos probablemente ocurrieron en esta misma sala. Acá se completó la Reconquista, cuando Boabdil, el último rey moro, firmó los términos de su rendición antes de exiliarse en Marruecos. Y acá Colón hizo una de sus últimas presentaciones ante Isabel y Fernando para financiar su viaje. Imaginen la escena: el rey, la reina y las mentes más brillantes de la Universidad de Salamanca, mientras Colón desplegaba mapas para demostrar que podía llegar al este navegando hacia el oeste. Fernando y los profesores se rieron y lo llamaron loco. No porque creyeran que la Tierra era plana — la gente educada sabía que no —, sino porque pensaban, con razón, que Colón subestimaba el tamaño del globo, y por lo tanto el largo y el costo del viaje. Pero Isabel dijo: \"Sí, señor\". Y Colón, bromea Rick, cayó de rodillas prometiendo empacar liviano, usar riñonera y llevar una buena guía de viajes.\n\nAl salir, justo afuera de la entrada de la Sala de la Barca, los fotógrafos se detienen para la vista perfecta de la torre reflejada en el estanque del patio. Ese arco bajo la torre era la entrada original del palacio. Después rodeen el estanque por el lado izquierdo y sigan más adentro, hacia un patio al que hace seiscientos años solo podían entrar la familia real y sus sirvientes."
+       "text": "La sala más grande del palacio, también llamada Salón de Comares, era la sala del trono: acá el sultán, sentado frente a la entrada, recibía a los emisarios extranjeros.\n\nAdmiren la sala, un cubo perfecto, de arriba abajo. El techo abovedado de madera está hecho de ocho mil diecisiete piezas encastradas como un rompecabezas gigante: un cielo tachonado de estrellas que sugiere la complejidad del universo infinito de Alá. Estalactitas de madera forman la cornisa que recorre la base del techo. Las paredes de estuco, aun sin su pintura y su dorado originales, siguen siendo gloriosas. Y en el centro del piso sobreviven valiosos azulejos del siglo dieciséis.\n\nEl visitante pasaba del resplandor del patio a este mundo oscuro, fresco y lleno de incienso, para encontrarse con el sultán a contraluz. Sigan con los ojos la finísima caligrafía árabe tallada: los musulmanes evitaban las imágenes de seres vivos, eso era obra de Dios, pero podían tallar mensajes religiosos. La frase \"solo Alá es vencedor\" se repite nueve mil veces por todo el palacio. Busquen el carácter de \"Alá\": parece una W cursiva con una nariz a la izquierda y una línea vertical a la derecha.\n\nEn mil cuatrocientos noventa y dos, dos hechos históricos probablemente ocurrieron en esta misma sala. Acá se completó la Reconquista, cuando Boabdil, el último rey moro, firmó los términos de su rendición antes de exiliarse en Marruecos. Y acá Colón hizo una de sus últimas presentaciones ante Isabel y Fernando para financiar su viaje. Imaginen la escena: el rey, la reina y las mentes más brillantes de la Universidad de Salamanca, mientras Colón desplegaba mapas para demostrar que podía llegar al este navegando hacia el oeste. Fernando y los profesores se rieron y lo llamaron loco. No porque creyeran que la Tierra era plana — la gente educada sabía que no —, sino porque pensaban, con razón, que Colón subestimaba el tamaño del globo, y por lo tanto el largo y el costo del viaje. Pero Isabel dijo: \"Sí, señor\". Y Colón, bromea Rick, cayó de rodillas prometiendo empacar liviano, usar riñonera y llevar una buena guía de viajes.\n\nAl salir, justo afuera de la entrada de la Sala de la Barca, los fotógrafos se detienen para la vista perfecta de la torre reflejada en el estanque del patio. Ese arco bajo la torre era la entrada original del palacio. Después rodeen el estanque por el lado izquierdo y sigan más adentro, hacia un patio al que hace seiscientos años solo podían entrar la familia real y sus sirvientes.",
+       "en_start": 0,
+       "coord": [
+        37.1768,
+        -3.5893
+       ]
       },
       {
        "n": 8,
        "label": "7",
        "v": 3,
        "name": "El Patio de los Leones",
-       "text": "Este patio delicioso, el más fotografiado del palacio, debe su nombre a la famosa fuente central con su anillo de doce leones de mármol, originales del siglo catorce. Del centro salen cuatro canales que llevan el agua hacia afuera: figurativamente, hacia los confines de la tierra; literalmente, hacia los departamentos privados de la familia real.\n\nLa galería de arcos que rodea el patio se apoya en ciento veinticuatro columnas perfectamente equilibradas. Y la artesanía es de primera: entre las secciones precortadas de las columnas hay piezas de plomo que permiten que todo flexione durante los terremotos, evitando la destrucción.\n\nHace seiscientos años, los moros podían leer la poesía coránica que adorna este patio y entender su simbolismo: un jardín exuberante y cerrado, la encarnación del paraíso. La inscripción de la fuente pregunta qué puede compararse con este alabastro derramando agua cristalina... y responde: nada, salvo la luna llena vertiendo su luz desde un cielo despejado.\n\nA la derecha, saliendo del patio, la única puerta original que queda en el palacio lleva a una sala cuadrada."
+       "text": "Este patio delicioso, el más fotografiado del palacio, debe su nombre a la famosa fuente central con su anillo de doce leones de mármol, originales del siglo catorce. Del centro salen cuatro canales que llevan el agua hacia afuera: figurativamente, hacia los confines de la tierra; literalmente, hacia los departamentos privados de la familia real.\n\nLa galería de arcos que rodea el patio se apoya en ciento veinticuatro columnas perfectamente equilibradas. Y la artesanía es de primera: entre las secciones precortadas de las columnas hay piezas de plomo que permiten que todo flexione durante los terremotos, evitando la destrucción.\n\nHace seiscientos años, los moros podían leer la poesía coránica que adorna este patio y entender su simbolismo: un jardín exuberante y cerrado, la encarnación del paraíso. La inscripción de la fuente pregunta qué puede compararse con este alabastro derramando agua cristalina... y responde: nada, salvo la luna llena vertiendo su luz desde un cielo despejado.\n\nA la derecha, saliendo del patio, la única puerta original que queda en el palacio lleva a una sala cuadrada.",
+       "en_start": 0,
+       "coord": [
+        37.1768,
+        -3.5893
+       ]
       },
       {
        "n": 9,
        "label": "8",
        "v": 3,
        "name": "La Sala de los Abencerrajes",
-       "text": "Este era el living del sultán, con un techo exquisito basado en la estrella musulmana de ocho puntas.\n\nEl nombre viene de un episodio sangriento que, se dice, ocurrió acá. Según una leyenda del siglo dieciséis, el padre de Boabdil invitó a un banquete a los miembros de la familia de los Abencerrajes... y acto seguido los masacró, para abortar una amenaza a su dinastía. Según el relato de Washington Irving, habría apilado treinta y seis cabezas en la pila, bajo este suntuoso techo de estuco apanalado.\n\nUn minuto sobre el arte islámico, mientras recorren. En vez de pinturas y estatuas, los artistas islámicos se expresaban con objetos bellos pero funcionales: cerámica, alfombras, azulejos, techos de estuco, cristalería, cubiertos de patrones complejos. El entretejido intrincado, la repetición y las líneas sin fin sugieren la naturaleza infinita de Dios. Busquen patrones florales, vides entrelazadas, y geométricos, estrellas y rombos. Y el patrón más común de todos es la caligrafía: letras elaboradas en árabe, la lengua del Corán. Esos motivos que se repiten incontables veces se hacían presionando yeso húmedo en moldes.\n\nAl final del patio, frente al lado por el que entraron, está la siguiente sala."
+       "text": "Este era el living del sultán, con un techo exquisito basado en la estrella musulmana de ocho puntas.\n\nEl nombre viene de un episodio sangriento que, se dice, ocurrió acá. Según una leyenda del siglo dieciséis, el padre de Boabdil invitó a un banquete a los miembros de la familia de los Abencerrajes... y acto seguido los masacró, para abortar una amenaza a su dinastía. Según el relato de Washington Irving, habría apilado treinta y seis cabezas en la pila, bajo este suntuoso techo de estuco apanalado.\n\nUn minuto sobre el arte islámico, mientras recorren. En vez de pinturas y estatuas, los artistas islámicos se expresaban con objetos bellos pero funcionales: cerámica, alfombras, azulejos, techos de estuco, cristalería, cubiertos de patrones complejos. El entretejido intrincado, la repetición y las líneas sin fin sugieren la naturaleza infinita de Dios. Busquen patrones florales, vides entrelazadas, y geométricos, estrellas y rombos. Y el patrón más común de todos es la caligrafía: letras elaboradas en árabe, la lengua del Corán. Esos motivos que se repiten incontables veces se hacían presionando yeso húmedo en moldes.\n\nAl final del patio, frente al lado por el que entraron, está la siguiente sala.",
+       "en_start": 0,
+       "coord": [
+        37.1768,
+        -3.5893
+       ]
       },
       {
        "n": 10,
        "label": "9",
        "v": 3,
        "name": "La Sala de los Reyes",
-       "text": "Esta sala es famosa por sus pinturas de alrededor de mil trescientos sesenta, hechas sobre cuero de cabra, en el techo.\n\nEl retrato grupal de la sala central muestra a los primeros diez de los veintidós sultanes que tuvo la Alhambra. Es una escena fantasiosa: vivieron a lo largo de muchas generaciones y nunca posaron juntos. Las dos salas de los extremos muestran escenas de pasatiempos principescos: ajedrez, caza y tiro.\n\nEn un palacio prácticamente desprovisto de figuras humanas, estas imágenes ofrecen una mirada rarísima a la vida real de la corte.\n\nSigan dando la vuelta alrededor de la fuente de los leones. Antes de entrar a la próxima sala, van a pasar junto a puertas a derecha e izquierda: daban a un baño del siglo catorce con agua corriente, y a las escaleras que subían al harén."
+       "text": "Esta sala es famosa por sus pinturas de alrededor de mil trescientos sesenta, hechas sobre cuero de cabra, en el techo.\n\nEl retrato grupal de la sala central muestra a los primeros diez de los veintidós sultanes que tuvo la Alhambra. Es una escena fantasiosa: vivieron a lo largo de muchas generaciones y nunca posaron juntos. Las dos salas de los extremos muestran escenas de pasatiempos principescos: ajedrez, caza y tiro.\n\nEn un palacio prácticamente desprovisto de figuras humanas, estas imágenes ofrecen una mirada rarísima a la vida real de la corte.\n\nSigan dando la vuelta alrededor de la fuente de los leones. Antes de entrar a la próxima sala, van a pasar junto a puertas a derecha e izquierda: daban a un baño del siglo catorce con agua corriente, y a las escaleras que subían al harén.",
+       "en_start": 0,
+       "coord": [
+        37.1768,
+        -3.5893
+       ]
       },
       {
        "n": 11,
        "label": "10",
        "v": 3,
        "name": "La Sala de Dos Hermanas",
-       "text": "La Sala de Dos Hermanas debe su apodo a las dos losas gemelas gigantes de mármol blanco del piso, que flanquean la fuente. Y tiene otro techo de estuco que te deja sin palabras, iluminado por ventanas altas.\n\nEra otra sala de recepción real, con alcobas privadas y una fuente: el agua corriente refrescaba y humidificaba el ambiente, y además era un toque de extravagancia, un lujo con el que la mayoría de la gente solo podía soñar.\n\nLas paredes lucen patrones geométricos y caligrafía árabe con versos del Corán. Y si los azulejos de colores les parecen \"a lo Escher\", lo tienen al revés: Escher es \"a lo Alhambra\". M. C. Escher se inspiró en estos mismos patrones en una visita. Estudien la geometría: es un recordatorio de la pericia matemática de los moros.\n\nLa sala de estar, la más alejada de la entrada, tiene las ventanas bajas... porque los moros se sentaban en el piso. En el techo sobrevive algo de vitral, una rareza. Desde acá, la sultana gozaba de una gran vista de la ciudad medieval, antes de que un ala del siglo dieciséis se la tapara.\n\nEso es casi todo el palacio. Desde acá se entra a la sección posterior, del siglo dieciséis: vaguen junto a las cúpulas de los viejos baños y bajen por un pasillo hasta un par de salas con techos de caoba. Busquen la que está marcada con una placa grande."
+       "text": "La Sala de Dos Hermanas debe su apodo a las dos losas gemelas gigantes de mármol blanco del piso, que flanquean la fuente. Y tiene otro techo de estuco que te deja sin palabras, iluminado por ventanas altas.\n\nEra otra sala de recepción real, con alcobas privadas y una fuente: el agua corriente refrescaba y humidificaba el ambiente, y además era un toque de extravagancia, un lujo con el que la mayoría de la gente solo podía soñar.\n\nLas paredes lucen patrones geométricos y caligrafía árabe con versos del Corán. Y si los azulejos de colores les parecen \"a lo Escher\", lo tienen al revés: Escher es \"a lo Alhambra\". M. C. Escher se inspiró en estos mismos patrones en una visita. Estudien la geometría: es un recordatorio de la pericia matemática de los moros.\n\nLa sala de estar, la más alejada de la entrada, tiene las ventanas bajas... porque los moros se sentaban en el piso. En el techo sobrevive algo de vitral, una rareza. Desde acá, la sultana gozaba de una gran vista de la ciudad medieval, antes de que un ala del siglo dieciséis se la tapara.\n\nEso es casi todo el palacio. Desde acá se entra a la sección posterior, del siglo dieciséis: vaguen junto a las cúpulas de los viejos baños y bajen por un pasillo hasta un par de salas con techos de caoba. Busquen la que está marcada con una placa grande.",
+       "en_start": 0,
+       "coord": [
+        37.1768,
+        -3.5893
+       ]
       },
       {
        "n": 12,
        "label": "11",
        "v": 3,
        "name": "La habitación de Washington Irving",
-       "text": "Viviendo en España en mil ochocientos veintinueve, el escritor estadounidense Washington Irving se alojó en la Alhambra... y escribió sus \"Cuentos de la Alhambra\" en esta misma habitación.\n\nEra una época romántica: el palacio, abandonado, era hogar de vagabundos y burros. Los cuentos de Irving reavivaron el interés por la Alhambra y llevaron a que se la reconociera como tesoro nacional. La placa de la pared se lo agradece; Irving fue después embajador de Estados Unidos en España.\n\nRick cita un pasaje de \"La Alhambra a la luz de la luna\", donde Irving cuenta que en esas noches celestiales se sentaba horas en su ventana, aspirando el perfume del jardín y meditando sobre las suertes cambiantes de quienes dejaron estos monumentos.\n\nAl salir, deténganse en el espacio a cielo abierto que sigue."
+       "text": "Viviendo en España en mil ochocientos veintinueve, el escritor estadounidense Washington Irving se alojó en la Alhambra... y escribió sus \"Cuentos de la Alhambra\" en esta misma habitación.\n\nEra una época romántica: el palacio, abandonado, era hogar de vagabundos y burros. Los cuentos de Irving reavivaron el interés por la Alhambra y llevaron a que se la reconociera como tesoro nacional. La placa de la pared se lo agradece; Irving fue después embajador de Estados Unidos en España.\n\nRick cita un pasaje de \"La Alhambra a la luz de la luna\", donde Irving cuenta que en esas noches celestiales se sentaba horas en su ventana, aspirando el perfume del jardín y meditando sobre las suertes cambiantes de quienes dejaron estos monumentos.\n\nAl salir, deténganse en el espacio a cielo abierto que sigue.",
+       "en_start": 0,
+       "coord": [
+        37.1768,
+        -3.5893
+       ]
       },
       {
        "n": 13,
        "label": "12",
        "v": 3,
        "name": "El mirador del Albaicín",
-       "text": "Acá van a disfrutar la mejor vista que da el palacio: el laberíntico Albaicín, el viejo barrio moro, en la colina de enfrente.\n\nBusquen el famoso mirador de San Nicolás, abajo de donde la torre blanca de la iglesia corta el horizonte: se ven las multitudes de turistas... sacándoles fotos a ustedes. Las manchas verdes son los jardines de los cármenes, las viejas fincas nobles, hoy muchas convertidas en restaurantes románticos. Abajo, el río y el Paseo de los Tristes con su plaza llena de mesas. Trepando los montes a la derecha, el barrio del Sacromonte. Y rodeando todavía la Granada vieja, la muralla mora del siglo quince, construida para proteger a una población hinchada de refugiados musulmanes que la Reconquista empujaba hacia el sur."
+       "text": "Acá van a disfrutar la mejor vista que da el palacio: el laberíntico Albaicín, el viejo barrio moro, en la colina de enfrente.\n\nBusquen el famoso mirador de San Nicolás, abajo de donde la torre blanca de la iglesia corta el horizonte: se ven las multitudes de turistas... sacándoles fotos a ustedes. Las manchas verdes son los jardines de los cármenes, las viejas fincas nobles, hoy muchas convertidas en restaurantes románticos. Abajo, el río y el Paseo de los Tristes con su plaza llena de mesas. Trepando los montes a la derecha, el barrio del Sacromonte. Y rodeando todavía la Granada vieja, la muralla mora del siglo quince, construida para proteger a una población hinchada de refugiados musulmanes que la Reconquista empujaba hacia el sur.",
+       "en_start": 0,
+       "coord": [
+        37.1768,
+        -3.5893
+       ]
       },
       {
        "n": 14,
        "label": "13",
        "v": 3,
        "name": "El Patio de Lindaraja, los baños y la sala de los secretos",
-       "text": "Abajo, el gran patio verde de Lindaraja, con sus setos como laberinto, marca el final de la visita al palacio.\n\nAntes de salir van a pasar por los extensos baños antiguos, a nivel del jardín. Y un juego para el camino: en el centro exacto de ese laberinto de corredores busquen la \"sala de los secretos\", una sala abovedada de ladrillo con una acústica divertida. Susurren en una esquina, y quien tenga la oreja contra la pared de la esquina opuesta los escucha perfecto. Prueben también hablar parados en el centro exacto.\n\nDespués salgan afuera, a los jardines."
+       "text": "Abajo, el gran patio verde de Lindaraja, con sus setos como laberinto, marca el final de la visita al palacio.\n\nAntes de salir van a pasar por los extensos baños antiguos, a nivel del jardín. Y un juego para el camino: en el centro exacto de ese laberinto de corredores busquen la \"sala de los secretos\", una sala abovedada de ladrillo con una acústica divertida. Susurren en una esquina, y quien tenga la oreja contra la pared de la esquina opuesta los escucha perfecto. Prueben también hablar parados en el centro exacto.\n\nDespués salgan afuera, a los jardines.",
+       "en_start": 0,
+       "coord": [
+        37.1768,
+        -3.5893
+       ]
       },
       {
        "n": 15,
        "label": "14",
        "v": 3,
        "name": "Los jardines del Partal",
-       "text": "Estos jardines están construidos sobre las ruinas del Palacio del Partal. Imaginen un palacio como el que acaban de recorrer, levantado alrededor de este estanque reflectante. Un fragmento de sus habitaciones sigue en pie en el lado norte, el más fresco, y sobrevive su oratorio orientado a La Meca: es el edificio pequeño, unos escalones arriba del estanque.\n\nUn dato que lo pone todo en perspectiva: la Alhambra fue sede de siete palacios distintos en ciento cincuenta años. Este tour recorre partes de apenas dos o tres.\n\nSaliendo del palacio, suban unos escalones, sigan por los jardines y sigan los carteles hacia el Generalife. Es un paseo delicioso de quince minutos, por jardines menores pero agradables, junto a una fila de torres fortificadas. Justo antes de llegar van a cruzar un puente: miren abajo el camino de tierra — es la Cuesta del Rey Chico, un atajo práctico para volver al centro después."
+       "text": "Estos jardines están construidos sobre las ruinas del Palacio del Partal. Imaginen un palacio como el que acaban de recorrer, levantado alrededor de este estanque reflectante. Un fragmento de sus habitaciones sigue en pie en el lado norte, el más fresco, y sobrevive su oratorio orientado a La Meca: es el edificio pequeño, unos escalones arriba del estanque.\n\nUn dato que lo pone todo en perspectiva: la Alhambra fue sede de siete palacios distintos en ciento cincuenta años. Este tour recorre partes de apenas dos o tres.\n\nSaliendo del palacio, suban unos escalones, sigan por los jardines y sigan los carteles hacia el Generalife. Es un paseo delicioso de quince minutos, por jardines menores pero agradables, junto a una fila de torres fortificadas. Justo antes de llegar van a cruzar un puente: miren abajo el camino de tierra — es la Cuesta del Rey Chico, un atajo práctico para volver al centro después.",
+       "en_start": 0,
+       "coord": [
+        37.1768,
+        -3.5893
+       ]
       },
       {
        "n": 16,
        "label": "15",
        "v": 3,
        "name": "El Generalife",
-       "text": "Las huertas del sultán y su retiro de verano, el Generalife, quedaban fuera de la protección de la muralla. Los mil residentes de la Alhambra comían la fruta y la verdura fresca que se cultivaba acá. Pero lo más importante: este pequeño palacio le daba al sultán un escape veraniego fresco y tranquilo.\n\nSigan el camino de sentido único por los jardines. Van a pasar junto a un teatro al aire libre moderno y elegante, que sigue siendo una sede de conciertos importante para Granada. Más adelante, acercándose al palacio blanco brillante, pasan primero por la sala de desmontar: imagínense bajando del caballo sobre la práctica repisa de piedra, mientras el animal toma agua del abrevadero.\n\nAtraviesen el patio de naranjos y suban por la torre para entrar al jardín árabe más fielmente recreado de Andalucía: el Patio de la Acequia. Acá, en el retiro de los reyes moros, este jardín es lo más parecido que hay en la tierra a la descripción coránica del cielo. Se plantó por primera vez hace más de seiscientos años, una longevidad notable para un jardín europeo. Las flores, las hierbas, los aromas y el agua son exquisitos... hasta para un sultán. La fuente decorativa extralarga era parte del sistema de riego: río arriba, el acueducto real desviaba el agua hacia acá y seguía hacia la Alhambra. Y aunque los chorros saltarines son un deleite, son un agregado del siglo diecinueve: los moros preferían el estanque sereno.\n\nAl final del estanque entran al pequeño retiro de verano del sultán, de tres habitaciones. Desde la última, suban diez escalones a los jardines renacentistas superiores, de alrededor de mil seiscientos. El árbol añoso que se alza sobre el estanque inspiró a Washington Irving, que escribió que debía de ser el único testigo superviviente de las maravillas de aquella era de al-Ándalus.\n\nSubiendo y atravesando el molinete, entran al jardín romántico del siglo diecinueve. La visita está completa, y se ganaron la recompensa que promete el Corán: \"Ciertamente Alá hará entrar a los que creen y obran bien en jardines bajo los cuales corren ríos; allí serán adornados con brazaletes de oro y perlas, y sus vestiduras serán de seda\"."
+       "text": "Las huertas del sultán y su retiro de verano, el Generalife, quedaban fuera de la protección de la muralla. Los mil residentes de la Alhambra comían la fruta y la verdura fresca que se cultivaba acá. Pero lo más importante: este pequeño palacio le daba al sultán un escape veraniego fresco y tranquilo.\n\nSigan el camino de sentido único por los jardines. Van a pasar junto a un teatro al aire libre moderno y elegante, que sigue siendo una sede de conciertos importante para Granada. Más adelante, acercándose al palacio blanco brillante, pasan primero por la sala de desmontar: imagínense bajando del caballo sobre la práctica repisa de piedra, mientras el animal toma agua del abrevadero.\n\nAtraviesen el patio de naranjos y suban por la torre para entrar al jardín árabe más fielmente recreado de Andalucía: el Patio de la Acequia. Acá, en el retiro de los reyes moros, este jardín es lo más parecido que hay en la tierra a la descripción coránica del cielo. Se plantó por primera vez hace más de seiscientos años, una longevidad notable para un jardín europeo. Las flores, las hierbas, los aromas y el agua son exquisitos... hasta para un sultán. La fuente decorativa extralarga era parte del sistema de riego: río arriba, el acueducto real desviaba el agua hacia acá y seguía hacia la Alhambra. Y aunque los chorros saltarines son un deleite, son un agregado del siglo diecinueve: los moros preferían el estanque sereno.\n\nAl final del estanque entran al pequeño retiro de verano del sultán, de tres habitaciones. Desde la última, suban diez escalones a los jardines renacentistas superiores, de alrededor de mil seiscientos. El árbol añoso que se alza sobre el estanque inspiró a Washington Irving, que escribió que debía de ser el único testigo superviviente de las maravillas de aquella era de al-Ándalus.\n\nSubiendo y atravesando el molinete, entran al jardín romántico del siglo diecinueve. La visita está completa, y se ganaron la recompensa que promete el Corán: \"Ciertamente Alá hará entrar a los que creen y obran bien en jardines bajo los cuales corren ríos; allí serán adornados con brazaletes de oro y perlas, y sus vestiduras serán de seda\".",
+       "en_start": 0,
+       "coord": [
+        37.1768,
+        -3.5893
+       ]
       },
       {
        "n": 17,
        "label": "16",
        "v": 3,
        "name": "La Escalera del Agua y la vuelta al centro",
-       "text": "Si les quedan ganas de un poco más de ejercicio y de vistas, giren a la izquierda en el cartel de \"continuación de la visita\" y hagan el circuito de media milla que sube y rodea hasta la Escalera del Agua, cuyas barandas funcionan como pequeños canales por donde corre el agua. Desde lo alto se puede subir al mirador romántico, con una vista de piso alto sobre los jardines. Después bajen de nuevo por el jardín y sigan los carteles de salida, atravesando el largo túnel de adelfas. Si están agotados, salteen este desvío: vayan a la derecha y sigan los carteles de salida directamente.\n\nPara volver al centro hay tres opciones. Los minibuses vuelven desde acá a la Plaza Isabel la Católica. A pie, la ruta escénica es la Cuesta del Rey Chico, fácil de pasar por alto: arranca bajo los dos arcos de piedra cerca del pabellón de entrada, junto al restaurante La Mimbre y la parada del minibús. Baja empinada por una senda empedrada y tranquila, perfumada de lavanda, bajo las murallas de la Alhambra, por donde subían los caballos del sultán al Generalife. En quince minutos están de vuelta en el Paseo de los Tristes, y de ahí se pasea a nivel hasta Plaza Nueva. La otra ruta a pie es la más corta y común: derecho por el camino principal junto a la base de la muralla, hasta una fuente a la izquierda, y de ahí bajo el dosel de árboles, bajando y bajando hasta la Cuesta de Gomérez y Plaza Nueva.\n\nY si todavía tienen cuerda, dos yapas gratuitas dentro del recinto. El parador de Granada, un monumento nacional abierto al público: fue palacio moro y después monasterio franciscano, y en su iglesia eligieron ser enterrados Fernando e Isabel — la losa del piso cerca del altar marca el lugar donde descansaron hasta mil quinientos veintiuno, cuando los trasladaron a la Capilla Real del centro. Su café-terraza tiene vistas exuberantes del Generalife. Y la Puerta del Vino, donde moría el camino principal de la medina: el pozo del viejo aljibe, hoy encajonado en un bar-kiosco, sigue siendo un lugar para una bebida fría.\n\nFin del tour. Que lo disfruten."
+       "text": "Si les quedan ganas de un poco más de ejercicio y de vistas, giren a la izquierda en el cartel de \"continuación de la visita\" y hagan el circuito de media milla que sube y rodea hasta la Escalera del Agua, cuyas barandas funcionan como pequeños canales por donde corre el agua. Desde lo alto se puede subir al mirador romántico, con una vista de piso alto sobre los jardines. Después bajen de nuevo por el jardín y sigan los carteles de salida, atravesando el largo túnel de adelfas. Si están agotados, salteen este desvío: vayan a la derecha y sigan los carteles de salida directamente.\n\nPara volver al centro hay tres opciones. Los minibuses vuelven desde acá a la Plaza Isabel la Católica. A pie, la ruta escénica es la Cuesta del Rey Chico, fácil de pasar por alto: arranca bajo los dos arcos de piedra cerca del pabellón de entrada, junto al restaurante La Mimbre y la parada del minibús. Baja empinada por una senda empedrada y tranquila, perfumada de lavanda, bajo las murallas de la Alhambra, por donde subían los caballos del sultán al Generalife. En quince minutos están de vuelta en el Paseo de los Tristes, y de ahí se pasea a nivel hasta Plaza Nueva. La otra ruta a pie es la más corta y común: derecho por el camino principal junto a la base de la muralla, hasta una fuente a la izquierda, y de ahí bajo el dosel de árboles, bajando y bajando hasta la Cuesta de Gomérez y Plaza Nueva.\n\nY si todavía tienen cuerda, dos yapas gratuitas dentro del recinto. El parador de Granada, un monumento nacional abierto al público: fue palacio moro y después monasterio franciscano, y en su iglesia eligieron ser enterrados Fernando e Isabel — la losa del piso cerca del altar marca el lugar donde descansaron hasta mil quinientos veintiuno, cuando los trasladaron a la Capilla Real del centro. Su café-terraza tiene vistas exuberantes del Generalife. Y la Puerta del Vino, donde moría el camino principal de la medina: el pozo del viejo aljibe, hoy encajonado en un bar-kiosco, sigue siendo un lugar para una bebida fría.\n\nFin del tour. Que lo disfruten.",
+       "en_start": 0,
+       "coord": [
+        37.1768,
+        -3.5893
+       ]
       }
      ]
     },
     {
      "id": "gra-albaicin",
-     "title": "El Albaicín, hasta el mirador",
+     "title": "El Albaicín",
      "full_title": "Granada: el Albaicín, en subida hasta el mirador",
      "coord": [
-      37.1795,
-      -3.5965
+      37.1811,
+      -3.5927
      ],
      "maps": [
       {
@@ -6574,66 +6709,111 @@
      "stops": [
       {
        "n": 1,
-       "label": null,
+       "label": "Intro",
        "v": 3,
        "name": "Introducción",
-       "text": "Este es el paseo de Rick Steves por el Albaicín, actualizado con su guía de España de este año.\n\nEstán por recorrer el mejor barrio moro antiguo de España, lleno de rincones coloridos, patios floridos y callejuelas sombreadas. Mientras el centro de Granada se parece al de otras ciudades españolas agradables, el Albaicín es único: acá los moros construyeron una fortaleza en el siglo once. La ciudadela ya no está, pero sobrevive el laberinto de calles angostas, paredes encaladas y patios escondidos. Para Rick, no se puede decir que vieron Granada de verdad sin pasear un rato por estas callecitas retorcidas.\n\nUn dato para llevar durante todo el paseo: cada una de las veinte iglesias del barrio ocupa el lugar de una antigua mezquita. Cuando la Reconquista llegó a Granada, cristianos y musulmanes intentaron convivir, pero pronto los españoles forzaron conversiones, y después expulsiones: hacia mil quinientos setenta casi no quedaba comunidad musulmana. Lo que quedó fue este barrio, la parte más vieja de Granada, con sus calles empedradas y las casas de estilo moro llamadas cármenes: casas grandes, amuralladas, con jardín privado, que hoy sobreviven como los característicos restaurantes \"carmen\".\n\nEl paseo sube desde Plaza Nueva hasta la iglesia y el mirador de San Nicolás, con algunas de las mejores vistas de la Alhambra. Es una caminata de unos treinta minutos, empinada pero fascinante, pensada para llegar al mirador al atardecer. Y el propio Rick ofrece un atajo: para saltearse el primer tramo cuesta arriba, se puede tomar el minibús C treinta y uno o C treinta y dos en Plaza Nueva y retomar el paseo en la Placeta de San Miguel Bajo; desde ahí las subidas que quedan son más cortas.\n\nCuando estén en Plaza Nueva, pasen a la siguiente parada."
+       "text": "Este es el paseo de Rick Steves por el Albaicín, actualizado con su guía de España de este año.\n\nEstán por recorrer el mejor barrio moro antiguo de España, lleno de rincones coloridos, patios floridos y callejuelas sombreadas. Mientras el centro de Granada se parece al de otras ciudades españolas agradables, el Albaicín es único: acá los moros construyeron una fortaleza en el siglo once. La ciudadela ya no está, pero sobrevive el laberinto de calles angostas, paredes encaladas y patios escondidos. Para Rick, no se puede decir que vieron Granada de verdad sin pasear un rato por estas callecitas retorcidas.\n\nUn dato para llevar durante todo el paseo: cada una de las veinte iglesias del barrio ocupa el lugar de una antigua mezquita. Cuando la Reconquista llegó a Granada, cristianos y musulmanes intentaron convivir, pero pronto los españoles forzaron conversiones, y después expulsiones: hacia mil quinientos setenta casi no quedaba comunidad musulmana. Lo que quedó fue este barrio, la parte más vieja de Granada, con sus calles empedradas y las casas de estilo moro llamadas cármenes: casas grandes, amuralladas, con jardín privado, que hoy sobreviven como los característicos restaurantes \"carmen\".\n\nEl paseo sube desde Plaza Nueva hasta la iglesia y el mirador de San Nicolás, con algunas de las mejores vistas de la Alhambra. Es una caminata de unos treinta minutos, empinada pero fascinante, pensada para llegar al mirador al atardecer. Y el propio Rick ofrece un atajo: para saltearse el primer tramo cuesta arriba, se puede tomar el minibús C treinta y uno o C treinta y dos en Plaza Nueva y retomar el paseo en la Placeta de San Miguel Bajo; desde ahí las subidas que quedan son más cortas.\n\nCuando estén en Plaza Nueva, pasen a la siguiente parada.",
+       "en_start": 0,
+       "coord": [
+        37.1811,
+        -3.5927
+       ]
       },
       {
        "n": 2,
        "label": "1",
        "v": 3,
        "name": "De Plaza Nueva a la Calle Calderería Nueva",
-       "text": "Arranquen en el extremo bajo de Plaza Nueva, el del oeste, junto al local de kebab y pizza Nemrut, y suban por la calle San Gil. Enseguida, donde la calle se bifurca, tomen a la izquierda por la calle de Elvira. Cuando lleguen a un par de semáforos, que van a ver de atrás, doblen a la derecha y encaren cuesta arriba por la Calle Calderería Nueva: un cartel azul verdoso que dice \"Kasbah\" les da la bienvenida al barrio.\n\nLa Calderería Nueva es una calle escalonada que funciona como un túnel de vendedores de productos norafricanos, con un tramo de comidas marroquíes, pastelerías y tentadoras teterías, los salones de té moriscos. Están ambientadas para que se crean en Marrakech: son el lugar para bajar un cambio, pedir un té y, si pinta, fumar narguile. La Oriental, en la esquina con la Cuesta de Marañas, es un buen ejemplo. Y Nujaila, una panadería para llevar, a la izquierda en el número siete, tiene pastelitos marroquíes de masa filo bañados en miel.\n\nSigan subiendo hasta que la calle se abra en una placita con una iglesia."
+       "text": "Arranquen en el extremo bajo de Plaza Nueva, el del oeste, junto al local de kebab y pizza Nemrut, y suban por la calle San Gil. Enseguida, donde la calle se bifurca, tomen a la izquierda por la calle de Elvira. Cuando lleguen a un par de semáforos, que van a ver de atrás, doblen a la derecha y encaren cuesta arriba por la Calle Calderería Nueva: un cartel azul verdoso que dice \"Kasbah\" les da la bienvenida al barrio.\n\nLa Calderería Nueva es una calle escalonada que funciona como un túnel de vendedores de productos norafricanos, con un tramo de comidas marroquíes, pastelerías y tentadoras teterías, los salones de té moriscos. Están ambientadas para que se crean en Marrakech: son el lugar para bajar un cambio, pedir un té y, si pinta, fumar narguile. La Oriental, en la esquina con la Cuesta de Marañas, es un buen ejemplo. Y Nujaila, una panadería para llevar, a la izquierda en el número siete, tiene pastelitos marroquíes de masa filo bañados en miel.\n\nSigan subiendo hasta que la calle se abra en una placita con una iglesia.",
+       "en_start": 0,
+       "coord": [
+        37.1811,
+        -3.5927
+       ]
       },
       {
        "n": 3,
        "label": "2",
        "v": 3,
        "name": "La Placeta de San Gregorio",
-       "text": "Esta placita, en lo alto de la Calderería Nueva, tiene un espíritu relajado especial. Si no hay apuro, siéntense en una silla medio desvencijada del Bar las Cuevas, bajo la fachada clásica de la iglesia, entre macetas y techos de teja, a mirar pasar el desfile constante de gente. Otro buen puesto de observación, unos escalones más arriba, es la Taverna El Veintidós: ideal para una Reserva mil novecientos veinticinco, que es la mejor cerveza artesanal de Granada, un vermut de la casa o un jerez dulce.\n\nLa iglesia de San Gregorio pertenece a un grupito de hermanas franciscanas. Entren para un momento de tranquilidad: una de las hermanas, vestida de un blanco glorioso, reza arrodillada ante el altar todo el día, todos los días."
+       "text": "Esta placita, en lo alto de la Calderería Nueva, tiene un espíritu relajado especial. Si no hay apuro, siéntense en una silla medio desvencijada del Bar las Cuevas, bajo la fachada clásica de la iglesia, entre macetas y techos de teja, a mirar pasar el desfile constante de gente. Otro buen puesto de observación, unos escalones más arriba, es la Taverna El Veintidós: ideal para una Reserva mil novecientos veinticinco, que es la mejor cerveza artesanal de Granada, un vermut de la casa o un jerez dulce.\n\nLa iglesia de San Gregorio pertenece a un grupito de hermanas franciscanas. Entren para un momento de tranquilidad: una de las hermanas, vestida de un blanco glorioso, reza arrodillada ante el altar todo el día, todos los días.",
+       "en_start": 0,
+       "coord": [
+        37.1811,
+        -3.5927
+       ]
       },
       {
        "n": 4,
        "label": "3",
        "v": 3,
        "name": "La subida: Cuesta de San Gregorio y Calle San José",
-       "text": "Ahora viene el tramo de subida más largo. Sigan subiendo por la Cuesta de San Gregorio, que sale por el costado izquierdo de la iglesia. Unos pasos después de la Taberna del Beso, doblen en zigzag cuesta arriba, a la izquierda, siguiendo el cartel negro que dice \"Mirador de San Nicolás\". El camino dobla a la derecha, después a la izquierda, y sigue subiendo por la Calle San José.\n\nPasada la iglesia de San José, viene un tramo largo, empinado, empedrado y cada vez más angosto. Tómenselo con calma: es el precio de la vista que los espera arriba. Al final de esta calle, abran a la derecha para seguir subiendo derecho por la Placeta Cauchiles de San Miguel, y enseguida van a llegar a una plaza arbolada."
+       "text": "Ahora viene el tramo de subida más largo. Sigan subiendo por la Cuesta de San Gregorio, que sale por el costado izquierdo de la iglesia. Unos pasos después de la Taberna del Beso, doblen en zigzag cuesta arriba, a la izquierda, siguiendo el cartel negro que dice \"Mirador de San Nicolás\". El camino dobla a la derecha, después a la izquierda, y sigue subiendo por la Calle San José.\n\nPasada la iglesia de San José, viene un tramo largo, empinado, empedrado y cada vez más angosto. Tómenselo con calma: es el precio de la vista que los espera arriba. Al final de esta calle, abran a la derecha para seguir subiendo derecho por la Placeta Cauchiles de San Miguel, y enseguida van a llegar a una plaza arbolada.",
+       "en_start": 0,
+       "coord": [
+        37.1811,
+        -3.5927
+       ]
       },
       {
        "n": 5,
        "label": "4",
        "v": 3,
        "name": "La Placeta de San Miguel Bajo",
-       "text": "Llegaron a una placita relajada y arbolada, rodeada de opciones para comer o tomar algo. Si vinieron con hambre, guarden lugar para el postre de la próxima parada.\n\nAcá retoma el paseo quien subió en el minibús desde Plaza Nueva.\n\nAntes de irse, un desvío de treinta metros: salgan de la placita por el extremo izquierdo y enseguida se abre un mirador que da a la Granada moderna, del otro lado de la colina.\n\nCuando estén listos para seguir, salgan de la plaza por donde está la iglesia y bajen por la Calle Santa Isabel la Real, con una torre campanario blanca a la distancia."
+       "text": "Llegaron a una placita relajada y arbolada, rodeada de opciones para comer o tomar algo. Si vinieron con hambre, guarden lugar para el postre de la próxima parada.\n\nAcá retoma el paseo quien subió en el minibús desde Plaza Nueva.\n\nAntes de irse, un desvío de treinta metros: salgan de la placita por el extremo izquierdo y enseguida se abre un mirador que da a la Granada moderna, del otro lado de la colina.\n\nCuando estén listos para seguir, salgan de la plaza por donde está la iglesia y bajen por la Calle Santa Isabel la Real, con una torre campanario blanca a la distancia.",
+       "en_start": 0,
+       "coord": [
+        37.1811,
+        -3.5927
+       ]
       },
       {
        "n": 6,
        "label": "5",
        "v": 3,
        "name": "El Convento de Santa Isabel la Real",
-       "text": "Tras una cuadra aparece, en el número quince, el arco de ladrillo que marca la entrada del Convento de Santa Isabel la Real, donde se les pueden comprar dulces a las monjas. Atienden todos los días: entren derecho hasta el fondo del patio y busquen a la izquierda la ventana giratoria, el torno; toquen el timbre para que las hermanas atiendan, sin dejarse ver.\n\nDespués sigan por la calle, pasando unas palmeras, y continúen una cuadra más hasta la Cuesta de María de la Miel. Doblen a la izquierda, cuesta arriba, pasando en la esquina izquierda una puerta mudéjar de azulejos coloridos. Suban por la callejuela escalonada. Cuando el camino empiece a aplanarse, sigan derecho, con la pared blanca y el gran portón a la izquierda."
+       "text": "Tras una cuadra aparece, en el número quince, el arco de ladrillo que marca la entrada del Convento de Santa Isabel la Real, donde se les pueden comprar dulces a las monjas. Atienden todos los días: entren derecho hasta el fondo del patio y busquen a la izquierda la ventana giratoria, el torno; toquen el timbre para que las hermanas atiendan, sin dejarse ver.\n\nDespués sigan por la calle, pasando unas palmeras, y continúen una cuadra más hasta la Cuesta de María de la Miel. Doblen a la izquierda, cuesta arriba, pasando en la esquina izquierda una puerta mudéjar de azulejos coloridos. Suban por la callejuela escalonada. Cuando el camino empiece a aplanarse, sigan derecho, con la pared blanca y el gran portón a la izquierda.",
+       "en_start": 0,
+       "coord": [
+        37.1811,
+        -3.5927
+       ]
       },
       {
        "n": 7,
        "label": "6",
        "v": 3,
        "name": "La Puerta Nueva y la Plaza Larga",
-       "text": "La calle baja suavemente hasta la inconfundible Puerta Nueva. Bajen los escalones y crucen esta puerta... que de \"nueva\" tiene poco: es del siglo once, más vieja que la Alhambra. Del otro lado está la Plaza Larga, el corazón del Albaicín.\n\nEn época medieval esta placita, que se llamó \"larga\" porque entonces lo era, funcionaba como mercado local. Y lo sigue siendo: cada mañana hay mercado animado. Casa Pasteles, en el extremo cercano de la plaza, sirve buen café y buenas tortas.\n\nSi tienen un rato, métanse por las callecitas alrededor de la plaza: son escenas típicas del Albaicín. Después vuelvan a cruzar la Puerta Nueva y, arriba de las escaleras, doblen a la izquierda por el Callejón San Cecilio."
+       "text": "La calle baja suavemente hasta la inconfundible Puerta Nueva. Bajen los escalones y crucen esta puerta... que de \"nueva\" tiene poco: es del siglo once, más vieja que la Alhambra. Del otro lado está la Plaza Larga, el corazón del Albaicín.\n\nEn época medieval esta placita, que se llamó \"larga\" porque entonces lo era, funcionaba como mercado local. Y lo sigue siendo: cada mañana hay mercado animado. Casa Pasteles, en el extremo cercano de la plaza, sirve buen café y buenas tortas.\n\nSi tienen un rato, métanse por las callecitas alrededor de la plaza: son escenas típicas del Albaicín. Después vuelvan a cruzar la Puerta Nueva y, arriba de las escaleras, doblen a la izquierda por el Callejón San Cecilio.",
+       "en_start": 0,
+       "coord": [
+        37.1811,
+        -3.5927
+       ]
       },
       {
        "n": 8,
        "label": "7",
        "v": 3,
        "name": "El Callejón San Cecilio",
-       "text": "Esta callecita pasa junto a un arco de piedra arenisca blanca, en la esquina, a la izquierda: hoy es una capilla construida dentro de la vieja muralla mora. Están caminando entre los escasos restos de la fortaleza de Granada anterior a la Alhambra, la ciudadela del siglo once que le dio origen al barrio.\n\nMás adelante, la Biblioteca Municipal, a la derecha, los lleva derecho a la iglesia de San Nicolás y su mirador. Si está abierta, consideren asomarse a la Mezquita Mayor de Granada, del otro lado de la iglesia grande: se inauguró en dos mil tres, y fue la primera mezquita nueva de la ciudad en quinientos años."
+       "text": "Esta callecita pasa junto a un arco de piedra arenisca blanca, en la esquina, a la izquierda: hoy es una capilla construida dentro de la vieja muralla mora. Están caminando entre los escasos restos de la fortaleza de Granada anterior a la Alhambra, la ciudadela del siglo once que le dio origen al barrio.\n\nMás adelante, la Biblioteca Municipal, a la derecha, los lleva derecho a la iglesia de San Nicolás y su mirador. Si está abierta, consideren asomarse a la Mezquita Mayor de Granada, del otro lado de la iglesia grande: se inauguró en dos mil tres, y fue la primera mezquita nueva de la ciudad en quinientos años.",
+       "en_start": 0,
+       "coord": [
+        37.1811,
+        -3.5927
+       ]
       },
       {
        "n": 9,
        "label": "8",
        "v": 3,
        "name": "El Mirador de San Nicolás",
-       "text": "Llegaron. Quédense en el mirador para el atardecer, si lo calcularon bien.\n\nEste punto popular, mirando a la Alhambra desde el borde del Albaicín, es para Rick uno de los miradores más románticos de Europa: al atardecer la Alhambra se enciende de rojo, con Sierra Nevada de fondo, y los veteranos del barrio comparten los bancos con enamorados, hippies y turistas.\n\nSi quieren la misma vista millonaria con un trago en la mano, el bar de El Huerto de Juan Ranas está justo abajo del mirador, a la izquierda, en Calle Atarazana Vieja ocho: pidan un trago, déjenles propina a los músicos que suelen tocar ahí, acomódense y tómenlo como un concierto.\n\nFin del paseo. Si reservaron cena en uno de los cármenes, quedan apenas cuesta abajo desde acá. Si no, bajen en el minibús que para cerca, en taxi, o caminando con cuidado por donde subieron."
+       "text": "Llegaron. Quédense en el mirador para el atardecer, si lo calcularon bien.\n\nEste punto popular, mirando a la Alhambra desde el borde del Albaicín, es para Rick uno de los miradores más románticos de Europa: al atardecer la Alhambra se enciende de rojo, con Sierra Nevada de fondo, y los veteranos del barrio comparten los bancos con enamorados, hippies y turistas.\n\nSi quieren la misma vista millonaria con un trago en la mano, el bar de El Huerto de Juan Ranas está justo abajo del mirador, a la izquierda, en Calle Atarazana Vieja ocho: pidan un trago, déjenles propina a los músicos que suelen tocar ahí, acomódense y tómenlo como un concierto.\n\nFin del paseo. Si reservaron cena en uno de los cármenes, quedan apenas cuesta abajo desde acá. Si no, bajen en el minibús que para cerca, en taxi, o caminando con cuidado por donde subieron.",
+       "en_start": 0,
+       "coord": [
+        37.1811,
+        -3.5927
+       ]
       }
      ]
     }
@@ -6651,10 +6831,11 @@
     {
      "title": "Ronda (miércoles 11/11, unas 3 h)",
      "items": [
-      "Plan base para todos: el circuito llano del Puente Nuevo. Paradas 02 a 05: plaza de toros, Alameda y miradores, Puente Nuevo y La Ciudad.",
-      "El walk del Tajo (paradas 06 y 07, bajada al fondo de la garganta) es opcional según ganas y tiempo: muchas escaleras y cuestas, de ida y vuelta. Quien no baje puede esperar arriba, cerca del puente.",
-      "La Mina, en la Casa del Rey Moro: 280 escalones, desvío extra pago.",
-      "Pagos y con horarios cortos: museo de la plaza de toros y Baños Árabes. Verificar en la puerta.",
+      "Plan base para los cuatro: el Ronda Walk completo (pistas 02 a 16), el paseo nuevo del libro 2026. Va todo por arriba — parque, plaza de toros, Puente Nuevo y casco viejo — y lleva ~1 h sin contar paradas.",
+      "La ciudad se llena de excursionistas entre las 11:00 y las 13:30: si se puede, arrancar el walk temprano y dejar los sights pagos para después del pico.",
+      "Las bajadas al fondo del Tajo (pista 17) son opcionales: la pasarela nueva (€5) equivale a ~35 pisos de escaleras, y La Mina son 210 escalones oscuros y resbaladizos (€10). NO recomendadas para mamá; el walk de arriba sí es para ella.",
+      "Pagos: museo de la plaza de toros €9 + €2 la audioguía (Rick la llama esencial); Baños Árabes €4,50, SOLO tarjeta. Verificar horarios en la puerta.",
+      "El parador puede estar cerrado por renovación. El centro de interpretación del Puente Nuevo no vale la pena (Rick: \"un cuarto vacío\").",
       "Auto: estacionamientos subterráneos señalizados del centro, cerca de la plaza de toros."
      ]
     }
@@ -6662,8 +6843,8 @@
    "tours": [
     {
      "id": "ronda-tajo",
-     "title": "Ronda: el Tajo y el Puente Nuevo",
-     "full_title": "Ronda: el Tajo y el Puente Nuevo",
+     "title": "Ronda: el paseo y el Tajo",
+     "full_title": "Ronda: el paseo por la ciudad del Tajo",
      "coord": [
       36.7413,
       -5.1658
@@ -6686,67 +6867,121 @@
        "kind": "info"
       },
       {
+       "label": "1",
+       "name": "Alameda del Tajo (inicio)",
+       "coord": [
+        36.7444,
+        -5.1674
+       ],
+       "stop": 2
+      },
+      {
        "label": "2",
        "name": "Plaza de toros",
        "coord": [
         36.7425,
         -5.1667
        ],
-       "stop": 2
-      },
-      {
-       "label": "3",
-       "name": "Alameda del Tajo y miradores (aprox.)",
-       "coord": [
-        36.7444,
-        -5.1674
-       ],
        "stop": 3
       },
       {
-       "label": "4",
-       "name": "Puente Nuevo",
+       "label": "3",
+       "name": "Mirador de la garganta (aprox.)",
        "coord": [
-        36.7413,
-        -5.1658
+        36.7419,
+        -5.1678
        ],
        "stop": 4
       },
       {
-       "label": "5",
-       "name": "La Ciudad: Santa María la Mayor (aprox.)",
+       "label": "4-5",
+       "name": "Calle Virgen de la Paz y Plaza de España (aprox.)",
        "coord": [
-        36.7372,
-        -5.1652
+        36.7418,
+        -5.1655
        ],
        "stop": 5
       },
       {
        "label": "6",
-       "name": "Opcional: Casa del Rey Moro / Cuesta de Santo Domingo (aprox.)",
+       "name": "Puente Nuevo",
+       "coord": [
+        36.7413,
+        -5.1658
+       ],
+       "stop": 7
+      },
+      {
+       "label": "7-8",
+       "name": "Casco viejo: convento y mural, Calle Tenorio (aprox.)",
+       "coord": [
+        36.7405,
+        -5.1657
+       ],
+       "stop": 8
+      },
+      {
+       "label": "9-10",
+       "name": "Casa Museo Don Bosco y Plaza de María Auxiliadora (aprox.)",
+       "coord": [
+        36.7387,
+        -5.1671
+       ],
+       "stop": 10
+      },
+      {
+       "label": "11-12",
+       "name": "Puerta de los Molinos y pasarela del desfiladero (aprox.)",
+       "coord": [
+        36.7389,
+        -5.1676
+       ],
+       "stop": 12
+      },
+      {
+       "label": "13",
+       "name": "Palacio de Mondragón (aprox.)",
+       "coord": [
+        36.7387,
+        -5.1665
+       ],
+       "stop": 14
+      },
+      {
+       "label": "14",
+       "name": "Santa María la Mayor (aprox.)",
+       "coord": [
+        36.7372,
+        -5.1652
+       ],
+       "stop": 15
+      },
+      {
+       "label": "15",
+       "name": "Plaza Duquesa de Parcent (fin)",
+       "coord": [
+        36.7369,
+        -5.1656
+       ],
+       "stop": 16
+      },
+      {
+       "label": "⬇",
+       "name": "Extra: Casa del Rey Moro, puentes viejos y Baños Árabes (bajada, aprox.)",
        "coord": [
         36.7403,
         -5.1641
        ],
-       "stop": 6
-      },
-      {
-       "label": "7",
-       "name": "Opcional: Puente Viejo, Puente Árabe y Baños Árabes (aprox.)",
-       "coord": [
-        36.7391,
-        -5.162
-       ],
-       "stop": 7
+       "stop": 17
       }
      ],
      "stops": [
       {
        "n": 1,
-       "label": null,
-       "v": 2,
+       "label": "Intro",
+       "v": 3,
        "name": "Introducción",
-       "text": "Hola. Esta guía no es de Rick Steves: la armamos para este viaje, para recorrer Ronda.\n\nRonda es un pueblo blanco construido sobre una meseta de roca, partida al medio por un tajo, una garganta de unos cien metros de profundidad que abrió el río Guadalevín. De un lado queda la ciudad vieja, de origen musulmán, que aquí llaman La Ciudad. Del otro, el barrio que creció después de la conquista cristiana, El Mercadillo. Y entre los dos, el puente que hizo famosa a Ronda.\n\nEl recorrido va de la plaza de toros a los miradores y al Puente Nuevo, cruza a la ciudad vieja, baja al fondo del tajo y vuelve a subir por el otro lado.\n\nCuando estén frente a la plaza de toros, pasen a la siguiente parada.",
+       "text": "Este es el paseo de Rick Steves por Ronda, actualizado con su guía de España de este año.\n\nNovedad de esta edición: Rick ahora propone un paseo autoguiado formal de quince paradas que conecta casi todos los lugares que valen la pena de la ciudad, en más o menos una hora de caminata sin contar las paradas. Su consejo es orientarse primero con este paseo, picando lugares en el camino, y volver después a los más populares: la ciudad se llena de excursionistas de un día entre las once y la una y media, así que conviene esquivar ese pico.\n\nEl recorrido va todo por arriba: el parque, la plaza de toros, el Puente Nuevo y el casco viejo. Las bajadas al fondo de la garganta son desvíos opcionales, con muchas escaleras, y las dejamos para una pista aparte al final.\n\nEl paseo empieza en el parque grande sobre la calle principal de la ciudad nueva: la Alameda del Tajo. Cuando estén ahí, pasen a la siguiente parada.",
        "en_start": 0,
        "coord": [
         36.7413,
@@ -6755,10 +6990,10 @@
       },
       {
        "n": 2,
-       "label": null,
-       "v": 2,
-       "name": "La plaza de toros",
-       "text": "Esta es una de las plazas de toros más antiguas de España. Se inauguró en 1785 y es toda de piedra, con un ruedo enorme y dos pisos de gradas con arcos y columnas.\n\nRonda tiene un lugar especial en la historia de las corridas. Aquí, en el siglo dieciocho, una familia de toreros, los Romero, ayudó a crear el toreo a pie, con capa y muleta, tal como se conoce hoy. Antes, los protagonistas eran los nobles a caballo. Pedro Romero, el más famoso, mató miles de toros a lo largo de su carrera y murió de viejo, algo raro en su oficio.\n\nUna vez al año, en septiembre, se hace la Corrida Goyesca, con trajes inspirados en las pinturas de Goya.\n\nLa plaza también atrajo a escritores y artistas extranjeros. Ernest Hemingway pasó temporadas en Ronda, y el director de cine Orson Welles quedó tan enamorado de este lugar que sus cenizas están enterradas en una finca cerca de aquí.\n\nAhora rodeen la plaza y caminen hacia el borde del precipicio, al parque arbolado de al lado. Cuando estén en la baranda, pasen a la siguiente parada.",
+       "label": "1",
+       "v": 3,
+       "name": "La Alameda del Tajo",
+       "text": "Este parque enorme, de plátanos gigantes y trazado a la francesa, es el punto de encuentro de los rondeños. Vayan hasta la terraza-mirador: se abre sobre la Serranía de Ronda con una caída de más de ciento ochenta metros, y deja claro desde el arranque que todo el centro de la ciudad está encaramado al borde del desfiladero.\n\nMirando la vista, a la derecha sale el Paseo de los Ingleses, una pasarela panorámica al borde del acantilado. Anótenla para más tarde: es ideal al fresco de la tarde, con poca gente.\n\nAhora vayan hacia el otro lado: giren a la izquierda hasta el final de la plaza, pasando el teatro Vicente Espinel, y sigan derecho por el Paseo de Orson Welles. Las cenizas de Welles, de hecho, están enterradas cerca de acá, en la finca del torero Antonio Ordóñez. Al final de la pasarela los espera la plaza de toros.",
        "en_start": 0,
        "coord": [
         36.7413,
@@ -6767,10 +7002,10 @@
       },
       {
        "n": 3,
-       "label": null,
-       "v": 2,
-       "name": "La Alameda y los miradores",
-       "text": "Este parque es la Alameda del Tajo, del siglo diecinueve, y termina de golpe en un balcón sobre el vacío. Asómense.\n\nAbajo, a pico, la pared de roca. Y enfrente, la llanura, con campos, olivos y, a lo lejos, las sierras. Es una caída de cientos de metros: por eso Ronda fue durante siglos casi imposible de conquistar. Del lado del barranco no hacía falta muralla.\n\nHay un mirador que los rondeños llaman con una palabrota que mejor no repetimos: es la exclamación que se le escapa a todo el mundo cuando se asoma.\n\nDesde aquí, caminen junto a la baranda hacia el puente, por el paseo que bordea el precipicio detrás de la plaza de toros. Cuando vean el Puente Nuevo de costado, pasen a la siguiente parada.",
+       "label": "2",
+       "v": 3,
+       "name": "La plaza de toros, por fuera",
+       "text": "Esta es la primera plaza de toros construida a propósito en España, de mil setecientos ochenta y cinco. Acá Francisco Romero bautizó el toreo moderno: fusionó el toreo noble a caballo con el toreo popular, le puso reglas e introdujo la capa escarlata. Su hijo Juan desarrolló el ritual, y su nieto Pedro fue uno de los primeros grandes matadores, con unos seis mil toros en su carrera.\n\nLa estatua del toro embistiendo es la foto clásica. Detrás están la boletería y la entrada a la plaza y su museo, y enfrente de la plaza queda la oficina de turismo.",
        "en_start": 0,
        "coord": [
         36.7413,
@@ -6779,10 +7014,10 @@
       },
       {
        "n": 4,
-       "label": null,
-       "v": 2,
-       "name": "El Puente Nuevo",
-       "text": "Ahí está. El Puente Nuevo, la imagen de Ronda.\n\nUne El Mercadillo con La Ciudad por encima del tajo, a casi cien metros de altura sobre el río. Se construyó entre 1759 y 1793: más de treinta años de obra. Hubo un intento anterior, un puente de un solo arco, que se derrumbó a los pocos años y mató a decenas de personas. El que ven lo diseñó un arquitecto llamado José Martín de Aldehuela, y está hecho con la misma piedra del tajo, por eso parece que creciera de la roca.\n\nSobre el arco central hay una habitación. Durante un tiempo se usó como cárcel, y se cuentan historias terribles de la Guerra Civil en este lugar, que llegaron a inspirar a Hemingway.\n\nCrucen el puente caminando y asómense a los dos lados. Hacia un lado verán el tajo cerrándose entre paredes de roca, con los otros dos puentes, más viejos, allá abajo. Hacia el otro, el río saliendo hacia el valle.\n\nCuando hayan cruzado al lado de la ciudad vieja, pasen a la siguiente parada.",
+       "label": "3",
+       "v": 3,
+       "name": "El mirador de la garganta",
+       "text": "Al fondo de la plaza, a la derecha, se entra al parque. Fíjense en las columnas de la entrada, flanqueadas por estatuas de Orson Welles y Ernest Hemingway... que en la vida real se detestaban.\n\nCerca del gazebo tienen una vista clara del acantilado bajo el casco viejo. Se ve la pasarela moderna que baja hasta la base del puente y, abajo, los cimientos y muros de los molinos harineros de época mora, con el canal tallado en la roca que les traía agua desde debajo del puente. Uno de esos molinos fue restaurado y hoy es un hotel.\n\nSalgan del parque, atraviesen la plaza con la plaza de toros a la izquierda, hasta la transitada Calle Virgen de la Paz, y doblen a la derecha por esa calle principal.",
        "en_start": 0,
        "coord": [
         36.7413,
@@ -6791,10 +7026,10 @@
       },
       {
        "n": 5,
-       "label": null,
-       "v": 2,
-       "name": "La Ciudad, la parte vieja",
-       "text": "Ahora están en La Ciudad, la parte más antigua de Ronda. Durante casi ocho siglos fue una ciudad musulmana, hasta 1485, cuando la conquistaron las tropas de Fernando el Católico, siete años antes de que cayera Granada.\n\nSiguiendo derecho por la calle principal se llega a la plaza de la iglesia de Santa María la Mayor. Como tantas iglesias de Andalucía, se construyó sobre la mezquita mayor, y adentro todavía se conserva un arco del antiguo nicho de oración.\n\nPara seguir el recorrido hacia el fondo del tajo, vuelvan hacia el puente y pasen a la siguiente parada.",
+       "label": "4",
+       "v": 3,
+       "name": "La ciudad nueva: El Mercadillo",
+       "text": "La Calle Virgen de la Paz atraviesa derecho el corazón de Ronda. Este barrio es \"la ciudad nueva\", construida después de la Reconquista cristiana de mil cuatrocientos ochenta y cinco.",
        "en_start": 0,
        "coord": [
         36.7413,
@@ -6803,10 +7038,10 @@
       },
       {
        "n": 6,
-       "label": null,
-       "v": 2,
-       "name": "La Cuesta de Santo Domingo y la Casa del Rey Moro",
-       "text": "Crucen hacia el lado de la ciudad vieja y tomen la primera calle a la izquierda después del puente, la que baja: la Cuesta de Santo Domingo.\n\nEl primer edificio grande, junto al puente, es el antiguo convento de Santo Domingo, que fue sede de la Inquisición en Ronda.\n\nUnos metros más abajo, a la izquierda, está la Casa del Rey Moro. El nombre es un invento romántico: nunca vivió ahí un rey. Pero debajo de la casa hay algo auténtico: La Mina, una escalera tallada dentro de la roca en el siglo catorce, que baja hasta el río. Servía para sacar agua durante los asedios, cuando la ciudad estaba rodeada de enemigos.\n\nUn poco más abajo, a la derecha, el Palacio del Marqués de Salvatierra. Miren su portada barroca: a los lados del balcón hay figuras talladas que representan indígenas americanos, un recuerdo de la riqueza que llegaba de América.\n\nSigan bajando. Pasarán por la Puerta de Felipe Quinto, del siglo dieciocho, que fue durante mucho tiempo la entrada principal a la ciudad. Cuando vean un puente de piedra sobre el río, pasen a la siguiente parada.",
+       "label": "5",
+       "v": 3,
+       "name": "La Plaza de España",
+       "text": "A un par de cuadras llegan a la rotonda principal de la ciudad. A la derecha, el antiguo Ayuntamiento, convertido en parador en mil novecientos setenta y ocho. Ojo: puede estar cerrado por una renovación grande; si ya terminó, vale la pena asomarse al mirador al costado del parador, con vista del puente.\n\nY un ahorro de Rick: el centro de interpretación del Puente Nuevo es, en sus palabras de esta edición, \"un cuarto vacío\". No vale ni el tiempo ni la plata.",
        "en_start": 0,
        "coord": [
         36.7413,
@@ -6815,10 +7050,10 @@
       },
       {
        "n": 7,
-       "label": null,
-       "v": 2,
-       "name": "Los puentes viejos y los Baños Árabes",
-       "text": "Llegaron al fondo del tajo. Ronda tiene tres puentes, y aquí están los dos más viejos.\n\nEl primero que ven es el Puente Viejo, de 1616, levantado sobre los restos de uno anterior. Un poco más abajo está el más antiguo de todos, el Puente Árabe, o de San Miguel, pequeño y bajito, a la altura del agua.\n\nJunto a él están los Baños Árabes, del siglo trece o catorce, considerados de los mejor conservados de toda la península. Estaban fuera de la muralla, junto al río, que les daba el agua, y cerca de la puerta: los viajeros se lavaban antes de entrar a la ciudad. Adentro hay salas con bóvedas de ladrillo y tragaluces en forma de estrella, y arcos de herradura sobre columnas.\n\nMiren hacia arriba: desde aquí se entiende la altura del tajo y lo inexpugnable que era Ronda.\n\nPara volver, crucen el Puente Viejo y suban por las escaleras de los jardines que bordean el tajo, del lado del Mercadillo, con vistas al Puente Nuevo desde abajo. Cuando estén otra vez arriba, pasen a la siguiente parada.",
+       "label": "6",
+       "v": 3,
+       "name": "El desfiladero del Tajo y el Puente Nuevo",
+       "text": "El Tajo —más de cien metros de profundidad y casi sesenta de ancho— divide la ciudad nueva del casco viejo blanco, el barrio morisco. Acá hubo un puente en mil setecientos treinta y cinco... que se cayó a los seis años. El actual se construyó entre mil setecientos cincuenta y uno y mil setecientos noventa y tres, y sigue firme.\n\nMiren desde el mirador del puente. Hacia el oeste, con la ciudad nueva a la derecha, hay dos parques naturales; hacia el este, un parque nacional.\n\nCrucen el puente disfrutando las vistas: del otro lado ya es el casco viejo.",
        "en_start": 0,
        "coord": [
         36.7413,
@@ -6827,10 +7062,118 @@
       },
       {
        "n": 8,
-       "label": null,
-       "v": 2,
-       "name": "Despedida de Ronda",
-       "text": "Ya están arriba otra vez, y con esto termina el paseo por Ronda.\n\nAntes de irse, échenle una última mirada al puente. Muchos viajeros dicen que es el lugar más espectacular de Andalucía, y después de verlo desde arriba y desde abajo, se entiende por qué.\n\nQue hayan disfrutado Ronda.",
+       "label": "7",
+       "v": 3,
+       "name": "El casco viejo: el barrio morisco",
+       "text": "De frente, sobre el lado izquierdo de la calle, está el antiguo convento dominico, que fue sede de la Inquisición en Ronda y hoy es sala de muestras temporales. A su izquierda hay otro buen mirador, hacia el interior de la garganta.\n\nPasado el convento, en su placita, busquen el gran mural de azulejos de Los Viajeros Románticos: retrata a los viajeros de la era romántica del siglo diecinueve, como Washington Irving, Disraeli y —Rick bromea que casi se llama como él— Richard Ford, autor de una guía de España de mil ochocientos treinta y dos.\n\nJusto después del mural, a la izquierda, baja una calle muy empinada hacia los dos puentes viejos y los Baños Árabes: esa es la bajada al fondo del Tajo que contamos en la pista final, como desvío opcional.\n\nPara seguir el paseo, crucen con cuidado la calle transitada y suban derecho por la Calle Tenorio, la del cartel de piedra viejo que dice Via Crucis.",
+       "en_start": 0,
+       "coord": [
+        36.7413,
+        -5.1658
+       ]
+      },
+      {
+       "n": 9,
+       "label": "8",
+       "v": 3,
+       "name": "La Calle Tenorio",
+       "text": "Están en los callejones dormidos del casco viejo, construido sobre los cimientos serpenteantes del pueblo moro: el contraste con la grilla rígida de la ciudad nueva se siente en los pies. Rick propone un juego de búsqueda de rasgos andaluces: paredes encaladas, toques de color —el amarillo arena de plaza de toros—, zócalos protectores de piedra y rejas negras de hierro.",
+       "en_start": 0,
+       "coord": [
+        36.7413,
+        -5.1658
+       ]
+      },
+      {
+       "n": 10,
+       "label": "9",
+       "v": 3,
+       "name": "La Casa Museo Don Bosco",
+       "text": "Sigan derecho y, pasada la intersección ancha con tres bancos, queda a la derecha. Es una mansión de mil ochocientos cincuenta asomada a la garganta, construida por las élites locales; hoy es museo y sede de conciertos de guitarra.",
+       "en_start": 0,
+       "coord": [
+        36.7413,
+        -5.1658
+       ]
+      },
+      {
+       "n": 11,
+       "label": "10",
+       "v": 3,
+       "name": "La Plaza de María Auxiliadora",
+       "text": "Una de las placitas más lindas de Ronda: íntima, sombreada, fresca, y a menudo con guitarra en vivo. En el medio crecen dos pinsapos raros, parecidos a árboles de Navidad gigantes: esta parte de Andalucía es la única región de Europa donde sobreviven.",
+       "en_start": 0,
+       "coord": [
+        36.7413,
+        -5.1658
+       ]
+      },
+      {
+       "n": 12,
+       "label": "11",
+       "v": 3,
+       "name": "La Puerta de los Molinos",
+       "text": "Al fondo del parque, a la derecha, arranca una escalinata ancha rotulada Puerta de los Molinos: es el inicio del sendero que baja retorciéndose por el acantilado. Desde acá se puede bajar gratis hasta el fondo del valle, con vistas doradas al atardecer, o pagar la pasarela del desfiladero, que es la próxima parada en el mapa. Las dos opciones son bajada y subida fuertes; los detalles, en la pista final.\n\nPara seguir con el paseo de superficie: al fondo de la Plaza de María Auxiliadora, pasando el café, doblen a la izquierda por la Calle Ruedo Gamero.",
+       "en_start": 0,
+       "coord": [
+        36.7413,
+        -5.1658
+       ]
+      },
+      {
+       "n": 13,
+       "label": "12",
+       "v": 3,
+       "name": "La pasarela del desfiladero",
+       "text": "Esta parada del mapa es la entrada a la gran novedad de Ronda: el Camino del Desfiladero del Tajo, una pasarela escénica que abrió hace un par de años y baja por los acantilados hasta la base del Puente Nuevo. Rick le da dos triángulos, su segunda calificación más alta. Cuesta cinco euros y abre todos los días de nueve y media de la mañana a ocho de la noche.\n\nEso sí: Rick avisa que es moderadamente exigente, con un desnivel equivalente a unos treinta y cinco pisos de escaleras entre lo alto de la escalinata y el final del sendero, y que se vuelve por el mismo camino. La mejor luz es al final del día. En la entrada dan casco, por posibles desprendimientos. Más detalles en la pista final; si no van a bajar, sigan de largo con el paseo.",
+       "en_start": 0,
+       "coord": [
+        36.7413,
+        -5.1658
+       ]
+      },
+      {
+       "n": 14,
+       "label": "13",
+       "v": 3,
+       "name": "El Palacio de Mondragón",
+       "text": "Arriba de la cuadra de Ruedo Gamero, a la derecha, queda el Palacio de Mondragón: una mansión mudéjar del siglo dieciséis levantada sobre un palacio moro del siglo catorce, que hoy aloja el museo de historia de la ciudad. La placita detrás del palacio tiene cuatro naranjos.\n\nDespués vuelvan unos pasos y tomen por el callejón torcido hasta una plaza vacía con una cruz; en la cruz, a la izquierda, hacia la gran puerta lateral de la iglesia. En el callejoncito que pasa pegado a la iglesia, miren el empedrado: ese surco gastado lo hacen los carruajes a caballo que pasan seguido, con herraduras engomadas. Calle arriba, pasada esa huella, viene una cuadra ancha de casas andaluzas típicas, y enseguida a la izquierda el museo Joaquín Peinado.\n\nGiren a la derecha, con la iglesia gigante a la izquierda, suban el callejón junto a la pila de agua de piedra y crucen la plaza hasta la palmera sola de base circular.",
+       "en_start": 0,
+       "coord": [
+        36.7413,
+        -5.1658
+       ]
+      },
+      {
+       "n": 15,
+       "label": "14",
+       "v": 3,
+       "name": "La iglesia de Santa María la Mayor",
+       "text": "Esta iglesia se construyó sobre y alrededor de la mezquita mayor de la Ronda mora... que a su vez se había levantado sobre un templo romano dedicado a Julio César. La galería y los balcones se agregaron en los años mil quinientos setenta para que los nobles miraran corridas de toros primitivas en esta plaza.\n\nMiren la torre-campanario mudéjar: William Randolph Hearst, el magnate que inspiró El ciudadano Kane, quiso comprarla y llevársela a su castillo de San Simeón, en California. Como le dijeron que no... construyó dos copias sobre el Hearst Castle. El interior de la iglesia, dice Rick, vale la visita.",
+       "en_start": 0,
+       "coord": [
+        36.7413,
+        -5.1658
+       ]
+      },
+      {
+       "n": 16,
+       "label": "15",
+       "v": 3,
+       "name": "La Plaza Duquesa de Parcent, el fin del paseo",
+       "text": "Llegaron a la última parada. A la derecha, el edificio largo de arcos redondos es el Ayuntamiento actual: se mudó acá en los años setenta, cuando el viejo pasó a ser el parador; antes el edificio fue cuartel militar. A la izquierda de la iglesia hay dos conventos: el de las Hermanas de la Cruz, con la estatua de la monja al frente, y más allá el enorme convento de las Clarisas Pobres. Al fondo del parque, el gran estacionamiento rodea el llamado \"castillo\" — nombre engañoso: ahí estuvo el alcázar moro original, destruido por Napoleón; el edificio actual fue escuela y se está convirtiendo en hotel cinco estrellas.\n\nFin del paseo. Opciones para la vuelta: desandar serpenteando por el casco viejo; o salir por la calle ancha a la izquierda del Ayuntamiento — hacia la izquierda es lo más directo al Puente Nuevo, y hacia la derecha se sale por la puerta de Almocábar a la Plaza Ruedo Alameda, en el barrio San Francisco, con varios restaurantes buenos. O crucen la calle y piérdanse en la mitad sin turistas del barrio morisco.",
+       "en_start": 0,
+       "coord": [
+        36.7413,
+        -5.1658
+       ]
+      },
+      {
+       "n": 17,
+       "label": "Intro",
+       "v": 3,
+       "name": "Extra: las bajadas al fondo del Tajo",
+       "text": "Esta pista extra es para quien quiera bajar a la garganta. Aviso de entrada: el Tajo vale tres triángulos para Rick, su calificación máxima, pero bajar al fondo implica siempre una bajada muy empinada y volver a subirla. No hay ascensor; lo dice el libro.\n\nLa opción nueva es la pasarela del desfiladero, de la que hablamos en la parada doce del mapa: cinco euros, entrada por la escalinata de la Puerta de los Molinos, unos cinco minutos empinados hasta el pabellón donde dan casco. El sendero baja en arco unos doscientos treinta metros hasta quedar bajo los pilares del Puente Nuevo, y se vuelve por el mismo camino. El esfuerzo equivale a unos treinta y cinco pisos de escaleras. Hay planes de extenderla por debajo del puente y subir del otro lado; eso cambiaría precios y accesos, así que pregunten en el lugar.\n\nLa opción clásica es la garganta interior, bajando desde el casco viejo: la calle empinada que arranca pasado el mural de los Viajeros Románticos. En el camino está la Casa del Rey Moro —donde nunca vivió un rey; el nombre lo inventó el nieto del presidente McKinley, que sí vivió ahí—, con su jardín de encanto melancólico y La Mina: una escalera agotadora de doscientos diez escalones resbaladizos, oscuros y angostos, tallada por los moros en el siglo catorce para sacar agua del río durante los asedios. Cuesta diez euros, y Rick la encuentra cara: dice que bajar por acá dejará de tener sentido cuando abran la segunda mitad de la pasarela.\n\nMás abajo siguen el Palacio del Marqués de Salvatierra, cerrado al público pero con una fachada rica en simbolismo colonial; la terraza-mirador y la puerta de Felipe Quinto, que fue por siglos la entrada principal de la Ronda amurallada; y el Puente Viejo, de los años mil quinientos, que hasta mil setecientos noventa y tres era la única forma de cruzar la garganta acá.\n\nSiguiendo la bajada por las escaleras viejas —fíjense en los escalones moros originales tallados en la roca— se llega al Puente Árabe y a los Baños Árabes, que Rick marca con un triángulo: ruinas evocadoras, semienterradas para mantener la temperatura. El agua subía del río gracias a una torre con una cinta de recipientes cerámicos movida por un burro que caminaba en círculos. Adentro, dos de las ocho columnas originales, recicladas de ruinas romanas, sostienen las bóvedas de ladrillo. La entrada cuesta cuatro euros con cincuenta y se paga solo con tarjeta.\n\nPara volver, el consejo de Rick: subir al Puente Viejo, cruzarlo y tomar enseguida a la izquierda las escaleras de ladrillo que suben escénicas junto a la garganta por los Jardines de Cuenca — una subida empinada pero pareja, con lugares para recuperar el aliento y una terraza cerca de lo más alto con vista despejada al arco gigante del Puente Nuevo. Saliendo por la puerta alta del parque, a la izquierda y después cuesta arriba por la Calle Virgen de los Remedios, queda el recomendado Bar El Lechuguita: una parada merecida antes de volver al Puente Nuevo por la Calle Rosario.",
        "en_start": 0,
        "coord": [
         36.7413,
@@ -6853,11 +7196,10 @@
     {
      "title": "Setenil (miércoles 11/11, ~11:50)",
      "items": [
-      "Parada en auto, camino de Granada a Ronda. Calcular 1 h a 1 h 15.",
-      "Estacionar en la parte alta (la parte nueva), en el estacionamiento señalizado. Al mediodía se complica: ir directo, sin intentar bajar con el auto.",
-      "Bajar caminando por la calle principal hasta el río.",
-      "El paseo por Cuevas del Sol y Cuevas de la Sombra, a lo largo del río, es llano: apto para los cuatro. Subir al castillo sí es cuesta.",
-      "Ronda queda a unos 20 minutos de ruta."
+      "Parada en auto, camino de Granada a Ronda. Calcular 1 h a 1 h 15 desde Granada; de Setenil a Ronda son unos 30 minutos por caminos con curvas.",
+      "Estacionar donde dice Rick: el garaje de la Calle Jabonería, en el borde norte del pueblo. Al salir a la azotea del garaje, a la izquierda por el sendero y después seguir el río. Al mediodía se llena: ir directo al garaje, sin meterse al centro con el auto.",
+      "El loop del río (Cuevas del Sol y Cuevas de la Sombra) es llano y se hace en ~10 minutos: apto para los cuatro. La Calle Herrería (el mirador) es muy empinada y con escalones: opcional.",
+      "Para comer: Bar Frasquito (n.º 75) y La Cueva de Isabelina (n.º 85), en Cuevas del Sol. Cierran los MARTES — el miércoles están abiertos."
      ]
     }
    ],
@@ -6876,10 +7218,34 @@
      "stops": [
       {
        "n": 1,
+       "label": "Intro",
+       "v": 3,
+       "name": "Introducción",
+       "text": "Esta es la visita de Rick Steves a Setenil de las Bodegas, con su guía de España de este año — que ahora sí incluye al pueblo.\n\nSetenil es una vuelta de tuerca única a la fórmula de los pueblos blancos de Andalucía. En vez de buscar la altura, como casi todos, el pueblo se alinea a lo largo de un río en el fondo de una garganta rocosa, protegido de posibles invasores por acantilados a pico en todos los lados. Las calles serpentean entre esos acantilados —a veces atravesando túneles de piedra tallados en la roca— y muchas casas están incrustadas directamente en el acantilado, que les hace de techo y de al menos algunas paredes. Rick cuenta que lo excavaron trogloditas.\n\nPara Rick es, sobre todo, una curiosidad que vale la pena ver: de los pueblos que destaca entre Ronda y Arcos, dice que Setenil, enterrado en su garganta, tiene el emplazamiento más improbable de todos. Un aviso suyo: hacia el mediodía puede llenarse bastante de turistas que vienen a mirar boquiabiertos el paisaje, así que conviene ir antes o después de ese pico.",
+       "en_start": 0,
+       "coord": [
+        36.8628,
+        -5.1806
+       ]
+      },
+      {
+       "n": 2,
        "label": null,
-       "v": 2,
-       "name": "Setenil de las Bodegas",
-       "text": "Hola. Esta parada no está en las guías de Rick Steves: es un agregado de nuestro viaje, camino de Granada a Ronda.\n\nSetenil de las Bodegas es uno de los pueblos blancos de Andalucía, pero es distinto a todos. En vez de construirse en lo alto de un cerro, como la mayoría, se metió adentro de un barranco. El río Trejo fue cavando la roca durante miles de años y dejó paredes con grandes huecos y aleros naturales. Y la gente del lugar, en vez de pelearse con la piedra, la aprovechó: construyó las casas debajo. Muchas no tienen techo propio: el techo es la roca, que asoma por encima de las fachadas blancas como una ola de piedra a punto de caer.\n\nLa roca tiene una ventaja: mantiene las casas frescas en verano y templadas en invierno. Y el nombre \"de las Bodegas\" viene de los tiempos en que aquí se hacía y se guardaba vino en esas cuevas, hasta que una plaga arruinó los viñedos de la zona a fines del siglo diecinueve.\n\nLo imperdible son dos calles, una frente a la otra, a los dos lados del río: Cuevas del Sol y Cuevas de la Sombra. Los nombres lo explican todo. Cuevas del Sol mira al sur y recibe sol casi todo el día, así que está llena de terrazas, bares y cafés pegados a la pared de roca: el lugar ideal para tomar un café mirando la piedra encima de la cabeza. Cuevas de la Sombra es un pasaje donde la roca cubre la calle entera, de pared a pared, como un túnel: casi no entra la luz, y la sensación es de estar caminando dentro de la montaña.\n\nQue disfruten Setenil.",
+       "v": 3,
+       "name": "La llegada y el paseo por el río",
+       "text": "Rick visitaría estos pueblos solo en auto, y avisa que los pueblos blancos orientan pésimo sobre cómo llegar y dónde estacionar, así que va su instrucción concreta: manejen hasta el estacionamiento de la Calle Jabonería, en el borde norte del pueblo. Al salir a la azotea del garaje, doblen a la izquierda por el sendero y después sigan el río hasta la zona principal. Desde Ronda son unos treinta minutos por caminos rurales con muchas curvas.\n\nEl pueblo es más grande de lo que parece —unos tres mil habitantes—, con callejones empinadísimos que suben desde la garganta y casas escalonadas en varios niveles: es casi imposible recorrerlo sin desorientarse. El consejo de Rick: sigan el río, que conecta las zonas más interesantes. No hace falta subir hasta la oficina de turismo de la parte alta; para Rick, no vale la pena la caminata.\n\nLo más característico son las dos calles angostas a cada lado de la parte más profunda de la garganta. La Calle Cuevas del Sol está rodeada de roca por tres lados pero abierta hacia el río, así que le da el sol un rato corto cada día. Y cruzando el río, la Calle Cuevas de la Sombra hace honor a su nombre: un largo tramo pasa por un túnel en una pared de roca maciza. Van a ver a los conductores locales atravesar el pueblo con el auto como si nada, mientras los turistas se aprietan contra las paredes-cueva para dejarlos pasar.\n\nCon un paseo en circuito de unos diez minutos por los dos lados del río ya vieron la mayor parte de lo que vale la pena en Setenil. Si quieren más, se puede contratar un tuk-tuk que recorre este paisaje \"en tres dimensiones\".",
+       "en_start": 0,
+       "coord": [
+        36.8628,
+        -5.1806
+       ]
+      },
+      {
+       "n": 3,
+       "label": null,
+       "v": 3,
+       "name": "Para comer y un mirador",
+       "text": "Para almorzar, Rick sugiere buscar una mesa atractiva en una de las calles principales, y recomienda dos lugares en la Calle Cuevas del Sol. El Bar Frasquito, en el número setenta y cinco: tradicional, de carnes a la parrilla y ambiente clásico de bar. Y a pocos pasos, La Cueva de Isabelina, en el número ochenta y cinco: más elegante, con un menú creativo de platos bien presentados. Los dos tienen muy buenas mesas al aire libre sobre este tramo tan particular de la calle.\n\nY si quedan ganas de una vista, otro mirador favorito de Rick queda a corta caminata: la Calle Herrería, un callejón muy angosto y muy empinado, con escalones, que sube desde cerca del nivel del río hasta la parte alta del pueblo.",
        "en_start": 0,
        "coord": [
         36.8628,
@@ -6900,21 +7266,43 @@
    "zoom": 15,
    "notes": [
     {
-     "title": "Triana",
+     "title": "Alcázar (jueves 12/11, 9:30)",
      "items": [
-      "Recorrido llano, con dos escaleras en el camino del libro. Alternativas a nivel de calle (verificar en el lugar):",
-      "1) Al final del puente, la escalera que baja al Castillo de San Jorge: en vez de bajar, seguir por la Plaza del Altozano y entrar al mercado por la calle San Jorge. El museo del castillo se puede saltear.",
-      "2) La salida del mercado \"por abajo\": salir por la puerta de la calle San Jorge, a nivel, y seguir el recorrido.",
-      "El mercado tiene más vida a la mañana. El Centro Cerámica Triana cierra los lunes.",
-      "Para volver al centro: caminar por la calle Betis hasta el puente de Triana y cruzarlo."
+      "Entrada online con horario: €14,50 + €1 de reserva. Al reservar piden el NÚMERO de pasaporte y en la puerta pueden pedir MOSTRARLO: llevar los pasaportes físicos.",
+      "De octubre a marzo cierra a las 17:00. Con entrada en mano se entra directo por la puerta de la Plaza del Triunfo (puede haber fila de seguridad).",
+      "La entrada incluye gratis cuatro museos más, entre ellos el Centro Cerámica Triana (del paseo de Triana) y el Antiquarium: guardar el ticket.",
+      "Recorrido esencialmente a nivel. Única escalerita del tour: la subida a las salas de azulejos antes del Salón Gótico. Los Baños de María de Padilla son un túnel con escalones, desvío opcional.",
+      "El Cuarto Real Alto (pista 14) es opcional, con reserva aparte, escaleras y lockers: solo si se reservó.",
+      "La audioguía oficial es \"seca\" según Rick: usar la nuestra."
+     ]
+    },
+    {
+     "title": "Catedral (jueves 12/11)",
+     "items": [
+      "Entrada online con horario: €13 + €1; incluye la Giralda y la Iglesia del Salvador (guardar el ticket).",
+      "Con ticket anticipado se entra por la Puerta del Lagarto (junto al campanario), DENTRO de los 30 minutos del horario asignado.",
+      "Horario: lun-sáb 11:00-18:00, dom 14:30-19:00.",
+      "La Giralda (pista 18) son 35 rampas + 17 escalones, sin nada mecánico: rampa continua con balcones para descansar. Opcional; se puede saltear sin perder el recorrido.",
+      "La audioguía oficial cuesta €5: no hace falta, está la nuestra."
      ]
     },
     {
      "title": "Barrio de Santa Cruz",
      "items": [
-      "Llano y peatonal. Mejor al atardecer o temprano, sin los grupos grandes.",
+      "Llano y peatonal; única suave subida: la calle Santa Teresa. Mejor al atardecer (~19:00) o temprano, sin los grupos grandes.",
       "Entradas aparte: catedral y Giralda, Real Alcázar (pagas); Archivo de Indias (gratis); Hospital de los Venerables (pago).",
+      "En la Plaza del Triunfo está la TI: buen lugar para pedir mapa y horarios actualizados.",
       "Los números del mapa del libro (Google Drive) no coinciden con los de los audios. El mapa de calles del tour sí."
+     ]
+    },
+    {
+     "title": "Triana",
+     "items": [
+      "Recorrido llano, con dos escaleras comunes en el camino del libro. Alternativas a nivel de calle (verificar en el lugar):",
+      "1) Al final del puente, la escalera que baja al Castillo de San Jorge: en vez de bajar, seguir por la Plaza del Altozano y entrar al mercado por la calle San Jorge. El museo del castillo se puede saltear.",
+      "2) La salida del mercado \"por abajo\": salir por la puerta de la calle San Jorge, a nivel, y rodear el mercado por su lado izquierdo, como indica Rick para cuando está cerrado.",
+      "El mercado tiene más vida a la mañana. El Centro Cerámica Triana cierra los lunes y es GRATIS con el ticket del Alcázar.",
+      "Para volver al centro: caminar por la calle Betis hasta el puente de Triana y cruzarlo."
      ]
     }
    ],
@@ -7495,11 +7883,16 @@
       37.3856,
       -6.0024
      ],
-     "maps": [],
-     "map_url": null,
+     "maps": [
+      {
+       "url": "https://drive.google.com/file/d/1K9S6Gx9RZo5DfxQww3lnppVljzW80j2p/view",
+       "label": "Mapa general de Sevilla del libro (Google Drive, solo familia)"
+      }
+     ],
+     "map_url": "https://drive.google.com/file/d/1K9S6Gx9RZo5DfxQww3lnppVljzW80j2p/view",
      "points": [
       {
-       "label": "2",
+       "label": "1",
        "name": "Puente de Isabel II (Triana)",
        "coord": [
         37.3858,
@@ -7508,25 +7901,25 @@
        "stop": 2
       },
       {
-       "label": "3",
-       "name": "Capilla del Carmen y Plaza del Altozano (aprox.)",
+       "label": "2-3",
+       "name": "Capilla del Carmen y Castillo de San Jorge (aprox.)",
        "coord": [
-        37.3857,
-        -6.0037
+        37.3859,
+        -6.0035
        ],
        "stop": 3
       },
       {
-       "label": "4-5",
-       "name": "Castillo de San Jorge y Mercado de Triana (aprox.)",
+       "label": "4",
+       "name": "Mercado de Triana (aprox.)",
        "coord": [
         37.3865,
         -6.0036
        ],
-       "stop": 4
+       "stop": 5
       },
       {
-       "label": "6",
+       "label": "5",
        "name": "Centro Cerámica Triana, calle Antillano Campos (aprox.)",
        "coord": [
         37.3872,
@@ -7535,40 +7928,58 @@
        "stop": 6
       },
       {
-       "label": "7",
-       "name": "Calle San Jacinto y calle Pureza (aprox.)",
+       "label": "6",
+       "name": "Calle Alfarería (aprox.)",
        "coord": [
-        37.3846,
-        -6.0044
+        37.3864,
+        -6.0057
        ],
        "stop": 7
       },
       {
+       "label": "7",
+       "name": "Calle San Jacinto (aprox.)",
+       "coord": [
+        37.3846,
+        -6.0044
+       ],
+       "stop": 8
+      },
+      {
        "label": "8",
+       "name": "Calle Pureza (aprox.)",
+       "coord": [
+        37.384,
+        -6.0035
+       ],
+       "stop": 9
+      },
+      {
+       "label": "9",
        "name": "Capilla de los Marineros, calle Pureza (aprox.)",
        "coord": [
         37.3836,
         -6.0031
        ],
-       "stop": 8
+       "stop": 10
       },
       {
-       "label": "9",
-       "name": "Iglesia de Santa Ana (aprox.)",
+       "label": "10",
+       "name": "Iglesia de Santa Ana y plazuela (aprox.)",
        "coord": [
         37.3827,
         -6.0027
        ],
-       "stop": 9
+       "stop": 11
       },
       {
-       "label": "10",
-       "name": "Calle Betis, junto al río (fin, aprox.)",
+       "label": "11",
+       "name": "Calle Duarte al río (fin, aprox.)",
        "coord": [
         37.3832,
         -6.0011
        ],
-       "stop": 10
+       "stop": 12
       }
      ],
      "stops": [
@@ -8151,5 +8562,5 @@
    ]
   }
  },
- "built_at": "2026-11-08T19:59:13Z"
+ "built_at": "2026-11-09T16:22:36Z"
 }

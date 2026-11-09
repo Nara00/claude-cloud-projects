@@ -45,7 +45,7 @@ CITIES = {
                 "center": [36.8628, -5.1806], "zoom": 16, "tours": ["setenil-bodegas"]},
     "seville": {"name": "Sevilla", "country": "España", "nominatim_city": "Sevilla, España",
                  "center": [37.3886, -5.9823], "zoom": 15,
-                 "tours": ["sevilla-city-walk", "sev-santa-cruz", "sev-triana"]},
+                 "tours": ["sevilla-city-walk", "sev-santa-cruz", "sev-triana"]},  # TEMP: catedral/alcazar entran con el push de audios
     "madrid": {"name": "Madrid", "country": "España", "nominatim_city": "Madrid, España",
                 "center": [40.4168, -3.7038], "zoom": 15, "tours": ["madrid-city-walk"]},
 }
@@ -87,6 +87,9 @@ TOUR_MAPS = {
     "gra-albaicin": ["https://drive.google.com/file/d/17LWep30mhgss3DCeHyOdgzwNEjHtPLw0/view"],
     "ronda-tajo": ["https://drive.google.com/file/d/14YSJwCIh9zYK5fk_3sOaAye6WflrDtis/view"],
     "sev-santa-cruz": ["https://drive.google.com/file/d/1MphI9f6zmuEiIgXMn1DdzwYn1hps_uxL/view"],
+    "sev-catedral": [("https://drive.google.com/file/d/12kDcmDolPfBVF7FL98DwLLanJMo4ujGR/view", "Plano de la Catedral del libro (Google Drive, solo familia)")],
+    "sev-alcazar": [("https://drive.google.com/file/d/1-MkijfQhtRZdd8nrO86om3zesF_OHcda/view", "Plano del Alcázar del libro (Google Drive, solo familia)")],
+    "sev-triana": [("https://drive.google.com/file/d/1K9S6Gx9RZo5DfxQww3lnppVljzW80j2p/view", "Mapa general de Sevilla del libro (Google Drive, solo familia)")],
 }
 
 
@@ -144,6 +147,8 @@ TOUR_COORDS = {
     "setenil-bodegas": [36.8628, -5.1806],
     "sev-santa-cruz": [37.3863, -5.9919],
     "sev-triana": [37.3856, -6.0024],
+    "sev-catedral": [37.3859, -5.9933],
+    "sev-alcazar": [37.3832, -5.9901],
 }
 
 # Puntos del recorrido (aprox.) para dibujar el mapa dentro del tour cuando no hay PDF oficial.
@@ -296,43 +301,48 @@ TOUR_POINTS = {
         {"label": "15", "name": "Convento de la Encarnación: dulces de las monjas (fin)", "coord": [37.3857, -5.9917], "stop": 15},
     ],
     "gra-casco-antiguo": [
-        {"label": "2", "name": "Corral del Carbón", "coord": [37.1747, -3.5977], "stop": 2},
-        {"label": "3", "name": "Alcaicería (aprox.)", "coord": [37.1756, -3.599], "stop": 3},
-        {"label": "4", "name": "Plaza de Bib-Rambla", "coord": [37.175, -3.6001], "stop": 4},
-        {"label": "5", "name": "Catedral, fachada principal (aprox.)", "coord": [37.1763, -3.5999], "stop": 5},
-        {"label": "6", "name": "Capilla Real y Madraza, calle Oficios (aprox.)", "coord": [37.176, -3.5985], "stop": 6},
-        {"label": "7", "name": "Plaza de Isabel la Católica", "coord": [37.1766, -3.5974], "stop": 7},
-        {"label": "🚌", "name": "Minibuses a la Alhambra C30/C32 (zona Isabel la Católica, aprox.)", "coord": [37.1768, -3.597], "kind": "info"},
-        {"label": "8", "name": "Plaza Nueva (minibuses C31/C32 al Albaicín)", "coord": [37.1771, -3.5959], "stop": 8},
-        {"label": "9", "name": "El Bañuelo, Carrera del Darro 31 (aprox.)", "coord": [37.1783, -3.5923], "stop": 9},
-        {"label": "10", "name": "Paseo de los Tristes (fin)", "coord": [37.1801, -3.5889], "stop": 10},
+        {"label": "1", "name": "Plaza Isabel la Católica", "coord": [37.176, -3.5985], "stop": 2},
+        {"label": "2", "name": "Estatua de Yehuda ibn Tibón (aprox.)", "coord": [37.1753, -3.5972], "stop": 3},
+        {"label": "3", "name": "Corral del Carbón", "coord": [37.1747, -3.5977], "stop": 4},
+        {"label": "4", "name": "Alcaicería (aprox.)", "coord": [37.1756, -3.599], "stop": 5},
+        {"label": "5", "name": "Plaza de Bib-Rambla", "coord": [37.175, -3.6001], "stop": 6},
+        {"label": "6", "name": "Catedral, fachada principal (aprox.)", "coord": [37.1763, -3.5999], "stop": 7},
+        {"label": "7", "name": "Placita de la Capilla Real y Madraza (aprox.)", "coord": [37.176, -3.5987], "stop": 8},
+        {"label": "8", "name": "Plaza Nueva", "coord": [37.1779, -3.5965], "stop": 9},
+        {"label": "9", "name": "Carrera del Darro / El Bañuelo → Paseo de los Tristes", "coord": [37.1781, -3.5932], "stop": 10},
     ],
     "gra-alhambra": [
-        {"label": "2-3", "name": "Palacio de Carlos V (aprox.)", "coord": [37.1767, -3.5893], "stop": 3},
-        {"label": "4", "name": "Alcazaba: CERRADA en 2026 (vista desde afuera, aprox.)", "coord": [37.177, -3.5913], "stop": 4},
-        {"label": "5", "name": "Entrada a los Palacios Nazaríes: Mexuar (aprox.)", "coord": [37.1772, -3.5899], "stop": 5},
-        {"label": "6-7", "name": "Patio de los Arrayanes y Torre de Comares (aprox.)", "coord": [37.1775, -3.5889], "stop": 6},
-        {"label": "8-11", "name": "Patio de los Leones y salas (aprox.)", "coord": [37.1771, -3.588], "stop": 8},
-        {"label": "12", "name": "El Partal (aprox.)", "coord": [37.1779, -3.5868], "stop": 12},
-        {"label": "13", "name": "Generalife (aprox.)", "coord": [37.1771, -3.5832], "stop": 13},
-        {"label": "14", "name": "Pabellón de entrada y minibús de vuelta (aprox.)", "coord": [37.1757, -3.5843], "stop": 14},
+        {"label": "1", "name": "Palacio de Carlos V y Museo", "coord": [37.1768, -3.5892], "stop": 2},
+        {"label": "2", "name": "Alcazaba (cerrada 2026)", "coord": [37.177, -3.5905], "stop": 3},
+        {"label": "3", "name": "Palacios Nazaríes: entrada", "coord": [37.1774, -3.5898], "stop": 4},
+        {"label": "14", "name": "Jardines del Partal", "coord": [37.1775, -3.5882], "stop": 15},
+        {"label": "15", "name": "Generalife", "coord": [37.1783, -3.5842], "stop": 16},
+        {"label": "16", "name": "Escalera del Agua / salida", "coord": [37.179, -3.5839], "stop": 17},
     ],
     "gra-albaicin": [
-        {"label": "1-3", "name": "Mirador de San Nicolás y Mezquita Mayor", "coord": [37.1811, -3.5927], "stop": 2},
-        {"label": "4", "name": "Arco de las Pesas (aprox.)", "coord": [37.1826, -3.5924], "stop": 4},
-        {"label": "5", "name": "Plaza Larga (aprox.)", "coord": [37.1829, -3.5921], "stop": 5},
-        {"label": "6", "name": "Mirador de San Cristóbal, opcional (aprox.)", "coord": [37.1851, -3.5937], "stop": 6},
-        {"label": "7", "name": "Santa Isabel la Real y Dar al-Horra (aprox.)", "coord": [37.1819, -3.5949], "stop": 7},
-        {"label": "8", "name": "Placeta de San Miguel Bajo (fin, aprox.)", "coord": [37.1813, -3.5962], "stop": 8},
+        {"label": "1", "name": "Plaza Nueva / Calle Calderería Nueva", "coord": [37.1786, -3.5973], "stop": 2},
+        {"label": "2", "name": "Placeta de San Gregorio", "coord": [37.1793, -3.5969], "stop": 3},
+        {"label": "3", "name": "Subida: Cuesta de San Gregorio / Calle San José", "coord": [37.1803, -3.5967], "stop": 4},
+        {"label": "4", "name": "Placeta de San Miguel Bajo", "coord": [37.1811, -3.5987], "stop": 5},
+        {"label": "5", "name": "Convento de Santa Isabel la Real", "coord": [37.1808, -3.5979], "stop": 6},
+        {"label": "6", "name": "Puerta Nueva y Plaza Larga", "coord": [37.182, -3.5964], "stop": 7},
+        {"label": "7", "name": "Callejón San Cecilio", "coord": [37.1817, -3.5955], "stop": 8},
+        {"label": "8", "name": "Mirador de San Nicolás", "coord": [37.181, -3.5922], "stop": 9},
     ],
     "ronda-tajo": [
         {"label": "P", "name": "Estacionamientos del centro (zona plaza de toros, aprox.)", "coord": [36.7432, -5.1662], "kind": "info"},
-        {"label": "2", "name": "Plaza de toros", "coord": [36.7425, -5.1667], "stop": 2},
-        {"label": "3", "name": "Alameda del Tajo y miradores (aprox.)", "coord": [36.7444, -5.1674], "stop": 3},
-        {"label": "4", "name": "Puente Nuevo", "coord": [36.7413, -5.1658], "stop": 4},
-        {"label": "5", "name": "La Ciudad: Santa María la Mayor (aprox.)", "coord": [36.7372, -5.1652], "stop": 5},
-        {"label": "6", "name": "Opcional: Casa del Rey Moro / Cuesta de Santo Domingo (aprox.)", "coord": [36.7403, -5.1641], "stop": 6},
-        {"label": "7", "name": "Opcional: Puente Viejo, Puente Árabe y Baños Árabes (aprox.)", "coord": [36.7391, -5.162], "stop": 7},
+        {"label": "1", "name": "Alameda del Tajo (inicio)", "coord": [36.7444, -5.1674], "stop": 2},
+        {"label": "2", "name": "Plaza de toros", "coord": [36.7425, -5.1667], "stop": 3},
+        {"label": "3", "name": "Mirador de la garganta (aprox.)", "coord": [36.7419, -5.1678], "stop": 4},
+        {"label": "4-5", "name": "Calle Virgen de la Paz y Plaza de España (aprox.)", "coord": [36.7418, -5.1655], "stop": 5},
+        {"label": "6", "name": "Puente Nuevo", "coord": [36.7413, -5.1658], "stop": 7},
+        {"label": "7-8", "name": "Casco viejo: convento y mural, Calle Tenorio (aprox.)", "coord": [36.7405, -5.1657], "stop": 8},
+        {"label": "9-10", "name": "Casa Museo Don Bosco y Plaza de María Auxiliadora (aprox.)", "coord": [36.7387, -5.1671], "stop": 10},
+        {"label": "11-12", "name": "Puerta de los Molinos y pasarela del desfiladero (aprox.)", "coord": [36.7389, -5.1676], "stop": 12},
+        {"label": "13", "name": "Palacio de Mondragón (aprox.)", "coord": [36.7387, -5.1665], "stop": 14},
+        {"label": "14", "name": "Santa María la Mayor (aprox.)", "coord": [36.7372, -5.1652], "stop": 15},
+        {"label": "15", "name": "Plaza Duquesa de Parcent (fin)", "coord": [36.7369, -5.1656], "stop": 16},
+        {"label": "⬇", "name": "Extra: Casa del Rey Moro, puentes viejos y Baños Árabes (bajada, aprox.)", "coord": [36.7403, -5.1641], "stop": 17},
     ],
     "sev-santa-cruz": [
         {"label": "2", "name": "Plaza Virgen de los Reyes y Giralda", "coord": [37.3863, -5.9919], "stop": 2},
@@ -347,14 +357,16 @@ TOUR_POINTS = {
         {"label": "11", "name": "Plaza de Doña Elvira (fin)", "coord": [37.3848, -5.9905], "stop": 11},
     ],
     "sev-triana": [
-        {"label": "2", "name": "Puente de Isabel II (Triana)", "coord": [37.3858, -6.002], "stop": 2},
-        {"label": "3", "name": "Capilla del Carmen y Plaza del Altozano (aprox.)", "coord": [37.3857, -6.0037], "stop": 3},
-        {"label": "4-5", "name": "Castillo de San Jorge y Mercado de Triana (aprox.)", "coord": [37.3865, -6.0036], "stop": 4},
-        {"label": "6", "name": "Centro Cerámica Triana, calle Antillano Campos (aprox.)", "coord": [37.3872, -6.0052], "stop": 6},
-        {"label": "7", "name": "Calle San Jacinto y calle Pureza (aprox.)", "coord": [37.3846, -6.0044], "stop": 7},
-        {"label": "8", "name": "Capilla de los Marineros, calle Pureza (aprox.)", "coord": [37.3836, -6.0031], "stop": 8},
-        {"label": "9", "name": "Iglesia de Santa Ana (aprox.)", "coord": [37.3827, -6.0027], "stop": 9},
-        {"label": "10", "name": "Calle Betis, junto al río (fin, aprox.)", "coord": [37.3832, -6.0011], "stop": 10},
+        {"label": "1", "name": "Puente de Isabel II (Triana)", "coord": [37.3858, -6.002], "stop": 2},
+        {"label": "2-3", "name": "Capilla del Carmen y Castillo de San Jorge (aprox.)", "coord": [37.3859, -6.0035], "stop": 3},
+        {"label": "4", "name": "Mercado de Triana (aprox.)", "coord": [37.3865, -6.0036], "stop": 5},
+        {"label": "5", "name": "Centro Cerámica Triana, calle Antillano Campos (aprox.)", "coord": [37.3872, -6.0052], "stop": 6},
+        {"label": "6", "name": "Calle Alfarería (aprox.)", "coord": [37.3864, -6.0057], "stop": 7},
+        {"label": "7", "name": "Calle San Jacinto (aprox.)", "coord": [37.3846, -6.0044], "stop": 8},
+        {"label": "8", "name": "Calle Pureza (aprox.)", "coord": [37.384, -6.0035], "stop": 9},
+        {"label": "9", "name": "Capilla de los Marineros, calle Pureza (aprox.)", "coord": [37.3836, -6.0031], "stop": 10},
+        {"label": "10", "name": "Iglesia de Santa Ana y plazuela (aprox.)", "coord": [37.3827, -6.0027], "stop": 11},
+        {"label": "11", "name": "Calle Duarte al río (fin, aprox.)", "coord": [37.3832, -6.0011], "stop": 12},
     ],
 }
 
@@ -367,15 +379,15 @@ CITY_NOTES = {
             "Llevar los pasaportes físicos: las entradas son nominales y los piden.",
             "Cómo llegar: minibús rojo C30 o C32 (zona Plaza Isabel la Católica) o taxi (~€6). No subir caminando: adentro se camina varias horas.",
             "Adentro de los Palacios Nazaríes no hay baños: pasar antes. En noviembre el recinto cierra a las 18:00.",
-            "🚨 Por los sismos de agosto de 2026, la Alcazaba está CERRADA y la Torre de Comares sin acceso. En el tour de la app: la parada 04 (Alcazaba) se escucha mirándola desde afuera, y la 07 (Sala de la Barca y Salón de Comares) se saltea o se ve desde la puerta si sigue cerrada. Confirmar en la entrada.",
-            "Del Partal al Generalife: 10 a 15 minutos de subida suave, con algunos escalones. La Escalera del Agua (parada 13) es opcional.",
+            "🚨 Por los sismos de agosto de 2026, la Alcazaba está CERRADA y la Torre de Comares sin acceso. En el tour de la app: la parada 03 (Alcazaba) se escucha mirándola desde afuera, y las paradas 06 y 07 (Sala de la Barca y Salón de Embajadores, en la Torre de Comares) se saltean o se ven desde la puerta si siguen cerradas. Confirmar en la entrada.",
+            "Del Partal al Generalife: 10 a 15 minutos de subida suave, con algunos escalones. La Escalera del Agua (parada 17) es opcional.",
             "Para volver: minibús C30/C32 o taxi desde el pabellón de entrada. El camino a pie hasta el Paseo de los Tristes es empinado y de tierra.",
         ]},
         {"title": "El Albaicín", "items": [
-            "Cómo llegar: minibús C31 o C32 desde Plaza Nueva, o taxi, hasta el Mirador de San Nicolás. Recorrerlo en bajada.",
-            "La parada 06 (Mirador de San Cristóbal) es opcional: subida corta pero empinada desde la Plaza Larga.",
-            "Para volver: minibús C31/C32 o taxi desde la zona de San Miguel Bajo. A pie hasta Plaza Nueva son unos 15 minutos de cuestas y escalones.",
-            "Atardecer en San Nicolás: alrededor de las 18:00 en noviembre, con mucha gente. Cuidar celulares y carteras. De noche las calles están oscuras: volver en minibús o taxi.",
+            "El paseo 2026 va EN SUBIDA, desde Plaza Nueva hasta el Mirador de San Nicolás (~30 min), pensado para llegar al atardecer.",
+            "Atajo del propio Rick para saltear el tramo más empinado: minibús C31 o C32 desde Plaza Nueva y retomar el paseo en la Placeta de San Miguel Bajo (parada 05). Desde ahí las subidas que quedan son más cortas.",
+            "Atardecer en San Nicolás: alrededor de las 18:00 en noviembre, con mucha gente. Cuidar celulares y carteras.",
+            "Para volver: minibús C31/C32 o taxi desde cerca del mirador. De noche las calles están oscuras: mejor no bajar caminando.",
         ]},
         {"title": "Casco antiguo", "items": [
             "Casi todo llano. El último tramo, por la Carrera del Darro, sube suave y es empedrado.",
@@ -388,34 +400,50 @@ CITY_NOTES = {
     ],
     "ronda": [
         {"title": "Ronda (miércoles 11/11, unas 3 h)", "items": [
-            "Plan base para todos: el circuito llano del Puente Nuevo. Paradas 02 a 05: plaza de toros, Alameda y miradores, Puente Nuevo y La Ciudad.",
-            "El walk del Tajo (paradas 06 y 07, bajada al fondo de la garganta) es opcional según ganas y tiempo: muchas escaleras y cuestas, de ida y vuelta. Quien no baje puede esperar arriba, cerca del puente.",
-            "La Mina, en la Casa del Rey Moro: 280 escalones, desvío extra pago.",
-            "Pagos y con horarios cortos: museo de la plaza de toros y Baños Árabes. Verificar en la puerta.",
+            "Plan base para los cuatro: el Ronda Walk completo (pistas 02 a 16), el paseo nuevo del libro 2026. Va todo por arriba — parque, plaza de toros, Puente Nuevo y casco viejo — y lleva ~1 h sin contar paradas.",
+            "La ciudad se llena de excursionistas entre las 11:00 y las 13:30: si se puede, arrancar el walk temprano y dejar los sights pagos para después del pico.",
+            "Las bajadas al fondo del Tajo (pista 17) son opcionales: la pasarela nueva (€5) equivale a ~35 pisos de escaleras, y La Mina son 210 escalones oscuros y resbaladizos (€10). NO recomendadas para mamá; el walk de arriba sí es para ella.",
+            "Pagos: museo de la plaza de toros €9 + €2 la audioguía (Rick la llama esencial); Baños Árabes €4,50, SOLO tarjeta. Verificar horarios en la puerta.",
+            "El parador puede estar cerrado por renovación. El centro de interpretación del Puente Nuevo no vale la pena (Rick: \"un cuarto vacío\").",
             "Auto: estacionamientos subterráneos señalizados del centro, cerca de la plaza de toros.",
         ]},
     ],
     "setenil": [
         {"title": "Setenil (miércoles 11/11, ~11:50)", "items": [
-            "Parada en auto, camino de Granada a Ronda. Calcular 1 h a 1 h 15.",
-            "Estacionar en la parte alta (la parte nueva), en el estacionamiento señalizado. Al mediodía se complica: ir directo, sin intentar bajar con el auto.",
-            "Bajar caminando por la calle principal hasta el río.",
-            "El paseo por Cuevas del Sol y Cuevas de la Sombra, a lo largo del río, es llano: apto para los cuatro. Subir al castillo sí es cuesta.",
-            "Ronda queda a unos 20 minutos de ruta.",
+            "Parada en auto, camino de Granada a Ronda. Calcular 1 h a 1 h 15 desde Granada; de Setenil a Ronda son unos 30 minutos por caminos con curvas.",
+            "Estacionar donde dice Rick: el garaje de la Calle Jabonería, en el borde norte del pueblo. Al salir a la azotea del garaje, a la izquierda por el sendero y después seguir el río. Al mediodía se llena: ir directo al garaje, sin meterse al centro con el auto.",
+            "El loop del río (Cuevas del Sol y Cuevas de la Sombra) es llano y se hace en ~10 minutos: apto para los cuatro. La Calle Herrería (el mirador) es muy empinada y con escalones: opcional.",
+            "Para comer: Bar Frasquito (n.º 75) y La Cueva de Isabelina (n.º 85), en Cuevas del Sol. Cierran los MARTES — el miércoles están abiertos.",
         ]},
     ],
     "seville": [
-        {"title": "Triana", "items": [
-            "Recorrido llano, con dos escaleras en el camino del libro. Alternativas a nivel de calle (verificar en el lugar):",
-            "1) Al final del puente, la escalera que baja al Castillo de San Jorge: en vez de bajar, seguir por la Plaza del Altozano y entrar al mercado por la calle San Jorge. El museo del castillo se puede saltear.",
-            "2) La salida del mercado \"por abajo\": salir por la puerta de la calle San Jorge, a nivel, y seguir el recorrido.",
-            "El mercado tiene más vida a la mañana. El Centro Cerámica Triana cierra los lunes.",
-            "Para volver al centro: caminar por la calle Betis hasta el puente de Triana y cruzarlo.",
+        {"title": "Alcázar (jueves 12/11, 9:30)", "items": [
+            "Entrada online con horario: €14,50 + €1 de reserva. Al reservar piden el NÚMERO de pasaporte y en la puerta pueden pedir MOSTRARLO: llevar los pasaportes físicos.",
+            "De octubre a marzo cierra a las 17:00. Con entrada en mano se entra directo por la puerta de la Plaza del Triunfo (puede haber fila de seguridad).",
+            "La entrada incluye gratis cuatro museos más, entre ellos el Centro Cerámica Triana (del paseo de Triana) y el Antiquarium: guardar el ticket.",
+            "Recorrido esencialmente a nivel. Única escalerita del tour: la subida a las salas de azulejos antes del Salón Gótico. Los Baños de María de Padilla son un túnel con escalones, desvío opcional.",
+            "El Cuarto Real Alto (pista 14) es opcional, con reserva aparte, escaleras y lockers: solo si se reservó.",
+            "La audioguía oficial es \"seca\" según Rick: usar la nuestra.",
+        ]},
+        {"title": "Catedral (jueves 12/11)", "items": [
+            "Entrada online con horario: €13 + €1; incluye la Giralda y la Iglesia del Salvador (guardar el ticket).",
+            "Con ticket anticipado se entra por la Puerta del Lagarto (junto al campanario), DENTRO de los 30 minutos del horario asignado.",
+            "Horario: lun-sáb 11:00-18:00, dom 14:30-19:00.",
+            "La Giralda (pista 18) son 35 rampas + 17 escalones, sin nada mecánico: rampa continua con balcones para descansar. Opcional; se puede saltear sin perder el recorrido.",
+            "La audioguía oficial cuesta €5: no hace falta, está la nuestra.",
         ]},
         {"title": "Barrio de Santa Cruz", "items": [
-            "Llano y peatonal. Mejor al atardecer o temprano, sin los grupos grandes.",
+            "Llano y peatonal; única suave subida: la calle Santa Teresa. Mejor al atardecer (~19:00) o temprano, sin los grupos grandes.",
             "Entradas aparte: catedral y Giralda, Real Alcázar (pagas); Archivo de Indias (gratis); Hospital de los Venerables (pago).",
+            "En la Plaza del Triunfo está la TI: buen lugar para pedir mapa y horarios actualizados.",
             "Los números del mapa del libro (Google Drive) no coinciden con los de los audios. El mapa de calles del tour sí.",
+        ]},
+        {"title": "Triana", "items": [
+            "Recorrido llano, con dos escaleras comunes en el camino del libro. Alternativas a nivel de calle (verificar en el lugar):",
+            "1) Al final del puente, la escalera que baja al Castillo de San Jorge: en vez de bajar, seguir por la Plaza del Altozano y entrar al mercado por la calle San Jorge. El museo del castillo se puede saltear.",
+            "2) La salida del mercado \"por abajo\": salir por la puerta de la calle San Jorge, a nivel, y rodear el mercado por su lado izquierdo, como indica Rick para cuando está cerrado.",
+            "El mercado tiene más vida a la mañana. El Centro Cerámica Triana cierra los lunes y es GRATIS con el ticket del Alcázar.",
+            "Para volver al centro: caminar por la calle Betis hasta el puente de Triana y cruzarlo.",
         ]},
     ],
 }
@@ -423,9 +451,10 @@ CITY_NOTES = {
 # Pistas regeneradas: versión > 1 para que la app no use la copia vieja guardada en el celular.
 AUDIO_VERSIONS = {
     "siena-city-walk": {n: 2 for n in range(11, 21)},  # numeración del mapa oficial (nov. 2026)
-    # Andalucía: audios rehechos sin avisos (los avisos pasaron a NOTAS)
-    **{t: {n: 2 for n in range(1, 21)} for t in ("gra-casco-antiguo", "gra-alhambra", "gra-albaicin", "ronda-tajo",
-                                                  "setenil-bodegas", "sev-santa-cruz", "sev-triana")},
+    # Andalucía: audios regenerados con la edición 2026 del libro (9/11/2026)
+    **{t: {n: 3 for n in range(1, 21)} for t in ("gra-casco-antiguo", "gra-alhambra", "gra-albaicin", "ronda-tajo",
+                                                  "setenil-bodegas")},
+    **{t: {n: 2 for n in range(1, 21)} for t in ("sev-santa-cruz", "sev-triana")},  # TEMP: v3 con el push de audios
 }
 
 TOUR_TITLES = {
@@ -460,10 +489,12 @@ TOUR_TITLES = {
     "gra-casco-antiguo": "Casco antiguo de Granada",
     "gra-alhambra": "La Alhambra",
     "gra-albaicin": "El Albaicín",
-    "ronda-tajo": "Ronda: el Tajo y el Puente Nuevo",
+    "ronda-tajo": "Ronda: el paseo y el Tajo",
     "setenil-bodegas": "Setenil de las Bodegas (miércoles)",
     "sev-santa-cruz": "Barrio de Santa Cruz",
     "sev-triana": "Triana",
+    "sev-catedral": "Catedral (por dentro)",
+    "sev-alcazar": "Alcázar Real (por dentro)",
 }
 
 

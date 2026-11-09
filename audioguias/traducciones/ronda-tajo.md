@@ -1,85 +1,119 @@
-# Ronda: el Tajo y el Puente Nuevo
+# Ronda: el paseo por la ciudad del Tajo
 
-## 01 · Introducción {en=00:00}
+## 01 · Introducción {en=00:00 mapa=intro}
 
-Hola. Esta guía no es de Rick Steves: la armamos para este viaje, para recorrer Ronda.
+Este es el paseo de Rick Steves por Ronda, actualizado con su guía de España de este año.
 
-Ronda es un pueblo blanco construido sobre una meseta de roca, partida al medio por un tajo, una garganta de unos cien metros de profundidad que abrió el río Guadalevín. De un lado queda la ciudad vieja, de origen musulmán, que aquí llaman La Ciudad. Del otro, el barrio que creció después de la conquista cristiana, El Mercadillo. Y entre los dos, el puente que hizo famosa a Ronda.
+Novedad de esta edición: Rick ahora propone un paseo autoguiado formal de quince paradas que conecta casi todos los lugares que valen la pena de la ciudad, en más o menos una hora de caminata sin contar las paradas. Su consejo es orientarse primero con este paseo, picando lugares en el camino, y volver después a los más populares: la ciudad se llena de excursionistas de un día entre las once y la una y media, así que conviene esquivar ese pico.
 
-El recorrido va de la plaza de toros a los miradores y al Puente Nuevo, cruza a la ciudad vieja, baja al fondo del tajo y vuelve a subir por el otro lado.
+El recorrido va todo por arriba: el parque, la plaza de toros, el Puente Nuevo y el casco viejo. Las bajadas al fondo de la garganta son desvíos opcionales, con muchas escaleras, y las dejamos para una pista aparte al final.
 
-Cuando estén frente a la plaza de toros, pasen a la siguiente parada.
+El paseo empieza en el parque grande sobre la calle principal de la ciudad nueva: la Alameda del Tajo. Cuando estén ahí, pasen a la siguiente parada.
 
-## 02 · La plaza de toros {en=00:00}
+## 02 · La Alameda del Tajo {en=00:00 mapa=1}
 
-Esta es una de las plazas de toros más antiguas de España. Se inauguró en 1785 y es toda de piedra, con un ruedo enorme y dos pisos de gradas con arcos y columnas.
+Este parque enorme, de plátanos gigantes y trazado a la francesa, es el punto de encuentro de los rondeños. Vayan hasta la terraza-mirador: se abre sobre la Serranía de Ronda con una caída de más de ciento ochenta metros, y deja claro desde el arranque que todo el centro de la ciudad está encaramado al borde del desfiladero.
 
-Ronda tiene un lugar especial en la historia de las corridas. Aquí, en el siglo dieciocho, una familia de toreros, los Romero, ayudó a crear el toreo a pie, con capa y muleta, tal como se conoce hoy. Antes, los protagonistas eran los nobles a caballo. Pedro Romero, el más famoso, mató miles de toros a lo largo de su carrera y murió de viejo, algo raro en su oficio.
+Mirando la vista, a la derecha sale el Paseo de los Ingleses, una pasarela panorámica al borde del acantilado. Anótenla para más tarde: es ideal al fresco de la tarde, con poca gente.
 
-Una vez al año, en septiembre, se hace la Corrida Goyesca, con trajes inspirados en las pinturas de Goya.
+Ahora vayan hacia el otro lado: giren a la izquierda hasta el final de la plaza, pasando el teatro Vicente Espinel, y sigan derecho por el Paseo de Orson Welles. Las cenizas de Welles, de hecho, están enterradas cerca de acá, en la finca del torero Antonio Ordóñez. Al final de la pasarela los espera la plaza de toros.
 
-La plaza también atrajo a escritores y artistas extranjeros. Ernest Hemingway pasó temporadas en Ronda, y el director de cine Orson Welles quedó tan enamorado de este lugar que sus cenizas están enterradas en una finca cerca de aquí.
+## 03 · La plaza de toros, por fuera {en=00:00 mapa=2}
 
-Ahora rodeen la plaza y caminen hacia el borde del precipicio, al parque arbolado de al lado. Cuando estén en la baranda, pasen a la siguiente parada.
+Esta es la primera plaza de toros construida a propósito en España, de mil setecientos ochenta y cinco. Acá Francisco Romero bautizó el toreo moderno: fusionó el toreo noble a caballo con el toreo popular, le puso reglas e introdujo la capa escarlata. Su hijo Juan desarrolló el ritual, y su nieto Pedro fue uno de los primeros grandes matadores, con unos seis mil toros en su carrera.
 
-## 03 · La Alameda y los miradores {en=00:00}
+La estatua del toro embistiendo es la foto clásica. Detrás están la boletería y la entrada a la plaza y su museo, y enfrente de la plaza queda la oficina de turismo.
 
-Este parque es la Alameda del Tajo, del siglo diecinueve, y termina de golpe en un balcón sobre el vacío. Asómense.
+## 04 · El mirador de la garganta {en=00:00 mapa=3}
 
-Abajo, a pico, la pared de roca. Y enfrente, la llanura, con campos, olivos y, a lo lejos, las sierras. Es una caída de cientos de metros: por eso Ronda fue durante siglos casi imposible de conquistar. Del lado del barranco no hacía falta muralla.
+Al fondo de la plaza, a la derecha, se entra al parque. Fíjense en las columnas de la entrada, flanqueadas por estatuas de Orson Welles y Ernest Hemingway... que en la vida real se detestaban.
 
-Hay un mirador que los rondeños llaman con una palabrota que mejor no repetimos: es la exclamación que se le escapa a todo el mundo cuando se asoma.
+Cerca del gazebo tienen una vista clara del acantilado bajo el casco viejo. Se ve la pasarela moderna que baja hasta la base del puente y, abajo, los cimientos y muros de los molinos harineros de época mora, con el canal tallado en la roca que les traía agua desde debajo del puente. Uno de esos molinos fue restaurado y hoy es un hotel.
 
-Desde aquí, caminen junto a la baranda hacia el puente, por el paseo que bordea el precipicio detrás de la plaza de toros. Cuando vean el Puente Nuevo de costado, pasen a la siguiente parada.
+Salgan del parque, atraviesen la plaza con la plaza de toros a la izquierda, hasta la transitada Calle Virgen de la Paz, y doblen a la derecha por esa calle principal.
 
-## 04 · El Puente Nuevo {en=00:00}
+## 05 · La ciudad nueva: El Mercadillo {en=00:00 mapa=4}
 
-Ahí está. El Puente Nuevo, la imagen de Ronda.
+La Calle Virgen de la Paz atraviesa derecho el corazón de Ronda. Este barrio es "la ciudad nueva", construida después de la Reconquista cristiana de mil cuatrocientos ochenta y cinco.
 
-Une El Mercadillo con La Ciudad por encima del tajo, a casi cien metros de altura sobre el río. Se construyó entre 1759 y 1793: más de treinta años de obra. Hubo un intento anterior, un puente de un solo arco, que se derrumbó a los pocos años y mató a decenas de personas. El que ven lo diseñó un arquitecto llamado José Martín de Aldehuela, y está hecho con la misma piedra del tajo, por eso parece que creciera de la roca.
+## 06 · La Plaza de España {en=00:00 mapa=5}
 
-Sobre el arco central hay una habitación. Durante un tiempo se usó como cárcel, y se cuentan historias terribles de la Guerra Civil en este lugar, que llegaron a inspirar a Hemingway.
+A un par de cuadras llegan a la rotonda principal de la ciudad. A la derecha, el antiguo Ayuntamiento, convertido en parador en mil novecientos setenta y ocho. Ojo: puede estar cerrado por una renovación grande; si ya terminó, vale la pena asomarse al mirador al costado del parador, con vista del puente.
 
-Crucen el puente caminando y asómense a los dos lados. Hacia un lado verán el tajo cerrándose entre paredes de roca, con los otros dos puentes, más viejos, allá abajo. Hacia el otro, el río saliendo hacia el valle.
+Y un ahorro de Rick: el centro de interpretación del Puente Nuevo es, en sus palabras de esta edición, "un cuarto vacío". No vale ni el tiempo ni la plata.
 
-Cuando hayan cruzado al lado de la ciudad vieja, pasen a la siguiente parada.
+## 07 · El desfiladero del Tajo y el Puente Nuevo {en=00:00 mapa=6}
 
-## 05 · La Ciudad, la parte vieja {en=00:00}
+El Tajo —más de cien metros de profundidad y casi sesenta de ancho— divide la ciudad nueva del casco viejo blanco, el barrio morisco. Acá hubo un puente en mil setecientos treinta y cinco... que se cayó a los seis años. El actual se construyó entre mil setecientos cincuenta y uno y mil setecientos noventa y tres, y sigue firme.
 
-Ahora están en La Ciudad, la parte más antigua de Ronda. Durante casi ocho siglos fue una ciudad musulmana, hasta 1485, cuando la conquistaron las tropas de Fernando el Católico, siete años antes de que cayera Granada.
+Miren desde el mirador del puente. Hacia el oeste, con la ciudad nueva a la derecha, hay dos parques naturales; hacia el este, un parque nacional.
 
-Siguiendo derecho por la calle principal se llega a la plaza de la iglesia de Santa María la Mayor. Como tantas iglesias de Andalucía, se construyó sobre la mezquita mayor, y adentro todavía se conserva un arco del antiguo nicho de oración.
+Crucen el puente disfrutando las vistas: del otro lado ya es el casco viejo.
 
-Para seguir el recorrido hacia el fondo del tajo, vuelvan hacia el puente y pasen a la siguiente parada.
+## 08 · El casco viejo: el barrio morisco {en=00:00 mapa=7}
 
-## 06 · La Cuesta de Santo Domingo y la Casa del Rey Moro {en=00:00}
+De frente, sobre el lado izquierdo de la calle, está el antiguo convento dominico, que fue sede de la Inquisición en Ronda y hoy es sala de muestras temporales. A su izquierda hay otro buen mirador, hacia el interior de la garganta.
 
-Crucen hacia el lado de la ciudad vieja y tomen la primera calle a la izquierda después del puente, la que baja: la Cuesta de Santo Domingo.
+Pasado el convento, en su placita, busquen el gran mural de azulejos de Los Viajeros Románticos: retrata a los viajeros de la era romántica del siglo diecinueve, como Washington Irving, Disraeli y —Rick bromea que casi se llama como él— Richard Ford, autor de una guía de España de mil ochocientos treinta y dos.
 
-El primer edificio grande, junto al puente, es el antiguo convento de Santo Domingo, que fue sede de la Inquisición en Ronda.
+Justo después del mural, a la izquierda, baja una calle muy empinada hacia los dos puentes viejos y los Baños Árabes: esa es la bajada al fondo del Tajo que contamos en la pista final, como desvío opcional.
 
-Unos metros más abajo, a la izquierda, está la Casa del Rey Moro. El nombre es un invento romántico: nunca vivió ahí un rey. Pero debajo de la casa hay algo auténtico: La Mina, una escalera tallada dentro de la roca en el siglo catorce, que baja hasta el río. Servía para sacar agua durante los asedios, cuando la ciudad estaba rodeada de enemigos.
+Para seguir el paseo, crucen con cuidado la calle transitada y suban derecho por la Calle Tenorio, la del cartel de piedra viejo que dice Via Crucis.
 
-Un poco más abajo, a la derecha, el Palacio del Marqués de Salvatierra. Miren su portada barroca: a los lados del balcón hay figuras talladas que representan indígenas americanos, un recuerdo de la riqueza que llegaba de América.
+## 09 · La Calle Tenorio {en=00:00 mapa=8}
 
-Sigan bajando. Pasarán por la Puerta de Felipe Quinto, del siglo dieciocho, que fue durante mucho tiempo la entrada principal a la ciudad. Cuando vean un puente de piedra sobre el río, pasen a la siguiente parada.
+Están en los callejones dormidos del casco viejo, construido sobre los cimientos serpenteantes del pueblo moro: el contraste con la grilla rígida de la ciudad nueva se siente en los pies. Rick propone un juego de búsqueda de rasgos andaluces: paredes encaladas, toques de color —el amarillo arena de plaza de toros—, zócalos protectores de piedra y rejas negras de hierro.
 
-## 07 · Los puentes viejos y los Baños Árabes {en=00:00}
+## 10 · La Casa Museo Don Bosco {en=00:00 mapa=9}
 
-Llegaron al fondo del tajo. Ronda tiene tres puentes, y aquí están los dos más viejos.
+Sigan derecho y, pasada la intersección ancha con tres bancos, queda a la derecha. Es una mansión de mil ochocientos cincuenta asomada a la garganta, construida por las élites locales; hoy es museo y sede de conciertos de guitarra.
 
-El primero que ven es el Puente Viejo, de 1616, levantado sobre los restos de uno anterior. Un poco más abajo está el más antiguo de todos, el Puente Árabe, o de San Miguel, pequeño y bajito, a la altura del agua.
+## 11 · La Plaza de María Auxiliadora {en=00:00 mapa=10}
 
-Junto a él están los Baños Árabes, del siglo trece o catorce, considerados de los mejor conservados de toda la península. Estaban fuera de la muralla, junto al río, que les daba el agua, y cerca de la puerta: los viajeros se lavaban antes de entrar a la ciudad. Adentro hay salas con bóvedas de ladrillo y tragaluces en forma de estrella, y arcos de herradura sobre columnas.
+Una de las placitas más lindas de Ronda: íntima, sombreada, fresca, y a menudo con guitarra en vivo. En el medio crecen dos pinsapos raros, parecidos a árboles de Navidad gigantes: esta parte de Andalucía es la única región de Europa donde sobreviven.
 
-Miren hacia arriba: desde aquí se entiende la altura del tajo y lo inexpugnable que era Ronda.
+## 12 · La Puerta de los Molinos {en=00:00 mapa=11}
 
-Para volver, crucen el Puente Viejo y suban por las escaleras de los jardines que bordean el tajo, del lado del Mercadillo, con vistas al Puente Nuevo desde abajo. Cuando estén otra vez arriba, pasen a la siguiente parada.
+Al fondo del parque, a la derecha, arranca una escalinata ancha rotulada Puerta de los Molinos: es el inicio del sendero que baja retorciéndose por el acantilado. Desde acá se puede bajar gratis hasta el fondo del valle, con vistas doradas al atardecer, o pagar la pasarela del desfiladero, que es la próxima parada en el mapa. Las dos opciones son bajada y subida fuertes; los detalles, en la pista final.
 
-## 08 · Despedida de Ronda {en=00:00}
+Para seguir con el paseo de superficie: al fondo de la Plaza de María Auxiliadora, pasando el café, doblen a la izquierda por la Calle Ruedo Gamero.
 
-Ya están arriba otra vez, y con esto termina el paseo por Ronda.
+## 13 · La pasarela del desfiladero {en=00:00 mapa=12}
 
-Antes de irse, échenle una última mirada al puente. Muchos viajeros dicen que es el lugar más espectacular de Andalucía, y después de verlo desde arriba y desde abajo, se entiende por qué.
+Esta parada del mapa es la entrada a la gran novedad de Ronda: el Camino del Desfiladero del Tajo, una pasarela escénica que abrió hace un par de años y baja por los acantilados hasta la base del Puente Nuevo. Rick le da dos triángulos, su segunda calificación más alta. Cuesta cinco euros y abre todos los días de nueve y media de la mañana a ocho de la noche.
 
-Que hayan disfrutado Ronda.
+Eso sí: Rick avisa que es moderadamente exigente, con un desnivel equivalente a unos treinta y cinco pisos de escaleras entre lo alto de la escalinata y el final del sendero, y que se vuelve por el mismo camino. La mejor luz es al final del día. En la entrada dan casco, por posibles desprendimientos. Más detalles en la pista final; si no van a bajar, sigan de largo con el paseo.
+
+## 14 · El Palacio de Mondragón {en=00:00 mapa=13}
+
+Arriba de la cuadra de Ruedo Gamero, a la derecha, queda el Palacio de Mondragón: una mansión mudéjar del siglo dieciséis levantada sobre un palacio moro del siglo catorce, que hoy aloja el museo de historia de la ciudad. La placita detrás del palacio tiene cuatro naranjos.
+
+Después vuelvan unos pasos y tomen por el callejón torcido hasta una plaza vacía con una cruz; en la cruz, a la izquierda, hacia la gran puerta lateral de la iglesia. En el callejoncito que pasa pegado a la iglesia, miren el empedrado: ese surco gastado lo hacen los carruajes a caballo que pasan seguido, con herraduras engomadas. Calle arriba, pasada esa huella, viene una cuadra ancha de casas andaluzas típicas, y enseguida a la izquierda el museo Joaquín Peinado.
+
+Giren a la derecha, con la iglesia gigante a la izquierda, suban el callejón junto a la pila de agua de piedra y crucen la plaza hasta la palmera sola de base circular.
+
+## 15 · La iglesia de Santa María la Mayor {en=00:00 mapa=14}
+
+Esta iglesia se construyó sobre y alrededor de la mezquita mayor de la Ronda mora... que a su vez se había levantado sobre un templo romano dedicado a Julio César. La galería y los balcones se agregaron en los años mil quinientos setenta para que los nobles miraran corridas de toros primitivas en esta plaza.
+
+Miren la torre-campanario mudéjar: William Randolph Hearst, el magnate que inspiró El ciudadano Kane, quiso comprarla y llevársela a su castillo de San Simeón, en California. Como le dijeron que no... construyó dos copias sobre el Hearst Castle. El interior de la iglesia, dice Rick, vale la visita.
+
+## 16 · La Plaza Duquesa de Parcent, el fin del paseo {en=00:00 mapa=15}
+
+Llegaron a la última parada. A la derecha, el edificio largo de arcos redondos es el Ayuntamiento actual: se mudó acá en los años setenta, cuando el viejo pasó a ser el parador; antes el edificio fue cuartel militar. A la izquierda de la iglesia hay dos conventos: el de las Hermanas de la Cruz, con la estatua de la monja al frente, y más allá el enorme convento de las Clarisas Pobres. Al fondo del parque, el gran estacionamiento rodea el llamado "castillo" — nombre engañoso: ahí estuvo el alcázar moro original, destruido por Napoleón; el edificio actual fue escuela y se está convirtiendo en hotel cinco estrellas.
+
+Fin del paseo. Opciones para la vuelta: desandar serpenteando por el casco viejo; o salir por la calle ancha a la izquierda del Ayuntamiento — hacia la izquierda es lo más directo al Puente Nuevo, y hacia la derecha se sale por la puerta de Almocábar a la Plaza Ruedo Alameda, en el barrio San Francisco, con varios restaurantes buenos. O crucen la calle y piérdanse en la mitad sin turistas del barrio morisco.
+
+## 17 · Extra: las bajadas al fondo del Tajo {en=00:00 mapa=intro}
+
+Esta pista extra es para quien quiera bajar a la garganta. Aviso de entrada: el Tajo vale tres triángulos para Rick, su calificación máxima, pero bajar al fondo implica siempre una bajada muy empinada y volver a subirla. No hay ascensor; lo dice el libro.
+
+La opción nueva es la pasarela del desfiladero, de la que hablamos en la parada doce del mapa: cinco euros, entrada por la escalinata de la Puerta de los Molinos, unos cinco minutos empinados hasta el pabellón donde dan casco. El sendero baja en arco unos doscientos treinta metros hasta quedar bajo los pilares del Puente Nuevo, y se vuelve por el mismo camino. El esfuerzo equivale a unos treinta y cinco pisos de escaleras. Hay planes de extenderla por debajo del puente y subir del otro lado; eso cambiaría precios y accesos, así que pregunten en el lugar.
+
+La opción clásica es la garganta interior, bajando desde el casco viejo: la calle empinada que arranca pasado el mural de los Viajeros Románticos. En el camino está la Casa del Rey Moro —donde nunca vivió un rey; el nombre lo inventó el nieto del presidente McKinley, que sí vivió ahí—, con su jardín de encanto melancólico y La Mina: una escalera agotadora de doscientos diez escalones resbaladizos, oscuros y angostos, tallada por los moros en el siglo catorce para sacar agua del río durante los asedios. Cuesta diez euros, y Rick la encuentra cara: dice que bajar por acá dejará de tener sentido cuando abran la segunda mitad de la pasarela.
+
+Más abajo siguen el Palacio del Marqués de Salvatierra, cerrado al público pero con una fachada rica en simbolismo colonial; la terraza-mirador y la puerta de Felipe Quinto, que fue por siglos la entrada principal de la Ronda amurallada; y el Puente Viejo, de los años mil quinientos, que hasta mil setecientos noventa y tres era la única forma de cruzar la garganta acá.
+
+Siguiendo la bajada por las escaleras viejas —fíjense en los escalones moros originales tallados en la roca— se llega al Puente Árabe y a los Baños Árabes, que Rick marca con un triángulo: ruinas evocadoras, semienterradas para mantener la temperatura. El agua subía del río gracias a una torre con una cinta de recipientes cerámicos movida por un burro que caminaba en círculos. Adentro, dos de las ocho columnas originales, recicladas de ruinas romanas, sostienen las bóvedas de ladrillo. La entrada cuesta cuatro euros con cincuenta y se paga solo con tarjeta.
+
+Para volver, el consejo de Rick: subir al Puente Viejo, cruzarlo y tomar enseguida a la izquierda las escaleras de ladrillo que suben escénicas junto a la garganta por los Jardines de Cuenca — una subida empinada pero pareja, con lugares para recuperar el aliento y una terraza cerca de lo más alto con vista despejada al arco gigante del Puente Nuevo. Saliendo por la puerta alta del parque, a la izquierda y después cuesta arriba por la Calle Virgen de los Remedios, queda el recomendado Bar El Lechuguita: una parada merecida antes de volver al Puente Nuevo por la Calle Rosario.
