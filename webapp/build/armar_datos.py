@@ -313,7 +313,7 @@ TOUR_POINTS = {
     ],
     "gra-alhambra": [
         {"label": "1", "name": "Palacio de Carlos V y Museo", "coord": [37.1768, -3.5892], "stop": 2},
-        {"label": "2", "name": "Alcazaba (cerrada 2026)", "coord": [37.177, -3.5905], "stop": 3},
+        {"label": "2", "name": "Alcazaba (reabierta, itinerario adaptado)", "coord": [37.177, -3.5905], "stop": 3},
         {"label": "3", "name": "Palacios Nazaríes: entrada", "coord": [37.1774, -3.5898], "stop": 4},
         {"label": "14", "name": "Jardines del Partal", "coord": [37.1775, -3.5882], "stop": 15},
         {"label": "15", "name": "Generalife", "coord": [37.1783, -3.5842], "stop": 16},
@@ -379,7 +379,7 @@ CITY_NOTES = {
             "Llevar los pasaportes físicos: las entradas son nominales y los piden.",
             "Cómo llegar: minibús rojo C30 o C32 (zona Plaza Isabel la Católica) o taxi (~€6). No subir caminando: adentro se camina varias horas.",
             "Adentro de los Palacios Nazaríes no hay baños: pasar antes. En noviembre el recinto cierra a las 18:00.",
-            "🚨 Por los sismos de agosto de 2026, la Alcazaba está CERRADA y la Torre de Comares sin acceso. En el tour de la app: la parada 03 (Alcazaba) se escucha mirándola desde afuera, y las paradas 06 y 07 (Sala de la Barca y Salón de Embajadores, en la Torre de Comares) se saltean o se ven desde la puerta si siguen cerradas. Confirmar en la entrada.",
+            "✅ La Alcazaba REABRIÓ el 29/9 con un itinerario adaptado (nota oficial del Patronato): la parada 03 del tour se puede hacer entrando, aunque el recorrido adaptado puede excluir sectores o torres — si la Torre de la Vela está cerrada, el resto del circuito vale igual. Sala de la Barca y Salón de Embajadores (paradas 06-07, Torre de Comares): sin aviso oficial de reapertura total; si están cerrados se ven desde la puerta. Confirmar ambos en la entrada.",
             "Del Partal al Generalife: 10 a 15 minutos de subida suave, con algunos escalones. La Escalera del Agua (parada 17) es opcional.",
             "Para volver: minibús C30/C32 o taxi desde el pabellón de entrada. El camino a pie hasta el Paseo de los Tristes es empinado y de tierra.",
         ]},
