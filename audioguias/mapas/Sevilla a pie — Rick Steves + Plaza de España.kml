@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2"><Document>
+<name>Sevilla a pie — Rick Steves + Plaza de España</name>
+<description>Coordenadas de fuentes públicas (latlong.net, Wikipedia, waymarking, aroundus, campaners, GCatholic) y de la familia para la Plaza de España. Los puntos 1 y 2 de la carpeta 1 y la Confitería La Campana van en el CSV aparte, por dirección.</description>
+<Style id="ruta"><IconStyle><color>ff2a7bf5</color><scale>1.1</scale></IconStyle></Style>
+<Style id="atr"><IconStyle><color>ffb0279c</color><scale>1.0</scale></IconStyle></Style>
+<Folder><name>Recorrido a Plaza de España</name>
+<Placemark><name>3 · Jardines de Murillo</name><description>Ex huertas del Alcázar.</description><styleUrl>#ruta</styleUrl><Point><coordinates>-5.987806,37.383636,0</coordinates></Point></Placemark>
+<Placemark><name>4 · Plaza de España — Torre Norte</name><description>Torre norte de la Plaza de España.</description><styleUrl>#ruta</styleUrl><Point><coordinates>-5.98586,37.37856,0</coordinates></Point></Placemark>
+<Placemark><name>5 · Plaza de España — Fuente central</name><description>Bancos de las 48 provincias, en orden alfabético. Galería porticada arriba, con flamenco callejero.</description><styleUrl>#ruta</styleUrl><Point><coordinates>-5.98694,37.37722,0</coordinates></Point></Placemark>
+<Placemark><name>6 · Plaza de España — Torre Sur</name><description>Torre sur de la Plaza de España.</description><styleUrl>#ruta</styleUrl><Point><coordinates>-5.98756,37.37588,0</coordinates></Point></Placemark>
+</Folder>
+<Folder><name>Atracciones Sevilla (Rick Steves 2026)</name>
+<Placemark><name>Catedral y Giralda</name><description>€13 + €1 online. Lun–sáb 11:00–18:00; dom 14:30–19:00.</description><styleUrl>#atr</styleUrl><Point><coordinates>-5.992645,37.3857,0</coordinates></Point></Placemark>
+<Placemark><name>Real Alcázar</name><description>€14,50 + €1. Todos los días 9:30–17:00.</description><styleUrl>#atr</styleUrl><Point><coordinates>-5.991389,37.383889,0</coordinates></Point></Placemark>
+<Placemark><name>Iglesia del Salvador</name><description>Gratis con el ticket de la Catedral. Lun–sáb 10:15–17:30.</description><styleUrl>#atr</styleUrl><Point><coordinates>-5.993138,37.390045,0</coordinates></Point></Placemark>
+<Placemark><name>Mercado de Triana</name><description>Triana. Mejor a la mañana.</description><styleUrl>#atr</styleUrl><Point><coordinates>-6.00344,37.38568,0</coordinates></Point></Placemark>
+<Placemark><name>Castillo de San Jorge</name><description>Triana. Gratis, 10:00–14:00.</description><styleUrl>#atr</styleUrl><Point><coordinates>-6.003112,37.385677,0</coordinates></Point></Placemark>
+<Placemark><name>Centro Cerámica Triana</name><description>Triana. Gratis con el ticket del Alcázar. Mar–dom 10:00–19:00.</description><styleUrl>#atr</styleUrl><Point><coordinates>-6.004613,37.385555,0</coordinates></Point></Placemark>
+<Placemark><name>Capilla de los Marineros</name><description>Triana. Virgen de la Esperanza de Triana. Precio y horario: a verificar.</description><styleUrl>#atr</styleUrl><Point><coordinates>-6.001062,37.383938,0</coordinates></Point></Placemark>
+<Placemark><name>Iglesia de Santa Ana</name><description>Triana. La &quot;catedral de Triana&quot;. Precio y horario: a verificar.</description><styleUrl>#atr</styleUrl><Point><coordinates>-6.000694,37.382833,0</coordinates></Point></Placemark>
+<Placemark><name>Antiquarium / Las Setas</name><description>Antiquarium gratis con el ticket del Alcázar.</description><styleUrl>#atr</styleUrl><Point><coordinates>-5.991848,37.393238,0</coordinates></Point></Placemark>
+<Placemark><name>La Carbonería</name><description>Calle Céspedes 21. Flamenco gratis, todos los días ~20:00–01:30. Solo efectivo.</description><styleUrl>#atr</styleUrl><Point><coordinates>-5.98733,37.38799,0</coordinates></Point></Placemark>
+<Placemark><name>Museo de Bellas Artes</name><description>€1,50. Mar–sáb 9:00–21:00; lunes cerrado.</description><styleUrl>#atr</styleUrl><Point><coordinates>-6.000131,37.39265,0</coordinates></Point></Placemark>
+<Placemark><name>Palacio de la Condesa de Lebrija</name><description>Calle Cuna 8. €14. Todos los días 10:00–18:00.</description><styleUrl>#atr</styleUrl><Point><coordinates>-5.99367,37.392251,0</coordinates></Point></Placemark>
+<Placemark><name>Casa de Pilatos</name><description>€12 / €18. Todos los días 9:00–18:00.</description><styleUrl>#atr</styleUrl><Point><coordinates>-5.987129,37.390282,0</coordinates></Point></Placemark>
+<Placemark><name>Hospital de los Venerables</name><description>€12. Lun–sáb 10:00–19:00.</description><styleUrl>#atr</styleUrl><Point><coordinates>-5.99012,37.385189,0</coordinates></Point></Placemark>
+<Placemark><name>Archivo General de Indias</name><description>Gratis. Lun–sáb 9:30–17:00.</description><styleUrl>#atr</styleUrl><Point><coordinates>-5.992966,37.384964,0</coordinates></Point></Placemark>
+<Placemark><name>Torre del Oro y Museo Naval</name><description>Gratis. Lun–vie 9:30–19:00.</description><styleUrl>#atr</styleUrl><Point><coordinates>-5.996316,37.382403,0</coordinates></Point></Placemark>
+<Placemark><name>Plaza de Toros / Maestranza</name><description>€12. Todos los días 9:30–19:00.</description><styleUrl>#atr</styleUrl><Point><coordinates>-5.998407,37.385959,0</coordinates></Point></Placemark>
+<Placemark><name>Basílica de la Macarena</name><description>Iglesia gratis; tesoro €3,50. Lun–sáb 9:00–14:00 y 17:00–21:00.</description><styleUrl>#atr</styleUrl><Point><coordinates>-5.989417,37.402557,0</coordinates></Point></Placemark>
+</Folder>
+</Document></kml>
