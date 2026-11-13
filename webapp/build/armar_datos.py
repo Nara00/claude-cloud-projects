@@ -48,11 +48,9 @@ CITIES = {
                  "tours": ["sevilla-city-walk", "sev-catedral", "sev-alcazar", "sev-santa-cruz", "sev-triana"]},
     "madrid": {"name": "Madrid", "country": "España", "nominatim_city": "Madrid, España",
                 "center": [40.4168, -3.7038], "zoom": 15,
-                # mad-reina-sofia y mad-gran-via: reincorporar cuando estén sus mp3 en webapp/audio/
-                "tours": ["madrid-city-walk", "mad-prado", "mad-palacio-real"]},
-    # Toledo: reincorporar cuando estén los mp3 de toledo-walk y toledo-catedral
-    # "toledo": {"name": "Toledo", "country": "España", "nominatim_city": "Toledo, España",
-    #            "center": [39.8581, -4.0263], "zoom": 15, "tours": ["toledo-walk", "toledo-catedral"]},
+                "tours": ["madrid-city-walk", "mad-prado", "mad-palacio-real", "mad-reina-sofia", "mad-gran-via"]},
+    "toledo": {"name": "Toledo", "country": "España", "nominatim_city": "Toledo, España",
+               "center": [39.8581, -4.0263], "zoom": 15, "tours": ["toledo-walk", "toledo-catedral"]},
 }
 
 # URL del PDF del mapa oficial de Rick Steves para cada tour.

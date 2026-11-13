@@ -9397,9 +9397,598 @@
        ]
       }
      ]
+    },
+    {
+     "id": "mad-reina-sofia",
+     "title": "Reina Sofía y el Guernica (por dentro)",
+     "full_title": "Reina Sofía y el Guernica (por dentro)",
+     "coord": [
+      40.4081,
+      -3.6946
+     ],
+     "maps": [],
+     "map_url": null,
+     "points": null,
+     "stops": [
+      {
+       "n": 1,
+       "label": "Intro",
+       "v": 1,
+       "name": "Introducción",
+       "text": "Este es el tour de Rick Steves por el Centro de Arte Reina Sofía, actualizado con su guía de España de este año.\n\nEstán en la casa del Guernica de Picasso y en uno de los grandes museos de arte moderno de Europa. El Reina Sofía mapea el modernismo desde fines del siglo diecinueve hasta hoy, con foco en los españoles del siglo veinte: Picasso, Dalí, Miró y Juan Gris, más invitados como Kandinsky, Braque y Magritte. Un detalle lindo de este museo: muchas obras se exhiben junto a documentos de época, cartas, recortes de diario, afiches, invitaciones, que les dan contexto social.\n\nEl museo ocupa dos edificios conectados: el Sabatini, del siglo dieciocho, y el Nouvel, de dos mil cinco. Todo este recorrido pasa en la planta dos del Sabatini, donde está el grueso de la colección permanente, incluido el Guernica. Y buena noticia para caminar tranquilos: el museo tiene ascensores. Los de vidrio, que flanquean la entrada principal, suben directo; una vez arriba, la planta es llana, sin escalones.\n\nSon espacios temáticos, numerados del doscientos uno al doscientos ocho, que se recorren en sentido antihorario alrededor del patio central; el orden va contando el contexto histórico. Si en algún momento quieren tomar aire, la planta uno tiene un patio con esculturas de Calder y de Picasso.\n\nEntren por el edificio Sabatini, suban en el ascensor de vidrio a la planta dos y busquen el espacio doscientos uno. Ahí arranca la primera parada.",
+       "en_start": 0,
+       "coord": [
+        40.4081,
+        -3.6946
+       ]
+      },
+      {
+       "n": 2,
+       "label": "1",
+       "v": 1,
+       "name": "El nacimiento del modernismo",
+       "text": "Estos primeros espacios, del doscientos uno al doscientos tres, los ubican en el mundo donde nació el arte moderno: Madrid, París, Barcelona y Nueva York en las primeras décadas del siglo veinte.\n\nEn la sala doscientos uno uno, miren las fotos y pinturas del Madrid de hace unos cien años: la misma ciudad que están pisando, pero en plena transformación. Es el telón de fondo de todo lo que viene.\n\nEn la sala doscientos uno dos los espera un Picasso temprano, de antes de que Picasso fuera \"Picasso\". Y al lado, un retrato del artista mismo: un busto de terracota de mil novecientos catorce, hecho por el escultor Pablo Gargallo. Es una buena manera de ponerle cara al protagonista de este museo antes de encontrarse con su obra mayor.\n\nSigan avanzando por los espacios. En la sala doscientos tres dos, deténganse en algo que los museos tardaron demasiado en mostrar: el arte de las mujeres españolas de los años veinte y treinta, como Delhy Tejero. Ellas también estaban inventando el arte moderno, aunque los libros tardaran en anotarlo.\n\nCuando terminen, sigan el recorrido antihorario hasta el espacio doscientos cuatro, dedicado al cubismo. Esa es la próxima parada.",
+       "en_start": 0,
+       "coord": [
+        40.4081,
+        -3.6946
+       ]
+      },
+      {
+       "n": 3,
+       "label": "2",
+       "v": 1,
+       "name": "Cubismo",
+       "text": "El espacio doscientos cuatro se presenta como una \"nación cubista\". Y es justo: el cubismo, ese arte de romper el mundo en planos y facetas y volver a armarlo en el lienzo, fue en buena parte un invento español, con socios franceses.\n\nAcá conviven los dos bandos: Picasso y Braque, los fundadores del movimiento, junto a Fernand Léger y a un madrileño que jugaba de local, Juan Gris.\n\nRick propone un ejercicio: busquen Botella y frutas, de Braque, y pónganla mentalmente al lado de Violín y guitarra, de Gris. Son dos maneras de hacer lo mismo, desarmar objetos cotidianos, una botella, una fruta, un instrumento, y comparar cómo cada pintor decide qué mostrar y qué esconder. Tómense un minuto con cada una: el cubismo se disfruta más despacio.\n\nY guarden el nombre de Picasso bien fresco, porque todo lo que sigue es su historia. Del cubismo pasamos a la sala más intensa de España. Sigan el recorrido hasta el espacio doscientos cinco: las salas que preparan la llegada del Guernica.",
+       "en_start": 0,
+       "coord": [
+        40.4081,
+        -3.6946
+       ]
+      },
+      {
+       "n": 4,
+       "label": "3",
+       "v": 1,
+       "name": "Camino al Guernica — la Guerra Civil",
+       "text": "El espacio doscientos cinco es una experiencia completa. Antes de mostrarles el cuadro, el museo los hace atravesar una serie de salas, de la doscientos cinco uno a la doscientos cinco nueve, que cuentan la Guerra Civil española. No las pasen rápido: son las que hacen que el Guernica después pegue el doble.\n\nEn la sala doscientos cinco tres, fotoperiodismo: la guerra vista por las cámaras, cruda y en el momento. En la doscientos cinco cinco, los afiches de propaganda, el arte puesto a pelear, con cada bando gritando desde las paredes.\n\nY en las salas doscientos cinco ocho y doscientos cinco nueve, el escenario del estreno: la Exposición Internacional de París de mil novecientos treinta y siete, donde el Guernica se mostró al mundo por primera vez. Hay una maqueta del pabellón español de esa exposición: ahí, en plena guerra, España colgó este cuadro como grito de auxilio ante el mundo.\n\nCuando salgan de estas salas, van a entrar a la sala doscientos cinco diez, en la planta dos. Respiren hondo. Lo que sigue es, quizá, la obra de arte más impresionante de España.",
+       "en_start": 0,
+       "coord": [
+        40.4081,
+        -3.6946
+       ]
+      },
+      {
+       "n": 5,
+       "label": "4",
+       "v": 1,
+       "name": "El Guernica",
+       "text": "Acá está. Antes que nada, un aviso: al Guernica no se lo puede fotografiar. Y está bien que así sea: guarden el teléfono y miren.\n\nLa historia. Estalla la Guerra Civil, que va de mil novecientos treinta y seis a mil novecientos treinta y nueve. El veintiséis de abril de mil novecientos treinta y siete, Guernica, un pueblo vasco de mercado y centro republicano, se convierte en el blanco del primer bombardeo de saturación sobre población civil de la historia: Franco dejó que Hitler probara ahí su nueva fuerza aérea. Picasso estaba por empezar un encargo del gobierno republicano; cambió de planes y, en cuestión de semanas, armó este mural de unos veintisiete metros cuadrados.\n\nRecorran los elementos, de a uno. La mujer que grita al cielo. Los caballos. El hombre que cae. La mujer herida que se arrastra. El toro, símbolo de España. La madre con su bebé muerto en brazos: una pietà moderna. La mujer de la lámpara. Y arriba, la lamparita desnuda. Todo en blanco y negro, como las fotos de diario que contaron el bombardeo.\n\nEl cuadro tuvo su propio exilio. En mil novecientos treinta y nueve, Picasso lo dejó en depósito en el Museo de Arte Moderno de Nueva York, y puso una condición implícita: nada de volver mientras durara la dictadura. Franco murió en mil novecientos setenta y cinco, y recién en mil novecientos ochenta y uno el Guernica pisó por fin España, donde nunca había estado. Hoy es la pieza nacional de arte del país.\n\nCuando estén listos, sigan a las salas que vienen a continuación, de la doscientos cinco once en adelante: cambio total de clima, llega el surrealismo.",
+       "en_start": 0,
+       "coord": [
+        40.4081,
+        -3.6946
+       ]
+      },
+      {
+       "n": 6,
+       "label": "5",
+       "v": 1,
+       "name": "Surrealismo y Dalí",
+       "text": "Después de la intensidad del Guernica, el museo los premia con el costado más delirante del arte español: el surrealismo, en las salas doscientos cinco once a doscientos cinco diecisiete y en el espacio doscientos seis.\n\nEl anfitrión es Salvador Dalí, que vivió de mil novecientos cuatro a mil novecientos ochenta y nueve y fue uno de los fundadores del movimiento: ese arte de pintar los sueños con precisión de fotógrafo, donde todo es reconocible pero nada es posible.\n\nLa pieza central está en la sala doscientos cinco trece: El gran masturbador, de mil novecientos veintinueve. Sí, se llama así. Fue el primer cuadro surrealista famoso del mundo, y es puro Dalí: formas blandas que se derriten, deseos y miedos desparramados por la tela, y ese acabado pulido que hace que el delirio parezca documentado. Tómenlo como lo que es: un joven de veinticinco años abriendo la puerta de su cabeza y dejando que miremos adentro.\n\nDense una vuelta tranquila por estas salas; entre los surrealistas también anda Miró, el otro gran soñador catalán, que va a reaparecer en la próxima parada.\n\nCuando terminen, sigan el sentido antihorario hasta el espacio doscientos siete. Ahí los espera la última etapa del recorrido.",
+       "en_start": 0,
+       "coord": [
+        40.4081,
+        -3.6946
+       ]
+      },
+      {
+       "n": 7,
+       "label": "6",
+       "v": 1,
+       "name": "Tensiones sociales y fin del recorrido",
+       "text": "El espacio doscientos siete vuelve un poco atrás en el tiempo: arte español durante la Primera Guerra Mundial, con foco en Barcelona, que en esos años hervía de ideas nuevas.\n\nLa joya de este espacio es una sala que recrea las Galeries Dalmau, la galería barcelonesa que apostó por la vanguardia cuando casi nadie se animaba. Jueguen a encontrar a los conocidos: hay obras de Miró, de Juan Gris, y un Dalí de antes del surrealismo, cuando todavía estaba buscando su voz.\n\nEl espacio doscientos ocho cierra el recorrido con los pies en la tierra: la desigualdad social y económica del siglo veinte, el mundo real que todo este arte estuvo mirando, denunciando o soñando con cambiar.\n\nY hasta acá llega el tour. Pasaron del nacimiento del arte moderno al cubismo, atravesaron la Guerra Civil hasta el Guernica, y salieron por los sueños de Dalí. Si les quedó energía, la planta uno tiene ese patio con esculturas de Calder y de Picasso, ideal para despejarse; y los pisos cero, tres y cuatro suelen tener exposiciones temporales, a menudo muy buenas. Para bajar, el mismo ascensor de vidrio por el que subieron.\n\nFin del recorrido.",
+       "en_start": 0,
+       "coord": [
+        40.4081,
+        -3.6946
+       ]
+      }
+     ]
+    },
+    {
+     "id": "mad-gran-via",
+     "title": "Paseo por la Gran Vía",
+     "full_title": "Paseo por la Gran Vía",
+     "coord": [
+      40.4183,
+      -3.6966
+     ],
+     "maps": [],
+     "map_url": null,
+     "points": [
+      {
+       "label": "1",
+       "name": "Círculo de Bellas Artes (Alcalá 42)",
+       "coord": [
+        40.4183,
+        -3.6966
+       ],
+       "stop": 2
+      },
+      {
+       "label": "2",
+       "name": "Gran Vía de los años diez (tramo Alcalá a Red de San Luis, aprox.)",
+       "coord": [
+        40.4196,
+        -3.699
+       ],
+       "stop": 3
+      },
+      {
+       "label": "3",
+       "name": "Años veinte: edificio Telefónica (aprox.)",
+       "coord": [
+        40.4203,
+        -3.7015
+       ],
+       "stop": 4
+      },
+      {
+       "label": "4",
+       "name": "Años treinta: zona Callao (aprox.)",
+       "coord": [
+        40.4201,
+        -3.7058
+       ],
+       "stop": 5
+      },
+      {
+       "label": "5",
+       "name": "Plaza de España (fin)",
+       "coord": [
+        40.4234,
+        -3.7122
+       ],
+       "stop": 6
+      }
+     ],
+     "stops": [
+      {
+       "n": 1,
+       "label": "Intro",
+       "v": 1,
+       "name": "Introducción",
+       "text": "Este es el paseo de Rick Steves por la Gran Vía de Madrid, actualizado con su guía de España de este año.\n\nEl plano del centro de Madrid tiene siglos, y en general sobrevive intacto. Pero cuando llegaron los autos y los tranvías, la ciudad abrió a tajo un gran bulevar moderno: la Gran Vía, construida sobre todo entre mil novecientos diez y los años treinta. Es la Quinta Avenida española, y Rick la divide en cinco tramos: cada uno fue, en su momento, \"lo último\" de su época.\n\nVan a arrancar cerca de la Plaza de Cibeles, en el rascacielos del Círculo de Bellas Artes, y van a terminar en la Plaza de España, recorriendo tres décadas de arquitectura de rascacielos del siglo veinte, entre el pulso de la gente de hoy. La avenida fue renovada con veredas anchas y el tráfico está limitado casi todo a buses y taxis, así que el paseo es ideal: llano de punta a punta, siempre por vereda de avenida. La única subida es la de la primera parada, a una azotea, y se hace en ascensor.\n\nEl punto de partida es el rascacielos de la calle de Alcalá número cuarenta y dos, junto al Metro Banco de España. Cuando estén ahí, pasen a la siguiente pista.",
+       "en_start": 0,
+       "coord": [
+        40.4183,
+        -3.6966
+       ]
+      },
+      {
+       "n": 2,
+       "label": "1",
+       "v": 1,
+       "name": "Círculo de Bellas Artes",
+       "text": "Este rascacielos de los años veinte guarda dos tesoros: un café venerable en la planta baja, con un interior elegante de época que vale la pena disfrutar, y la mejor vista de azotea de toda la zona. Un ascensor sube al séptimo piso, donde hay una terraza con bar: gran lugar para un trago con vista en un día soleado.\n\nArriba, bajo la estatua negra, de estilo art déco, de Minerva, la protectora mitológica de la cultura y el alto pensamiento, hagan un recorrido visual en sentido horario.\n\nAbajo, a la izquierda, la cúpula con detalles dorados es el edificio Metropolis, inspirado en el Hotel Negresco de Niza. Fue sede de una aseguradora y hoy se está convirtiendo en un espacio de lujo con hotel, restaurantes y spa. Marca el inicio de la Gran Vía y de su cancán de fachadas orgullosas, las de la España de antes de la guerra civil.\n\nEn el horizonte, los montes de Guadarrama esconden Segovia. Más a la derecha, a lo lejos, los rascacielos de la Puerta de Europa: las torres gemelas inclinadas. Doblando la esquina de la terraza aparece la rotonda con la fuente de la Plaza de Cibeles y el Palacio de Cibeles, construido en mil novecientos diez como sede del correo y, desde el año dos mil seis, Ayuntamiento de la ciudad; hoy también es centro cultural y mirador. Detrás se extiende el enorme Parque del Retiro. Y más a la derecha, el edificio bajo rodeado de verde es el Museo del Prado.\n\nCuando terminen, bajen en el ascensor y crucen el bulevar, frente al Círculo de Bellas Artes, hacia el inicio de la Gran Vía.",
+       "en_start": 0,
+       "coord": [
+        40.4183,
+        -3.6966
+       ]
+      },
+      {
+       "n": 3,
+       "label": "2",
+       "v": 1,
+       "name": "La Gran Vía de los años mil novecientos diez",
+       "text": "Este primer tramo, que va del Metro Banco de España al Metro Gran Vía, se construyó en los años mil novecientos diez como una tira de tiendas de lujo, con una rimbombancia bien afrancesada.\n\nEl consejo acá es simple: miren para arriba. Las fachadas son hermosas, y muchos lobbies son lindos para espiar.\n\nA la derecha, en el número doce, está el Bar Chicote, con su cartel que dice \"Museo Chicote\". Es un clásico de la coctelería madrileña, que recibió a Hemingway y a las estrellas de su época.\n\nJusto al norte de este tramo queda el barrio de Chueca, el corazón de la comunidad gay de Madrid. En honor al Día del Orgullo, en el año dos mil diecisiete un alcalde progresista reemplazó decenas de semáforos peatonales por versiones con dos hombres o dos mujeres de la mano: fíjense si cruzan alguno.\n\nSigan caminando por la avenida hasta la altura del Metro Gran Vía, donde confluyen dos calles peatonales. Ahí arranca el siguiente tramo.",
+       "en_start": 0,
+       "coord": [
+        40.4183,
+        -3.6966
+       ]
+      },
+      {
+       "n": 4,
+       "label": "3",
+       "v": 1,
+       "name": "La Gran Vía de los años veinte",
+       "text": "Están en el segundo tramo, que va del Metro Gran Vía al Metro Callao. La boca de Metro, frente al McDonald's, está reconstruida en su estilo art déco original de mil novecientos diecinueve. A la derecha sale la calle de Fuencarral, una de las zonas peatonales más de moda, con marcas famosas y onda joven. A la izquierda, la calle de la Montera es otra calle viva, de compras y paseo hasta tarde.\n\nA la derecha se levanta el rascacielos de Telefónica: catorce pisos, unos noventa metros. Está en el punto más alto de la zona, así que parece todavía más alto. Fue de los primeros rascacielos de la ciudad, y el más alto de España hasta los años cincuenta. Tiene un aire muy neoyorquino, pero con un balconcito barroco que recuerda que seguimos en España. Telefónica fue la única compañía telefónica del país durante el franquismo, famosa por sobrefacturar sin dar detalle ni rendir cuentas; hoy es una de las pocas grandes corporaciones españolas de primera línea. El edificio aloja el Espacio Fundación Telefónica, una muestra divertida y apta para chicos sobre la historia de las telecomunicaciones, del telégrafo al teléfono inteligente, montada entre vigas de acero a la vista, donde antes trabajaban mil operadoras.\n\nMás adelante viene una tira de tiendas de moda. Primark, en el número treinta y dos, ocupa el edificio de la primera gran tienda por departamentos moderna de la ciudad: entren y miren el atrio. Y antes de llegar a Callao, a la izquierda, en el treinta y siete, hay un edificio de mil novecientos veintiocho que fue el elegante Cine Avenida; los madrileños lamentan la pérdida de otro cine venerable a manos de las tiendas.\n\nSigan hasta la plaza del Callao: ahí empieza el tramo final.",
+       "en_start": 0,
+       "coord": [
+        40.4183,
+        -3.6966
+       ]
+      },
+      {
+       "n": 5,
+       "label": "4",
+       "v": 1,
+       "name": "La Gran Vía de los años treinta",
+       "text": "Este tramo, del Metro Callao a la Plaza de España, es considerado la \"Gran Vía americana\": se construyó en los años treinta imitando a Chicago y a Nueva York.\n\nEl edificio Schweppes, de estilo art déco a la manera de Chicago, con su fachada redonda y sus ventanas curvas, fue algo radical en mil novecientos treinta y tres. Hoy este tramo es el Broadway español: Madrid lidera los musicales en castellano, y los teatros sobreviven gracias a producciones de Broadway que tienen una segunda vida en España y Latinoamérica.\n\nUnas cuadras más adelante, frente al Teatro Lope de Vega, que está a la izquierda en el número cincuenta y siete, miren a la derecha, al número sesenta: un edificio de estilo casi fascista, un banco de mil novecientos treinta coronado por una estatua severa que parece publicidad de alcancía sólida. Mirando hacia la Torre de Madrid, al fondo, los edificios se van volviendo cada vez más severos.\n\nEn el número ochenta está el Dear Hotel, que tiene restaurante en el piso catorce y un barcito en la terraza, con vistas de las mejores de la ciudad: se atraviesa el lobby y se sube en ascensor; el último trecho a la terraza es por escaleras exteriores, cortas y comunes.\n\nSigan por la vereda hasta el final de la avenida, donde se abre una gran plaza con parque: la Plaza de España, nuestra última parada.",
+       "en_start": 0,
+       "coord": [
+        40.4183,
+        -3.6966
+       ]
+      },
+      {
+       "n": 6,
+       "label": "5",
+       "v": 1,
+       "name": "Plaza de España",
+       "text": "Llegaron al final de la Gran Vía, a la Plaza de España, que tiene su propia estación de Metro.\n\nEn el parque los reciben las estatuas de don Quijote y Sancho Panza, parte de un monumento a Cervantes. Y dos edificios de la época de Franco intentan rascar el cielo: el dictador quería demostrar que podía seguirle el ritmo a Estados Unidos, y mandó construir en los años cincuenta la Torre de España, la más baja, y la Torre de Madrid, la más alta. El resultado, dice Rick, recordaba más a Moscú que a América.\n\nLa plaza que ven hoy es fruto de una remodelación del siglo veintiuno, que desvió el tráfico por debajo. Ahora la plaza conecta, por sendas y paseos, con un parque hermoso que lleva al Templo de Debod, un templo egipcio auténtico, y a un mirador ideal para besarse con vista a la Casa de Campo.\n\nSi les quedan ganas y piernas, ese parque es la mejor manera de estirar el paseo. Si no, acá termina el recorrido: tres décadas de Gran Vía, de Cibeles a Cervantes. Fin del paseo.",
+       "en_start": 0,
+       "coord": [
+        40.4183,
+        -3.6966
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  "toledo": {
+   "name": "Toledo",
+   "country": "España",
+   "center": [
+    39.8581,
+    -4.0263
+   ],
+   "zoom": 15,
+   "notes": [
+    {
+     "title": "Cómo subir al casco (IMPORTANTE: sin escaleras mecánicas)",
+     "items": [
+      "Tren AVE desde Atocha ~30 min (~€14 por tramo). Comprar ida Y vuelta online con anticipación: se agotan. Último tren de vuelta 21:30. La estación de tren NO tiene consigna de equipaje.",
+      "De la estación a Plaza de Zocodover: taxi ~€5 (parada en la estación) o bus urbano #5, #61 o #62 (€1,40, se paga arriba; la parada queda a la derecha saliendo — confirmar \"¿para Zocodover?\").",
+      "NO usar las rutas a pie que sugieren los carteles: terminan en escaleras mecánicas. Tampoco los remontes del Miradero. El taxi/bus deja arriba sin nada mecánico.",
+      "No llegar antes de las 10:00 (todo abre a esa hora)."
+     ]
+    },
+    {
+     "title": "Paseo por Toledo",
+     "items": [
+      "Primera mitad (Zocodover → catedral → Santo Tomé) ~1 h; barrio judío +30 min. Cuestas y empedrado COMUNES, a ritmo tranquilo y con calzado cómodo: apto para los cuatro.",
+      "Para no desandar cuestas al final: bus #12 desde Plaza del Conde (detrás de Santo Tomé) o desde San Juan de los Reyes, vuelve a Zocodover bordeando las murallas.",
+      "Baños públicos: en el Ayuntamiento y gratis en el parque frente al Museo del Greco. TI dentro del Ayuntamiento.",
+      "Santo Tomé (El entierro del conde de Orgaz): €4, diario 10:00-17:45 en temporada baja; suele haber fila.",
+      "Museo de Santa Cruz: GRATIS (lun-sáb 10:00-18:00, dom hasta 15:00) — prioridad de Rick junto con la catedral.",
+      "Pases: Toledo Pass y Toledo Card no convienen; la Pulsera Turística €14 solo si entran a 4+ sitios de €4.",
+      "Mazapán: Santo Tomé 3 (desde 1856), piezas ~€1; sucursal en Zocodover."
+     ]
+    },
+    {
+     "title": "Catedral (por dentro)",
+     "items": [
+      "Entrada €12 con guía multimedia incluida; tickets en la tienda de enfrente, Calle Cardenal Cisneros. Lun-sáb 10:00-18:30, dom desde 14:00.",
+      "Interior llano, nada mecánico. Baño más cercano: el Ayuntamiento, cruzando la plaza.",
+      "Capilla Mozárabe: solo en misa (lun-sáb 9:00) y CIERRAN LA PUERTA CON LLAVE una hora — decidir antes si se quedan."
+     ]
+    }
+   ],
+   "tours": [
+    {
+     "id": "toledo-walk",
+     "title": "Paseo por Toledo",
+     "full_title": "Paseo por Toledo",
+     "coord": [
+      39.8589,
+      -4.0222
+     ],
+     "maps": [],
+     "map_url": null,
+     "points": [
+      {
+       "label": "1",
+       "name": "Plaza de Zocodover",
+       "coord": [
+        39.8589,
+        -4.0222
+       ],
+       "stop": 2
+      },
+      {
+       "label": "2",
+       "name": "Calle del Comercio (aprox.)",
+       "coord": [
+        39.858,
+        -4.0238
+       ],
+       "stop": 3
+      },
+      {
+       "label": "3",
+       "name": "Plaza del Ayuntamiento y catedral",
+       "coord": [
+        39.8568,
+        -4.0247
+       ],
+       "stop": 4
+      },
+      {
+       "label": "4",
+       "name": "Calles de atrás, hacia Santo Tomé (aprox.)",
+       "coord": [
+        39.856,
+        -4.026
+       ],
+       "stop": 5
+      },
+      {
+       "label": "5",
+       "name": "Santo Tomé (El entierro del conde de Orgaz)",
+       "coord": [
+        39.8572,
+        -4.0277
+       ],
+       "stop": 6
+      },
+      {
+       "label": "6",
+       "name": "Judería y mirador del Tajo (aprox.)",
+       "coord": [
+        39.8556,
+        -4.0283
+       ],
+       "stop": 7
+      },
+      {
+       "label": "7",
+       "name": "Sinagogas del Tránsito y Santa María la Blanca",
+       "coord": [
+        39.8561,
+        -4.0295
+       ],
+       "stop": 8
+      },
+      {
+       "label": "8",
+       "name": "San Juan de los Reyes (fin; bus doce de vuelta)",
+       "coord": [
+        39.8585,
+        -4.032
+       ],
+       "stop": 9
+      }
+     ],
+     "stops": [
+      {
+       "n": 1,
+       "label": "Intro",
+       "v": 1,
+       "name": "Introducción",
+       "text": "Este es el paseo de Rick Steves por Toledo, actualizado con su guía de España de este año.\n\nEs un recorrido que serpentea desde la Plaza de Zocodover, la plaza principal, hasta la catedral y la iglesia de Santo Tomé, y después baja al barrio judío, enlazando los principales sitios de la ciudad. Rick lo recomienda para orientarse primero y elegir después qué visitar por dentro.\n\nEl hilo del paseo es la historia apretada de esta colina: Toledo fue nudo romano de transporte, capital visigoda, centro moro, y la primera gran ciudad en caer en la Reconquista, en mil ochenta y cinco. Durante siglos convivieron acá judíos sefardíes, musulmanes y cristianos. En el siglo dieciséis, Carlos quinto la hizo su Ciudad Imperial y El Greco la adoptó; pero en mil quinientos sesenta y uno Felipe segundo se llevó la capital a Madrid, y Toledo quedó congelada en el tiempo, con su trazado medieval intacto. Eso es lo que van a caminar.\n\nUn aviso antes de arrancar: Toledo es una ciudad de cuestas y calles empedradas. En Toledo dicen que todo es cuesta arriba. Son cuestas y escalones comunes, sin nada raro, y nada queda a más de una caminata corta: tómenlo a ritmo tranquilo, que los tramos más empinados se los vamos avisando en el camino. La primera mitad del paseo lleva alrededor de una hora sin entrar a nada; el barrio judío suma una media hora más, y al final se puede volver a Zocodover en el bus doce.\n\nCuando estén parados en la Plaza de Zocodover, pasen a la siguiente pista.",
+       "en_start": 0,
+       "coord": [
+        39.8589,
+        -4.0222
+       ]
+      },
+      {
+       "n": 2,
+       "label": "1",
+       "v": 1,
+       "name": "Plaza de Zocodover",
+       "text": "Para ser la plaza principal, es sorprendentemente modesta. El nombre viene del árabe y significa mercado de ganado. Acá hubo juicios de la Inquisición y corridas de toros; hoy la inundan cada mañana los excursionistas que llegan en tren desde Madrid, pero sigue siendo el punto de encuentro de los toledanos.\n\nToledo es la capital de Castilla-La Mancha, y el edificio gubernamental naranja domina la plaza, con sus tres banderas: la de Europa, la de España y la de Castilla-La Mancha. Fíjense en la planta triangular, rarísima: Felipe segundo intentó armar acá una plaza mayor típica, pero la Iglesia no le vendía los edificios y se quedó con las ganas. Los bancos con azulejos ilustran escenas del Quijote: Cervantes conocía bien la ciudad, y el propio libro bromea con que fue traducido de un manuscrito árabe encontrado en Toledo. El águila de dos cabezas que van a ver en los buses urbanos es el emblema de los Habsburgo convertido en sello de la ciudad.\n\nDesde el borde de la plaza asoman dos de los cuatro torreones del Alcázar, la fortaleza del siglo dieciséis que hoy aloja el Museo del Ejército. En la Guerra Civil, los nacionales resistieron ahí un sitio republicano, y gran parte de esta zona quedó destruida; un cartel recuerda la reconstrucción de mil novecientos cuarenta y cinco.\n\nAhora suban por las escaleras hacia el arco; son unos escalones comunes, con calma. Arriba los espera la estatua de Cervantes, que se alojó en una posada calle abajo. El arco tiene forma de cerradura: es la marca del mudéjar, el estilo de los artesanos moros trabajando para clientes cristianos después de la Reconquista; Toledo es LA ciudad mudéjar de España. Hace mil años esto era el corazón moro de la ciudad: este arco era la puerta principal, y el palacio que había detrás fue reemplazado por el hospital que hoy es el Museo de Santa Cruz; unos pasos más allá se ve su portada plateresca, finísima.\n\nCuando terminen, vuelvan a la plaza y salgan por la Calle del Comercio, la calle principal que baja hacia la catedral. Esa es la próxima parada.",
+       "en_start": 0,
+       "coord": [
+        39.8589,
+        -4.0222
+       ]
+      },
+      {
+       "n": 3,
+       "label": "2",
+       "v": 1,
+       "name": "Calle del Comercio",
+       "text": "Están en la calle que conecta Zocodover con la catedral, apodada la Calle Ancha. Va a estar repleta de visitantes, pero mezcla negocios de toledanos de toda la vida, ropa, bancos, lotería, con las tiendas para turistas: cuchillos, cuero, mazapán y damasquinado. Es calle de comercio desde siempre: los mercaderes tenían el local abajo y vivían arriba, y esas ventanas en voladizo que van a ver, los miradores, servían para aprovechar al máximo la luz.\n\nYa que estamos, un apunte de Rick sobre la herencia mora de Toledo, que va a reaparecer todo el paseo: se la ve en la Mezquita del Cristo de la Luz, la mejor conservada de las antiguas mezquitas; en la yesería de la Sinagoga del Tránsito; en los arcos de herradura de Santa María la Blanca; en las puertas de la muralla medieval; y en este mismo trazado laberíntico, de medina.\n\nUna cuadra más adelante, a la altura del Starbucks, miren la calle que cruza a la derecha: ahí está el cartel de calle más fotografiado de Toledo, la calle de Toledo de Ohío, en honor al otro Toledo, el de Estados Unidos.\n\nSigan por Comercio. Donde la calle se ensancha, tomen el ramal de la derecha, la calle del Hombre del Palo, y caminen pegados al muro de la catedral. En el siguiente cruce, con un edificio coronado por el águila bicéfala, doblen a la izquierda y bajen junto a la catedral. Levanten la vista: a unos seis metros de altura hay ganchitos de metal. En Corpus Christi, sesenta días después de Pascua, sostienen tapices flamencos del siglo dieciséis, y el recorrido entero de la procesión, más de dos kilómetros, se cubre con un toldo. Pasen por debajo del puentecito que une la catedral con el palacio del arzobispo, y salgan a la plaza que se abre adelante.",
+       "en_start": 0,
+       "coord": [
+        39.8589,
+        -4.0222
+       ]
+      },
+      {
+       "n": 4,
+       "label": "3",
+       "v": 1,
+       "name": "Plaza del Ayuntamiento",
+       "text": "La plaza se llama así por el Ayuntamiento, el edificio municipal que la preside, con cuatro banderas: la de Europa, la de España, la de Castilla-La Mancha y la violeta de Toledo. Enfrente, la catedral mira al palacio del Arzobispo, que luce la bandera vaticana junto a la española.\n\nAhora, la vista de la catedral. La torre está coronada con tres coronas. A la derecha, fíjense en la base trunca de lo que iba a ser la segunda torre: los cimientos cedieron y en su lugar se construyó una capilla con cúpula. La fachada original era de piedra caliza blanda, y contaba en piedra una historia del siglo siete: la aparición de la Virgen al obispo Ildefonso. En el siglo dieciocho hubo que reforzarla con una fachada externa de granito tallado, que es la que ven, y que tapa el rosetón gótico original.\n\nEl interior de la catedral es el sitio número uno de la ciudad, y para Rick una de las más impresionantes de Europa; la visita por dentro es un capítulo aparte. La entrada es por el callejón a la derecha de la catedral.\n\nAntes de seguir, miren el estanque frente al Ayuntamiento: es una obra de dos mil catorce de la escultora Cristina Iglesias, veinte toneladas de bronce que imitan el lecho del río Tajo, con agua que sube y baja dos veces por hora. Alude a la Ciudad de las Tres Aguas y a la convivencia, hasta mil cuatrocientos noventa y dos, de musulmanes, judíos y cristianos. De paso, es el mejor lugar para la foto de la fachada.\n\nAhora salgan de la plaza por la callecita en subida que está a la derecha del Ayuntamiento. Viene un tramo empinado, de los que avisamos: con calma, que es corto. Pasen un arco y un pasaje hasta una placita, y ahí pasen a la siguiente pista.",
+       "en_start": 0,
+       "coord": [
+        39.8589,
+        -4.0222
+       ]
+      },
+      {
+       "n": 5,
+       "label": "4",
+       "v": 1,
+       "name": "Las calles de atrás",
+       "text": "En la placita, giren a la derecha, de nuevo a la derecha, y suban el tramo empinado junto al ábside del convento de Santa Úrsula, mudéjar del siglo trece, con sus arcos de cerradura. Fue casa de monjas mazapaneras: el mazapán conventual es una institución toledana, ya van a ver.\n\nCoronen la colina por el Camino del Salvador. El espacio abierto que aparece, una rareza en este tejido medieval tan apretado, marca el sitio de otro monasterio, que colapsó; hoy es un parquecito, y el edificio moderno tipo búnker de atrás es un archivo iluminado por claraboyas. Enfrente está la iglesia de El Salvador, que resume Toledo en un solo edificio: está construida sobre una mezquita, que estaba sobre una iglesia visigoda, que estaba sobre un templo romano. Su campanario fue minarete, el más viejo de los siete que quedan en la ciudad: siglo nueve, con piedras romanas reutilizadas.\n\nLa iglesia da a la calle de Santo Tomé. Unas placas en el pavimento marcan el inicio del barrio judío. Este tramo concentra las compras típicas: hierro forjado, damasquinado y mazapán. En el número dos, El Café de las Monjas vende dulces de conventos, con una vidriera de muñequitas de monjas trabajando; pero para el mazapán, Rick cruzaría al número tres, la sucursal original de Santo Tomé, donde se elabora desde mil ochocientos cincuenta y seis; adentro hay un Don Quijote de mazapán de casi cuatro metros.\n\n¿Y por qué tantos cuchillos? En la Edad Media, Toledo hacía el mejor acero, con saber traído de Medio Oriente por los artesanos musulmanes; una espada toledana era símbolo de estatus, y los toreros top siguen encargando acá. En el número siete, asómense a ver la joyería damasquinada: acero negro con incrustaciones de oro y plata, un oficio nacido en Damasco.\n\nSigan por la calle de Santo Tomé hasta la iglesia del mismo nombre, frente a una plaza larga.",
+       "en_start": 0,
+       "coord": [
+        39.8589,
+        -4.0222
+       ]
+      },
+      {
+       "n": 6,
+       "label": "5",
+       "v": 1,
+       "name": "Santo Tomé",
+       "text": "Esta iglesia, por lo demás común y corriente, guarda la obra maestra de El Greco: El entierro del conde de Orgaz. Es el funeral de un notable local, con invitados de lujo repartidos entre el cielo y la tierra. Suele haber fila en la boletería, frente a la plaza larga, pero Rick asegura que la espera vale la pena; la visita en detalle es un capítulo aparte.\n\nLa plaza que se extiende detrás es la Plaza del Conde, y es la terminal del bus doce, con la parada al fondo. Acá termina la primera mitad del paseo, y conviene decidir: si les queda poco tiempo, visiten Santo Tomé y vuelvan a Zocodover en ese bus, o caminando por las calles de atrás que acaban de conocer, mejor que por la congestionada Calle del Comercio.\n\nSi siguen con nosotros, viene la segunda mitad: el barrio judío, una media hora más de paseo. Desde la puerta de Santo Tomé, crucen la Plaza del Conde, unos veinte pasos, y doblen a la izquierda para bajar por una calle empedrada. Ojo acá: es una bajada empinada y de adoquines, de las que avisamos; despacio y pisando seguro. Abajo, a la derecha, queda el Museo del Greco. Ahí los espera la próxima parada.",
+       "en_start": 0,
+       "coord": [
+        39.8589,
+        -4.0222
+       ]
+      },
+      {
+       "n": 7,
+       "label": "6",
+       "v": 1,
+       "name": "El barrio judío y el mirador del Tajo",
+       "text": "Están en el corazón de la antigua judería de Toledo, donde los judíos vivieron hasta mil cuatrocientos noventa y dos, cuando Isabel y Fernando los expulsaron, salvo a los conversos. La mayoría de las sinagogas fueron destruidas o reconvertidas; sobreviven dos, y las vamos a ver enseguida.\n\nA su derecha queda el Museo del Greco. Los mejores cuadros del pintor están en Santa Cruz, la catedral y Santo Tomé, pero este museo profundiza en su vida y su época. Enfrente del museo, un parque marca el sitio donde estuvo la casa de El Greco, hoy desaparecida: hay un memorial, un rosedal y un lindo mirador sobre el Tajo.\n\nAsómense. El Tajo es el río más largo de la península ibérica: corre más de mil kilómetros hasta desembocar en el Atlántico, en Lisboa. Su curva cerrada en herradura fue la fortificación natural de Toledo. Abajo en el río se ven ruinas de molinos de agua; en el desfiladero de enfrente, los cigarrales, las casas de verano de las familias nobles; y los acantilados son hoy territorio de escaladores.\n\nCuando terminen con la vista, pasen el parque: justo enfrente está la histórica Sinagoga del Tránsito. Esa es la próxima parada.",
+       "en_start": 0,
+       "coord": [
+        39.8589,
+        -4.0222
+       ]
+      },
+      {
+       "n": 8,
+       "label": "7",
+       "v": 1,
+       "name": "Las dos sinagogas",
+       "text": "La Sinagoga del Tránsito es una de las dos que sobreviven en Toledo, famosa por su yesería mudéjar, y aloja un buen museo sefardí sobre el pasado judío de la ciudad; la visita por dentro queda para después del paseo.\n\nSigan por la calle de los Reyes Católicos. En el pavimento vayan buscando unas placas de bronce con la forma de la península ibérica y letras hebreas: dicen Sefarad, el nombre hebreo de Iberia. Se colocaron en las antiguas juderías de toda España como recordatorio de la diáspora sefardí expulsada en mil cuatrocientos noventa y dos.\n\nMás adelante, a la derecha, pasan un parquecito con parada de bus, y enseguida llegan a la Sinagoga de Santa María la Blanca, la otra sobreviviente. Su interior mudéjar es aún más puro que el del Tránsito, con sus arcos de herradura y sus capiteles con forma de piña. El edificio de ladrillo de enfrente, con azulejos decorativos, es una escuela de arte: si está abierta, se puede entrar a ver una muestrita de artistas locales.\n\nSigan por la calle de los Reyes Católicos hasta el final: el gran complejo que la cierra es el monasterio de San Juan de los Reyes, la última parada del paseo.",
+       "en_start": 0,
+       "coord": [
+        39.8589,
+        -4.0222
+       ]
+      },
+      {
+       "n": 9,
+       "label": "8",
+       "v": 1,
+       "name": "San Juan de los Reyes y fin del paseo",
+       "text": "Este monasterio lo mandaron construir Isabel y Fernando como su lugar de descanso final: una declaración del dominio cristiano plantada sobre la que fue la última capital mora de España. La historia les torció el plan: terminaron enterrados en Granada, la ciudad que conquistaron en mil cuatrocientos noventa y dos. El interior y la capilla valen la pena, si quieren volver después.\n\nAl final de la calle, en la esquina de la iglesia, miren el exterior, que parece de castillo: de los muros cuelgan cadenas que, según se cuenta, los moros usaron para encadenar cristianos en Granada antes de la Reconquista. Los liberados las colgaron acá como ofrenda.\n\nEn el mirador junto a la iglesia hay una sorpresa moderna: la escultura Ascensión, del italiano Nino Longobardi, un Cristo resucitado que parece estar jugando al hula hula. La donó en dos mil veintitrés el coleccionista local Roberto Polo, y tiene su placa explicativa al lado.\n\nY acá termina el paseo. Cruzando la calle desde el monasterio hay una parada del bus doce, que da una vuelta escénica por fuera de las murallas y los devuelve a la Plaza de Zocodover sin una sola cuesta: el broche perfecto. Si prefieren seguir a pata, ya conocen el camino por las calles de atrás.\n\nEsperamos que lo hayan disfrutado. Fin del paseo.",
+       "en_start": 0,
+       "coord": [
+        39.8589,
+        -4.0222
+       ]
+      }
+     ]
+    },
+    {
+     "id": "toledo-catedral",
+     "title": "Catedral de Toledo (por dentro)",
+     "full_title": "Catedral de Toledo (por dentro)",
+     "coord": [
+      39.857,
+      -4.0239
+     ],
+     "maps": [],
+     "map_url": null,
+     "points": null,
+     "stops": [
+      {
+       "n": 1,
+       "label": "Intro",
+       "v": 1,
+       "name": "Introducción",
+       "text": "Este es el tour de Rick Steves por el interior de la Catedral de Toledo, actualizado con su guía de España de este año.\n\n\"¡Santo Toledo!\", como dice la expresión. La ciudad católica líder de España tiene una catedral a su altura. En este punto exacto se reza desde hace más de mil quinientos años: primero hubo una iglesita visigoda; hacia el año setecientos once los moros la demolieron y levantaron una gran mezquita; tras la reconquista de la ciudad, en mil ochenta y cinco, los cristianos usaron esa misma mezquita; y en mil doscientos veintiséis desmantelaron la estructura, ya ruinosa, y empezaron la catedral actual. Hay iglesias más grandes, más viejas y más ornamentadas, pero esta sigue siendo el corazón espiritual de España.\n\nAdentro los espera una decoración acumulada durante siglos: un retablo gótico de cinco pisos, frescos renacentistas, una claraboya barroca única en el mundo, una custodia dorada de tres metros y pinturas de nivel de museo, de El Greco entre otros. Encajonada en el casco viejo, por fuera es difícil de apreciar; por dentro, deja boquiabierto.\n\nEl recorrido es todo por el interior y es llano, sin subidas: vamos a ver la nave y el altar mayor, el coro, la sala capitular, el famoso Transparente, la sacristía con sus Grecos, la capilla de los Reyes Nuevos, y vamos a terminar en el claustro y el tesoro.\n\nCuando estén adentro, párense en medio de la nave central y pasen a la siguiente parada.",
+       "en_start": 0,
+       "coord": [
+        39.857,
+        -4.0239
+       ]
+      },
+      {
+       "n": 2,
+       "label": "1",
+       "v": 1,
+       "name": "La nave",
+       "text": "Miren esos pilares gruesos: un bosque de secuoyas de piedra. Están en el ejemplo más puro del gótico en España: techos entrecruzados, hierro forjado, tallas de madera y vitrales de quinientos años.\n\nEsta catedral tiene sus rarezas. La primera: es muy ancha para lo que mide de largo, unos sesenta metros de ancho por unos ciento veinte de largo. ¿Por qué? Porque sigue la huella de la mezquita que estuvo antes acá. De hecho, algunas columnas rojizas en el muro del coro podrían venir de aquella mezquita.\n\nLa segunda rareza: en lugar de las tres naves habituales, tiene cinco. En el medio, como una iglesia dentro de la iglesia, está el coro amurallado, que vamos a visitar enseguida. Y alrededor de todo el perímetro, capillas que las familias nobles de Toledo fueron comprando para enterrar a los suyos cerca de Dios.\n\nTómense un momento para sentir la escala del lugar. Después caminen hacia el fondo de la iglesia, hasta quedar frente al altar mayor, detrás de su gran reja. Esa es la próxima parada.",
+       "en_start": 0,
+       "coord": [
+        39.857,
+        -4.0239
+       ]
+      },
+      {
+       "n": 3,
+       "label": "2",
+       "v": 1,
+       "name": "El altar mayor",
+       "text": "Están frente a uno de los retablos más impresionantes de España: veinticinco metros de alto, gótico, y con oro de verdad sobre la madera, un kilo entero de pan de oro. Lo trabajaron veintisiete artistas flamencos, franceses y locales durante siete años.\n\nEl retablo se \"lee\" como un libro: la vida de Cristo, escena por escena. El nacimiento en el centro, la pasión a la izquierda, la resurrección a la derecha, y arriba de todo, la Asunción de María. Un truco de los artistas: el Cristo crucificado de arriba mide casi tres metros, bastante más que las estatuas de abajo. Es una ilusión para que el retablo gigante se sienta cercano.\n\nA la derecha del retablo hay una fila de estatuas de piedra de obispos y santos... y un musulmán. Es el \"Moro Sabio\", con su gorro cónico y su barba: el hombre que negoció la entrega pacífica de la mezquita a los cristianos en mil ochenta y cinco.\n\nA la izquierda, una tumba de dos pisos con forma de arco triunfal: el Cardenal Mendoza, de la época dorada de España, hacia el mil quinientos. Ayudó a Fernando e Isabel en Granada y promovió a Colón. La construcción gótica de la catedral llevó doscientos cincuenta años, de mil doscientos veintiséis a mil cuatrocientos noventa y tres; después, Mendoza arrancó la era renacentista. Por eso la decoración mezcla gótico, renacimiento, barroco y neoclásico.\n\nUn detalle más: la reja de hierro dorada que tienen delante está considerada la mejor de la España del siglo dieciséis.\n\nAhora dense vuelta y vayan al coro, ese recinto amurallado en el centro de la nave, justo enfrente del altar.",
+       "en_start": 0,
+       "coord": [
+        39.857,
+        -4.0239
+       ]
+      },
+      {
+       "n": 4,
+       "label": "3",
+       "v": 1,
+       "name": "El coro",
+       "text": "Al entrar los recibe una estatua de la Virgen y el Niño de setecientos años, la \"Virgen Blanca\", probablemente un regalo de Francia. Fíjense en la escena: María sonríe y Jesús, juguetón, le toca el mentón.\n\nEl coro tiene ciento veinte sitiales de madera tallada; hoy los usan unos treinta curas. Alrededor, en piedra, está la genealogía de Cristo tallada en alabastro: de Adán y Eva hasta la Virgen Madre. Comparen las figuras rígidas de la derecha con las de la izquierda, mucho más vivas: son de Alonso Berruguete, \"el Miguel Ángel de España\".\n\nEn el centro de la pared del fondo está el trono del arzobispo. Arriba, un relieve de alabastro cuenta el milagro fundacional de Toledo: en el siglo séptimo, María bajó del cielo a entregarle una casulla a San Ildefonso. Ese milagro legitimó a Toledo como capital espiritual, y política, de España.\n\nAhora, los sitiales. Las tallas de abajo narran la Reconquista: la conquista, pueblo por pueblo, del reino musulmán de Granada, con la victoria final en mil cuatrocientos noventa y dos. Son tan detalladas que los historiadores estudian en ellas la evolución del armamento. Los respaldos de nogal muestran figuras del Nuevo Testamento: Pedro con su llave, Pablo con su espada. Y las misericordias, esos asientitos para \"estar de pie\" descansando, esconden escenas folclóricas, pícaras y bien mundanas.\n\nLa reja del coro tiene su historia: el herrero toledano Domingo de Céspedes la hizo por seis mil ducados. Se fue de presupuesto, la Iglesia no aceptó sobrecostos, y él vendió todo lo suyo para terminarla. Murió pobre, pero honorable.\n\nAntes de salir, miren los dos órganos: el barroco recargado, a la izquierda, y el neoclásico austero y en punta, a la derecha.\n\nLa siguiente parada es la sala capitular, sobre el costado de la catedral.",
+       "en_start": 0,
+       "coord": [
+        39.857,
+        -4.0239
+       ]
+      },
+      {
+       "n": 5,
+       "label": "4",
+       "v": 1,
+       "name": "La sala capitular",
+       "text": "Esta era la sala de reuniones del cabildo, y está decorada para impresionar.\n\nEl fresco renacentista, de principios del mil quinientos, muestra la Deposición, la piedad, la Resurrección... y un Juicio Final fascinante. Busquen la fila de condenados que marcha al infierno: llevan deletreados los siete pecados capitales, uno por uno. Arrogancia, avaricia, lujuria, ira, gula, envidia y pereza.\n\nDebajo del fresco hay algo único: los retratos de mil novecientos años de arzobispos de Toledo. La fila superior es del siglo dieciséis, y las caras son recicladas, no pintadas del natural, salvo las dos últimas. En la fila inferior, en cambio, los retratos son reales: se fueron agregando de a uno desde mil quinientos quince. La serie sigue viva: el cardenal de Toledo actual es el máximo religioso de España.\n\nUn juego antes de irse: busquen los cupidos tallados en los paneles de madera de peral de las paredes, salvo que alguna renovación menor los tenga tapados.\n\nAhora vayan detrás del altar mayor, a la espalda del gran retablo. Ahí los espera la parada más original de la catedral.",
+       "en_start": 0,
+       "coord": [
+        39.857,
+        -4.0239
+       ]
+      },
+      {
+       "n": 6,
+       "label": "5",
+       "v": 1,
+       "name": "El Transparente",
+       "text": "Este retablo blanco, rojo y oro es único en el mundo. En el siglo dieciocho, a alguien se le ocurrió una idea audaz: cortar un agujero en el techo de la catedral, orientado al este. En la mañana del solsticio de verano, el sol entra por ahí y pega de lleno en el retablo.\n\nMiren hacia arriba: la luz natural baja por un túnel de ángeles pintados que, a medida que descienden, se van volviendo tridimensionales, en estuco. Pintura que se convierte en escultura. En el altar, una estatua de mármol de María con el Niño. Es una obra maestra del barroco, de unos trescientos años.\n\nY ahora un detalle curioso: fíjense en los sombreros colgando del borde del agujero. Ser cardenal tenía sus beneficios, y uno era elegir el propio lugar de entierro dentro de la catedral... y colgar el sombrero cardenalicio sobre ese punto exacto, hasta que se pudra. Varios siguen ahí arriba.\n\nLa próxima parada es la sacristía, en el extremo de la catedral. Prepárense, porque adentro hay un museo entero.",
+       "en_start": 0,
+       "coord": [
+        39.857,
+        -4.0239
+       ]
+      },
+      {
+       "n": 7,
+       "label": "6",
+       "v": 1,
+       "name": "La sacristía — El Greco y compañía",
+       "text": "Bienvenidos a un \"mini Prado\": diecinueve Grecos, más Goya, Tiziano, Velázquez, Caravaggio y Giovanni Bellini.\n\nPrimero, miren el techo, pintado por Luca Giordano hacia mil seiscientos noventa: otra vez María bajando del cielo a entregarle la casulla a San Ildefonso, el milagro de Toledo. El artista se autorretrató, con anteojos, en la esquina izquierda más lejana.\n\nY ahora, la pintura más importante: El Expolio, de El Greco, de mil quinientos setenta y nueve. Es su primera obra maestra después de llegar a Toledo, y cuelga exactamente donde él la pensó: esta era la sala donde los curas se vestían para la misa, y la escena muestra a Jesús siendo despojado de sus vestiduras. Jesús, sereno, está rodeado de una turba siniestra. Abajo a la izquierda, las mujeres miran al carpintero, abajo a la derecha, que agujerea la cruz. Y fíjense en la mano de Jesús: el anular y el mayor juntos, el gesto típico de El Greco.\n\nAlrededor hay más Grecos: sus santos flacos y solemnes, y una escena raramente pintada, San José con el Niño Jesús, con vistas de Toledo de fondo. Al lado, El Prendimiento de Cristo, de Goya, con el beso de Judas. En la sala contigua, el retrato del Papa Pablo tercero por Tiziano, y la cruz del Cardenal Mendoza: la primera cruz que entró a Granada después de ochocientos años de dominio musulmán. Y hay más salas, con Caravaggio y Rafael.\n\nCuando terminen el museo, la siguiente parada es la capilla de los Reyes Nuevos.",
+       "en_start": 0,
+       "coord": [
+        39.857,
+        -4.0239
+       ]
+      },
+      {
+       "n": 8,
+       "label": "7",
+       "v": 1,
+       "name": "La capilla de los Reyes Nuevos",
+       "text": "Acá descansan reyes. Las estatuas yacentes marcan las tumbas de los monarcas enterrados en esta capilla: ocho tumbas de reyes medievales que Carlos quinto mandó trasladar hasta acá en el siglo dieciséis.\n\nAntes de irse, métanse en el pasillito que va hacia el ábside. Ahí se exhibe el facsímil de una Biblia de ochocientos años, copiada a mano por monjes franceses. Fue un regalo de San Luis, el rey de Francia del siglo trece. Lo que ven es una réplica: el original, escrito sobre piel de cordero, no se exhibe.\n\nQueda la última parada, que son tres en una: el claustro, el tesoro y el rosetón, hacia el lado de la entrada norte de la catedral.",
+       "en_start": 0,
+       "coord": [
+        39.857,
+        -4.0239
+       ]
+      },
+      {
+       "n": 9,
+       "label": "8",
+       "v": 1,
+       "name": "Claustro, tesoro y rosetón",
+       "text": "Primero, miren en alto cerca de la entrada norte, por donde los fieles entran sin ticket: ese rosetón es el vitral más viejo de la iglesia, del siglo catorce.\n\nDespués, el claustro, con su columnata finamente tallada. A un costado está la capilla funeraria de San Blas: sobre la tumba de alabastro de un obispo hay un fresco pintado por un alumno de Giotto.\n\nY el gran final: el tesoro. La atracción es la custodia, esa torre de oro y plata de tres metros de alto y casi doscientos kilos que se pasea por las calles de Toledo cada Corpus Christi. La hizo Enrique de Arfe en mil quinientos diecisiete, y los números marean: más de doscientas cincuenta estatuillas, quinientas piezas unidas por doce mil quinientos tornillos, diamantes, esmeraldas, rubíes y unos ciento ochenta kilos de plata dorada. Y el corazón de la pieza es todavía más viejo, de un siglo antes: unos dieciocho kilos de oro macizo.\n\nCon eso termina el tour por la catedral de Toledo. Salgan cuando quieran, y afuera levanten la vista: la torre, desde la plaza, también se merece su momento.",
+       "en_start": 0,
+       "coord": [
+        39.857,
+        -4.0239
+       ]
+      }
+     ]
     }
    ]
   }
  },
- "built_at": "2026-11-13T20:32:16Z"
+ "built_at": "2026-11-13T20:57:15Z"
 }
