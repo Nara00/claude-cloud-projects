@@ -47,7 +47,12 @@ CITIES = {
                  "center": [37.3886, -5.9823], "zoom": 15,
                  "tours": ["sevilla-city-walk", "sev-catedral", "sev-alcazar", "sev-santa-cruz", "sev-triana"]},
     "madrid": {"name": "Madrid", "country": "España", "nominatim_city": "Madrid, España",
-                "center": [40.4168, -3.7038], "zoom": 15, "tours": ["madrid-city-walk"]},
+                "center": [40.4168, -3.7038], "zoom": 15,
+                # mad-reina-sofia y mad-gran-via: reincorporar cuando estén sus mp3 en webapp/audio/
+                "tours": ["madrid-city-walk", "mad-prado", "mad-palacio-real"]},
+    # Toledo: reincorporar cuando estén los mp3 de toledo-walk y toledo-catedral
+    # "toledo": {"name": "Toledo", "country": "España", "nominatim_city": "Toledo, España",
+    #            "center": [39.8581, -4.0263], "zoom": 15, "tours": ["toledo-walk", "toledo-catedral"]},
 }
 
 # URL del PDF del mapa oficial de Rick Steves para cada tour.
@@ -79,7 +84,8 @@ TOUR_MAPS = {
     "barcelona-city-walk": "https://www.ricksteves.com/watch-read-listen/audio/audio-tours/map-audiotours-barcelona-city-walk.pdf",
     "barcelona-eixample-walk": "https://www.ricksteves.com/watch-read-listen/audio/audio-tours/barcelona-eixample-walk-map-rick-steves.pdf",
     "bcn-montserrat": "https://drive.google.com/file/d/1Dk1UGd8g6KdlDIsW2OkihkV2wFTUeGNc/view",
-    "madrid-city-walk": "https://www.ricksteves.com/watch-read-listen/audio/audio-tours/map-audiotours-madrid-city-walk.pdf",
+    "madrid-city-walk": [("https://www.ricksteves.com/watch-read-listen/audio/audio-tours/map-audiotours-madrid-city-walk.pdf",
+                          "Mapa oficial de Rick (⚠️ numeración de la versión anterior; valen los números del mapa de calles)")],
     "sevilla-city-walk": "https://www.ricksteves.com/watch-read-listen/audio/audio-tours/sevilla-city-walk-map-rick-steves.pdf",
     "gra-casco-antiguo": ["https://drive.google.com/file/d/1oaGlPbROrAImcfJBKeDRmjiadJ0xPzIn/view"],
     "gra-alhambra": [("https://drive.google.com/file/d/19Fokj4wJ66D0jktAimMw6a37Ptd6mZYF/view", "Mapa del libro: todo el recinto (Google Drive, solo familia)"),
@@ -139,6 +145,12 @@ TOUR_COORDS = {
     "barcelona-city-walk": [41.3851, 2.1734],
     "barcelona-eixample-walk": [41.3917, 2.1649],
     "madrid-city-walk": [40.4168, -3.7038],
+    "mad-gran-via": [40.4183, -3.6966],  # Círculo de Bellas Artes
+    "mad-palacio-real": [40.4179, -3.7143],
+    "mad-prado": [40.4133, -3.6910],  # entrada Jerónimos
+    "mad-reina-sofia": [40.4081, -3.6946],
+    "toledo-walk": [39.8589, -4.0222],  # Plaza de Zocodover
+    "toledo-catedral": [39.8570, -4.0239],
     "sevilla-city-walk": [37.3886, -5.9823],
     "gra-casco-antiguo": [37.1747, -3.5977],
     "gra-alhambra": [37.1768, -3.5893],
@@ -264,25 +276,36 @@ TOUR_POINTS = {
         {"label": "19", "name": "Passeig de Gràcia hacia la Plaça de Catalunya (fin)", "coord": [41.3904, 2.1671], "stop": 19},
     ],
     "madrid-city-walk": [
-        {"label": "1-2", "name": "Puerta del Sol (estatua de Carlos III)", "coord": [40.4171, -3.7036], "stop": 1},
-        {"label": "3", "name": "Real Casa de Correos y Kilómetro Cero", "coord": [40.4167, -3.7037], "stop": 3},
-        {"label": "4", "name": "Confitería La Mallorquina", "coord": [40.4166, -3.7047], "stop": 4},
-        {"label": "5", "name": "Calle de Postas y Museo del Jamón", "coord": [40.4161, -3.7057], "stop": 5},
-        {"label": "6", "name": "Calle de Postas hacia la Plaza Mayor", "coord": [40.4158, -3.7064], "stop": 6},
-        {"label": "7-8", "name": "Plaza Mayor (estatua de Felipe III)", "coord": [40.4155, -3.7074], "stop": 7},
-        {"label": "9", "name": "Bar La Torre del Oro (Plaza Mayor 26)", "coord": [40.4159, -3.7078], "stop": 9},
-        {"label": "10", "name": "Mercado de San Miguel", "coord": [40.4153, -3.709], "stop": 10},
-        {"label": "11", "name": "Plaza del Conde de Miranda (convento del Corpus Christi)", "coord": [40.4148, -3.7098], "stop": 11},
-        {"label": "12", "name": "Plaza de la Villa y Casa de la Villa", "coord": [40.4154, -3.7103], "stop": 12},
-        {"label": "13", "name": "Calle Mayor (monumento del atentado de 1906)", "coord": [40.4154, -3.7121], "stop": 13},
-        {"label": "14", "name": "Catedral de la Almudena", "coord": [40.4157, -3.7145], "stop": 14},
-        {"label": "15", "name": "Palacio Real (Plaza de la Armería)", "coord": [40.4168, -3.7141], "stop": 15},
-        {"label": "16", "name": "Plaza de Oriente (estatua de Felipe IV)", "coord": [40.4183, -3.7122], "stop": 16},
-        {"label": "17", "name": "Teatro Real y Plaza de Isabel II", "coord": [40.4181, -3.7096], "stop": 17},
-        {"label": "18", "name": "Calle del Arenal e iglesia de San Ginés", "coord": [40.4176, -3.7078], "stop": 18},
-        {"label": "19", "name": "Chocolatería San Ginés", "coord": [40.4168, -3.7068], "stop": 19},
-        {"label": "20", "name": "Calle del Arenal, segunda parte", "coord": [40.4172, -3.7057], "stop": 20},
-        {"label": "21", "name": "Puerta del Sol: la Mariblanca (fin)", "coord": [40.4169, -3.7045], "stop": 21},
+        {"label": "1", "name": "Puerta del Sol", "coord": [40.4169, -3.7035], "stop": 2},
+        {"label": "2", "name": "Calle de Postas", "coord": [40.416, -3.706], "stop": 3},
+        {"label": "3", "name": "Plaza Mayor", "coord": [40.4155, -3.7074], "stop": 4},
+        {"label": "4", "name": "La Torre del Oro Bar Andalú (Plaza Mayor 26)", "coord": [40.4159, -3.7078], "stop": 5},
+        {"label": "5", "name": "Mesones de Cava de San Miguel y Mercado de San Miguel", "coord": [40.4153, -3.709], "stop": 6},
+        {"label": "6", "name": "Convento del Corpus Christi (dulces de monjas)", "coord": [40.4148, -3.7098], "stop": 7},
+        {"label": "7", "name": "Viejo Ayuntamiento (Plaza de la Villa)", "coord": [40.4154, -3.7103], "stop": 8},
+        {"label": "8", "name": "Memorial del atentado de mil novecientos seis (Calle Mayor)", "coord": [40.4154, -3.7121], "stop": 9},
+        {"label": "9", "name": "Catedral de la Almudena", "coord": [40.4157, -3.7145], "stop": 10},
+        {"label": "10", "name": "Palacio Real (Plaza de la Armería)", "coord": [40.4168, -3.7141], "stop": 11},
+        {"label": "11", "name": "Plaza de Oriente", "coord": [40.4183, -3.7122], "stop": 12},
+        {"label": "12", "name": "Plaza de Isabel II (Teatro Real)", "coord": [40.4181, -3.7096], "stop": 13},
+        {"label": "13", "name": "Calle del Arenal (San Ginés y chocolatería; fin en Sol)", "coord": [40.4176, -3.7078], "stop": 14},
+    ],
+    "mad-gran-via": [
+        {"label": "1", "name": "Círculo de Bellas Artes (Alcalá 42)", "coord": [40.4183, -3.6966], "stop": 2},
+        {"label": "2", "name": "Gran Vía de los años diez (tramo Alcalá a Red de San Luis, aprox.)", "coord": [40.4196, -3.699], "stop": 3},
+        {"label": "3", "name": "Años veinte: edificio Telefónica (aprox.)", "coord": [40.4203, -3.7015], "stop": 4},
+        {"label": "4", "name": "Años treinta: zona Callao (aprox.)", "coord": [40.4201, -3.7058], "stop": 5},
+        {"label": "5", "name": "Plaza de España (fin)", "coord": [40.4234, -3.7122], "stop": 6},
+    ],
+    "toledo-walk": [
+        {"label": "1", "name": "Plaza de Zocodover", "coord": [39.8589, -4.0222], "stop": 2},
+        {"label": "2", "name": "Calle del Comercio (aprox.)", "coord": [39.858, -4.0238], "stop": 3},
+        {"label": "3", "name": "Plaza del Ayuntamiento y catedral", "coord": [39.8568, -4.0247], "stop": 4},
+        {"label": "4", "name": "Calles de atrás, hacia Santo Tomé (aprox.)", "coord": [39.856, -4.026], "stop": 5},
+        {"label": "5", "name": "Santo Tomé (El entierro del conde de Orgaz)", "coord": [39.8572, -4.0277], "stop": 6},
+        {"label": "6", "name": "Judería y mirador del Tajo (aprox.)", "coord": [39.8556, -4.0283], "stop": 7},
+        {"label": "7", "name": "Sinagogas del Tránsito y Santa María la Blanca", "coord": [39.8561, -4.0295], "stop": 8},
+        {"label": "8", "name": "San Juan de los Reyes (fin; bus doce de vuelta)", "coord": [39.8585, -4.032], "stop": 9},
     ],
     "sevilla-city-walk": [
         {"label": "1-2", "name": "Plaza Virgen de los Reyes (fuente)", "coord": [37.3863, -5.9919], "stop": 1},
@@ -446,11 +469,67 @@ CITY_NOTES = {
             "Para volver al centro: caminar por la calle Betis hasta el puente de Triana y cruzarlo.",
         ]},
     ],
+    "madrid": [
+        {"title": "Paseo por Madrid (sáb 14, al atardecer si llegan con luz)", "items": [
+            "Loop llano y peatonal de ~1,6 km desde la Puerta del Sol, unas 2 horas a ritmo tranquilo. Únicos escalones: las escalinatas comunes de la Almudena (avisadas en el audio).",
+            "Puerta del Sol y multitudes: zona de carteristas — nada en el bolsillo trasero.",
+            "Mercado de San Miguel: diario 10:00-24:00. Dulces de las monjas (Corpus Christi, Calle del Codo 3): lun-sáb 9:30-13:00 y 16:30-18:30 — cerrado domingo; galletas ~€10 el medio kilo.",
+            "Catedral de la Almudena: donación de €1, entrada de turistas por Calle de Bailén.",
+            "El PDF oficial del mapa tiene la numeración vieja: valen los números del mapa de calles de la app.",
+        ]},
+        {"title": "Reina Sofía (domingo 15 — gratis 12:30-14:30)", "items": [
+            "El domingo el museo CIERRA 14:30: entrar 12:30 en punto. Es gratis pero hay que retirar ticket igual (o sacar online). Cerrado los martes.",
+            "El tour es todo en la planta 2 del edificio Sabatini, llano; se sube por los ascensores de vidrio de la entrada. Nada mecánico vetado.",
+            "No se puede fotografiar el Guernica.",
+            "Guardarropa gratis (lockers con moneda de €1). Entrada alternativa con menos fila: portones del edificio Nouvel.",
+        ]},
+        {"title": "Prado (martes 17 a la mañana)", "items": [
+            "Entrada €15 online (museodelprado.es, e-ticket QR). Vamos pagando a la mañana: la franja gratis (últimas 2 h) es la más llena.",
+            "El tour arranca en la entrada JERÓNIMOS (extremo norte, control de bolsos). Prohibido: fotos, comida, bebida, mochilas y paraguas grandes — guardarropa obligatorio.",
+            "Las obras se mueven y las salas del Greco rotan: preguntar a los guardias sin vergüenza.",
+            "Dos cambios de nivel por escaleras comunes (cartones de Goya arriba, Pinturas Negras abajo). Calcular 2-3 horas.",
+            "Combo Paseo del Arte €32,80 (Prado + Thyssen + Reina Sofía, vale 1 año): solo si se hacen los tres pagando.",
+        ]},
+        {"title": "Palacio Real (martes 17 a la tarde)", "items": [
+            "Entrada con horario (timed-entry) online en patrimonionacional.es. El libro dice €14 (€18 con cocina real); la web oficial mostraba €18 — vale lo que diga la web al comprar.",
+            "Oct-marzo cierra 18:00 y la última entrada es una hora antes: entrar 15:30-16:00. Puede cerrar por actos oficiales con poco aviso: confirmar ese día.",
+            "Declarado accesible: circuito llano de un solo sentido. La Gran Escalera es común, de escalones bajos. Casilleros gratis. Calcular 1,5 horas.",
+            "Audioguía oficial €5: no hace falta, está la nuestra.",
+        ]},
+        {"title": "Gran Vía (opcional, cuando sobre un rato)", "items": [
+            "Paseo llano de ~30-40 min por la vereda, de Alcalá 42 a Plaza de España (Metro Banco de España → Metro Plaza de España).",
+            "Azotea del Círculo de Bellas Artes: €5,50, se sube en ascensor común, diario 12:00-24:00.",
+        ]},
+    ],
+    "toledo": [
+        {"title": "Cómo subir al casco (IMPORTANTE: sin escaleras mecánicas)", "items": [
+            "Tren AVE desde Atocha ~30 min (~€14 por tramo). Comprar ida Y vuelta online con anticipación: se agotan. Último tren de vuelta 21:30. La estación de tren NO tiene consigna de equipaje.",
+            "De la estación a Plaza de Zocodover: taxi ~€5 (parada en la estación) o bus urbano #5, #61 o #62 (€1,40, se paga arriba; la parada queda a la derecha saliendo — confirmar \"¿para Zocodover?\").",
+            "NO usar las rutas a pie que sugieren los carteles: terminan en escaleras mecánicas. Tampoco los remontes del Miradero. El taxi/bus deja arriba sin nada mecánico.",
+            "No llegar antes de las 10:00 (todo abre a esa hora).",
+        ]},
+        {"title": "Paseo por Toledo", "items": [
+            "Primera mitad (Zocodover → catedral → Santo Tomé) ~1 h; barrio judío +30 min. Cuestas y empedrado COMUNES, a ritmo tranquilo y con calzado cómodo: apto para los cuatro.",
+            "Para no desandar cuestas al final: bus #12 desde Plaza del Conde (detrás de Santo Tomé) o desde San Juan de los Reyes, vuelve a Zocodover bordeando las murallas.",
+            "Baños públicos: en el Ayuntamiento y gratis en el parque frente al Museo del Greco. TI dentro del Ayuntamiento.",
+            "Santo Tomé (El entierro del conde de Orgaz): €4, diario 10:00-17:45 en temporada baja; suele haber fila.",
+            "Museo de Santa Cruz: GRATIS (lun-sáb 10:00-18:00, dom hasta 15:00) — prioridad de Rick junto con la catedral.",
+            "Pases: Toledo Pass y Toledo Card no convienen; la Pulsera Turística €14 solo si entran a 4+ sitios de €4.",
+            "Mazapán: Santo Tomé 3 (desde 1856), piezas ~€1; sucursal en Zocodover.",
+        ]},
+        {"title": "Catedral (por dentro)", "items": [
+            "Entrada €12 con guía multimedia incluida; tickets en la tienda de enfrente, Calle Cardenal Cisneros. Lun-sáb 10:00-18:30, dom desde 14:00.",
+            "Interior llano, nada mecánico. Baño más cercano: el Ayuntamiento, cruzando la plaza.",
+            "Capilla Mozárabe: solo en misa (lun-sáb 9:00) y CIERRAN LA PUERTA CON LLAVE una hora — decidir antes si se quedan.",
+        ]},
+    ],
 }
 
 # Pistas regeneradas: versión > 1 para que la app no use la copia vieja guardada en el celular.
 AUDIO_VERSIONS = {
     "siena-city-walk": {n: 2 for n in range(11, 21)},  # numeración del mapa oficial (nov. 2026)
+    # Madrid: Paseo por Madrid regenerado con la edición 2026 del libro (13/11/2026)
+    "madrid-city-walk": {n: 2 for n in range(1, 15)},
     # Andalucía: audios regenerados con la edición 2026 del libro (9/11/2026)
     **{t: {n: 3 for n in range(1, 21)} for t in ("gra-casco-antiguo", "gra-alhambra", "gra-albaicin", "ronda-tajo",
                                                   "setenil-bodegas", "sev-santa-cruz", "sev-triana",
@@ -485,6 +564,12 @@ TOUR_TITLES = {
     "barcelona-eixample-walk": "Paseo por el Eixample",
     "bcn-montserrat": "Montserrat (sábado)",
     "madrid-city-walk": "Paseo por Madrid",
+    "mad-prado": "Museo del Prado (por dentro)",
+    "mad-palacio-real": "Palacio Real (por dentro)",
+    "mad-reina-sofia": "Reina Sofía y el Guernica (por dentro)",
+    "mad-gran-via": "Paseo por la Gran Vía",
+    "toledo-walk": "Paseo por Toledo",
+    "toledo-catedral": "Catedral de Toledo (por dentro)",
     "sevilla-city-walk": "Paseo por Sevilla",
     "gra-casco-antiguo": "Casco antiguo de Granada",
     "gra-alhambra": "La Alhambra",
